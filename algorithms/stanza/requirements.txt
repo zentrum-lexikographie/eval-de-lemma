@@ -1,0 +1,6 @@
+stanza==1.2.*
+
+beautifulsoup4==4.9.3
+lxml==4.6.3
+scikit-learn==0.24.2
+conllu==4.4.1
