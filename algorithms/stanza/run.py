@@ -6,7 +6,6 @@ import time
 
 sys.path.append("../..")
 from src.loader import load_data
-from src.tagset import texttoken_to_index
 from src.metrics import compute_metrics, compute_metrics2
 DATASETSPATH="../../datasets"
 
