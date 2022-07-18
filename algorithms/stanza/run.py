@@ -6,7 +6,7 @@ import time
 
 sys.path.append("../..")
 from src.loader import load_data
-from src.metrics import compute_metrics, compute_metrics2
+from src.metrics import compute_metrics
 DATASETSPATH="../../datasets"
 
 import warnings
@@ -35,12 +35,11 @@ for x_test, y_test, TAGSET, dname, tname in load_data(DATASETSPATH):
         y_pred = list(itertools.chain(*y_pred))
         # (B.3) Compute metrics
         metrics = compute_metrics(y_test, y_pred)
-        metrics2 = compute_metrics2(y_test, y_pred, TAGSET)
         # Save results
         results.append({
             'dataset': dname, 'sample-size': len(y_test),
             'lemmatizer': 'stanza', 'metrics': metrics,
-            'metrics-labels': metrics2, 'elapsed': elapsed })
+            'elapsed': elapsed })
     except Exception as err:
         print(err)
 

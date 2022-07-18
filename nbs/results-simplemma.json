@@ -1,0 +1,78 @@
+[
+    {
+        "dataset": "ud-hdt",
+        "sample-size": 311587,
+        "lemmatizer": "simplemma",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 151291,
+                "recall": 0.7459135044384663,
+                "log-levenshtein": 0.4283670957957832
+            },
+            "ADJ": {
+                "number_of_lemmata": 25003,
+                "recall": 0.7411110666719993,
+                "log-levenshtein": 0.30177121829775966
+            },
+            "NOUN": {
+                "number_of_lemmata": 65612,
+                "recall": 0.6395781259525697,
+                "log-levenshtein": 0.7505405177880664
+            },
+            "ADV": {
+                "number_of_lemmata": 19005,
+                "recall": 0.8550907655880031,
+                "log-levenshtein": 0.10763711417531344
+            },
+            "VERB": {
+                "number_of_lemmata": 24125,
+                "recall": 0.803979274611399,
+                "log-levenshtein": 0.2163211329002642
+            },
+            "PROPN": {
+                "number_of_lemmata": 17546,
+                "recall": 0.9522968197879859,
+                "log-levenshtein": 0.04297534365217261
+            }
+        },
+        "elapsed": 0.46367430686950684
+    },
+    {
+        "dataset": "germanc",
+        "sample-size": 773421,
+        "lemmatizer": "simplemma",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 336030,
+                "recall": 0.8374103502663452,
+                "log-levenshtein": 0.17153225053887336
+            },
+            "ADJ": {
+                "number_of_lemmata": 56130,
+                "recall": 0.7343666488508819,
+                "log-levenshtein": 0.2815499065326172
+            },
+            "NOUN": {
+                "number_of_lemmata": 123753,
+                "recall": 0.853393453088006,
+                "log-levenshtein": 0.14615035148918049
+            },
+            "ADV": {
+                "number_of_lemmata": 56798,
+                "recall": 0.9433782879678861,
+                "log-levenshtein": 0.052789014351384445
+            },
+            "VERB": {
+                "number_of_lemmata": 80333,
+                "recall": 0.7961983244743754,
+                "log-levenshtein": 0.23382088454419667
+            },
+            "PROPN": {
+                "number_of_lemmata": 19016,
+                "recall": 0.8951409339503575,
+                "log-levenshtein": 0.1035022029804153
+            }
+        },
+        "elapsed": 1.8944134712219238
+    }
+]

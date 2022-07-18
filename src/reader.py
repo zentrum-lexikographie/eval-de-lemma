@@ -1,5 +1,22 @@
 # -*- coding: utf-8 -*-
 import conllu
+import os
+from typing import List
+
+pos_dict = {}
+#'stts_to_upos.txt'
+with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r', encoding='utf-8') as f:
+    file = f.readlines()
+    for line in file[1:]:
+        pos, rest = line.split('=>')
+        upos = rest.split('\t')[1]
+        pos_dict[pos.strip()] = upos.strip()
+
+
+def to_upos(xpos):
+    d = [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
+         for sent in xpos]
+    return d
 
 def read_conllu(FILE: str, lower_first: bool=False):
     """Convert File in conllu format to a (x,y)-Dataset
@@ -15,7 +32,7 @@ def read_conllu(FILE: str, lower_first: bool=False):
         All tokenized sequences with word tokens (x), lemmata (y) and PoS tags (z)
     """
     x, y, z = [], [], []
-    with open(FILE, 'r') as fp:
+    with open(FILE, 'r', encoding='utf-8') as fp:
         corpus = conllu.parse(fp.read())
     for sents in corpus:
         xtmp, ytmp, ztmp = [], [], []
@@ -25,7 +42,7 @@ def read_conllu(FILE: str, lower_first: bool=False):
                 ylem = tok['lemma']
                 if lower_first and sents.index(tok) == 0 \
                     and not tok['upos'] in {'NOUN', 'PROPN'}:
-                  ylem = tok['lemma'].lower()  # lower first lemma, needed for HDT corpus
+                        ylem = tok['lemma'].lower()  # lower first lemma, needed for HDT corpus
                 ytmp.append(ylem)
                 ztmp.append(tok['upos'])
         if (len(xtmp) >= 2) and (tok['xpos'] == '$.'):
@@ -61,7 +78,7 @@ def read_germanc(FILE: str, translit: bool=True):
                             y.append(ytmp)
                             z.append(ztmp)
                         xtmp, ytmp, ztmp = [], [], []
+        #print(type(z))
+    return x, y, to_upos(z)  # token, lemma, uPoS tag
 
-    return x, y, z  # token, lemma, PoS tag
 
-print(read_germanc(r"C:\Users\Lydia\Documents\EVIDENCE\GermanC\LING-COL\DRAM_P1_OOD_1682_LiebesSig.txt")[1])
