@@ -34,7 +34,7 @@ def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
     """average Levenshtein distance normalized by word length"""
     N = len(y_true)
     try:
-        lev = sum((edit_distance(y_true[i], y_pred[i])/len(i))
+        lev = sum((edit_distance(y_true[i], y_pred[i])/len(y_true[i]))
                  for i in range(N)) / N
         return lev
     except Exception as e:
@@ -46,6 +46,10 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     """
     res = {}
     res['number_of_lemmata'] = len(y_true)
+    try:
+        res['accuracy'] = accuracy_score(y_true, y_pred, normalize=True)
+    except Exception as e:
+        print("cannot compute 'accuracy': ", e)
     try:
         res['recall'] = recall_score(y_true, y_pred, average='micro', zero_division=0)
     except Exception as e:
@@ -70,6 +74,10 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z: List[str],
                                    p_entries.y_pred.tolist())
     return res
 
-y1 = ['das', 'der', 'die']
-y2 = ['das', 'der', 'der']
-print(log_levenshtein(y1, y2), levenshtein(y1, y2), levenshtein_wordlen(y1, y2))
+def demo():
+    y1 = ['das', 'der', 'die']
+    y2 = ['das', 'der', 'der']
+    print(log_levenshtein(y1, y2), levenshtein(y1, y2), levenshtein_wordlen(y1, y2))
+
+if __name__ == '__main__':
+    demo()
