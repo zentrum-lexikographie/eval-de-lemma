@@ -1,0 +1,134 @@
+[
+    {
+        "dataset": "ud-hdt",
+        "sample-size": 311587,
+        "lemmatizer": "baseline",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 151291,
+                "accuracy": 0.5548512469347152,
+                "recall": 0.5548512469347152,
+                "log-levenshtein": 0.6398686761052392
+            },
+            "PROPN": {
+                "number_of_lemmata": 17546,
+                "accuracy": 0.9993160834378206,
+                "recall": 0.9993160834378206,
+                "log-levenshtein": 0.0012309884051425123
+            },
+            "VERB": {
+                "number_of_lemmata": 24125,
+                "accuracy": 0.35933678756476684,
+                "recall": 0.35933678756476684,
+                "log-levenshtein": 0.7400252168548989
+            },
+            "NOUN": {
+                "number_of_lemmata": 65612,
+                "accuracy": 0.4699292812290435,
+                "recall": 0.4699292812290435,
+                "log-levenshtein": 0.9159299384453986
+            },
+            "ADJ": {
+                "number_of_lemmata": 25003,
+                "accuracy": 0.32768067831860176,
+                "recall": 0.32768067831860176,
+                "log-levenshtein": 0.7426923213683361
+            },
+            "ADV": {
+                "number_of_lemmata": 19005,
+                "accuracy": 0.9847408576690345,
+                "recall": 0.9847408576690345,
+                "log-levenshtein": 0.01400333412450681
+            }
+        },
+        "elapsed": 0.1849367618560791
+    },
+    {
+        "dataset": "ud-gsd",
+        "sample-size": 15229,
+        "lemmatizer": "baseline",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 7060,
+                "accuracy": 0.6262039660056657,
+                "recall": 0.6262039660056657,
+                "log-levenshtein": 0.3866894899385639
+            },
+            "PROPN": {
+                "number_of_lemmata": 932,
+                "accuracy": 0.8862660944206009,
+                "recall": 0.8862660944206009,
+                "log-levenshtein": 0.11674601950722462
+            },
+            "VERB": {
+                "number_of_lemmata": 1182,
+                "accuracy": 0.33248730964467005,
+                "recall": 0.33248730964467005,
+                "log-levenshtein": 0.7949363726549896
+            },
+            "NOUN": {
+                "number_of_lemmata": 2812,
+                "accuracy": 0.7059032716927454,
+                "recall": 0.7059032716927454,
+                "log-levenshtein": 0.281945537653136
+            },
+            "ADJ": {
+                "number_of_lemmata": 971,
+                "accuracy": 0.21936148300720906,
+                "recall": 0.21936148300720906,
+                "log-levenshtein": 0.7902182819414881
+            },
+            "ADV": {
+                "number_of_lemmata": 1163,
+                "accuracy": 0.8632846087704213,
+                "recall": 0.8632846087704213,
+                "log-levenshtein": 0.10444790426616128
+            }
+        },
+        "elapsed": 0.14712071418762207
+    },
+    {
+        "dataset": "germanc",
+        "sample-size": 773421,
+        "lemmatizer": "baseline",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 336030,
+                "accuracy": 0.66171472785168,
+                "recall": 0.66171472785168,
+                "log-levenshtein": 0.35224181058716725
+            },
+            "PROPN": {
+                "number_of_lemmata": 19016,
+                "accuracy": 0.9111800588977703,
+                "recall": 0.9111800588977703,
+                "log-levenshtein": 0.0925614685302752
+            },
+            "VERB": {
+                "number_of_lemmata": 80333,
+                "accuracy": 0.4718484309063523,
+                "recall": 0.4718484309063523,
+                "log-levenshtein": 0.6251942487198101
+            },
+            "NOUN": {
+                "number_of_lemmata": 123753,
+                "accuracy": 0.7333559590474574,
+                "recall": 0.7333559590474574,
+                "log-levenshtein": 0.24610529000770182
+            },
+            "ADJ": {
+                "number_of_lemmata": 56130,
+                "accuracy": 0.47842508462497774,
+                "recall": 0.47842508462497774,
+                "log-levenshtein": 0.5365037801936897
+            },
+            "ADV": {
+                "number_of_lemmata": 56798,
+                "accuracy": 0.8717736540019014,
+                "recall": 0.8717736540019014,
+                "log-levenshtein": 0.10228726376049364
+            }
+        },
+        "elapsed": 0.2781376838684082
+    }
+]

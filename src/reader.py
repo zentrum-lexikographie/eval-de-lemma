@@ -80,5 +80,3 @@ def read_germanc(FILE: str, translit: bool=True):
                         xtmp, ytmp, ztmp = [], [], []
         #print(type(z))
     return x, y, to_upos(z)  # token, lemma, uPoS tag
-
-
