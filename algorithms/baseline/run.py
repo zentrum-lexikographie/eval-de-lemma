@@ -16,13 +16,13 @@ warnings.filterwarnings("ignore")
 results = []
 for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
     try:
-        # (A.1 encode labels and flatten sequences
+        # (A.1) encode labels and flatten sequences
         y_test = list(itertools.chain(*y_test))
         z_test = list(itertools.chain(*z_test))
         # (A.2) predict labels
         t = time.time()
         # baseline lemmatization: lemma = token
-        y_pred = [[t for t in sent] for sent in x_test]
+        y_pred = x_test
         elapsed = time.time() - t
         y_pred = list(itertools.chain(*y_pred))
         # (A.3) Compute metrics

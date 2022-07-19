@@ -110,7 +110,3 @@ def read_archimob(FILE: str):
             z.append(ztmp)
         xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
-
-#p = r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\archimob\1007.xml"
-#print(read_archimob(p))
-#print(read_conllu(r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\ud-pud\de_pud-ud-test.conllu", EOS='.'))
