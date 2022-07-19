@@ -2,10 +2,14 @@
 import conllu
 import os
 from typing import List
+from bs4 import BeautifulSoup
 
+
+# initialize dict for stts to upos conversion
 pos_dict = {}
-#'stts_to_upos.txt'
-with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r', encoding='utf-8') as f:
+#
+with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
+          encoding='utf-8') as f:
     file = f.readlines()
     for line in file[1:]:
         pos, rest = line.split('=>')
@@ -13,12 +17,14 @@ with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r', encoding='utf-8')
         pos_dict[pos.strip()] = upos.strip()
 
 
-def to_upos(xpos):
+def to_upos(xpos: List[List[str]]) -> List[List[str]]:
+    """convert nested list of STTS tags to universal PoS tags"""
     d = [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
          for sent in xpos]
     return d
 
-def read_conllu(FILE: str, lower_first: bool=False):
+
+def read_conllu(FILE: str, lower_first: bool=False, EOS: str='$.'):
     """Convert File in conllu format to a (x,y)-Dataset
     Parameters:
     -----------
@@ -26,6 +32,8 @@ def read_conllu(FILE: str, lower_first: bool=False):
         The path to the data file
     lower_first : bool
         Transform the first lemma of a sentence to lower case (except from nouns)
+    EOS : str
+        End-of-sentence universal STTS tag, usually '$.', but in case of PUD '.'
     Returns:
     --------
     examples: List[List[str], List[str], List[str]]
@@ -45,7 +53,7 @@ def read_conllu(FILE: str, lower_first: bool=False):
                         ylem = tok['lemma'].lower()  # lower first lemma, needed for HDT corpus
                 ytmp.append(ylem)
                 ztmp.append(tok['upos'])
-        if (len(xtmp) >= 2) and (tok['xpos'] == '$.'):
+        if (len(xtmp) >= 2) and (tok['xpos'] == EOS):
             x.append(xtmp)
             y.append(ytmp)
             z.append(ztmp)
@@ -78,5 +86,31 @@ def read_germanc(FILE: str, translit: bool=True):
                             y.append(ytmp)
                             z.append(ztmp)
                         xtmp, ytmp, ztmp = [], [], []
-        #print(type(z))
     return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+
+def read_archimob(FILE: str):
+    # parse file
+    x, y, z = [], [], []
+    xtmp, ytmp, ztmp = [], [], []
+    with open(FILE, encoding='utf-8') as fp:
+        f = fp.read()
+    soup = BeautifulSoup(f, "lxml")
+    sents = soup.find_all('u')
+    for sent in sents:
+        tokens = sent.find_all('w')
+        for t in tokens:
+            xtmp.append(t.text)
+            ytmp.append(t['normalised'])
+            ztmp.append(t['tag'])
+        # minimum sequence length
+        if len(xtmp) >= 2:
+            x.append(xtmp)
+            y.append(ytmp)
+            z.append(ztmp)
+        xtmp, ytmp, ztmp = [], [], []
+    return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+#p = r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\archimob\1007.xml"
+#print(read_archimob(p))
+#print(read_conllu(r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\ud-pud\de_pud-ud-test.conllu", EOS='.'))

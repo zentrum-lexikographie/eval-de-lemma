@@ -4,15 +4,15 @@ import itertools
 import json
 import time
 
+sys.path.append("../..")
 from src.loader import load_data
 from src.metrics import metrics_by_pos
+# local path ../../../lemma-data
+DATASETSPATH = "../../datasets"
+
 import warnings
 warnings.filterwarnings("ignore")
 
-
-sys.path.append("../..")
-# local path ../../../lemma-data
-DATASETSPATH = "../../datasets"
 
 # (A) Run all benchmarks
 results = []
@@ -23,7 +23,8 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         z_test = list(itertools.chain(*z_test))
         # (A.2) predict labels
         t = time.time()
-        y_pred = [[simplemma.lemmatize(t, lang='de') for t in sent] for sent in x_test]
+        y_pred = [[simplemma.lemmatize(t, lang='de') for t in sent]
+                  for sent in x_test]
         elapsed = time.time() - t
         y_pred = list(itertools.chain(*y_pred))
         # (A.3) Compute metrics
