@@ -46,8 +46,12 @@ mv ${DATAFOLDER}/Archimob_Release_2/Archimob_Release_2/* ${DATAFOLDER}/archimob
 rm -r ${DATAFOLDER}/Archimob_Release_2
 rm ${DATAFOLDER}/Archimob_Release_2.zip
 
-# Referenzkorpus Frühneuhochdeutsch ReF
-wget -c https://zenodo.org/record/5793616/files/ReF-v1.0.2.tar.gz?download=1 -O ${DATAFOLDER}/ReF-v1.0.2.tar.gz
-tar –xvzf ReF-v1.0.2.tar.gz
-
 # NoSta-D
+wget -c https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/nosta-d/nosta-d-korpus-1.2 -O ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
+unzip -q ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip -d ${DATAFOLDER}
+mkdir ${DATAFOLDER}/nosta-d
+# only keep normalized files, exclude tueba-dz
+mv ${DATAFOLDER}/NoSta-D-Korpus-1.2/* ${DATAFOLDER}/nosta-d
+rm -r ${DATAFOLDER}/nosta-d/tuebadz
+rm -r ${DATAFOLDER}/NoSta-D-Korpus-1.2
+rm ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
