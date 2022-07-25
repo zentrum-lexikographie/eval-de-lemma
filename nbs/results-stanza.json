@@ -1,0 +1,40 @@
+[
+    {
+        "dataset": "ud-hdt",
+        "sample-size": 311587,
+        "lemmatizer": "stanza",
+        "metrics": {
+            "overall": {
+                "number_of_lemmata": 151291,
+                "recall": 0.7667805751829256,
+                "log-levenshtein": 0.40676917218436326
+            },
+            "ADJ": {
+                "number_of_lemmata": 25003,
+                "recall": 0.7313922329320481,
+                "log-levenshtein": 0.30316181930359803
+            },
+            "NOUN": {
+                "number_of_lemmata": 65612,
+                "recall": 0.628772175821496,
+                "log-levenshtein": 0.7668765038474021
+            },
+            "ADV": {
+                "number_of_lemmata": 19005,
+                "recall": 0.853880557747961,
+                "log-levenshtein": 0.10542797172444784
+            },
+            "VERB": {
+                "number_of_lemmata": 24125,
+                "recall": 0.9580103626943005,
+                "log-levenshtein": 0.052465489602823816
+            },
+            "PROPN": {
+                "number_of_lemmata": 17546,
+                "recall": 0.9760059272768722,
+                "log-levenshtein": 0.021364992088177905
+            }
+        },
+        "elapsed": 971.8776071071625
+    }
+]
