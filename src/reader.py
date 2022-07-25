@@ -24,7 +24,7 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
     return d
 
 
-def read_conllu(FILE: str, lower_first: bool=False, EOS: str='$.'):
+def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.'):
     """Convert File in conllu format to a (x,y)-Dataset
     Parameters:
     -----------
@@ -50,7 +50,8 @@ def read_conllu(FILE: str, lower_first: bool=False, EOS: str='$.'):
                 ylem = tok['lemma']
                 if lower_first and sents.index(tok) == 0 \
                     and not tok['upos'] in {'NOUN', 'PROPN'}:
-                        ylem = tok['lemma'].lower()  # lower first lemma, needed for HDT corpus
+                    # lower first lemma, needed for HDT corpus
+                    ylem = tok['lemma'].lower()
                 ytmp.append(ylem)
                 ztmp.append(tok['upos'])
         if (len(xtmp) >= 2) and (tok['xpos'] == EOS):
@@ -60,7 +61,7 @@ def read_conllu(FILE: str, lower_first: bool=False, EOS: str='$.'):
     return x, y, z
 
 
-def read_germanc(FILE: str, translit: bool=True):
+def read_germanc(FILE: str, translit: bool = True):
     # 1: original word, 2: transliteration
     if translit:
         colidx = 2
@@ -110,3 +111,32 @@ def read_archimob(FILE: str):
             z.append(ztmp)
         xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+
+def read_nostad(FILE: str):
+    # parse file
+    x, y, z = [], [], []
+    xtmp, ytmp, ztmp = [], [], []
+    with open(FILE, encoding='utf-8') as fp:
+        f = fp.read()
+    soup = BeautifulSoup(f, "lxml")
+    tokens = {t['id']: t.text for t in soup.find_all('ns3:token')}
+    lemmata = {t['tokenids']: t.text for t in soup.find_all('ns3:lemma')}
+    pos = {t['tokenids']: t.text for t in soup.find_all('ns3:tag')}
+    for ID in tokens.keys():
+        try:
+            ytmp.append(lemmata[ID])
+            xtmp.append(tokens[ID])
+            ztmp.append(pos[ID])
+        except Exception as e:
+            print(f'{e} not lemmatized')
+        if ztmp and ztmp[-1] == '$.' and len(xtmp) >= 2:  # EOS
+            x.append(xtmp)
+            y.append(ytmp)
+            z.append(ztmp)
+            xtmp, ytmp, ztmp = [], [], []
+    return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+
+#p = r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\nosta-d\unicum\unicum_norm.tcf"
+#read_nostad(p)

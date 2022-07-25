@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from .reader import read_germanc, read_conllu, read_archimob
+from .reader import read_germanc, read_conllu, read_archimob, read_nostad
 import os
 import glob
 
@@ -8,7 +8,7 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 5
+    n_datasets = 6
 
     for i in range(n_datasets):
 
@@ -49,7 +49,19 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "archimob"
 
+        elif i == 5:
+            x_test, y_test, z_test = [], [], []
+            for root, dirs, files in os.walk(f"{DATASETSPATH}/nosta-d/"):
+                for file in files:
+                    if not file.endswith('_norm.tcf'):
+                        continue  # include normalized files only
+                    filepath = os.path.join(root, file).replace("\\", "/")
+                    filepath = os.path.realpath(filepath)
+                    tmp = read_nostad(filepath)
+                    x_test = x_test + tmp[0]
+                    y_test = y_test + tmp[1]
+                    z_test = z_test + tmp[2]
+            dname = "nosta-d"
+
         print(dname)
         yield x_test, y_test, z_test, dname
-
-#print(load_data("../../../lemma-data"))
