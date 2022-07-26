@@ -3,12 +3,13 @@ import sys
 import itertools
 import json
 import time
+import tracemalloc
 
 sys.path.append("../..")
 from src.loader import load_data
 from src.metrics import metrics_by_pos
-#../../datasets
-DATASETSPATH="../../../lemma-data"
+
+DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -28,10 +29,13 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         y_test = list(itertools.chain(*y_test))
         z_test = list(itertools.chain(*z_test))
         # (B.2) predict labels
+        tracemalloc.start()
         t = time.time()
         docs = model(x_test)
         y_pred = [[t.lemma for t in sent.words] for sent in docs.sentences]
         elapsed = time.time() - t
+        current, peak = tracemalloc.get_traced_memory()
+        tracemalloc.stop()
         y_pred = list(itertools.chain(*y_pred))
         # (B.3) Compute metrics
         metrics = metrics_by_pos(y_test, y_pred, z_test)
@@ -39,7 +43,8 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         results.append({
             'dataset': dname, 'sample-size': len(y_test),
             'lemmatizer': 'stanza', 'metrics': metrics,
-            'elapsed': elapsed })
+            'elapsed': elapsed, 'memory_current': current,
+            'memory_peak': peak})
     except Exception as err:
         print(err)
 
