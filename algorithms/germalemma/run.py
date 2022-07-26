@@ -3,12 +3,13 @@ import itertools
 import json
 import time
 from germalemma import GermaLemma
+import tracemalloc
 
 sys.path.append("../..")
 from src.loader import load_data
 from src.metrics import metrics_by_pos
-#../../datasets
-DATASETSPATH="../../../lemma-data"
+
+DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -35,16 +36,20 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         y_test = list(itertools.chain(*y_test))
         z_test = list(itertools.chain(*z_test))
         # (A.2) predict labels
+        tracemalloc.start()
         t = time.time()
         y_pred = [lemmatize(x_test[i], z_test[i]) for i in range(len(x_test))]
         elapsed = time.time() - t
+        current, peak = tracemalloc.get_traced_memory()
+        tracemalloc.stop()
         # (A.3) Compute metrics
         metrics = metrics_by_pos(y_test, y_pred, z_test)
         # Save results
         results.append({
             'dataset': dname, 'sample-size': len(y_test),
             'lemmatizer': 'germalemma', 'metrics': metrics,
-            'elapsed': elapsed})
+            'elapsed': elapsed, 'memory_current': current,
+            'memory_peak': peak})
     except Exception as err:
         print(err)
 

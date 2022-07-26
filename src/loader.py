@@ -3,12 +3,13 @@ from .reader import read_germanc, read_conllu, read_archimob, read_nostad
 import os
 import glob
 
+
 def load_data(DATASETSPATH):
     # default output
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 6
+    n_datasets = 1
 
     for i in range(n_datasets):
 
