@@ -9,4 +9,4 @@ pip install --upgrade pip
 pip install -r "${SRCDIR}/requirements.txt"
 
 # download models
-python -m spacy download de_dep_news_trf-3.2.0 --direct
+python -m spacy download de_dep_news_trf-3.3.0 --direct

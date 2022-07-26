@@ -1,5 +1,4 @@
-spacy==3.2.*
-spacy-lookups-data==1.0.*
+spacy>=3.3,<4
 
 beautifulsoup4==4.9.3
 lxml==4.6.3
