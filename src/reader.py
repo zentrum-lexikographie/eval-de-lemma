@@ -124,7 +124,7 @@ def read_nostad(FILE: str):
     lemmata = {t['tokenids']: t.text for t in soup.find_all('ns3:lemma')}
     pos = {t['tokenids']: t.text for t in soup.find_all('ns3:tag')}
     for ID in tokens.keys():
-        try:
+        try:  # some tokens are not lemmatized
             ytmp.append(lemmata[ID])
             xtmp.append(tokens[ID])
             ztmp.append(pos[ID])
@@ -136,7 +136,3 @@ def read_nostad(FILE: str):
             z.append(ztmp)
             xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
-
-
-#p = r"C:\Users\Lydia\Documents\EVIDENCE\lemma-data\nosta-d\unicum\unicum_norm.tcf"
-#read_nostad(p)
