@@ -7,7 +7,6 @@ from bs4 import BeautifulSoup
 
 # initialize dict for stts to upos conversion
 pos_dict = {}
-#
 with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
           encoding='utf-8') as f:
     file = f.readlines()
