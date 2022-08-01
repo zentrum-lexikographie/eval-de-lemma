@@ -15,7 +15,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # (A) Instanciate SpaCy model
-nlp = spacy.load('de_core_news_sm')
+nlp = spacy.load('de_core_news_lg')
 
 # (B) Run all benchmarks
 results = []
