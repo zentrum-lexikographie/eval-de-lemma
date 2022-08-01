@@ -1,222 +1,102 @@
 [
     {
         "dataset": "ud-hdt",
-        "sample-size": 311587,
+        "sample-size": 321919,
         "lemmatizer": "trankit",
         "metrics": {
             "overall": {
                 "number_of_lemmata": 151291,
-                "accuracy": 0.7681884580047723,
-                "recall": 0.7681884580047723,
-                "log-levenshtein": 0.4114678046336525
-            },
-            "NOUN": {
-                "number_of_lemmata": 65612,
-                "accuracy": 0.6191397915015546,
-                "recall": 0.6191397915015546,
-                "log-levenshtein": 0.7772076408232931
-            },
-            "VERB": {
-                "number_of_lemmata": 24125,
-                "accuracy": 0.9209948186528497,
-                "recall": 0.9209948186528497,
-                "log-levenshtein": 0.09538163179598867
-            },
-            "ADV": {
-                "number_of_lemmata": 19005,
-                "accuracy": 0.9752696658774007,
-                "recall": 0.9752696658774007,
-                "log-levenshtein": 0.0217932790179428
-            },
-            "PROPN": {
-                "number_of_lemmata": 17546,
-                "accuracy": 0.938903453778639,
-                "recall": 0.938903453778639,
-                "log-levenshtein": 0.05871694917156206
+                "accuracy": 0.7681950677832786,
+                "recall": 0.7681950677832786,
+                "precision": 0.7681950677832786,
+                "f1": 0.7681950677832785,
+                "adj_recall": 0.3685434839987633,
+                "adj_precision": 0.3914199488215853,
+                "adj_f1": 0.3720861592300028,
+                "adj_accuracy": 0.754419337538168,
+                "log-levenshtein": 0.4114632230843167,
+                "log-levenshtein2": 0.4362214450351669,
+                "levenshtein": 1.4395568804489363,
+                "levenshtein-wordlen": 0.23083586275204096
             },
             "ADJ": {
                 "number_of_lemmata": 25003,
                 "accuracy": 0.7346718393792745,
                 "recall": 0.7346718393792745,
-                "log-levenshtein": 0.3004326351302457
-            }
-        },
-        "elapsed": 1445.7794148921967
-    },
-    {
-        "dataset": "ud-gsd",
-        "sample-size": 15229,
-        "lemmatizer": "trankit",
-        "metrics": {
-            "overall": {
-                "number_of_lemmata": 7060,
-                "accuracy": 0.9230878186968838,
-                "recall": 0.9230878186968838,
-                "log-levenshtein": 0.08463276228888382
-            },
-            "NOUN": {
-                "number_of_lemmata": 2812,
-                "accuracy": 0.922475106685633,
-                "recall": 0.922475106685633,
-                "log-levenshtein": 0.08327038455363306
-            },
-            "VERB": {
-                "number_of_lemmata": 1182,
-                "accuracy": 0.9204737732656514,
-                "recall": 0.9204737732656514,
-                "log-levenshtein": 0.10065530827810378
-            },
-            "ADV": {
-                "number_of_lemmata": 1163,
-                "accuracy": 0.9673258813413586,
-                "recall": 0.9673258813413586,
-                "log-levenshtein": 0.02872089315211702
+                "precision": 0.7346718393792745,
+                "f1": 0.7346718393792746,
+                "adj_recall": 0.36780236294332425,
+                "adj_precision": 0.3823662887639091,
+                "adj_f1": 0.3673575783015663,
+                "adj_accuracy": 0.5562969020223608,
+                "log-levenshtein": 0.3004326351302457,
+                "log-levenshtein2": 0.34125159130220123,
+                "levenshtein": 0.6384033915930089,
+                "levenshtein-wordlen": 0.09195185918537722
             },
             "PROPN": {
-                "number_of_lemmata": 932,
-                "accuracy": 0.9313304721030042,
-                "recall": 0.9313304721030042,
-                "log-levenshtein": 0.07725839332246652
-            },
-            "ADJ": {
-                "number_of_lemmata": 971,
-                "accuracy": 0.8671472708547889,
-                "recall": 0.8671472708547889,
-                "log-levenshtein": 0.14311965468335142
-            }
-        },
-        "elapsed": 77.23983860015869
-    },
-    {
-        "dataset": "ud-pud",
-        "sample-size": 21304,
-        "lemmatizer": "trankit",
-        "metrics": {
-            "overall": {
-                "number_of_lemmata": 9831,
-                "accuracy": 0.927372596887397,
-                "recall": 0.927372596887397,
-                "log-levenshtein": 0.07654284572512533
-            },
-            "NOUN": {
-                "number_of_lemmata": 4187,
-                "accuracy": 0.9171244327680917,
-                "recall": 0.9171244327680917,
-                "log-levenshtein": 0.08619204135850601
-            },
-            "VERB": {
-                "number_of_lemmata": 1944,
-                "accuracy": 0.9274691358024691,
-                "recall": 0.9274691358024691,
-                "log-levenshtein": 0.08505239710969047
+                "number_of_lemmata": 17546,
+                "accuracy": 0.9389604468254873,
+                "recall": 0.9389604468254873,
+                "precision": 0.9389604468254873,
+                "f1": 0.9389604468254873,
+                "adj_recall": 0.9023634250290585,
+                "adj_precision": 0.8981902430702122,
+                "adj_f1": 0.8996405259842948,
+                "adj_accuracy": 0.9406180569581902,
+                "log-levenshtein": 0.05867744460182765,
+                "log-levenshtein2": 0.06733477923027666,
+                "levenshtein": 0.10879972643337513,
+                "levenshtein-wordlen": 0.025113733375561494
             },
             "ADV": {
-                "number_of_lemmata": 1119,
-                "accuracy": 0.9857015192135835,
-                "recall": 0.9857015192135835,
-                "log-levenshtein": 0.014505090025657122
-            },
-            "PROPN": {
-                "number_of_lemmata": 1203,
-                "accuracy": 0.9584372402327515,
-                "recall": 0.9584372402327515,
-                "log-levenshtein": 0.03333192391537721
-            },
-            "ADJ": {
-                "number_of_lemmata": 1378,
-                "accuracy": 0.8838896952104499,
-                "recall": 0.8838896952104499,
-                "log-levenshtein": 0.1233202314698821
-            }
-        },
-        "elapsed": 82.10736608505249
-    },
-    {
-        "dataset": "germanc",
-        "sample-size": 773421,
-        "lemmatizer": "trankit",
-        "metrics": {
-            "overall": {
-                "number_of_lemmata": 336030,
-                "accuracy": 0.8287652888134988,
-                "recall": 0.8287652888134988,
-                "log-levenshtein": 0.18328240348057231
+                "number_of_lemmata": 19005,
+                "accuracy": 0.9752696658774007,
+                "recall": 0.9752696658774007,
+                "precision": 0.9752696658774007,
+                "f1": 0.9752696658774007,
+                "adj_recall": 0.7331898059303827,
+                "adj_precision": 0.7515598915759365,
+                "adj_f1": 0.7379245679099323,
+                "adj_accuracy": 0.8499665544911047,
+                "log-levenshtein": 0.0217932790179428,
+                "log-levenshtein2": 0.028631966695422808,
+                "levenshtein": 0.038937121810049984,
+                "levenshtein-wordlen": 0.010996858403600361
             },
             "NOUN": {
-                "number_of_lemmata": 123753,
-                "accuracy": 0.8397291378794858,
-                "recall": 0.8397291378794858,
-                "log-levenshtein": 0.1685792952721481
+                "number_of_lemmata": 65612,
+                "accuracy": 0.6191397915015546,
+                "recall": 0.6191397915015546,
+                "precision": 0.6191397915015546,
+                "f1": 0.6191397915015546,
+                "adj_recall": 0.1932059509272981,
+                "adj_precision": 0.2238837328073954,
+                "adj_f1": 0.200373554015887,
+                "adj_accuracy": 0.6640634539201055,
+                "log-levenshtein": 0.7772076408232931,
+                "log-levenshtein2": 0.8098454867916065,
+                "levenshtein": 2.9537584588185086,
+                "levenshtein-wordlen": 0.4682703281248041
             },
             "VERB": {
-                "number_of_lemmata": 80333,
-                "accuracy": 0.809517881816937,
-                "recall": 0.809517881816937,
-                "log-levenshtein": 0.2151955848366219
-            },
-            "ADV": {
-                "number_of_lemmata": 56798,
-                "accuracy": 0.9156308320715518,
-                "recall": 0.9156308320715518,
-                "log-levenshtein": 0.08230063037938239
-            },
-            "PROPN": {
-                "number_of_lemmata": 19016,
-                "accuracy": 0.8947202355910812,
-                "recall": 0.8947202355910812,
-                "log-levenshtein": 0.10790242836210875
-            },
-            "ADJ": {
-                "number_of_lemmata": 56130,
-                "accuracy": 0.721895599501158,
-                "recall": 0.721895599501158,
-                "log-levenshtein": 0.2977463355619953
+                "number_of_lemmata": 24125,
+                "accuracy": 0.9209948186528497,
+                "recall": 0.9209948186528497,
+                "precision": 0.9209948186528497,
+                "f1": 0.9209948186528497,
+                "adj_recall": 0.5841516562139131,
+                "adj_precision": 0.624995864764279,
+                "adj_f1": 0.5976849605447518,
+                "adj_accuracy": 0.8290208360237916,
+                "log-levenshtein": 0.09538163179598867,
+                "log-levenshtein2": 0.10789125225711685,
+                "levenshtein": 0.2229637305699482,
+                "levenshtein-wordlen": 0.05183513151144965
             }
         },
-        "elapsed": 2353.103241443634
-    },
-    {
-        "dataset": "archimob",
-        "sample-size": 576271,
-        "lemmatizer": "trankit",
-        "metrics": {
-            "overall": {
-                "number_of_lemmata": 259637,
-                "accuracy": 0.13250807858664213,
-                "recall": 0.13250807858664213,
-                "log-levenshtein": 1.0701498280199115
-            },
-            "NOUN": {
-                "number_of_lemmata": 68654,
-                "accuracy": 0.10806362338683835,
-                "recall": 0.10806362338683835,
-                "log-levenshtein": 1.1307220972851473
-            },
-            "VERB": {
-                "number_of_lemmata": 60536,
-                "accuracy": 0.041595083917008065,
-                "recall": 0.041595083917008065,
-                "log-levenshtein": 1.3685550135903135
-            },
-            "ADV": {
-                "number_of_lemmata": 97321,
-                "accuracy": 0.2055054921342773,
-                "recall": 0.2055054921342773,
-                "log-levenshtein": 0.853633350569748
-            },
-            "PROPN": {
-                "number_of_lemmata": 8237,
-                "accuracy": 0.1967949496175792,
-                "recall": 0.1967949496175792,
-                "log-levenshtein": 0.9202588211659087
-            },
-            "ADJ": {
-                "number_of_lemmata": 24889,
-                "accuracy": 0.11434770380489373,
-                "recall": 0.11434770380489373,
-                "log-levenshtein": 1.0735034154192278
-            }
-        },
-        "elapsed": 2101.5339856147766
+        "elapsed": 91.70861625671387,
+        "memory_current": 91802485,
+        "memory_peak": 375387989
     }
 ]
