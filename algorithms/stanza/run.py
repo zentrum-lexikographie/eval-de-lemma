@@ -17,7 +17,7 @@ warnings.filterwarnings("ignore")
 
 # (A) Load stanza model
 model = stanza.Pipeline(
-    lang='de', processors='tokenize,mwt,pos,lemma',
+    lang='de', processors='tokenize,pos,lemma',
     tokenize_pretokenized=True)
 
 
