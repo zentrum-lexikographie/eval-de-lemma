@@ -28,10 +28,13 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         # (B.2) predict labels
         tracemalloc.start()
         t = time.time()
-        lemmatizer = model.pipeline[3][1]
-        docs = [lemmatizer(spacy.tokens.doc.Doc(model.vocab, words=sequence))
+        y_pred = []
+        docs = [spacy.tokens.doc.Doc(model.vocab, words=sequence)
                 for sequence in x_test]
-        y_pred = [[w.lemma_ for w in doc] for doc in docs]
+        for doc in docs:
+            for name, proc in model.pipeline:
+                proc(doc)
+            y_pred.append([w.lemma_ for w in doc])
         elapsed = time.time() - t
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
