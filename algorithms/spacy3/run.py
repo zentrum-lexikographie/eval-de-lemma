@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 
 # (A) Instanciate SpaCy model
 model = spacy.load('de_dep_news_trf')
-model.disable_pipes(["ner", "parser"])
+model.disable_pipes(["parser"])
 
 # (B) Run all benchmarks
 results = []
