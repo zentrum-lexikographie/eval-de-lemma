@@ -32,6 +32,7 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
         y_pred = list(itertools.chain(*y_pred))
+        print(len(y_test), len(y_pred), len(z_test))
         # (B.3) Compute metrics
         metrics = metrics_by_pos(y_test, y_pred, z_test)
         # Save results
