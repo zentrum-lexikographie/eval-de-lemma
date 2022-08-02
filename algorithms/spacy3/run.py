@@ -28,8 +28,8 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         # (B.2) predict labels
         tracemalloc.start()
         t = time.time()
-        tagger = model.pipeline[0][1]
-        docs = [tagger(spacy.tokens.doc.Doc(model.vocab, words=sequence))
+        lemmatizer = model.pipeline[4][1]
+        docs = [lemmatizer(spacy.tokens.doc.Doc(model.vocab, words=sequence))
                 for sequence in x_test]
         y_pred = [[w.lemma_ for w in doc] for doc in docs]
         elapsed = time.time() - t
