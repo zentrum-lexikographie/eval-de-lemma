@@ -98,6 +98,7 @@ def read_archimob(FILE: str):
         f = fp.read()
     soup = BeautifulSoup(f, "lxml")
     sents = soup.find_all('u')
+    print(f'number of sentences: {len(sents)}')
     for sent in sents:
         tokens = sent.find_all('w')
         for t in tokens:
