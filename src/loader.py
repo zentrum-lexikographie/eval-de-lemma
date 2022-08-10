@@ -9,11 +9,11 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 6
+    n_datasets = 1
 
     for i in range(n_datasets):
 
-        if i == 0:
+        if i == 10:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE, lower_first=True)
             dname = "ud-hdt"
@@ -39,7 +39,7 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "germanc"
 
-        elif i == 4:
+        elif i == 0:
             x_test, y_test, z_test = [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/archimob/*.xml"))
