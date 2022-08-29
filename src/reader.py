@@ -98,7 +98,6 @@ def read_archimob(FILE: str):
         f = fp.read()
     soup = BeautifulSoup(f, "lxml")
     sents = soup.find_all('u')
-    print(f'number of sentences: {len(sents)}')
     for sent in sents:
         tokens = sent.find_all('w')
         for t in tokens:
@@ -137,3 +136,19 @@ def read_nostad(FILE: str):
             z.append(ztmp)
             xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+def read_txt(FILE: str):
+    # annotation oriented at PUD corpus
+    x, y, z = [], [], []
+    xtmp, ytmp, ztmp = [], [], []
+    with open(FILE, encoding='utf-8') as fp:
+        sents = fp.read().split('\n\n')
+    for sent in sents:
+        tokens, lemmata, tags = sent.split('\n')
+        tokens = tokens.split(' ')
+        lemmata = lemmata.split(' ')
+        tags = tags.split(' ')
+        x.append(tokens)
+        y.append(lemmata)
+        z.append(tags)
+    return x, y, z  # token, lemma, uPoS tag
