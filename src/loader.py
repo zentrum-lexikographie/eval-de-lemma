@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from .reader import read_germanc, read_conllu, read_archimob, read_nostad
+from .reader import read_germanc, read_conllu, read_archimob, read_nostad, read_txt
 import os
 import glob
 
@@ -9,11 +9,11 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
+    n_datasets = 6
 
     for i in range(n_datasets):
 
-        if i == 10:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE, lower_first=True)
             dname = "ud-hdt"
@@ -39,7 +39,7 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "germanc"
 
-        elif i == 0:
+        elif i == 4:
             x_test, y_test, z_test = [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/archimob/*.xml"))
@@ -63,6 +63,11 @@ def load_data(DATASETSPATH):
                     y_test = y_test + tmp[1]
                     z_test = z_test + tmp[2]
             dname = "nosta-d"
+
+        elif i == 6:
+            FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
+            x_test, y_test, z_test = read_txt(FILE)
+            dname = "own-corpus"
 
         print(dname)
         yield x_test, y_test, z_test, dname
