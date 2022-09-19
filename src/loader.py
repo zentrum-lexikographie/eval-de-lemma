@@ -5,6 +5,27 @@ import glob
 
 
 def load_data(DATASETSPATH):
+    """
+    Reads all tokens, gold lemmata and PoS-tags from a dataset.
+
+    Parameters
+    ----------
+    DATASETSPATH : str
+        Path to a dataset.
+
+    Yields
+    ------
+    List[List[str], List[str], List[str]]
+    x_test : List[str]
+        List of tokens.
+    y_test : List[str]
+        List of lemmata.
+    z_test : List[str]
+        List of PoS-tags.
+    dname : str
+        Dataset name.
+
+    """
     # default output
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
