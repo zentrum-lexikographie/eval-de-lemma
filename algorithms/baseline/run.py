@@ -16,8 +16,6 @@ warnings.filterwarnings("ignore")
 
 # (A) Run all benchmarks
 results = []
-# store different lemmatizations
-df = pd.DataFrame(columns=['corpus', 'token', 'pos', 'lemma_gold', 'lemma_pred'])
 
 for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
     try:
@@ -34,10 +32,12 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         tracemalloc.stop()
         y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
-        # output incorrect lemmatizations
+        # store and output different lemmatizations
+        df = pd.DataFrame(columns=['token', 'lemma_gold', 'lemma_pred'])
         for i in range(len(y_test)):
             if y_test[i] != y_pred[i]:
-                df.loc[i] = [dname, x_test[i], z_test[i], y_test[i], y_pred[i]]
+                df.loc[i] = [x_test[i], y_test[i], y_pred[i]]
+        df.to_csv(f"../../nbs/lemmata-baseline-{dname}.csv")
         # (A.3) Compute metrics
         metrics = metrics_by_pos(y_test, y_pred, z_test)
         # Save results
@@ -53,5 +53,3 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
 # store results
 with open("../../nbs/results-baseline.json", "w") as fp:
     json.dump(results, fp, indent=4)
-# output mis-lemmatizations
-df.to_csv("../../nbs/lemmata-baseline.csv")
