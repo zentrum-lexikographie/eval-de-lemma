@@ -45,7 +45,6 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         elapsed = time.time() - t
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
-        x_test = list(itertools.chain(*x_test))
         # store and output different lemmatizations
         df = pd.DataFrame(columns=['token', 'lemma_gold', 'lemma_pred'])
         for i in range(len(y_test)):
