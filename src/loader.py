@@ -32,6 +32,10 @@ def load_data(DATASETSPATH):
     # number of datasets
     n_datasets = 1
 
+    # check if TUEBA-DZ has been downloaded
+    if os.path.isfile(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll"):
+        n_datasets += 1
+
     for i in range(n_datasets):
 
         if i == 0:
@@ -89,6 +93,13 @@ def load_data(DATASETSPATH):
             FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
             x_test, y_test, z_test = read_txt(FILE)
             dname = "own-corpus"
+
+        elif i == 7:
+            try:
+                FILE = os.path.realpath(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll")
+                x_test, y_test, z_test = read_conllu(FILE)
+            except Exception as e:
+                print(e)
 
         print(dname)
         yield x_test, y_test, z_test, dname
