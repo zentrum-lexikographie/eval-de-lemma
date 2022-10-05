@@ -5,11 +5,36 @@ import glob
 
 
 def load_data(DATASETSPATH):
+    """
+    Reads all tokens, gold lemmata and PoS-tags from a dataset.
+
+    Parameters
+    ----------
+    DATASETSPATH : str
+        Path to a dataset.
+
+    Yields
+    ------
+    List[List[str], List[str], List[str]]
+    x_test : List[str]
+        List of tokens.
+    y_test : List[str]
+        List of lemmata.
+    z_test : List[str]
+        List of PoS-tags.
+    dname : str
+        Dataset name.
+
+    """
     # default output
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 6
+    n_datasets = 1
+
+    # check if TUEBA-DZ has been downloaded
+    if os.path.isfile(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll"):
+        n_datasets += 1
 
     for i in range(n_datasets):
 
@@ -68,6 +93,13 @@ def load_data(DATASETSPATH):
             FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
             x_test, y_test, z_test = read_txt(FILE)
             dname = "own-corpus"
+
+        elif i == 7:
+            try:
+                FILE = os.path.realpath(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll")
+                x_test, y_test, z_test = read_conllu(FILE)
+            except Exception as e:
+                print(e)
 
         print(dname)
         yield x_test, y_test, z_test, dname
