@@ -2,7 +2,6 @@ import stanza
 import sys
 import itertools
 import json
-import pandas as pd
 import time
 import tracemalloc
 
@@ -40,12 +39,16 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         tracemalloc.stop()
         y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
-        # store and output different lemmatizations
-        df = pd.DataFrame(columns=['token', 'lemma_gold', 'lemma_pred'])
-        for i in range(len(y_test)):
+        # store and output different lemmatizations of first 5000 tokens
+        df = []
+        j = 5000
+        if len(y_test) < j:
+            j = len(y_test)
+        for i in range(j):
             if y_test[i] != y_pred[i]:
-                df.loc[i] = [x_test[i], y_test[i], y_pred[i]]
-        df.to_csv(f"../../nbs/lemmata-stanza-{dname}.csv")
+                df.append([x_test[i], y_test[i], y_pred[i]])
+        with open(f"../../nbs/lemmata-stanza-{dname}.json", "w") as fp:
+            json.dump(df, fp, indent=4, ensure_ascii=False)
         # (B.3) Compute metrics
         metrics = metrics_by_pos(y_test, y_pred, z_test)
         # Save results
