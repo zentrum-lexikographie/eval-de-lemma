@@ -7,8 +7,7 @@ from src.loader import load_data
 from src.run import run_algorithm
 
 
-DATASETSPATH = "../../../lemma-data"
-#DATASETSPATH = "../../datasets"
+DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")

@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 from sklearn.metrics import (
     recall_score, precision_score, f1_score,
-    accuracy_score, balanced_accuracy_score,
-    cohen_kappa_score)
+    accuracy_score, balanced_accuracy_score)
 from typing import List, Set
 import numpy as np
 import pandas as pd
@@ -27,7 +26,7 @@ def levenshtein(y_true: List[str], y_pred: List[str]) -> float:
     N = len(y_true)
     try:
         lev = sum((edit_distance(y_true[i], y_pred[i]))
-                 for i in range(N)) / N
+                  for i in range(N)) / N
         return lev
     except Exception as e:
         print("cannot compute 'levenshtein': ", e)
@@ -38,7 +37,7 @@ def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
     N = len(y_true)
     try:
         lev = sum((edit_distance(y_true[i], y_pred[i])/len(y_true[i]))
-                 for i in range(N)) / N
+                  for i in range(N)) / N
         return lev
     except Exception as e:
         print("cannot compute 'levenshtein-normalized': ", e)
@@ -113,11 +112,11 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z: List[str],
     data_content = data[data['PoS'].isin(POS)]  # content words only
     # ignore POS tags other than content words for overall metrics
     res['overall'] = compute_metrics(data_content.y_true.tolist(),
-                               data_content.y_pred.tolist())  # overall metrics
+                                     data_content.y_pred.tolist())
     for p in POS:  # metrics per PoS tag
         p_entries = data_content[data_content['PoS'] == p]
         res[p] = compute_metrics(p_entries.y_true.tolist(),
-                                   p_entries.y_pred.tolist())
+                                 p_entries.y_pred.tolist())
     return res
 
 
