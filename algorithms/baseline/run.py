@@ -1,54 +1,28 @@
 import sys
-import itertools
 import json
-import time
-import tracemalloc
 
 sys.path.append("../..")
 from src.loader import load_data
-from src.metrics import metrics_by_pos
-#DATASETSPATH = "../../../lemma-data"
-DATASETSPATH = "../../datasets"
+from src.run import run_algorithm
+DATASETSPATH = "../../../lemma-data"
+#DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")
+
+
+def predict(x_test, y_test, z_test):
+    # baseline lemmatization: lemma = token
+    return x_test
+
 
 # (A) Run all benchmarks
 results = []
 
 for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
     try:
-        # (A.1) encode labels and flatten sequences
-        y_test = list(itertools.chain(*y_test))
-        z_test = list(itertools.chain(*z_test))
-        # (A.2) predict labels
-        tracemalloc.start()
-        t = time.time()
-        # baseline lemmatization: lemma = token
-        y_pred = x_test
-        elapsed = time.time() - t
-        current, peak = tracemalloc.get_traced_memory()
-        tracemalloc.stop()
-        y_pred = list(itertools.chain(*y_pred))
-        x_test = list(itertools.chain(*x_test))
-        # store and output different lemmatizations of first 5000 tokens
-        df = []
-        j = 5000
-        if len(y_test) < j:
-            j = len(y_test)
-        for i in range(j):
-            if y_test[i] != y_pred[i]:
-                df.append([x_test[i], y_test[i], y_pred[i]])
-        with open(f"../../nbs/lemmata-baseline-{dname}.json", "w") as fp:
-            json.dump(df, fp, indent=4, ensure_ascii=False)
-        # (A.3) Compute metrics
-        metrics = metrics_by_pos(y_test, y_pred, z_test)
-        # Save results
-        results.append({
-            'dataset': dname, 'sample-size': len(y_test),
-            'lemmatizer': 'baseline', 'metrics': metrics,
-            'elapsed': elapsed, 'memory_current': current,
-            'memory_peak': peak})
+        results.append(run_algorithm(predict, x_test, y_test, z_test, dname,
+                                     'baseline'))
     except Exception as err:
         print(err)
 

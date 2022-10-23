@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-from .reader import read_germanc, read_conllu, read_archimob, read_nostad, read_txt
+from .reader import (read_germanc, read_conllu, read_archimob, read_nostad,
+                     read_txt)
 import os
 import glob
 
