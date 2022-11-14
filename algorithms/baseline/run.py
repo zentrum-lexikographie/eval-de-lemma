@@ -1,12 +1,22 @@
-import sys
 import json
+import logging
+import sys
 
 sys.path.append("../..")
 from src.loader import load_data
 from src.run import run_algorithm
 
-#DATASETSPATH = "../../../lemma-data"
-DATASETSPATH = "../../datasets"
+# logging settings
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename="../../logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    datefmt="%y-%m-%d %H:%M:%S"
+)
+
+DATASETSPATH = "../../../lemma-data"
+#DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -25,7 +35,7 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         results.append(run_algorithm(predict, x_test, y_test, z_test, dname,
                                      'baseline'))
     except Exception as err:
-        print(err)
+        logger.error(err)
 
 
 # store results

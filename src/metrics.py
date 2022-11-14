@@ -3,9 +3,19 @@ from sklearn.metrics import (
     recall_score, precision_score, f1_score,
     accuracy_score, balanced_accuracy_score)
 from typing import List, Set
+import logging
 import numpy as np
 import pandas as pd
 from nltk.metrics import edit_distance
+
+# logging settings
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename="../logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    datefmt="%y-%m-%d %H:%M:%S"
+)
 
 
 def log_levenshtein(y_true: List[str], y_pred: List[str], sub: int = 1) -> float:
@@ -18,7 +28,7 @@ def log_levenshtein(y_true: List[str], y_pred: List[str], sub: int = 1) -> float
                      for i in range(N)) / N
         return loglev
     except Exception as e:
-        print("cannot compute 'log-levenshtein': ", e)
+        logger.error(e)
 
 
 def levenshtein(y_true: List[str], y_pred: List[str]) -> float:
@@ -29,7 +39,7 @@ def levenshtein(y_true: List[str], y_pred: List[str]) -> float:
                   for i in range(N)) / N
         return lev
     except Exception as e:
-        print("cannot compute 'levenshtein': ", e)
+        logger.error(e)
 
 
 def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
@@ -40,7 +50,7 @@ def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
                   for i in range(N)) / N
         return lev
     except Exception as e:
-        print("cannot compute 'levenshtein-normalized': ", e)
+        logger.error(e)
 
 
 def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
@@ -53,48 +63,48 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     try:
         res['accuracy'] = accuracy_score(y_true, y_pred, normalize=True)
     except Exception as e:
-        print("cannot compute 'accuracy': ", e)
+        logger.error(e)
 
     try:
         res['recall'] = recall_score(y_true, y_pred, average='micro',
                                      zero_division=0)
     except Exception as e:
-        print("cannot compute 'recall': ", e)
+        logger.error(e)
 
     try:
         res['precision'] = precision_score(y_true, y_pred, average='micro',
                                            zero_division=0)
     except Exception as e:
-        print("cannot compute 'precision': ", e)
+        logger.error(e)
 
     try:
         res['f1'] = f1_score(y_true, y_pred, average='micro', zero_division=0)
     except Exception as e:
-        print("cannot compute 'f1': ", e)
+        logger.error(e)
 
     try:
         res['adj_recall'] = recall_score(y_true, y_pred, average='macro',
                                          zero_division=0)
     except Exception as e:
-        print("cannot compute 'adj_recall': ", e)
+        logger.error(e)
 
     try:
         res['adj_precision'] = precision_score(y_true, y_pred, average='macro',
                                                zero_division=0)
     except Exception as e:
-        print("cannot compute 'adj_precision': ", e)
+        logger.error(e)
 
     try:
         res['adj_f1'] = f1_score(y_true, y_pred, average='macro',
                                  zero_division=0)
     except Exception as e:
-        print("cannot compute 'adj_f1': ", e)
+        logger.error(e)
 
     try:
         res['adj_accuracy'] = balanced_accuracy_score(y_true, y_pred,
                                                       adjusted=True)
     except Exception as e:
-        print("cannot compute 'adj_accuracy': ", e)
+        logger.error(e)
 
     res['log-levenshtein'] = log_levenshtein(y_true, y_pred)
     res['log-levenshtein2'] = log_levenshtein(y_true, y_pred, sub=2)

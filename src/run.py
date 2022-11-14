@@ -26,7 +26,9 @@ def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
 
     Returns
     -------
-    None.
+    results : dict
+        includes dataset name, sample-size, lemmatizer name, metrics,
+        elapsed_time, memory_current, memory_peak
 
     """
     # (A.1) encode labels and flatten sequences

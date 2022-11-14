@@ -1,11 +1,22 @@
-import sys
+from germalemma import GermaLemma
 import itertools
 import json
-from germalemma import GermaLemma
+import logging
+import sys
 
 sys.path.append("../..")
 from src.loader import load_data
 from src.run import run_algorithm
+
+
+# logging settings
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename="../../logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    datefmt="%y-%m-%d %H:%M:%S"
+)
 
 DATASETSPATH = "../../datasets"
 
@@ -38,9 +49,9 @@ for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
         # (A.1) encode labels and flatten sequences
         x_test = list(itertools.chain(*x_test))
         results.append(run_algorithm(predict, x_test, y_test, z_test, dname,
-                      'germalemma'))
+                                     'germalemma'))
     except Exception as err:
-        print(err)
+        logger.error(err)
 
 
 # store results
