@@ -1,9 +1,18 @@
 # -*- coding: utf-8 -*-
 import conllu
+import logging
 import os
 from typing import List
 from bs4 import BeautifulSoup
 
+# logging settings
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename="../logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    datefmt="%y-%m-%d %H:%M:%S"
+)
 
 # initialize dict for stts to upos conversion
 pos_dict = {}
@@ -129,7 +138,7 @@ def read_nostad(FILE: str):
             xtmp.append(tokens[ID])
             ztmp.append(pos[ID])
         except Exception as e:
-            print(f'{e} not lemmatized')
+            logger.error(e)
         if ztmp and ztmp[-1] == '$.' and len(xtmp) >= 2:  # EOS
             x.append(xtmp)
             y.append(ytmp)
