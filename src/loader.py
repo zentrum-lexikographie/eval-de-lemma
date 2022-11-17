@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from .reader import (read_germanc, read_conllu, read_archimob, read_nostad,
-                     read_txt)
+                     read_txt, read_empirist)
 import os
 import glob
 
@@ -31,7 +31,7 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 6
+    n_datasets = 8
 
     # check if TUEBA-DZ has been downloaded
     if os.path.isfile(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll"):
@@ -39,12 +39,12 @@ def load_data(DATASETSPATH):
 
     for i in range(n_datasets):
 
-        if i == 0:
+        if i == 10:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE, lower_first=True)
             dname = "ud-hdt"
 
-        elif i == 1:
+        elif i == 11:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "ud-gsd"
@@ -86,7 +86,7 @@ def load_data(DATASETSPATH):
                 x_test, y_test, z_test = [], [], []
                 for root, dirs, files in os.walk(os.path.join(nosta_path, corpus)):
                     for file in files:
-                        if not file.endswith('_norm.tcf'):
+                        if not file.endswith('_orig.tcf'):
                             continue  # include normalized files only
                         filepath = os.path.join(root, file).replace("\\", "/")
                         filepath = os.path.realpath(filepath)
@@ -99,11 +99,33 @@ def load_data(DATASETSPATH):
                 yield x_test, y_test, z_test, dname
 
         elif i == 6:
+            x_test, y_test, z_test = [], [], []
+            FILES = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/*.txt"))
+            for FILE in FILES:
+                tmp = read_empirist(FILE)
+                x_test = x_test + tmp[0]
+                y_test = y_test + tmp[1]
+                z_test = z_test + tmp[2]
+            dname = "empirist-cmc"
+
+        elif i == 7:
+            x_test, y_test, z_test = [], [], []
+            FILES = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-web-train/*.txt"))
+            for FILE in FILES:
+                tmp = read_empirist(FILE)
+                x_test = x_test + tmp[0]
+                y_test = y_test + tmp[1]
+                z_test = z_test + tmp[2]
+            dname = "empirist-web"
+
+        elif i == 8:
             FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
             x_test, y_test, z_test = read_txt(FILE)
             dname = "own-corpus"
 
-        elif i == 7:
+        elif i == 9:
             try:
                 FILE = os.path.realpath(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll")
                 x_test, y_test, z_test = read_conllu(FILE)

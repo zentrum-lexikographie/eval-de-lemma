@@ -17,6 +17,7 @@ logging.basicConfig(
 # initialize dict for stts to upos conversion
 pos_dict = {}
 
+# ../src/stts_to_upos.txt
 with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
           encoding='utf-8') as f:
     file = f.readlines()
@@ -146,10 +147,10 @@ def read_nostad(FILE: str):
             xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
 
+
 def read_txt(FILE: str):
     # annotation oriented at PUD corpus
     x, y, z = [], [], []
-    xtmp, ytmp, ztmp = [], [], []
     with open(FILE, encoding='utf-8') as fp:
         sents = fp.read().split('\n\n')
     for sent in sents:
@@ -161,3 +162,26 @@ def read_txt(FILE: str):
         y.append(lemmata)
         z.append(tags)
     return x, y, z  # token, lemma, uPoS tag
+
+
+def read_empirist(FILE: str):
+    # parse file
+    x, y, z = [], [], []
+    xtmp, ytmp, ztmp = [], [], []
+    with open(FILE, encoding='utf-8') as fp:
+        f = fp.read()
+    sents = f.split('\n\n')  # postings
+    for s in sents:
+        for line in s.split('\n')[1:]:  # first line contains ID
+            if line:
+                # use original token, normalized lemma
+                token, tag, token_norm, lemma, lemma_norm = \
+                    line.strip().split('\t')
+                xtmp.append(token)
+                ytmp.append(lemma_norm)
+                ztmp.append(tag)
+        x.append(xtmp)
+        y.append(ytmp)
+        z.append(ztmp)
+        xtmp, ytmp, ztmp = [], [], []
+    return x, y, to_upos(z)  # token, lemma, uPoS tag

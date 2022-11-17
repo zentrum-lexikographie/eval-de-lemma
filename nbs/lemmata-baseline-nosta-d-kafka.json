@@ -20,9 +20,9 @@
         "Dann"
     ],
     [
-        "kommt",
-        "kommen",
-        "kommt"
+        "_",
+        "--",
+        "_"
     ],
     [
         "_",
@@ -35,14 +35,19 @@
         "Jemand"
     ],
     [
-        "musste",
+        "mußte",
         "müssen",
-        "musste"
+        "mußte"
     ],
     [
         "verleumdet",
         "verleumden",
         "verleumdet"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "Böses",
@@ -153,6 +158,11 @@
         "wartete",
         "warten",
         "wartete"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sah",
@@ -280,9 +290,14 @@
         "war"
     ],
     [
-        "war",
-        "sein",
-        "war"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "trug",
@@ -350,9 +365,14 @@
         "war"
     ],
     [
-        "das",
-        "d",
-        "das"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "wurde",
@@ -430,6 +450,11 @@
         "seine"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sagte",
         "sagen",
         "sagte"
@@ -470,6 +495,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "versuchte",
         "versuchen",
         "versuchte"
@@ -508,6 +538,11 @@
         "setzte",
         "setzen",
         "setzte"
+    ],
+    [
+        "allzu|",
+        "allzu",
+        "allzu|"
     ],
     [
         "seinen",
@@ -563,6 +598,11 @@
         "will",
         "wollen",
         "will"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "ihm",
@@ -645,9 +685,9 @@
         "konnte"
     ],
     [
-        "gewusst",
+        "gewußt",
         "wissen",
-        "gewusst"
+        "gewußt"
     ],
     [
         "hätte",
@@ -780,6 +820,11 @@
         "ihm"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "das",
         "d",
         "das"
@@ -788,6 +833,11 @@
         "hätte",
         "haben",
         "hätte"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "des",
@@ -825,9 +875,9 @@
         "Immerhin"
     ],
     [
-        "fasste",
+        "faßte",
         "fassen",
-        "fasste"
+        "faßte"
     ],
     [
         "der",
@@ -865,9 +915,14 @@
         "will"
     ],
     [
-        "will",
-        "wollen",
-        "will"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "Ihnen",
@@ -918,6 +973,11 @@
         "der",
         "d",
         "der"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "öffnete",
@@ -1015,9 +1075,9 @@
         "Decken"
     ],
     [
-        "Fotografien",
+        "Photographien",
         "Fotografie",
-        "Fotografien"
+        "Photographien"
     ],
     [
         "überfüllten",
@@ -1150,6 +1210,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sah",
         "sehen",
         "sah"
@@ -1195,9 +1260,14 @@
         "war"
     ],
     [
-        "sah",
-        "sehen",
-        "sah"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "_",
@@ -1285,6 +1355,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "machte",
         "machen",
         "machte"
@@ -1325,6 +1400,11 @@
         "standen"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "wollte",
         "wollen",
         "wollte"
@@ -1350,6 +1430,11 @@
         "der"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "warf",
         "werfen",
         "warf"
@@ -1358,6 +1443,11 @@
         "das",
         "d",
         "das"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "stand",
@@ -1418,6 +1508,11 @@
         "Und",
         "und",
         "Und"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "fragte",
@@ -1620,6 +1715,11 @@
         "sah"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "ganzen",
         "ganz",
         "ganzen"
@@ -1663,6 +1763,11 @@
         "sagte",
         "sagen",
         "sagte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "ging",
@@ -1710,6 +1815,11 @@
         "überragte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "klopfte",
         "klopfen",
         "klopfte"
@@ -1745,9 +1855,19 @@
         "K.s"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sagten",
         "sagen",
         "sagten"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "schlechteres",
@@ -1758,6 +1878,11 @@
         "werde",
         "werden",
         "werde"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "dieses",
@@ -1783,6 +1908,16 @@
         "sollte",
         "sollen",
         "sollte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "ihm",
@@ -2515,6 +2650,11 @@
         "Darin"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "würde",
         "werden",
         "würde"
@@ -2553,6 +2693,11 @@
         "erinnerte",
         "erinnern",
         "erinnerte"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "seine",
@@ -2598,6 +2743,11 @@
         "Freunden",
         "Freunde",
         "Freunden"
+    ],
+    [
+        "Bewußtsein",
+        "Bewusstsein",
+        "Bewußtsein"
     ],
     [
         "das",
@@ -2720,6 +2870,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "ging",
         "gehen",
         "ging"
@@ -2770,9 +2925,9 @@
         "seinem"
     ],
     [
-        "riss",
+        "riß",
         "reißen",
-        "riss"
+        "riß"
     ],
     [
         "die",
@@ -2853,6 +3008,11 @@
         "seine",
         "sein",
         "seine"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "wollte",
@@ -2980,9 +3140,19 @@
         "wurde"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "bat",
         "bitten",
         "bat"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "verschwand",
@@ -2990,14 +3160,19 @@
         "verschwand"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "die",
         "d",
         "die"
     ],
     [
-        "schloss",
+        "schloß",
         "schließen",
-        "schloss"
+        "schloß"
     ],
     [
         "_",
@@ -3060,6 +3235,11 @@
         "Zimmers"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sah",
         "sehen",
         "sah"
@@ -3078,6 +3258,11 @@
         "öffnete",
         "öffnen",
         "öffnete"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "wurde",
@@ -3125,9 +3310,9 @@
         "erkannte"
     ],
     [
-        "die",
-        "d",
-        "die"
+        "_",
+        "--",
+        "_"
     ],
     [
         "verzehrten",
@@ -3173,6 +3358,11 @@
         "darf",
         "dürfen",
         "darf"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sagte",
@@ -3245,9 +3435,14 @@
         "diese"
     ],
     [
-        "verhaftet",
-        "verhaften",
-        "verhaftet"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "_",
@@ -3275,9 +3470,19 @@
         "der"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "tauchte",
         "tauchen",
         "tauchte"
+    ],
+    [
+        "Honigfäßchen",
+        "Honigfässchen",
+        "Honigfäßchen"
     ],
     [
         "_",
@@ -3355,14 +3560,19 @@
         "Ihrigen"
     ],
     [
-        "Sie",
-        "sie",
-        "Sie"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "mir",
-        "ich",
-        "mir"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "den",
@@ -3400,6 +3610,11 @@
         "_"
     ],
     [
+        "Daß",
+        "dass",
+        "Daß"
+    ],
+    [
         "Sie",
         "sie",
         "Sie"
@@ -3408,6 +3623,11 @@
         "Ihre",
         "ihr",
         "Ihre"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "Sie",
@@ -3475,6 +3695,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "führte",
         "führen",
         "führte"
@@ -3498,6 +3723,11 @@
         "hielt",
         "halten",
         "hielt"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sah",
@@ -3545,6 +3775,11 @@
         "Blicke"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "seine",
         "sein",
         "seine"
@@ -3553,6 +3788,11 @@
         "Papiere",
         "Papier",
         "Papiere"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sagte",
@@ -3675,6 +3915,11 @@
         "verfluchten"
     ],
     [
+        "Prozeß",
+        "Prozess",
+        "Prozeß"
+    ],
+    [
         "einem",
         "ein",
         "einem"
@@ -3683,6 +3928,11 @@
         "raschen",
         "rasch",
         "raschen"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "Sie",
@@ -3750,6 +4000,11 @@
         "anderes"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "Stunden",
         "Stunde",
         "Stunden"
@@ -3793,6 +4048,11 @@
         "einzusehen",
         "einsehen",
         "einzusehen"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "die",
@@ -3920,6 +4180,11 @@
         "der"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "wird",
         "werden",
         "wird"
@@ -3940,9 +4205,14 @@
         "angezogen"
     ],
     [
-        "muss",
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "muß",
         "müssen",
-        "muss"
+        "muß"
     ],
     [
         "uns",
@@ -4010,14 +4280,19 @@
         "_"
     ],
     [
-        "Das",
-        "d",
-        "Das"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "ist",
-        "sein",
-        "ist"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "Desto",
+        "desto",
+        "Desto"
     ],
     [
         "schlimmer",
@@ -4135,6 +4410,11 @@
         "mischte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sagte",
         "sagen",
         "sagte"
@@ -4160,6 +4440,11 @@
         "das"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "behauptet",
         "behaupten",
         "behauptet"
@@ -4178,11 +4463,6 @@
         "hast",
         "haben",
         "hast"
-    ],
-    [
-        "Recht",
-        "recht",
-        "Recht"
     ],
     [
         "ihm",
@@ -4220,9 +4500,9 @@
         "antwortete"
     ],
     [
-        "muss",
+        "muß",
         "müssen",
-        "muss"
+        "muß"
     ],
     [
         "dachte",
@@ -4460,9 +4740,9 @@
         "_"
     ],
     [
-        "musste",
+        "mußte",
         "müssen",
-        "musste"
+        "mußte"
     ],
     [
         "dieser",
@@ -4675,9 +4955,29 @@
         "hätte"
     ],
     [
-        "sind",
-        "sein",
-        "sind"
+        "Sie",
+        "sie",
+        "Sie"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "Ihnen",
@@ -4865,6 +5165,11 @@
         "Ganzen"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "die",
         "d",
         "die"
@@ -4970,14 +5275,24 @@
         "natürliche"
     ],
     [
-        "musste",
+        "mußte",
         "müssen",
-        "musste"
+        "mußte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "ging",
         "gehen",
         "ging"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "seiner",
@@ -5020,6 +5335,11 @@
         "warf"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "nahm",
         "nehmen",
         "nahm"
@@ -5038,6 +5358,11 @@
         "den",
         "d",
         "den"
+    ],
+    [
+        "abend",
+        "Abend",
+        "abend"
     ],
     [
         "das",
@@ -5165,6 +5490,11 @@
         "versäumte"
     ],
     [
+        "vormittag",
+        "Vormittag",
+        "vormittag"
+    ],
+    [
         "seinen",
         "sein",
         "seinen"
@@ -5238,6 +5568,11 @@
         "gedachte",
         "gedenken",
         "gedachte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "würde",
@@ -5335,6 +5670,11 @@
         "ihn"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "ihn",
         "er",
         "ihn"
@@ -5348,6 +5688,11 @@
         "getrieben",
         "treiben",
         "getrieben"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "ihn",
@@ -5430,6 +5775,11 @@
         "saßen"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "abgefangen",
         "abfangen",
         "abgefangen"
@@ -5465,6 +5815,11 @@
         "umzubringen"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "hätte",
         "haben",
         "hätte"
@@ -5475,9 +5830,14 @@
         "der"
     ],
     [
-        "Stande",
+        "im|",
+        "im",
+        "im|"
+    ],
+    [
+        "stande",
         "Stand",
-        "Stande"
+        "stande"
     ],
     [
         "gewesen",
@@ -5525,6 +5885,11 @@
         "hätte"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "der",
         "d",
         "der"
@@ -5555,9 +5920,9 @@
         "ihn"
     ],
     [
-        "zu|",
-        "zu",
-        "zu|"
+        "allein",
+        "allein|",
+        "allein"
     ],
     [
         "_",
@@ -5655,6 +6020,11 @@
         "unwahrscheinlichen"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "sollte",
         "sollen",
         "sollte"
@@ -5678,6 +6048,11 @@
         "dem",
         "d",
         "dem"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "den",
@@ -5840,6 +6215,11 @@
         "den"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "eilte",
         "eilen",
         "eilte"
@@ -5863,6 +6243,11 @@
         "die",
         "d",
         "die"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "jagten",
@@ -5945,9 +6330,9 @@
         "Er"
     ],
     [
-        "lässt",
+        "läßt",
         "lassen",
-        "lässt"
+        "läßt"
     ],
     [
         "Euch",
@@ -5960,9 +6345,9 @@
         "uns"
     ],
     [
-        "prügelt",
-        "prügeln",
-        "prügelt"
+        "_",
+        "--",
+        "_"
     ],
     [
         "_",
@@ -5970,9 +6355,14 @@
         "_"
     ],
     [
-        "Lasst",
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "Laßt",
         "lassen",
-        "Lasst"
+        "Laßt"
     ],
     [
         "mich",
@@ -6003,11 +6393,6 @@
         "war",
         "sein",
         "war"
-    ],
-    [
-        "Wenn",
-        "wenn",
-        "Wenn"
     ],
     [
         "mich",
@@ -6065,9 +6450,9 @@
         "wurden"
     ],
     [
-        "die",
-        "d",
-        "die"
+        "_",
+        "--",
+        "_"
     ],
     [
         "ihn",
@@ -6080,14 +6465,14 @@
         "verwirrten"
     ],
     [
-        "die",
-        "d",
-        "die"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "ihn",
-        "er",
-        "ihn"
+        "_",
+        "--",
+        "_"
     ],
     [
         "brachten",
@@ -6100,19 +6485,19 @@
         "_"
     ],
     [
-        "Das",
-        "d",
-        "Das"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "sind",
-        "sein",
-        "sind"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "lächerliche",
+        "Lächerliche",
         "lächerlich",
-        "lächerliche"
+        "Lächerliche"
     ],
     [
         "Zeremonien",
@@ -6125,6 +6510,11 @@
         "brummte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "hob",
         "heben",
         "hob"
@@ -6133,6 +6523,11 @@
         "einen",
         "ein",
         "einen"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "hielt",
@@ -6210,9 +6605,9 @@
         "Es"
     ],
     [
-        "muss",
+        "muß",
         "müssen",
-        "muss"
+        "muß"
     ],
     [
         "schwarzer",
@@ -6240,14 +6635,19 @@
         "den"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sagte",
         "sagen",
         "sagte"
     ],
     [
-        "wusste",
+        "wußte",
         "wissen",
-        "wusste"
+        "wußte"
     ],
     [
         "welchem",
@@ -6295,6 +6695,11 @@
         "lächelten"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "blieben",
         "bleiben",
         "blieben"
@@ -6310,9 +6715,9 @@
         "Es"
     ],
     [
-        "muss",
+        "muß",
         "müssen",
-        "muss"
+        "muß"
     ],
     [
         "schwarzer",
@@ -6355,6 +6760,11 @@
         "sagte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "öffnete",
         "öffnen",
         "öffnete"
@@ -6363,6 +6773,11 @@
         "den",
         "d",
         "den"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "suchte",
@@ -6383,6 +6798,11 @@
         "Kleidern",
         "Kleid",
         "Kleidern"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "wählte",
@@ -6430,6 +6850,11 @@
         "hatte"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "zog",
         "ziehen",
         "zog"
@@ -6438,6 +6863,11 @@
         "anderes",
         "ander",
         "anderes"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "begann",
@@ -6460,9 +6890,9 @@
         "Im"
     ],
     [
-        "Geheimen",
+        "geheimen",
         "Geheime",
-        "Geheimen"
+        "geheimen"
     ],
     [
         "glaubte",
@@ -6488,6 +6918,11 @@
         "erreicht",
         "erreichen",
         "erreicht"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "die",
@@ -6550,6 +6985,11 @@
         "der"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "anziehe",
         "anziehen",
         "anziehe"
@@ -6575,9 +7015,9 @@
         "war"
     ],
     [
-        "musste",
+        "mußte",
         "müssen",
-        "musste"
+        "mußte"
     ],
     [
         "das",
@@ -6640,9 +7080,9 @@
         "wurde"
     ],
     [
-        "wusste",
+        "wußte",
         "wissen",
-        "wusste"
+        "wußte"
     ],
     [
         "kurzer",
@@ -6680,9 +7120,9 @@
         "pflegte"
     ],
     [
-        "die",
-        "d",
-        "die"
+        "_",
+        "--",
+        "_"
     ],
     [
         "kam",
@@ -6865,6 +7305,11 @@
         "junge"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sahen",
         "sehen",
         "sahen"
@@ -6875,9 +7320,9 @@
         "die"
     ],
     [
-        "Fotografien",
+        "Photographien",
         "Fotografie",
-        "Fotografien"
+        "Photographien"
     ],
     [
         "des",
@@ -7055,14 +7500,14 @@
         "drückte"
     ],
     [
-        "der",
-        "d",
-        "der"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "ihn",
-        "er",
-        "ihn"
+        "_",
+        "--",
+        "_"
     ],
     [
         "drehte",
@@ -7075,14 +7520,14 @@
         "_"
     ],
     [
-        "Sind",
-        "sein",
-        "Sind"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "Sie",
-        "sie",
-        "Sie"
+        "_",
+        "--",
+        "_"
     ],
     [
         "fragte",
@@ -7165,6 +7610,11 @@
         "überrascht"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "fragte",
         "fragen",
         "fragte"
@@ -7173,6 +7623,11 @@
         "der",
         "d",
         "der"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "verschob",
@@ -7245,9 +7700,9 @@
         "_"
     ],
     [
-        "Gewiss",
+        "Gewiß",
         "gewiss",
-        "Gewiss"
+        "Gewiß"
     ],
     [
         "sagte",
@@ -7305,9 +7760,9 @@
         "_"
     ],
     [
-        "Gewiss",
+        "Gewiß",
         "gewiss",
-        "Gewiss"
+        "Gewiß"
     ],
     [
         "bin",
@@ -7335,19 +7790,29 @@
         "_"
     ],
     [
-        "Sie",
-        "sie",
-        "Sie"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "sind",
-        "sein",
-        "sind"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "Nicht",
+        "nicht",
+        "Nicht"
     ],
     [
         "überrascht",
         "überraschen",
         "überrascht"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "fragte",
@@ -7358,6 +7823,11 @@
         "der",
         "d",
         "der"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "stellte",
@@ -7415,6 +7885,11 @@
         "Sie"
     ],
     [
+        "mißverstehen",
+        "missverstehen",
+        "mißverstehen"
+    ],
+    [
         "beeilte",
         "beeilen",
         "beeilte"
@@ -7438,6 +7913,11 @@
         "unterbrach",
         "unterbrechen",
         "unterbrach"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sah",
@@ -7550,6 +8030,16 @@
         "ist"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "hat",
         "haben",
         "hat"
@@ -7580,6 +8070,11 @@
         "abgehärtet"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "nimmt",
         "nehmen",
         "nimmt"
@@ -7605,9 +8100,14 @@
         "heutige"
     ],
     [
-        "VERBt",
-        "VERBen",
-        "VERBt"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "_",
@@ -7620,9 +8120,14 @@
         "Warum"
     ],
     [
-        "VERBt",
-        "VERBen",
-        "VERBt"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "die",
@@ -7648,6 +8153,11 @@
         "will",
         "wollen",
         "will"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "das",
@@ -7705,9 +8215,9 @@
         "Es"
     ],
     [
-        "müssten",
+        "müßten",
         "müssen",
-        "müssten"
+        "müßten"
     ],
     [
         "Mitglieder",
@@ -7775,6 +8285,11 @@
         "will"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "ist",
         "sein",
         "ist"
@@ -7785,14 +8300,19 @@
         "_"
     ],
     [
-        "Das",
-        "d",
-        "Das"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "ist",
-        "sein",
-        "ist"
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "Ganz",
+        "ganz",
+        "Ganz"
     ],
     [
         "sagte",
@@ -7805,9 +8325,19 @@
         "der"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "sah",
         "sehen",
         "sah"
+    ],
+    [
+        "wie|",
+        "wie",
+        "wie|"
     ],
     [
         "der",
@@ -7835,9 +8365,19 @@
         "fuhr"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "wandte",
         "wenden",
         "wandte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "hätte",
@@ -7850,14 +8390,19 @@
         "die"
     ],
     [
+        "Drei",
+        "drei",
+        "Drei"
+    ],
+    [
         "den",
         "d",
         "den"
     ],
     [
-        "Fotografien",
+        "Photographien",
         "Fotografie",
-        "Fotografien"
+        "Photographien"
     ],
     [
         "zugewendet",
@@ -7895,6 +8440,11 @@
         "das"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "angeklagt",
         "anklagen",
         "angeklagt"
@@ -7903,6 +8453,16 @@
         "bin",
         "sein",
         "bin"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "die",
@@ -7920,9 +8480,9 @@
         "kann"
     ],
     [
-        "derer",
+        "deren",
         "d",
-        "derer"
+        "deren"
     ],
     [
         "mich",
@@ -8085,6 +8645,11 @@
         "überzeugt"
     ],
     [
+        "daß",
+        "dass",
+        "daß"
+    ],
+    [
         "dieser",
         "dies",
         "dieser"
@@ -8243,6 +8808,11 @@
         "Ihnen",
         "sie",
         "Ihnen"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "Sie",
@@ -8695,6 +9265,11 @@
         "gewisse"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "ging",
         "gehen",
         "ging"
@@ -8708,6 +9283,11 @@
         "hinderte",
         "hindern",
         "hinderte"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "schob",
@@ -8725,6 +9305,11 @@
         "Manschetten"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "befühlte",
         "befühlen",
         "befühlte"
@@ -8735,9 +9320,19 @@
         "die"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "strich",
         "streichen",
         "strich"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "kam",
@@ -8753,6 +9348,11 @@
         "Herren",
         "Herr",
         "Herren"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "sagte",
@@ -8785,6 +9385,11 @@
         "umdrehten"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "ihn",
         "er",
         "ihn"
@@ -8793,6 +9398,11 @@
         "ansahen",
         "ansehen",
         "ansahen"
+    ],
+    [
+        "_",
+        "--",
+        "_"
     ],
     [
         "machte",
@@ -8840,9 +9450,19 @@
         "kann"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "ihm",
         "er",
         "ihm"
+    ],
+    [
+        "telephonieren",
+        "telefonieren",
+        "telephonieren"
     ],
     [
         "_",
@@ -8850,9 +9470,9 @@
         "_"
     ],
     [
-        "Gewiss",
+        "Gewiß",
         "gewiss",
-        "Gewiss"
+        "Gewiß"
     ],
     [
         "sagte",
@@ -8885,9 +9505,14 @@
         "sollte"
     ],
     [
-        "müsste",
+        "müßte",
         "müssen",
-        "müsste"
+        "müßte"
+    ],
+    [
+        "daß",
+        "dass",
+        "daß"
     ],
     [
         "Sie",
@@ -8920,14 +9545,14 @@
         "Welchen"
     ],
     [
-        "das",
-        "d",
-        "das"
+        "_",
+        "--",
+        "_"
     ],
     [
-        "machte",
-        "machen",
-        "machte"
+        "_",
+        "--",
+        "_"
     ],
     [
         "rief",
@@ -8970,9 +9595,9 @@
         "einen"
     ],
     [
-        "Sie",
-        "sie",
-        "Sie"
+        "_",
+        "--",
+        "_"
     ],
     [
         "dieses",
@@ -9015,6 +9640,16 @@
         "Herren"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "Ihnen",
         "sie",
         "Ihnen"
@@ -9025,9 +9660,9 @@
         "die"
     ],
     [
-        "hohe",
+        "Hohe",
         "hoch",
-        "hohe"
+        "Hohe"
     ],
     [
         "_",
@@ -9045,9 +9680,19 @@
         "hätte"
     ],
     [
-        "einem",
+        "an",
+        "mit",
+        "an"
+    ],
+    [
+        "einen",
         "ein",
-        "einem"
+        "einen"
+    ],
+    [
+        "telephonieren",
+        "telefonieren",
+        "telephonieren"
     ],
     [
         "verhaftet",
@@ -9075,6 +9720,11 @@
         "werde"
     ],
     [
+        "telephonieren",
+        "telefonieren",
+        "telephonieren"
+    ],
+    [
         "_",
         "--",
         "_"
@@ -9095,13 +9745,13 @@
         "der"
     ],
     [
+        "_",
+        "--",
+        "_"
+    ],
+    [
         "streckte",
         "strecken",
         "streckte"
-    ],
-    [
-        "die",
-        "d",
-        "die"
     ]
 ]

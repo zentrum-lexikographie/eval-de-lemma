@@ -50,3 +50,13 @@ wget -c https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslingui
 mkdir ${DATAFOLDER}/nosta-d
 unzip -q ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip -d ${DATAFOLDER}/nosta-d
 rm ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
+
+# Empirist
+wget -c https://github.com/fau-klue/empirist-lemmatization/archive/refs/heads/master.zip -O ${DATAFOLDER}/empirist2019.zip
+unzip -q ${DATAFOLDER}/empirist2019.zip -d ${DATAFOLDER}
+unzip -q ${DATAFOLDER}/empirist-lemmatization-master/data/empirist-lemmatization_training_data_2019-04-26.zip -d ${DATAFOLDER}
+mv ${DATAFOLDER}/empirist-lemmatization_training_data_2019-04-26/train_web/lemmatized/ ${DATAFOLDER}/empirist2019-web-train
+mv ${DATAFOLDER}/empirist-lemmatization_training_data_2019-04-26/train_cmc/lemmatized/ ${DATAFOLDER}/empirist2019-cmc-train
+rm -r ${DATAFOLDER}/empirist-lemmatization_training_data_2019-04-26
+rm -r ${DATAFOLDER}/empirist-lemmatization-master
+rm ${DATAFOLDER}/empirist2019.zip
