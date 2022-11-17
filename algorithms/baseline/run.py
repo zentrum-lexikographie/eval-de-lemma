@@ -15,8 +15,7 @@ logging.basicConfig(
     datefmt="%y-%m-%d %H:%M:%S"
 )
 
-DATASETSPATH = "../../../lemma-data"
-#DATASETSPATH = "../../datasets"
+DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")

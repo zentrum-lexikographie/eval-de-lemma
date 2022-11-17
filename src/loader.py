@@ -77,18 +77,26 @@ def load_data(DATASETSPATH):
             dname = "archimob"
 
         elif i == 5:
-            x_test, y_test, z_test = [], [], []
-            for root, dirs, files in os.walk(f"{DATASETSPATH}/nosta-d/"):
-                for file in files:
-                    if not file.endswith('_norm.tcf'):
-                        continue  # include normalized files only
-                    filepath = os.path.join(root, file).replace("\\", "/")
-                    filepath = os.path.realpath(filepath)
-                    tmp = read_nostad(filepath)
-                    x_test = x_test + tmp[0]
-                    y_test = y_test + tmp[1]
-                    z_test = z_test + tmp[2]
-            dname = "nosta-d"
+            nosta_path = f"{DATASETSPATH}/nosta-d/"
+            # list of subcorpora
+            subcorpora = [s for s in os.listdir(nosta_path)
+                          if os.path.isdir(os.path.join(nosta_path, s))]
+            for corpus in subcorpora:
+                # read each subcorpus seperately
+                x_test, y_test, z_test = [], [], []
+                for root, dirs, files in os.walk(os.path.join(nosta_path, corpus)):
+                    for file in files:
+                        if not file.endswith('_norm.tcf'):
+                            continue  # include normalized files only
+                        filepath = os.path.join(root, file).replace("\\", "/")
+                        filepath = os.path.realpath(filepath)
+                        tmp = read_nostad(filepath)
+                        x_test = x_test + tmp[0]
+                        y_test = y_test + tmp[1]
+                        z_test = z_test + tmp[2]
+                dname = f"nosta-d-{corpus}"
+                print(dname)
+                yield x_test, y_test, z_test, dname
 
         elif i == 6:
             FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
@@ -102,5 +110,7 @@ def load_data(DATASETSPATH):
             except Exception as e:
                 print(e)
 
-        print(dname)
-        yield x_test, y_test, z_test, dname
+        if not dname.startswith('nosta-d'):
+            # nosta-d data already yielded for each subcorpus
+            print(dname)
+            yield x_test, y_test, z_test, dname

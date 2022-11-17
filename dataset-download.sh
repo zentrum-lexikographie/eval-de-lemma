@@ -49,6 +49,4 @@ rm ${DATAFOLDER}/Archimob_Release_2.zip
 wget -c https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/nosta-d/nosta-d-korpus-1.2 -O ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
 mkdir ${DATAFOLDER}/nosta-d
 unzip -q ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip -d ${DATAFOLDER}/nosta-d
-# exclude tueba-dz
-rm -r ${DATAFOLDER}/nosta-d/tuebadz
 rm ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
