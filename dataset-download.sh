@@ -37,14 +37,6 @@ rm ${DATAFOLDER}/germanc/*.{pdf,xlsx}
 rm -r ${DATAFOLDER}/germanc/{LING-COL,LING-GATE,RAW,TEI}
 rm ${DATAFOLDER}/germanc.zip
 
-# ArchiMob Release 2
-wget -c https://drive.switch.ch/index.php/s/vYZv9sNKetuPYTn/download -O ${DATAFOLDER}/Archimob_Release_2.zip
-unzip -q ${DATAFOLDER}/Archimob_Release_2.zip -d ${DATAFOLDER}
-mkdir ${DATAFOLDER}/archimob
-mv ${DATAFOLDER}/Archimob_Release_2/*.xml ${DATAFOLDER}/archimob
-rm -r ${DATAFOLDER}/Archimob_Release_2
-rm ${DATAFOLDER}/Archimob_Release_2.zip
-
 # NoSta-D
 wget -c https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/nosta-d/nosta-d-korpus-1.2 -O ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
 mkdir ${DATAFOLDER}/nosta-d
