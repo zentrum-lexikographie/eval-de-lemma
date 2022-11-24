@@ -34,7 +34,7 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
     return d
 
 
-def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.'):
+def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.', upos: bool = True):
     """Convert File in conllu format to a (x,y)-Dataset
     Parameters:
     -----------
@@ -44,6 +44,8 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.'):
         Transform the first lemma of a sentence to lower case (except from nouns)
     EOS : str
         End-of-sentence universal STTS tag, usually '$.', but in case of PUD '.'
+    upos : bool
+        UPOS tags are usually available.
     Returns:
     --------
     examples: List[List[str], List[str], List[str]]
@@ -59,15 +61,20 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.'):
                 xtmp.append(tok['form'])
                 ylem = tok['lemma']
                 if lower_first and sents.index(tok) == 0 \
-                    and not tok['upos'] in {'NOUN', 'PROPN'}:
+                    and not pos_dict[tok['xpos']] in {'NOUN', 'PROPN'}:
                     # lower first lemma, needed for HDT corpus
                     ylem = tok['lemma'].lower()
                 ytmp.append(ylem)
-                ztmp.append(tok['upos'])
+                if upos:
+                    ztmp.append(tok['upos'])
+                else:
+                    ztmp.append(tok['xpos'])
         if (len(xtmp) >= 2) and (tok['xpos'] == EOS):
             x.append(xtmp)
             y.append(ytmp)
             z.append(ztmp)
+    if not upos:  # conversion to UPOS tags
+        z = to_upos(z)
     return x, y, z
 
 
@@ -185,3 +192,25 @@ def read_empirist(FILE: str):
         z.append(ztmp)
         xtmp, ytmp, ztmp = [], [], []
     return x, y, to_upos(z)  # token, lemma, uPoS tag
+
+
+def read_tgermacor(FILE: str, EOS: str = '$.'):
+    x, y, z = [], [], []
+    with open(FILE, 'r', encoding='utf-8') as fp:
+        corpus = fp.read()
+    sents = corpus.split('\n\n')
+    for sent in sents:  # iterate sentences
+        xtmp, ytmp, ztmp = [], [], []
+        for tok in sent.split('\n'):  # iterate tokens
+            if not tok:  # empty string in line end
+                continue
+            ID, token, lemma, _, xpos = tok.split()[:5]
+            xtmp.append(token)
+            ytmp.append(lemma)
+            ztmp.append(xpos)
+        if (len(xtmp) >= 2) and (xpos == EOS):
+            # end of sentence reached
+            x.append(xtmp)
+            y.append(ytmp)
+            z.append(ztmp)
+    return x, y, to_upos(z)

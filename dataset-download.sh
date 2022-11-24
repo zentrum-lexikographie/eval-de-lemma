@@ -60,3 +60,9 @@ mv ${DATAFOLDER}/empirist-lemmatization_training_data_2019-04-26/train_cmc/lemma
 rm -r ${DATAFOLDER}/empirist-lemmatization_training_data_2019-04-26
 rm -r ${DATAFOLDER}/empirist-lemmatization-master
 rm ${DATAFOLDER}/empirist2019.zip
+
+# TGermaCorp
+wget -c http://hdl.handle.net/21.11105/0000-000B-D4DA-0 -O ${DATAFOLDER}/tgermacorp.zip
+mkdir ${DATAFOLDER}/tgermacorp
+unzip -q ${DATAFOLDER}/tgermacorp.zip -d ${DATAFOLDER}/tgermacorp
+rm ${DATAFOLDER}/tgermacorp.zip
