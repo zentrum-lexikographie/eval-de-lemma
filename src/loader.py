@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from .reader import (read_germanc, read_conllu, read_archimob, read_nostad,
-                     read_txt, read_empirist)
+                     read_txt, read_empirist, read_tgermacor)
 import os
 import glob
 
@@ -31,7 +31,7 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 8
+    n_datasets = 1
 
     # check if TUEBA-DZ has been downloaded
     if os.path.isfile(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll"):
@@ -120,17 +120,17 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "empirist-web"
 
-        elif i == 8:
+        elif i == 0:
+            FILE = os.path.realpath(f"{DATASETSPATH}/tgermacorp/TGermaCorp0.2_STTS.conll")
+            # no upos tags, only xpos
+            x_test, y_test, z_test = read_tgermacor(FILE)
+            dname = "tgermacorp"
+
+        elif i == 9:
             FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
             x_test, y_test, z_test = read_txt(FILE)
             dname = "own-corpus"
 
-        elif i == 9:
-            try:
-                FILE = os.path.realpath(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll")
-                x_test, y_test, z_test = read_conllu(FILE)
-            except Exception as e:
-                print(e)
 
         if not dname.startswith('nosta-d'):
             # nosta-d data already yielded for each subcorpus
