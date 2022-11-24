@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import csv
 import itertools
 import json
 import time
@@ -44,16 +45,18 @@ def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
     if not aname == 'germalemma':
         y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
-    # store and output different lemmatizations of first 5000 tokens
+    # store and output lemmatizations of first 2000 tokens
     df = []
-    j = 5000
+    j = 2000
     if len(y_test) < j:
         j = len(y_test)
     for i in range(j):
-        if y_test[i] != y_pred[i]:
-            df.append([x_test[i], y_test[i], y_pred[i]])
-    with open(f"../../nbs/lemmata-{aname}-{dname}.json", "w") as fp:
-        json.dump(df, fp, indent=4, ensure_ascii=False)
+        df.append([x_test[i], z_test[i], y_test[i], y_pred[i]])
+    with open(f"../../nbs/lemmata-{aname}-{dname}.csv", 'w', newline='') \
+            as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        csvwriter.writerow(['token', 'tag', 'lemma_gold', 'lemma_pred'])
+        csvwriter.writerows(df)
     # (A.3) Compute metrics
     metrics = metrics_by_pos(y_test, y_pred, z_test)
     # Save results

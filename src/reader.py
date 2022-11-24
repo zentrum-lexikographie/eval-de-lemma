@@ -16,6 +16,7 @@ logging.basicConfig(
 
 # initialize dict for stts to upos conversion
 pos_dict = {}
+pos_dict['PROAV'] = 'ADV'  # tag missing in list
 
 # ../src/stts_to_upos.txt
 with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
@@ -34,22 +35,26 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
     return d
 
 
-def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.', upos: bool = True):
+def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
+                upos: bool = True):
     """Convert File in conllu format to a (x,y)-Dataset
     Parameters:
     -----------
     FILE : str
         The path to the data file
     lower_first : bool
-        Transform the first lemma of a sentence to lower case (except from nouns)
+        Transform the first lemma of a sentence to lower case
+        (except from nouns)
     EOS : str
-        End-of-sentence universal STTS tag, usually '$.', but in case of PUD '.'
+        End-of-sentence universal STTS tag, usually '$.',
+        but in case of PUD '.'
     upos : bool
-        UPOS tags are usually available.
+        True if UPOS tags are available.
     Returns:
     --------
     examples: List[List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y) and PoS tags (z)
+        All tokenized sequences with word tokens (x), lemmata (y) and
+        PoS tags (z)
     """
     x, y, z = [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
