@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from .reader import (read_germanc, read_conllu, read_archimob, read_nostad,
+from .reader import (read_germanc, read_conllu, read_nostad,
                      read_txt, read_empirist, read_tgermacor)
 import os
 import glob
@@ -31,20 +31,16 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
-
-    # check if TUEBA-DZ has been downloaded
-    if os.path.isfile(f"{DATASETSPATH}/tuebadz/tuebadz-11.0-v2.conll"):
-        n_datasets += 1
+    n_datasets = 8
 
     for i in range(n_datasets):
 
-        if i == 10:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE, lower_first=True)
             dname = "ud-hdt"
 
-        elif i == 11:
+        elif i == 1:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "ud-gsd"
@@ -66,17 +62,6 @@ def load_data(DATASETSPATH):
             dname = "germanc"
 
         elif i == 4:
-            x_test, y_test, z_test = [], [], []
-            FILES = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/archimob/*.xml"))
-            for FILE in FILES:
-                tmp = read_archimob(FILE)
-                x_test = x_test + tmp[0]
-                y_test = y_test + tmp[1]
-                z_test = z_test + tmp[2]
-            dname = "archimob"
-
-        elif i == 5:
             nosta_path = f"{DATASETSPATH}/nosta-d/"
             # list of subcorpora
             subcorpora = [s for s in os.listdir(nosta_path)
@@ -98,7 +83,7 @@ def load_data(DATASETSPATH):
                 print(dname)
                 yield x_test, y_test, z_test, dname
 
-        elif i == 6:
+        elif i == 5:
             x_test, y_test, z_test = [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-cmc-train/*.txt"))
@@ -109,7 +94,7 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "empirist-cmc"
 
-        elif i == 7:
+        elif i == 6:
             x_test, y_test, z_test = [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-web-train/*.txt"))
@@ -120,17 +105,11 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[2]
             dname = "empirist-web"
 
-        elif i == 0:
+        elif i == 7:
             FILE = os.path.realpath(f"{DATASETSPATH}/tgermacorp/TGermaCorp0.2_STTS.conll")
             # no upos tags, only xpos
             x_test, y_test, z_test = read_tgermacor(FILE)
             dname = "tgermacorp"
-
-        elif i == 9:
-            FILE = os.path.realpath(f"{DATASETSPATH}/corpus.txt")
-            x_test, y_test, z_test = read_txt(FILE)
-            dname = "own-corpus"
-
 
         if not dname.startswith('nosta-d'):
             # nosta-d data already yielded for each subcorpus

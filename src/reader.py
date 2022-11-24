@@ -107,29 +107,6 @@ def read_germanc(FILE: str, translit: bool = True):
     return x, y, to_upos(z)  # token, lemma, uPoS tag
 
 
-def read_archimob(FILE: str):
-    # parse file
-    x, y, z = [], [], []
-    xtmp, ytmp, ztmp = [], [], []
-    with open(FILE, encoding='utf-8') as fp:
-        f = fp.read()
-    soup = BeautifulSoup(f, "lxml")
-    sents = soup.find_all('u')
-    for sent in sents:
-        tokens = sent.find_all('w')
-        for t in tokens:
-            xtmp.append(t.text)
-            ytmp.append(t['normalised'])
-            ztmp.append(t['tag'])
-        # minimum sequence length
-        if len(xtmp) >= 2:
-            x.append(xtmp)
-            y.append(ytmp)
-            z.append(ztmp)
-        xtmp, ytmp, ztmp = [], [], []
-    return x, y, to_upos(z)  # token, lemma, uPoS tag
-
-
 def read_nostad(FILE: str):
     # parse file
     x, y, z = [], [], []
