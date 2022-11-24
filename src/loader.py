@@ -66,43 +66,54 @@ def load_data(DATASETSPATH):
             # list of subcorpora
             subcorpora = [s for s in os.listdir(nosta_path)
                           if os.path.isdir(os.path.join(nosta_path, s))]
+            # read each subcorpus seperately
             for corpus in subcorpora:
-                # read each subcorpus seperately
+                # read the original and normalised versions seperately
                 x_test, y_test, z_test = [], [], []
+                x_test_norm, y_test_norm, z_test_norm = [], [], []
                 for root, dirs, files in os.walk(os.path.join(nosta_path, corpus)):
                     for file in files:
-                        if not file.endswith('_orig.tcf'):
-                            continue  # include normalized files only
                         filepath = os.path.join(root, file).replace("\\", "/")
                         filepath = os.path.realpath(filepath)
-                        tmp = read_nostad(filepath)
-                        x_test = x_test + tmp[0]
-                        y_test = y_test + tmp[1]
-                        z_test = z_test + tmp[2]
-                dname = f"nosta-d-{corpus}"
+                        if file.endswith('_orig.tcf'):  # original files
+                            tmp = read_nostad(filepath)
+                            x_test = x_test + tmp[0]
+                            y_test = y_test + tmp[1]
+                            z_test = z_test + tmp[2]
+                        else:  # normalised files
+                            tmp = read_nostad(filepath, normalised=True)
+                            x_test_norm = x_test_norm + tmp[0]
+                            y_test_norm = y_test_norm + tmp[1]
+                            z_test_norm = z_test_norm + tmp[2]
+                dname = f"nosta-d-{corpus}-orig"
                 print(dname)
                 yield x_test, y_test, z_test, dname
+                dname = f"nosta-d-{corpus}-norm"
+                print(dname)
+                yield x_test_norm, y_test_norm, z_test_norm, dname
 
         elif i == 5:
-            x_test, y_test, z_test = [], [], []
+            x_test, x_test_norm, y_test, z_test = [], [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-cmc-train/*.txt"))
             for FILE in FILES:
                 tmp = read_empirist(FILE)
                 x_test = x_test + tmp[0]
-                y_test = y_test + tmp[1]
-                z_test = z_test + tmp[2]
+                x_test_norm = x_test_norm + tmp[1]
+                y_test = y_test + tmp[2]
+                z_test = z_test + tmp[3]
             dname = "empirist-cmc"
 
         elif i == 6:
-            x_test, y_test, z_test = [], [], []
+            x_test, x_test_norm, y_test, z_test = [], [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-web-train/*.txt"))
             for FILE in FILES:
                 tmp = read_empirist(FILE)
                 x_test = x_test + tmp[0]
-                y_test = y_test + tmp[1]
-                z_test = z_test + tmp[2]
+                x_test_norm = x_test_norm + tmp[1]
+                y_test = y_test + tmp[2]
+                z_test = z_test + tmp[3]
             dname = "empirist-web"
 
         elif i == 7:
@@ -111,6 +122,10 @@ def load_data(DATASETSPATH):
             x_test, y_test, z_test = read_tgermacor(FILE)
             dname = "tgermacorp"
 
+        if dname.startswith('empirist'):
+            # yields normalised version of empirist corpus
+            print(f'{dname}-norm')
+            yield x_test_norm, y_test, z_test, f'{dname}-norm'
         if not dname.startswith('nosta-d'):
             # nosta-d data already yielded for each subcorpus
             print(dname)

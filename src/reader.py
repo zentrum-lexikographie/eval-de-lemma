@@ -37,7 +37,7 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
 
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
                 upos: bool = True):
-    """Convert File in conllu format to a (x,y)-Dataset
+    """Convert file in conllu format to a (x,y,z)-Dataset
     Parameters:
     -----------
     FILE : str
@@ -84,6 +84,20 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
 
 
 def read_germanc(FILE: str, translit: bool = True):
+    """Convert file from GermanC corpus to a (x,y,z)-Dataset
+    Parameters:
+    -----------
+    FILE : str
+        The path to the data file
+    translit : bool
+        If set to True, the transliterated form of the token is used instead
+        of the original, e.g. "kömmet" instead of "koͤmmet".
+    Returns:
+    --------
+    examples: List[List[str], List[str], List[str]]
+        All tokenized sequences with word tokens (x), lemmata (y) and
+        PoS tags (z)
+    """
     # 1: original word, 2: transliteration
     if translit:
         colidx = 2
@@ -112,7 +126,21 @@ def read_germanc(FILE: str, translit: bool = True):
     return x, y, to_upos(z)  # token, lemma, uPoS tag
 
 
-def read_nostad(FILE: str):
+def read_nostad(FILE: str, normalised: bool = False):
+    """Convert file from GermanC corpus to a (x,y,z)-Dataset
+    Parameters:
+    -----------
+    FILE : str
+        The path to the data file
+    normalised : bool
+        If set to True, the normalised form of the file is used instead
+        of the original (no orthographic variation, ellipses corrected).
+    Returns:
+    --------
+    examples: List[List[str], List[str], List[str]]
+        All tokenized sequences with word tokens (x), lemmata (y) and
+        PoS tags (z)
+    """
     # parse file
     x, y, z = [], [], []
     xtmp, ytmp, ztmp = [], [], []
@@ -154,26 +182,40 @@ def read_txt(FILE: str):
 
 
 def read_empirist(FILE: str):
+    """Convert file from Empirist corpus to a (x,y,z)-Dataset, including
+    original and normalised tokens
+    Parameters:
+    -----------
+    FILE : str
+        The path to the data file
+    Returns:
+    --------
+    examples: List[List[str], List[str], List[str]]
+        All tokenized sequences with word tokens (x), lemmata (y) and
+        PoS tags (z)
+    """
     # parse file
-    x, y, z = [], [], []
-    xtmp, ytmp, ztmp = [], [], []
+    x, x_norm, y, z = [], [], [], []
+    xtmp, xtmp_norm, ytmp, ztmp = [], [], [], []
     with open(FILE, encoding='utf-8') as fp:
         f = fp.read()
     sents = f.split('\n\n')  # postings
     for s in sents:
         for line in s.split('\n')[1:]:  # first line contains ID
             if line:
-                # use original token, normalized lemma
+                # use normalised or original token, normalised lemma
                 token, tag, token_norm, lemma, lemma_norm = \
                     line.strip().split('\t')
-                xtmp.append(token)
+                xtmp.append(token)  # original token
+                xtmp_norm.append(token_norm)  # normalised token
                 ytmp.append(lemma_norm)
                 ztmp.append(tag)
         x.append(xtmp)
+        x_norm.append(xtmp_norm)
         y.append(ytmp)
         z.append(ztmp)
-        xtmp, ytmp, ztmp = [], [], []
-    return x, y, to_upos(z)  # token, lemma, uPoS tag
+        xtmp, xtmp_norm, ytmp, ztmp = [], [], [], []
+    return x, x_norm, y, to_upos(z)  # token, normalized token, lemma, uPoS tag
 
 
 def read_tgermacor(FILE: str, EOS: str = '$.'):
