@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from .reader import (read_germanc, read_conllu, read_nostad,
-                     read_txt, read_empirist, read_tgermacor)
+                     read_empirist, read_tgermacor)
 import os
 import glob
 
