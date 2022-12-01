@@ -65,10 +65,12 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
             if len(tok['form']) > 0:
                 xtmp.append(tok['form'])
                 ylem = tok['lemma']
-                if lower_first and sents.index(tok) == 0 \
-                    and not pos_dict[tok['xpos']] in {'NOUN', 'PROPN'}:
-                    # lower first lemma, needed for HDT corpus
-                    ylem = tok['lemma'].lower()
+                if tok['xpos'] in pos_dict.keys():
+                    # prevent keyerror
+                    if lower_first and sents.index(tok) == 0 \
+                        and not pos_dict[tok['xpos']] in {'NOUN', 'PROPN'}:
+                        # lower first lemma, needed for HDT corpus
+                        ylem = tok['lemma'].lower()
                 ytmp.append(ylem)
                 if upos:
                     ztmp.append(tok['upos'])
