@@ -117,26 +117,22 @@ def load_data(DATASETSPATH):
             dname = "empirist-cmc-wiki"
 
         elif i == 7:
-            FILE = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_blog_comment.txt"))
+            FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_blog_comment.txt")
             x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
             dname = "empirist-cmc-blog"
 
         elif i == 8:
-            FILE = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_professional_chat.txt"))
+            FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_professional_chat.txt")
             x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
             dname = "empirist-cmc-chat-prof"
 
         elif i == 9:
-            FILE = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_social_chat.txt"))
+            FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_social_chat.txt")
             x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
             dname = "empirist-cmc-chat-social"
 
         elif i == 10:
-            FILE = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_whats_app.txt"))
+            FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_whats_app.txt")
             x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
             dname = "empirist-cmc-whatsapp"
 
