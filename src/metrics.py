@@ -66,19 +66,19 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
         logger.error(e)
 
     try:
-        res['recall'] = recall_score(y_true, y_pred, average='micro',
+        res['recall'] = recall_score(y_true, y_pred, average='macro',
                                      zero_division=0)
     except Exception as e:
         logger.error(e)
 
     try:
-        res['precision'] = precision_score(y_true, y_pred, average='micro',
+        res['precision'] = precision_score(y_true, y_pred, average='macro',
                                            zero_division=0)
     except Exception as e:
         logger.error(e)
 
     try:
-        res['f1'] = f1_score(y_true, y_pred, average='micro', zero_division=0)
+        res['f1'] = f1_score(y_true, y_pred, average='macro', zero_division=0)
     except Exception as e:
         logger.error(e)
 
