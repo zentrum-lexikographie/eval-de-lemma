@@ -95,16 +95,52 @@ def load_data(DATASETSPATH):
         elif i == 5:
             x_test, x_test_norm, y_test, z_test = [], [], [], []
             FILES = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/empirist2019-cmc-train/*.txt"))
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_twitter*.txt"))
             for FILE in FILES:
                 tmp = read_empirist(FILE)
                 x_test = x_test + tmp[0]
                 x_test_norm = x_test_norm + tmp[1]
                 y_test = y_test + tmp[2]
                 z_test = z_test + tmp[3]
-            dname = "empirist-cmc"
+            dname = "empirist-cmc-twitter"
 
         elif i == 6:
+            x_test, x_test_norm, y_test, z_test = [], [], [], []
+            FILES = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_wiki*.txt"))
+            for FILE in FILES:
+                tmp = read_empirist(FILE)
+                x_test = x_test + tmp[0]
+                x_test_norm = x_test_norm + tmp[1]
+                y_test = y_test + tmp[2]
+                z_test = z_test + tmp[3]
+            dname = "empirist-cmc-wiki"
+
+        elif i == 7:
+            FILE = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_blog_comment.txt"))
+            x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
+            dname = "empirist-cmc-blog"
+
+        elif i == 8:
+            FILE = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_professional_chat.txt"))
+            x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
+            dname = "empirist-cmc-chat-prof"
+
+        elif i == 9:
+            FILE = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_social_chat.txt"))
+            x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
+            dname = "empirist-cmc-chat-social"
+
+        elif i == 10:
+            FILE = glob.glob(os.path.realpath(
+                f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_whats_app.txt"))
+            x_test, x_test_norm, y_test, z_test = read_empirist(FILE)
+            dname = "empirist-cmc-whatsapp"
+
+        elif i == 11:
             x_test, x_test_norm, y_test, z_test = [], [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-web-train/*.txt"))
@@ -116,33 +152,33 @@ def load_data(DATASETSPATH):
                 z_test = z_test + tmp[3]
             dname = "empirist-web"
 
-        elif i == 7:
+        elif i == 12:
             FILE = os.path.realpath(f"{DATASETSPATH}/tgermacorp/TGermaCorp0.2_STTS.conll")
             # no upos tags, only xpos
             x_test, y_test, z_test = read_tgermacor(FILE)
             dname = "tgermacorp"
 
-        elif i == 8:
+        elif i == 13:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/novelette.conll")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "rub2019-novelette"
 
-        elif i == 9:
+        elif i == 14:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "rub2019-subtitles"
 
-        elif i == 10:
+        elif i == 15:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/sermononline.conll")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "rub2019-sermononline"
 
-        elif i == 11:
+        elif i == 16:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/ted.conll")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "rub2019-ted"
 
-        elif i == 12:
+        elif i == 17:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/wikipedia.conll")
             x_test, y_test, z_test = read_conllu(FILE)
             dname = "rub2019-wikipedia"
