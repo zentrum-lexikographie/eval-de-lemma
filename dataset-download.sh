@@ -58,3 +58,10 @@ wget -c http://hdl.handle.net/21.11105/0000-000B-D4DA-0 -O ${DATAFOLDER}/tgermac
 mkdir ${DATAFOLDER}/tgermacorp
 unzip -q ${DATAFOLDER}/tgermacorp.zip -d ${DATAFOLDER}/tgermacorp
 rm ${DATAFOLDER}/tgermacorp.zip
+
+# RUB Konvens 2019, balanced
+wget -c https://github.com/rubcompling/konvens2019/archive/refs/heads/master.zip -O ${DATAFOLDER}/rub2019.zip
+unzip -q ${DATAFOLDER}/rub2019.zip -d ${DATAFOLDER}
+mv ${DATAFOLDER}/konvens2019-master/data/gold/balanced/annotations ${DATAFOLDER}/rub2019
+rm -r ${DATAFOLDER}/konvens2019-master
+rm ${DATAFOLDER}/rub2019.zip
