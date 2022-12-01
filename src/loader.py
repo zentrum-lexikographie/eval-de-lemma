@@ -31,7 +31,7 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, dname = [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 8
+    n_datasets = 12
 
     for i in range(n_datasets):
 
@@ -121,6 +121,31 @@ def load_data(DATASETSPATH):
             # no upos tags, only xpos
             x_test, y_test, z_test = read_tgermacor(FILE)
             dname = "tgermacorp"
+
+        elif i == 8:
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/novelette.conll")
+            x_test, y_test, z_test = read_conllu(FILE)
+            dname = "rub2019-novelette"
+
+        elif i == 9:
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
+            x_test, y_test, z_test = read_conllu(FILE)
+            dname = "rub2019-subtitles"
+
+        elif i == 10:
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/sermononline.conll")
+            x_test, y_test, z_test = read_conllu(FILE)
+            dname = "rub2019-sermononline"
+
+        elif i == 11:
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/ted.conll")
+            x_test, y_test, z_test = read_conllu(FILE)
+            dname = "rub2019-ted"
+
+        elif i == 12:
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/wikipedia.conll")
+            x_test, y_test, z_test = read_conllu(FILE)
+            dname = "rub2019-wikipedia"
 
         if dname.startswith('empirist'):
             # yields normalised version of empirist corpus
