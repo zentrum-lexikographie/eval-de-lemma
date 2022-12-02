@@ -6,9 +6,10 @@ import time
 import tracemalloc
 
 from src.metrics import metrics_by_pos
+from src.reader import pos_dict
 
 
-def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
+def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname, tagset='upos'):
     """
     Computes metrics on the outputs of a lemmatization tool on a corpus.
 
@@ -16,14 +17,18 @@ def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
     ----------
     predict : funct
         a function to predict the lemma of x_test
-    x_test : TYPE
-        DESCRIPTION.
-    z_test : TYPE
-        DESCRIPTION.
+    x_test : List[List[str]]
+        Nested list of tokens.
+    y_test : List[List[str]]
+        Nested list of gold standard lemmata.
+    z_test : List[List[str]]
+        Nested list of uPoS tags.
+    z_test_xpos : List[List[str]]
+        Nested list of xPoS tags (STTS).
     dname : str
-        DESCRIPTION.
+        name of the data set.
     aname : str
-        name of the algorithm.
+        name of the lemmatization algorithm.
 
     Returns
     -------
@@ -35,6 +40,7 @@ def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
     # (A.1) encode labels and flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test = list(itertools.chain(*z_test))
+    z_test_xpos = list(itertools.chain(*z_test_xpos))
     # (A.2) predict labels
     tracemalloc.start()
     t = time.time()
@@ -51,17 +57,23 @@ def run_algorithm(predict, x_test, y_test, z_test, dname, aname):
     if len(y_test) < j:
         j = len(y_test)
     for i in range(j):
-        df.append([x_test[i], z_test[i], y_test[i], y_pred[i]])
+        # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
+        df.append([x_test[i], z_test[i], z_test_xpos[i], y_test[i], y_pred[i]])
     with open(f"../../nbs/lemmata-{aname}-{dname}.csv", 'w', newline='') \
             as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(['token', 'tag', 'lemma_gold', 'lemma_pred'])
+        csvwriter.writerow(['token', 'tag', 'tag_STTS',
+                            'lemma_gold', 'lemma_pred'])
         csvwriter.writerows(df)
-    # (A.3) Compute metrics
-    metrics = metrics_by_pos(y_test, y_pred, z_test)
+    # (A.3) Compute metrics, considering content words only, certain PoS tags
+    TAGS = {'ADJ', 'ADV', 'NOUN', 'PROPN', 'VERB'}  # upos tags
+    if tagset == 'xpos':
+        TAGS = {p[0] for p in pos_dict.items() if p[1] in TAGS}  # xpos tags
+        z_test = z_test_xpos
+    metrics = metrics_by_pos(y_test, y_pred, z_test, pos_tagset=tagset, POS=TAGS)
     # Save results
     return {
         'dataset': dname, 'sample-size': len(y_test),
-        'lemmatizer': 'baseline', 'metrics': metrics,
+        'lemmatizer': aname, 'metrics': metrics,
         'elapsed': elapsed, 'memory_current': current,
         'memory_peak': peak}
