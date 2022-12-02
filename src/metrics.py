@@ -114,8 +114,9 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
 
 
 def metrics_by_pos(y_true: List[str], y_pred: List[str], z: List[str],
-                   POS: Set[str] = {'ADJ', 'ADV', 'NOUN', 'PROPN', 'VERB'})\
-                    -> dict:
+                   pos_tagset: str = 'upos', POS: Set[str] = {'ADJ', 'ADV',
+                                                              'NOUN', 'PROPN',
+                                                              'VERB'}) -> dict:
     """compute metrics by POS tag"""
     res = {}
     data = pd.DataFrame({'y_true': y_true, 'y_pred': y_pred, 'PoS': z})

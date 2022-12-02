@@ -30,9 +30,8 @@ with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
 
 def to_upos(xpos: List[List[str]]) -> List[List[str]]:
     """convert nested list of STTS tags to universal PoS tags"""
-    d = [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
-         for sent in xpos]
-    return d
+    return [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
+            for sent in xpos]
 
 
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
@@ -52,15 +51,15 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
         True if UPOS tags are available.
     Returns:
     --------
-    examples: List[List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z)
+    examples: List[List[str], List[str], List[str], List[str]]
+        All tokenized sequences with word tokens (x), lemmata (y),
+        PoS tags (z) and SSTS PoS tags (z_xpos)
     """
-    x, y, z = [], [], []
+    x, y, z, z_xpos = [], [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
         corpus = conllu.parse(fp.read())
     for sents in corpus:
-        xtmp, ytmp, ztmp = [], [], []
+        xtmp, ytmp, ztmp, z_xpostmp = [], [], [], []
         for tok in sents:
             if len(tok['form']) > 0:
                 xtmp.append(tok['form'])
@@ -76,13 +75,15 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
                     ztmp.append(tok['upos'])
                 else:
                     ztmp.append(tok['xpos'])
+                z_xpostmp.append(tok['xpos'])
         if (len(xtmp) >= 2) and (tok['xpos'] == EOS):
             x.append(xtmp)
             y.append(ytmp)
             z.append(ztmp)
+            z_xpos.append(z_xpostmp)
     if not upos:  # conversion to UPOS tags
         z = to_upos(z)
-    return x, y, z
+    return x, y, z, z_xpos
 
 
 def read_germanc(FILE: str, translit: bool = True):
@@ -96,9 +97,9 @@ def read_germanc(FILE: str, translit: bool = True):
         of the original, e.g. "kömmet" instead of "koͤmmet".
     Returns:
     --------
-    examples: List[List[str], List[str], List[str]]
+    examples: List[List[str], List[str], List[str], List[str]]
         All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z)
+        PoS tags (z) in uPoS and STTS version
     """
     # 1: original word, 2: transliteration
     if translit:
@@ -125,7 +126,7 @@ def read_germanc(FILE: str, translit: bool = True):
                             y.append(ytmp)
                             z.append(ztmp)
                         xtmp, ytmp, ztmp = [], [], []
-    return x, y, to_upos(z)  # token, lemma, uPoS tag
+    return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
 def read_nostad(FILE: str, normalised: bool = False):
@@ -139,9 +140,9 @@ def read_nostad(FILE: str, normalised: bool = False):
         of the original (no orthographic variation, ellipses corrected).
     Returns:
     --------
-    examples: List[List[str], List[str], List[str]]
+    examples: List[List[str], List[str], List[str], List[str]]
         All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z)
+        PoS tags (z) in uPoS and xPoS (STTS) verison
     """
     # parse file
     x, y, z = [], [], []
@@ -164,7 +165,7 @@ def read_nostad(FILE: str, normalised: bool = False):
             y.append(ytmp)
             z.append(ztmp)
             xtmp, ytmp, ztmp = [], [], []
-    return x, y, to_upos(z)  # token, lemma, uPoS tag
+    return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
 def read_empirist(FILE: str):
@@ -176,7 +177,7 @@ def read_empirist(FILE: str):
         The path to the data file
     Returns:
     --------
-    examples: List[List[str], List[str], List[str]]
+    examples: List[List[str], List[str], List[str], List[str]]
         All tokenized sequences with word tokens (x), lemmata (y) and
         PoS tags (z)
     """
@@ -201,10 +202,25 @@ def read_empirist(FILE: str):
         y.append(ytmp)
         z.append(ztmp)
         xtmp, xtmp_norm, ytmp, ztmp = [], [], [], []
-    return x, x_norm, y, to_upos(z)  # token, normalized token, lemma, uPoS tag
+    # token, normalized token, lemma, uPoS tag, xPoS tag
+    return x, x_norm, y, to_upos(z), z
 
 
 def read_tgermacor(FILE: str, EOS: str = '$.'):
+    """Convert file from TGermaCorpus to a (x,y,z)-Dataset
+    Parameters:
+    -----------
+    FILE : str
+        The path to the data file
+    EOS : str
+        End-of-sentence universal STTS tag, usually '$.',
+        but in some cases '.'
+    Returns:
+    --------
+    examples: List[List[str], List[str], List[str], List[str]]
+        All tokenized sequences with word tokens (x), lemmata (y),
+        PoS tags (z) and SSTS PoS tags (z_xpos)
+    """
     x, y, z = [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
         corpus = fp.read()
@@ -223,4 +239,4 @@ def read_tgermacor(FILE: str, EOS: str = '$.'):
             x.append(xtmp)
             y.append(ytmp)
             z.append(ztmp)
-    return x, y, to_upos(z)
+    return x, y, to_upos(z), z
