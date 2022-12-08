@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Trankit cache
+algorithms/trankit/cache/
+
+# Datasets
+datasets/
+
+# SMORLemma installations
+algorithms/smorlemma/SMORLemma/
+algorithms/smorlemma/*.xml
+algorithms/smorlemma/*.ca
