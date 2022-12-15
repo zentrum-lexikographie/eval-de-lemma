@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import csv
+import gc
 import itertools
-import json
 import time
 import tracemalloc
 
@@ -71,9 +71,13 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname, ta
         TAGS = {p[0] for p in pos_dict.items() if p[1] in TAGS}  # xpos tags
         z_test = z_test_xpos
     metrics = metrics_by_pos(y_test, y_pred, z_test, pos_tagset=tagset, POS=TAGS)
+    size = len(y_test)
+    # delete variables, collect garbage
+    del x_test, y_test, y_pred, z_test, z_test_xpos
+    gc.collect()
     # Save results
     return {
-        'dataset': dname, 'sample-size': len(y_test),
+        'dataset': dname, 'sample-size': size,
         'lemmatizer': aname, 'metrics': metrics,
         'elapsed': elapsed, 'memory_current': current,
         'memory_peak': peak}
