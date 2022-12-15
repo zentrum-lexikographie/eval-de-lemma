@@ -36,7 +36,8 @@ def predict(x_test, y_test, z_test):
         results = stdout.split()  # list of morphological analyses
         tag = z_test[i]  # gold PoS tag
         # list of lemmata
-        lemmata = [re.sub('<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results]
+        lemmata = [re.sub('<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results
+                   if f'<+{tag}>' in r]
         # return most frequent lemma
         predicted.append(collections.Counter(lemmata).most_common()[0][0])
     return predicted
