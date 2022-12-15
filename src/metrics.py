@@ -8,6 +8,9 @@ import numpy as np
 import pandas as pd
 from nltk.metrics import edit_distance
 
+from src.reader import pos_dict
+
+
 # logging settings
 logger = logging.getLogger(__name__)
 logging.basicConfig(
@@ -113,19 +116,24 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     return res
 
 
-def metrics_by_pos(y_true: List[str], y_pred: List[str], z: List[str],
-                   pos_tagset: str = 'upos', POS: Set[str] = {'ADJ', 'ADV',
-                                                              'NOUN', 'PROPN',
-                                                              'VERB'}) -> dict:
+def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
+                   z_xpos, UPOS: set = {'ADJ', 'ADV', 'NOUN', 'PROPN',
+                                       'VERB'}) -> dict:
     """compute metrics by POS tag"""
     res = {}
-    data = pd.DataFrame({'y_true': y_true, 'y_pred': y_pred, 'PoS': z})
-    data_content = data[data['PoS'].isin(POS)]  # content words only
+    data = pd.DataFrame({'y_true': y_true, 'y_pred': y_pred, 'uPoS': z_upos,
+                         'xPoS': z_xpos})
+    data_content = data[data['uPoS'].isin(UPOS)]  # content words only
+    XPOS = {p[0] for p in pos_dict.items() if p[1] in UPOS}
     # ignore POS tags other than content words for overall metrics
     res['overall'] = compute_metrics(data_content.y_true.tolist(),
                                      data_content.y_pred.tolist())
-    for p in POS:  # metrics per PoS tag
-        p_entries = data_content[data_content['PoS'] == p]
+    for p in UPOS:  # metrics per uPoS tag
+        p_entries = data_content[data_content['uPoS'] == p]
+        res[p] = compute_metrics(p_entries.y_true.tolist(),
+                                 p_entries.y_pred.tolist())
+    for p in XPOS:  # metrics per xPoS tag
+        p_entries = data_content[data_content['xPoS'] == p]
         res[p] = compute_metrics(p_entries.y_true.tolist(),
                                  p_entries.y_pred.tolist())
     return res

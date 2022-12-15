@@ -6,10 +6,9 @@ import time
 import tracemalloc
 
 from src.metrics import metrics_by_pos
-from src.reader import pos_dict
 
 
-def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname, tagset='upos'):
+def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     """
     Computes metrics on the outputs of a lemmatization tool on a corpus.
 
@@ -66,11 +65,7 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname, ta
                             'lemma_gold', 'lemma_pred'])
         csvwriter.writerows(df)
     # (A.3) Compute metrics, considering content words only, certain PoS tags
-    TAGS = {'ADJ', 'ADV', 'NOUN', 'PROPN', 'VERB'}  # upos tags
-    if tagset == 'xpos':
-        TAGS = {p[0] for p in pos_dict.items() if p[1] in TAGS}  # xpos tags
-        z_test = z_test_xpos
-    metrics = metrics_by_pos(y_test, y_pred, z_test, pos_tagset=tagset, POS=TAGS)
+    metrics = metrics_by_pos(y_test, y_pred, z_test, z_test_xpos)
     size = len(y_test)
     # delete variables, collect garbage
     del x_test, y_test, y_pred, z_test, z_test_xpos
