@@ -28,6 +28,10 @@ warnings.filterwarnings("ignore")
 
 transducer = "zmorge-20150315-smor_newlemma.ca"
 
+# uPoS tags and their SMOR equivalent
+smor_tags = {'NOUN': 'NN', 'PROPN': 'NPROP', 'VERB': 'V', 'ADJ': 'ADJ',
+             'ADV': 'ADV'}
+
 
 def predict(x_test, y_test, z_test):
     predicted = []
@@ -35,7 +39,7 @@ def predict(x_test, y_test, z_test):
         process = Popen(["fst-infl2", transducer], stdin=PIPE, stdout=PIPE)
         stdout = process.communicate(input=x)[0]
         results = stdout.split()  # list of morphological analyses
-        tag = z_test[i]  # gold PoS tag
+        tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
         # list of lemmata containing gold PoS tag
         lemmata = [re.sub('<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results
                    if f'<+{tag}>' in r]
