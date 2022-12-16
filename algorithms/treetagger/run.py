@@ -22,13 +22,21 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='de')
+tagger = treetaggerwrapper.TreeTagger(TAGLANG='de', TAGDIR='tagger/')
 
 
 def predict(x_test, y_test, z_test):
-    tags = tagger.tag_text(x_test)
-    # saved as strings e.g. "text\tNN\ttext"
-    return [entry.split('\t')[2] for entry in tags]
+    lemmata = []
+    for sent in x_test:
+        tags = tagger.tag_text(" ".join(sent))
+        # saved as strings e.g. 'tiefe\tADJA\ttief'
+        if len(tags) != len(sent):  # treetagger tokenization may be different
+            # only tags until end of sentence length are appended
+            lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags[:len(sent)]])
+        else:
+            lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags])
+    print(len(lemmata), len(x_test))
+    return lemmata
 
 
 # (A) Run all benchmarks
