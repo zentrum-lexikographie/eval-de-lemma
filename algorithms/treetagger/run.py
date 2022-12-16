@@ -35,7 +35,6 @@ def predict(x_test, y_test, z_test):
             lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags[:len(sent)]])
         else:
             lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags])
-    print(len(lemmata), len(x_test))
     return lemmata
 
 
