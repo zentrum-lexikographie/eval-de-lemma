@@ -2,7 +2,7 @@
 from sklearn.metrics import (
     recall_score, precision_score, f1_score,
     accuracy_score, balanced_accuracy_score)
-from typing import List, Set
+from typing import List
 import logging
 import numpy as np
 import pandas as pd
@@ -69,23 +69,6 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
         logger.error(e)
 
     try:
-        res['recall'] = recall_score(y_true, y_pred, average='macro',
-                                     zero_division=0)
-    except Exception as e:
-        logger.error(e)
-
-    try:
-        res['precision'] = precision_score(y_true, y_pred, average='macro',
-                                           zero_division=0)
-    except Exception as e:
-        logger.error(e)
-
-    try:
-        res['f1'] = f1_score(y_true, y_pred, average='macro', zero_division=0)
-    except Exception as e:
-        logger.error(e)
-
-    try:
         res['adj_recall'] = recall_score(y_true, y_pred, average='macro',
                                          zero_division=0)
     except Exception as e:
@@ -113,6 +96,9 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     res['log-levenshtein2'] = log_levenshtein(y_true, y_pred, sub=2)
     res['levenshtein'] = levenshtein(y_true, y_pred)
     res['levenshtein-wordlen'] = levenshtein_wordlen(y_true, y_pred)
+    # number of gold and predicted lemma types, ratio gold/predicted
+    res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)),
+                              len(set(y_true))/len(set(y_pred)))
     return res
 
 
