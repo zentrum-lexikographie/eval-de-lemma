@@ -16,7 +16,7 @@ logger = logging.getLogger(__name__)
 logging.basicConfig(
     filename="../logs.log",
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    format="%(asctime)s - %(levelname)s - %(lineno)d - %(name)s: %(message)s",
     datefmt="%y-%m-%d %H:%M:%S"
 )
 
@@ -116,12 +116,14 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
                                      data_content.y_pred.tolist())
     for p in UPOS:  # metrics per uPoS tag
         p_entries = data_content[data_content['uPoS'] == p]
-        res[p] = compute_metrics(p_entries.y_true.tolist(),
-                                 p_entries.y_pred.tolist())
+        if not p_entries.empty:
+            res[p] = compute_metrics(p_entries.y_true.tolist(),
+                                     p_entries.y_pred.tolist())
     for p in XPOS:  # metrics per xPoS tag
         p_entries = data_content[data_content['xPoS'] == p]
-        res[p] = compute_metrics(p_entries.y_true.tolist(),
-                                 p_entries.y_pred.tolist())
+        if not p_entries.empty:
+            res[p] = compute_metrics(p_entries.y_true.tolist(),
+                                     p_entries.y_pred.tolist())
     return res
 
 
