@@ -57,22 +57,25 @@ def predict(x_test, y_test, z_test):
     """
     predicted = []
     for i, x in enumerate(x_test):
-        p = run(["fst-infl2", transducer], stdout=PIPE, input=x,
-                encoding='utf-8')
-        # list of morphological analyses, first 2 elements are '>' and 'x'
-        results = p.stdout.split()[2:]
-        # list of lemmata
-        lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results]
-        if y_test[i] in lemmata:  # gold lemma in analyses
-            predicted.append(y_test[i])
-        else:
-            tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
-            if f'<+{tag}>' in "".join(results):
-                # return most frequent lemma with gold PoS tag
-                lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
-                           for r in results if f'<+{tag}>' in r]
-            # return most frequent lemma
-            predicted.append(collections.Counter(lemmata).most_common()[0][0])
+        try:
+            p = run(["fst-infl2", transducer], stdout=PIPE, input=x,
+                    encoding='utf-8')
+            # list of morphological analyses, first 2 elements are '>' and 'x'
+            results = p.stdout.split()[2:]
+            # list of lemmata
+            lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results]
+            if y_test[i] in lemmata:  # gold lemma in analyses
+                predicted.append(y_test[i])
+            else:
+                tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
+                if f'<+{tag}>' in "".join(results):
+                    # return most frequent lemma with gold PoS tag
+                    lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
+                               for r in results if f'<+{tag}>' in r]
+                # return most frequent lemma
+                predicted.append(collections.Counter(lemmata).most_common()[0][0])
+        except Exception as err:
+            logger.error(x, err)
     return predicted
 
 
