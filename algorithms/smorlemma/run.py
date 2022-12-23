@@ -4,7 +4,7 @@ import logging
 import re
 import sys
 
-from subprocess import Popen, PIPE
+from subprocess import run, PIPE
 
 
 sys.path.append("../..")
@@ -57,9 +57,10 @@ def predict(x_test, y_test, z_test):
     """
     predicted = []
     for i, x in enumerate(x_test):
-        process = Popen(["fst-infl2", transducer], stdin=PIPE, stdout=PIPE)
-        stdout = process.communicate(input=x)[0]
-        results = stdout.split()  # list of morphological analyses
+        p = run(["fst-infl2", transducer], stdout=PIPE, input=x,
+                encoding='utf-8')
+        # list of morphological analyses, first 2 elements are '>' and 'x'
+        results = p.stdout.split()[2:]
         # list of lemmata
         lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results]
         if y_test[i] in lemmata:  # gold lemma in analyses
