@@ -1,4 +1,5 @@
 import collections
+import itertools
 import json
 import logging
 import re
@@ -56,7 +57,7 @@ def predict(x_test, y_test, z_test):
 
     """
     predicted = []
-    for i, x in enumerate(x_test):
+    for i, x in enumerate(list(itertools.chain(*x_test))):
         try:
             p = run(["fst-infl2", transducer], stdout=PIPE, input=x,
                     encoding='utf-8')
@@ -64,10 +65,10 @@ def predict(x_test, y_test, z_test):
             results = p.stdout.split()[2:]
             # list of lemmata
             lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r) for r in results]
-            if y_test[i] in lemmata:  # gold lemma in analyses
-                predicted.append(y_test[i])
+            if list(itertools.chain(*y_test))[i] in lemmata:  # gold lemma in analyses
+                predicted.append(list(itertools.chain(*y_test))[i])
             else:
-                tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
+                tag = smor_tags[list(itertools.chain(*z_test))[i]]  # gold uPoS tag, converted to SMOR tag
                 if f'<+{tag}>' in "".join(results):
                     # return most frequent lemma with gold PoS tag
                     lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
