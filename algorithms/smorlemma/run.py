@@ -68,11 +68,12 @@ def predict(x_test, y_test, z_test):
             if y_test[i] in lemmata:  # gold lemma in analyses
                 predicted.append(y_test[i])
             else:
-                tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
-                if f'<+{tag}>' in "".join(results):
-                    # return most frequent lemma with gold PoS tag
-                    lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
-                               for r in results if f'<+{tag}>' in r]
+                if z_test[i] in smor_tags.keys():
+                    tag = smor_tags[z_test[i]]  # gold uPoS tag, converted to SMOR tag
+                    if f'<+{tag}>' in "".join(results):
+                        # return most frequent lemma with gold PoS tag
+                        lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
+                                   for r in results if f'<+{tag}>' in r]
                 # return most frequent lemma
                 predicted.append(collections.Counter(lemmata).most_common()[0][0])
         except Exception as err:
