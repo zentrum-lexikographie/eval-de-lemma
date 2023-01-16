@@ -5,3 +5,4 @@ conllu==4.4.1
 nltk==3.5
 pandas==1.3.3
 treetaggerwrapper
+pyJoules==0.5.1
