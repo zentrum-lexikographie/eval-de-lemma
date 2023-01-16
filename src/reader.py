@@ -154,12 +154,13 @@ def read_nostad(FILE: str, normalised: bool = False):
     lemmata = {t['tokenids']: t.text for t in soup.find_all('ns3:lemma')}
     pos = {t['tokenids']: t.text for t in soup.find_all('ns3:tag')}
     for ID in tokens.keys():
-        try:  # some tokens are not lemmatized
+        try:  # some tokens are not lemmatized because they only appear in
+            # one version, original or normalized, ID still exists in both
             ytmp.append(lemmata[ID])
             xtmp.append(tokens[ID])
             ztmp.append(pos[ID])
-        except Exception as e:
-            logger.error(e)
+        except Exception:
+            pass
         if ztmp and ztmp[-1] == '$.' and len(xtmp) >= 2:  # EOS
             x.append(xtmp)
             y.append(ytmp)

@@ -5,7 +5,18 @@ import itertools
 import time
 import tracemalloc
 
+from pyJoules.device import DeviceFactory
+from pyJoules.energy_meter import EnergyMeter
+from pyJoules.handler.csv_handler import CSVHandler
+
 from src.metrics import metrics_by_pos
+
+
+devices = DeviceFactory.create_devices()
+print(devices)
+meter = EnergyMeter(devices)
+
+csv_handler = CSVHandler('../nbs/energy.csv')
 
 
 def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
@@ -41,12 +52,17 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     z_test = list(itertools.chain(*z_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
     # (A.2) predict labels
+    meter.start(tag=f'{aname}-{dname}')
     tracemalloc.start()
     t = time.time()
     y_pred = predict(x_test, y_test, z_test)
     elapsed = time.time() - t
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
+    meter.stop()
+    trace = meter.get_trace()
+    print(trace)
+    csv_handler.save_data()
     if not aname == 'germalemma':
         y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
