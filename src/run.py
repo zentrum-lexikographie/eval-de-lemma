@@ -12,9 +12,9 @@ from pyJoules.handler.csv_handler import CSVHandler
 from src.metrics import metrics_by_pos
 
 
-devices = DeviceFactory.create_devices()
-print(devices)
-meter = EnergyMeter(devices)
+#devices = DeviceFactory.create_devices()
+#print(devices)
+meter = EnergyMeter()
 
 csv_handler = CSVHandler('../nbs/energy.csv')
 
