@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     return [[simplemma.lemmatize(t, lang='de') for t in sent]
             for sent in x_test]
 

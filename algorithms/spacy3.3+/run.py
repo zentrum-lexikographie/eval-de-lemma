@@ -27,7 +27,7 @@ model = spacy.load('de_dep_news_trf')
 model.disable_pipes(["parser"])
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     y_pred = []
     docs = [spacy.tokens.doc.Doc(model.vocab, words=sequence)
             for sequence in x_test]
