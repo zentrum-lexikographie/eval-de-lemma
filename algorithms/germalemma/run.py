@@ -37,7 +37,7 @@ def lemmatize(token, pos):
         return ""
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     return [lemmatize(x_test[i], z_test[i]) for i in range(len(x_test))]
 
 
@@ -48,6 +48,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
         # (A.1) encode labels and flatten sequences
         x_test = list(itertools.chain(*x_test))
+        z_test = list(itertools.chain(*z_test))
         results.append(run_algorithm(predict, x_test, y_test, z_test,
                                      z_test_xpos, dname, 'germalemma'))
     except Exception as err:

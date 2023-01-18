@@ -27,7 +27,7 @@ model = spacy.load('de_core_news_lg')
 model.disable_pipes(["ner", "parser"])
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     lemmatizer = model.pipeline[0][1]
     docs = [lemmatizer(spacy.tokens.doc.Doc(model.vocab, words=sequence))
             for sequence in x_test]

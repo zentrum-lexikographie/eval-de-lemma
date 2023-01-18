@@ -27,7 +27,7 @@ warnings.filterwarnings("ignore")
 model = trankit.Pipeline(lang='german', gpu=False)
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     lemmatized_doc = model.lemmatize(x_test)
     return [[t['lemma'] for t in sent['tokens']]
             for sent in lemmatized_doc['sentences']]

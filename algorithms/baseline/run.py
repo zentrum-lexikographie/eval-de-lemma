@@ -21,7 +21,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def predict(x_test, y_test, z_test):
+def predict(x_test, y_test, z_test, z_test_xpos):
     # baseline lemmatization: lemma = token
     return x_test
 
