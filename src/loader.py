@@ -33,19 +33,20 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 18
+    n_datasets = 1
 
     for i in range(n_datasets):
 
         if i == 0:
-            FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, lower_first=True)
-            dname = "ud-hdt"
-
-        elif i == 1:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
+
+        elif i == 1:
+            FILE = os.path.realpath(f"{DATASETSPATH}/ud-hdt/de_hdt-ud-test.conllu")
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE,
+                                                              lower_first=True)
+            dname = "ud-hdt"
 
         elif i == 2:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-pud/de_pud-ud-test.conllu")

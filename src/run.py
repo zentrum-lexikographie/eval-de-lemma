@@ -47,15 +47,11 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
         elapsed_time, memory_current, memory_peak
 
     """
-    # (A.1) encode labels and flatten sequences
-    y_test = list(itertools.chain(*y_test))
-    z_test = list(itertools.chain(*z_test))
-    z_test_xpos = list(itertools.chain(*z_test_xpos))
-    # (A.2) predict labels
+    # (A.1) predict labels
     meter.start(tag=f'{aname}-{dname}')
     tracemalloc.start()
     t = time.time()
-    y_pred = predict(x_test, y_test, z_test)
+    y_pred = predict(x_test, y_test, z_test, z_test_xpos)
     elapsed = time.time() - t
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
@@ -63,9 +59,13 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     trace = meter.get_trace()
     print(trace)
     csv_handler.save_data()
-    if not aname == 'germalemma':
+    # (A.2) flatten sequences
+    y_test = list(itertools.chain(*y_test))
+    z_test_xpos = list(itertools.chain(*z_test_xpos))
+    if not aname == 'germalemma':  # germalemma already flattened
         y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
+        z_test = list(itertools.chain(*z_test))
     # store and output lemmatizations of first 2000 tokens
     df = []
     j = 2000
