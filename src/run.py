@@ -5,18 +5,12 @@ import itertools
 import time
 import tracemalloc
 
-#from pyJoules.device import DeviceFactory
-#from pyJoules.energy_meter import EnergyMeter
-#from pyJoules.handler.csv_handler import CSVHandler
+from codecarbon import EmissionsTracker
 
 from src.metrics import metrics_by_pos
 
 
-#devices = DeviceFactory.create_devices()
-#print(devices)
-#meter = EnergyMeter()
-
-#csv_handler = CSVHandler('../nbs/energy.csv')
+tracker = EmissionsTracker()
 
 
 def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
@@ -48,17 +42,14 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
 
     """
     # (A.1) predict labels
-    #meter.start(tag=f'{aname}-{dname}')
     tracemalloc.start()
     t = time.time()
+    tracker.start()
     y_pred = predict(x_test, y_test, z_test, z_test_xpos)
+    tracker.stop()
     elapsed = time.time() - t
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
-    #meter.stop()
-    #trace = meter.get_trace()
-    #print(trace)
-    #csv_handler.save_data()
     # (A.2) flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
