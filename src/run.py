@@ -54,8 +54,9 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
     if not aname == 'germalemma':  # germalemma already flattened
+        if not aname == 'treetagger':  # treetagger flattened tokens
+            x_test = list(itertools.chain(*x_test))
         y_pred = list(itertools.chain(*y_pred))
-        x_test = list(itertools.chain(*x_test))
         z_test = list(itertools.chain(*z_test))
     # store and output lemmatizations of first 2000 tokens
     df = []
