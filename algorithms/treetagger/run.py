@@ -26,13 +26,14 @@ warnings.filterwarnings("ignore")
 def predict(x_test, y_test, z_test, z_test_xpos):
     # write tokens to file
     with open("pretokenized.txt", "w") as fp:
-        for token in x_test:
-            fp.write(token)
+        for sent in x_test:
+            for token in sent:
+                fp.write(token)
     # call tree tagger without tokenization
     os.system("cd ../../tagger && bin/tree-tagger -token -lemma -sgml -quiet -pt-with-lemma lib/german.pa ../algorithms/treetagger/pretokenized.txt > ../algorithms/treetagger/tagged.tsv")
     output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
-    os.system("rm pretokenized.txt")
-    os.system("rm tagged.tsv")
+    #os.system("rm pretokenized.txt")
+    #os.system("rm tagged.tsv")
     return output[2].to_list()
 
 
