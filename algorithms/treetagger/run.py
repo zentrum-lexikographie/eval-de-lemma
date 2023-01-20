@@ -30,7 +30,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
             for token in sent:
                 fp.write(token)
     # call tree tagger without tokenization
-    os.system("cd ../../tagger && bin/tree-tagger -token -lemma -sgml -quiet -pt-with-lemma lib/german.par ../algorithms/treetagger/pretokenized.txt > ../algorithms/treetagger/tagged.tsv")
+    os.system("cd tagger && bin/tree-tagger -token -lemma -sgml -quiet -pt-with-lemma lib/german.par ../pretokenized.txt > ../tagged.tsv")
     output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
     #os.system("rm pretokenized.txt")
     #os.system("rm tagged.tsv")
