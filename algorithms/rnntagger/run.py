@@ -25,23 +25,22 @@ warnings.filterwarnings("ignore")
 
 def predict(x_test, y_test, z_test, z_test_xpos):
     # write tokens to file
-    with open("pretokenized.txt", "w") as fp:
+    with open("pretagged.txt", "w") as fp:
         for sent in x_test:
             for token in sent:
                 fp.write(token + '\n')
-    # call rnn tagger without tokenization
+    # call rnn tagger without tokenization and pos tagging
     # pos tags
-    os.system("python3 RNNTagger/PyRNN/rnn-annotate.py RNNTagger/lib/PyRNN/german pretokenized.txt > tagged.txt")
+    os.system("cd RNNTagger && python3 './PyRNN/rnn-annotate.py' './lib/PyRNN/german' ../pretokenized.txt > ../tagged.txt")
     # reformatting
-    os.system("perl RNNTagger/scripts/reformat.pl tagged.txt > tagged2.txt")
+    os.system("cd RNNTagger && perl './scripts/reformat.pl' ../tagged.txt > ../reformatted.txt")
     # lemmatizer with NMT
-    os.system("python3 RNNTagger/PyNMT/nmt-translate.py --print_source RNNTagger/lib/PyNMT/german tagged2.txt > tagged3.txt")
+    os.system("cd RNNTagger && python3 './PyNMT/nmt-translate.py' --print_source './lib/PyNMT/german' ../reformatted.txt > ../lemmatized.txt")
     # look-up
-    os.system("RNNTagger/scripts/lemma-lookup.pl tagged3.txt tagged.txt > tagged.tsv")
+    os.system("cd RNNTagger && './scripts/lemma-lookup.pl' ../lemmatized.txt ../tagged.txt > ../output.tsv")
     output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
     # delete temporary files
-    #os.system("rm pretokenized.txt && rm tagged.txt && rm tagged1.txt")
-    #os.system("rm tagged2.txt && rm tagged3.txt && rm tagged.tsv")
+    #os.system("rm pretokenized.txt tag*.txt tagged.tsv")
     return output[2].to_list()
 
 
