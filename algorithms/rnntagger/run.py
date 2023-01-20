@@ -25,7 +25,7 @@ warnings.filterwarnings("ignore")
 
 def predict(x_test, y_test, z_test, z_test_xpos):
     # write tokens to file
-    with open("pretagged.txt", "w") as fp:
+    with open("pretokenized.txt", "w") as fp:
         for sent in x_test:
             for token in sent:
                 fp.write(token + '\n')
