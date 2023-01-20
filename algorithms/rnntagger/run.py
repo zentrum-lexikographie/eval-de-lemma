@@ -31,13 +31,13 @@ def predict(x_test, y_test, z_test, z_test_xpos):
                 fp.write(token + '\n')
     # call rnn tagger without tokenization
     # pos tags
-    os.system("cd RNNTagger && python3 PyRNN/rnn-annotate.py lib/PyRNN/german ../pretokenized.txt > ../tagged.txt")
+    os.system("python3 RNNTagger/PyRNN/rnn-annotate.py RNNTagger/lib/PyRNN/german pretokenized.txt > tagged.txt")
     # reformatting
-    os.system("cd RNNTagger && perl scripts/reformat.pl ../tagged.txt > ../tagged2.txt")
+    os.system("perl RNNTagger/scripts/reformat.pl tagged.txt > tagged2.txt")
     # lemmatizer with NMT
-    os.system("cd RNNTagger && python3 PyNMT/nmt-translate.py --print_source lib/PyNMT/german ../tagged2.txt > ../tagged3.txt")
+    os.system("python3 RNNTagger/PyNMT/nmt-translate.py --print_source RNNTagger/lib/PyNMT/german tagged2.txt > tagged3.txt")
     # look-up
-    os.system("cd RNNTagger && scripts/lemma-lookup.pl ../tagged3.txt ../tagged.txt > ../tagged.tsv")
+    os.system("RNNTagger/scripts/lemma-lookup.pl tagged3.txt tagged.txt > tagged.tsv")
     output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
     # delete temporary files
     #os.system("rm pretokenized.txt && rm tagged.txt && rm tagged1.txt")
