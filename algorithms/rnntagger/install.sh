@@ -9,8 +9,6 @@ pip install --upgrade pip
 pip install -r "${SRCDIR}/requirements.txt"
 
 # install tagger
-mkdir tagger
-cd tagger
 wget -c https://www.cis.uni-muenchen.de/~schmid/tools/RNNTagger/data/RNNTagger-1.3.0.zip
 unzip RNNTagger-1.3.0.zip
 rm -r RNNTagger-1.3.0.zip

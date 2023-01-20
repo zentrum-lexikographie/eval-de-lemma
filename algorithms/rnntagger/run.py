@@ -29,10 +29,19 @@ def predict(x_test, y_test, z_test, z_test_xpos):
         for sent in x_test:
             for token in sent:
                 fp.write(f'{token}\n')
-    # call tree tagger without tokenization
-    os.system("cd tagger && bin/tree-tagger -token -lemma -sgml -quiet -pt-with-lemma lib/german.par ../pretokenized.txt > ../tagged.tsv")
+    # call rnn tagger without tokenization
+    # pos tags
+    os.system("cd RNNTagger && python3 PyRNN/rnn-annotate.py lib/PyRNN/german ../pretokenized.txt > ../tagged.txt")
+    # reformatting
+    os.system("perl scripts/reformat.pl ../tagged.txt > ../tagged2.txt")
+    # lemmatizer with NMT
+    os.system("python3 PyNMT/nmt-translate.py --print_source lib/PyNMT/german ../tagged2.txt > ../tagged3.txt")
+    # look-up
+    os.system("scripts/lemma-lookup.pl ../tagged3.txt ../tagged.txt > ../tagged.tsv")
     output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
-    #os.system("rm pretokenized.txt && rm tagged.tsv")
+    # delete temporary files
+    #os.system("cd .. && rm pretokenized.txt && rm tagged.txt && rm tagged1.txt")
+    #os.system("rm tagged2.txt && rm tagged3.txt && rm tagged.tsv")
     return output[2].to_list()
 
 
@@ -42,11 +51,11 @@ results = []
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
         results.append(run_algorithm(predict, x_test, y_test, z_test,
-                                     z_test_xpos, dname, 'treetagger'))
+                                     z_test_xpos, dname, 'rnntagger'))
     except Exception as err:
         logger.error(err)
 
 
 # store results
-with open("../../nbs/results-treetagger.json", "w") as fp:
+with open("../../nbs/results-rnntagger.json", "w") as fp:
     json.dump(results, fp, indent=4)
