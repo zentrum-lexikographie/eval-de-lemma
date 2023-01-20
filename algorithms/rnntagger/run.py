@@ -28,7 +28,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     with open("pretokenized.txt", "w") as fp:
         for sent in x_test:
             for token in sent:
-                fp.write(f'{token}\n')
+                fp.write(token + '\n')
     # call rnn tagger without tokenization
     # pos tags
     os.system("cd RNNTagger && python3 PyRNN/rnn-annotate.py lib/PyRNN/german ../pretokenized.txt > ../tagged.txt")
