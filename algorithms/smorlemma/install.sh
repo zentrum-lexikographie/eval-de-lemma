@@ -10,7 +10,7 @@ rm zmorge-20150315-smor_newlemma.ca.zip
 # download lexicon
 wget -c https://pub.cl.uzh.ch/users/sennrich/zmorge/lexica/zmorge-20150315.xml.zip
 unzip -q zmorge-20150315.xml.zip
-rm https://pub.cl.uzh.ch/users/sennrich/zmorge/lexica/zmorge-20150315.xml.zip
+rm zmorge-20150315.xml.zip
 
 # install venv
 python2.6 -m venv "${SRCDIR}/.venv"
