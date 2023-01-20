@@ -1,7 +1,8 @@
 import json
 import logging
+import os
+import pandas as pd
 import sys
-import treetaggerwrapper
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -22,20 +23,17 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-tagger = treetaggerwrapper.TreeTagger(TAGLANG='de', TAGDIR='tagger/')
-
-
 def predict(x_test, y_test, z_test, z_test_xpos):
-    lemmata = []
-    for sent in x_test:
-        tags = tagger.tag_text(" ".join(sent))
-        # saved as strings e.g. 'tiefe\tADJA\ttief'
-        if len(tags) != len(sent):  # treetagger tokenization may be different
-            # only tags until end of sentence length are appended
-            lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags[:len(sent)]])
-        else:
-            lemmata.append([entry.split('\t')[2] if entry and len(entry.split('\t')) >= 3 else "" for entry in tags])
-    return lemmata
+    # write tokens to file
+    with open("pretokenized.txt", "w") as fp:
+        for token in x_test:
+            fp.write(token)
+    # call tree tagger without tokenization
+    os.system("cd ../../tagger && bin/tree-tagger -token -lemma -sgml -quiet -pt-with-lemma lib/german.pa ../algorithms/treetagger/pretokenized.txt > ../algorithms/treetagger/tagged.tsv")
+    output = pd.read_csv('tagged.tsv', sep='\t')  # lines: token, pos, lemma
+    os.system("rm pretokenized.txt")
+    os.system("rm tagged.tsv")
+    return output[2].to_list()
 
 
 # (A) Run all benchmarks
