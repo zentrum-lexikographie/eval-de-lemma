@@ -167,27 +167,27 @@ def load_data(DATASETSPATH):
 
         elif i == 13:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/novelette.conll")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-novelette"
 
         elif i == 14:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-subtitles"
 
         elif i == 15:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/sermononline.conll")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-sermononline"
 
         elif i == 16:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/ted.conll")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-ted"
 
         elif i == 17:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/wikipedia.conll")
-            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
+            x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-wikipedia"
 
         if dname.startswith('empirist'):
