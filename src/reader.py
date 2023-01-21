@@ -81,7 +81,7 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
             y.append(ytmp)
             z.append(ztmp)
             z_xpos.append(z_xpostmp)
-    if not upos:  # conversion to UPOS tags
+    if not upos:  # conversion to of STTS to UPOS tags
         z = to_upos(z)
     return x, y, z, z_xpos
 
