@@ -53,7 +53,7 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     # (A.2) flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
-    if not aname == 'germalemma':  # germalemma already flattened
+    if not aname == 'germalemma':  # germalemma already flattened and tags
         # treetagger & rnntagger flattened tokens
         if not (aname == 'treetagger' or aname == 'rnntagger'):
             x_test = list(itertools.chain(*x_test))
