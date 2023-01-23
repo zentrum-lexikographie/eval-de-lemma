@@ -40,10 +40,10 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     os.system("cd RNNTagger && python3 './PyNMT/nmt-translate.py' --print_source './lib/PyNMT/german' ../reformatted.txt > ../lemmatized.txt")
     # look-up
     os.system("cd RNNTagger && './scripts/lemma-lookup.pl' ../lemmatized.txt ../tagged.txt > ../output.tsv")
-    output = pd.read_csv('output.tsv', sep='\t')  # lines: token, pos, lemma
+    output = pd.read_csv('output.tsv', sep='\t', names=["token", "pos", "lemma"])
     # delete temporary files
     os.system("rm *ed.txt output.tsv")
-    return output[2].to_list()
+    return output["lemma"].to_list()
 
 
 # (A) Run all benchmarks
