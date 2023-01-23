@@ -42,7 +42,8 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     os.system("cd RNNTagger && './scripts/lemma-lookup.pl' ../lemmatized.txt ../tagged.txt > ../output.tsv")
     output = pd.read_csv('output.tsv', sep='\t', names=["token", "pos", "lemma"])
     # delete temporary files
-    os.system("rm *ed.txt output.tsv")
+    #os.system("rm *ed.txt output.tsv")
+    print(output["lemma"].to_list()[:20])
     return output["lemma"].to_list()
 
 
