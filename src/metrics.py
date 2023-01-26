@@ -64,7 +64,7 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     res['number_of_lemmata'] = len(y_true)
 
     try:
-        res['accuracy'] = accuracy_score(y_true, y_pred, normalize=True)
+        res['accuracy'] = accuracy_score(y_true, y_pred)
     except Exception as e:
         logger.error(e)
 
@@ -87,7 +87,7 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
         logger.error(e)
 
     try:
-        res['adj_accuracy'] = balanced_accuracy_score(y_true, y_pred,
+        res['bal_accuracy'] = balanced_accuracy_score(y_true, y_pred,
                                                       adjusted=True)
     except Exception as e:
         logger.error(e)
