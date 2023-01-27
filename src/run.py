@@ -2,15 +2,11 @@
 import csv
 import gc
 import itertools
-import time
 import tracemalloc
 
 from codecarbon import EmissionsTracker
 
 from src.metrics import metrics_by_pos
-
-
-tracker = EmissionsTracker()
 
 
 def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
@@ -42,14 +38,14 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
 
     """
     # (A.1) predict labels
-    tracemalloc.start()
-    t = time.time()
+    tracker = EmissionsTracker(
+        output_file=f"../../nbs/emissions/emissions-{aname}.csv")
     tracker.start()
+    tracemalloc.start()
     y_pred = predict(x_test, y_test, z_test, z_test_xpos)
-    tracker.stop()
-    elapsed = time.time() - t
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
+    tracker.stop()
     # (A.2) flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
@@ -67,7 +63,7 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     for i in range(j):
         # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
         df.append([x_test[i], z_test[i], z_test_xpos[i], y_test[i], y_pred[i]])
-    with open(f"../../nbs/lemmata-{aname}-{dname}.csv", 'w', newline='') \
+    with open(f"../../nbs/lemmata/{aname}-{dname}.csv", 'w', newline='') \
             as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['token', 'tag', 'tag_STTS',
@@ -83,5 +79,5 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     return {
         'dataset': dname, 'sample-size': size,
         'lemmatizer': aname, 'metrics': metrics,
-        'elapsed': elapsed, 'memory_current': current,
+        'memory_current': current,
         'memory_peak': peak}
