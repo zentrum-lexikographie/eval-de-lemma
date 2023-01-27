@@ -1,6 +1,7 @@
 import json
 import logging
 import openai
+import os
 import sys
 
 sys.path.append("../..")
@@ -23,7 +24,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-openai.api_key = ""
+openai.api_key = os.environ(["OPEN_AI_KEY"])
+# export OPEN_AI_KEY=whchwdkjhwjkh636338
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
