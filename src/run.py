@@ -63,8 +63,8 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     for i in range(j):
         # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
         df.append([x_test[i], z_test[i], z_test_xpos[i], y_test[i], y_pred[i]])
-    with open(f"../../nbs/lemmata/{aname}-{dname}.csv", 'w', newline='') \
-            as csvfile:
+    with open(f"../../nbs/lemmata/{dname}/{aname}-{dname}.csv", 'w',
+              newline='', encoding="utf-8") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         csvwriter.writerow(['token', 'tag', 'tag_STTS',
                             'lemma_gold', 'lemma_pred'])

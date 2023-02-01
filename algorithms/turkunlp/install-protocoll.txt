@@ -1,0 +1,18 @@
+git clone https://github.com/TurkuNLP/Turku-neural-parser-pipeline.git
+cd Turku-neural-parser-pipeline
+git checkout orig-parser-pre-2021
+git submodule update --init --recursive
+python3 -m venv .venv
+source .venv/bin/activate
+pip3 install wheel
+pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
+pip3 install -r requirements-cpu.txt
+python3 fetch_models.py de_gsd
+echo "Na, schauen wir mal." | python3 full_pipeline_stream.py --gpu -1 --conf models_de_gsd/pipelines.yaml parse_plaintext
+
+# file: tokens separated by whitespace
+# see https://turkunlp.org/Turku-neural-parser-pipeline/old/#running-the-parser--short-version
+cat myfile.txt | python3 full_pipeline_stream.py --conf --gpu -1 models_de_gsd/pipelines.yaml parse_wslines > myfile.conllu
+cat test.txt | python3 full_pipeline_stream.py --conf --gpu -1 models_de_gsd/pipelines.yaml parse_wslines > myfile.conllu
+
+
