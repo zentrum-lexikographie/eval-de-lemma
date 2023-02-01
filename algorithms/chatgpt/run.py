@@ -24,8 +24,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
+# bash command: export OPEN_AI_KEY=INSERT_KEY_HERE
 openai.api_key = os.environ(["OPEN_AI_KEY"])
-# export OPEN_AI_KEY=whchwdkjhwjkh636338
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
