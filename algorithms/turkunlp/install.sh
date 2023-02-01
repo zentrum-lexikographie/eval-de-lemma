@@ -10,10 +10,10 @@ git submodule update --init --recursive
 
 # install venv
 python3.7 -m venv "${SRCDIR}/Turku-neural-parser-pipeline/.venv"
-source "${SRCDIR}/.venv/bin/activate"
+source "${SRCDIR}/Turku-neural-parser-pipeline/.venv/bin/activate"
 pip install --upgrade pip
 pip3 install wheel
 pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
-pip install -r "${SRCDIR}/requirements.txt"
+pip install -r "${SRCDIR}/../requirements.txt"
 python3 fetch_models.py de_gsd
 cd ..
