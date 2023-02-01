@@ -9,13 +9,11 @@ git checkout orig-parser-pre-2021
 git submodule update --init --recursive
 
 # install venv
-cd ..
-python3.7 -m venv "${SRCDIR}/.venv"
+python3.7 -m venv "${SRCDIR}/Turku-neural-parser-pipeline/.venv"
 source "${SRCDIR}/.venv/bin/activate"
 pip install --upgrade pip
 pip3 install wheel
 pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
 pip install -r "${SRCDIR}/requirements.txt"
-cd Turku-neural-parser-pipeline
 python3 fetch_models.py de_gsd
 cd ..
