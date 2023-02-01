@@ -16,4 +16,6 @@ pip install --upgrade pip
 pip3 install wheel
 pip install torch==0.4.1 -f https://download.pytorch.org/whl/torch_stable.html
 pip install -r "${SRCDIR}/requirements.txt"
+cd Turku-neural-parser-pipeline
 python3 fetch_models.py de_gsd
+cd ..
