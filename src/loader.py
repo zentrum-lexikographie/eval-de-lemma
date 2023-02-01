@@ -33,7 +33,7 @@ def load_data(DATASETSPATH):
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 2
+    n_datasets = 1
 
     for i in range(n_datasets):
 
