@@ -9,6 +9,7 @@ git checkout orig-parser-pre-2021
 git submodule update --init --recursive
 
 # install venv
+cd ..
 python3.7 -m venv "${SRCDIR}/.venv"
 source "${SRCDIR}/.venv/bin/activate"
 pip install --upgrade pip
