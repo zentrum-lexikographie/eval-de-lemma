@@ -1,4 +1,4 @@
-simplemma==0.7.0
+simplemma==0.9.1
 
 beautifulsoup4==4.9.3
 lxml==4.6.3
