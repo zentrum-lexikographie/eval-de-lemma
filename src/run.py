@@ -37,11 +37,13 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
         elapsed_time, memory_current, memory_peak
 
     """
-    # (A.1) predict labels
+    # initialize tracker
     tracker = EmissionsTracker(
-        output_file=f"../../nbs/emissions/emissions-{aname}.csv")
+        output_file=f"../../nbs/emissions/emissions-{aname}.csv",
+        on_csv_write="append")
     tracker.start()
     tracemalloc.start()
+    # (A.1) predict labels
     y_pred = predict(x_test, y_test, z_test, z_test_xpos)
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
