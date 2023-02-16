@@ -3,6 +3,7 @@ import logging
 import openai
 import os
 import sys
+import time
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -49,6 +50,8 @@ def predict(x_test, y_test, z_test, z_test_xpos):
             except Exception as e:
                 logger.error(e, answer)
             f.write(answer+'\n')
+            time.sleep(3.)  # prevent rate limit errors
+            # see https://github.com/openai/openai-cookbook/blob/main/examples/How_to_handle_rate_limits.ipynb
     print(f"{tokens} tokens used.")
     return lemmata
 
