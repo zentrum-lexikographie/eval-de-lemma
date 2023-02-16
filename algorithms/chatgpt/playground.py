@@ -1,6 +1,7 @@
 import openai
 import os
 
+# bash command: export OPEN_AI_KEY=INSERT_KEY_HERE
 openai.api_key = os.environ(["OPEN_AI_KEY"])
 
 x_test = [["Die", "grünen", "Schuhe", "haben", "mir", "nie", "gehört", "."],
@@ -8,7 +9,7 @@ x_test = [["Die", "grünen", "Schuhe", "haben", "mir", "nie", "gehört", "."],
 
 lemmata = []
 for sent in x_test:
-    prompt = f"Lemmatisiere bitte folgende Liste von Tokens: {str(sent)}"
+    prompt = f"Lemmatisiere: {str(sent)}"
     response = openai.Completion.create(
         engine="text-davinci-002",
         prompt=prompt,
@@ -16,7 +17,9 @@ for sent in x_test:
     )
     answer = response["choices"][0]["text"]
     print(answer)
-    lemmata.append(line.split(' - ')[1] for line in
-                   answer.split('\n\n')[1].split('\n'))
+    try:
+        lemmata.append(answer.split('\n\n')[0])
+    except Exception as e:
+        print(e)
 
 print(lemmata)
