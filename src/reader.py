@@ -196,7 +196,7 @@ def read_empirist(FILE: str):
                     line.strip().split('\t')
                 xtmp.append(token)  # original token
                 xtmp_norm.append(token_norm)  # normalised token
-                ytmp.append(lemma_norm)
+                ytmp.append(lemma_norm)  # normalised lemma
                 ztmp.append(tag)
         x.append(xtmp)
         x_norm.append(xtmp_norm)
