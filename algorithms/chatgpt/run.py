@@ -25,30 +25,31 @@ warnings.filterwarnings("ignore")
 
 
 # bash command: export OPEN_AI_KEY=INSERT_KEY_HERE
-openai.api_key = os.environ(["OPEN_AI_KEY"])
+openai.api_key = os.environ["OPEN_AI_KEY"]
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
     lemmata = []
-    for sent in x_test:
-        prompt = f"Lemmatisiere bitte folgende Liste von Tokens: {sent}"
-        response = openai.Completion.create(
-            engine="text-davinci-002",
-            prompt=prompt,
-            max_tokens=1024
-        )
-        answer = response["choices"][0]["text"]
-        # response structure:
-        """["Ich", "bin", "ein", "Berliner"]
-
-        Ich - ich
-        bin - sein
-        ein - ein
-        Berliner - Berliner
-
-        Please note that this lemmatization of this German text is based ..."""
-        lemmata.append(line.split(' - ')[1] for line in
-                       answer.split('\n\n')[1].split('\n'))
+    tokens = 0
+    with open('../../nbs/openai_responses.txt', 'w', encoding='uft-8') as f:
+        for sent in x_test:
+            prompt = f"Lemmatisiere die Tokenliste: {sent}"
+            response = openai.Completion.create(
+                engine="text-davinci-002",
+                prompt=prompt,
+                max_tokens=len(prompt)
+            )
+            answer = response["choices"][0]["text"]
+            tokens += response['usage']['total_tokens']
+            # response structure:
+            # \n\nDie Tokenliste wird lemmatisiert zu: ['lemma1', '...']
+            try:
+                lemmata.append(lemma.strip("'[]") for lemma in
+                               answer.split(': ')[1].split("', "))
+            except Exception as e:
+                logger.error(e, answer)
+            f.write(answer, '\n')
+    print(f"{tokens} tokens used.")
     return lemmata
 
 

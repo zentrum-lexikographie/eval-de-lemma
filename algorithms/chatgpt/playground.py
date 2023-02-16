@@ -2,7 +2,7 @@ import openai
 import os
 
 # bash command: export OPEN_AI_KEY=INSERT_KEY_HERE
-openai.api_key = os.environ(["OPEN_AI_KEY"])
+openai.api_key = os.environ["OPEN_AI_KEY"]
 
 x_test = [["Die", "grünen", "Schuhe", "haben", "mir", "nie", "gehört", "."],
           ["Wir", "haben", "Rindfleischetikettierungsüberwachungsgesetze", "gehört", "?"]]
