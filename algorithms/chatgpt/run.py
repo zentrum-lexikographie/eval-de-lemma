@@ -48,7 +48,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
                                answer.split(': ')[1].split("', "))
             except Exception as e:
                 logger.error(e, answer)
-            f.write(answer, '\n')
+            f.write(answer+'\n')
     print(f"{tokens} tokens used.")
     return lemmata
 
