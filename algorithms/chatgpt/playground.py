@@ -21,5 +21,7 @@ for sent in x_test:
         lemmata.append(answer.split('\n\n')[0])
     except Exception as e:
         print(e)
+    tokens_in, tokens_out = len(prompt.split()), len(answer.split())
+    print(f"Tokens used: {tokens_in}+{tokens_out}={tokens_in+tokens_out}")
 
 print(lemmata)
