@@ -31,7 +31,7 @@ openai.api_key = os.environ["OPEN_AI_KEY"]
 def predict(x_test, y_test, z_test, z_test_xpos):
     lemmata = []
     tokens = 0
-    with open('../../nbs/openai_responses.txt', 'w', encoding='uft-8') as f:
+    with open('../../nbs/openai_responses.txt', 'w', encoding='utf-8') as f:
         for sent in x_test:
             prompt = f"Lemmatisiere die Tokenliste: {sent}"
             response = openai.Completion.create(
