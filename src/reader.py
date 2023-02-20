@@ -36,8 +36,7 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
 
 
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
-                upos: bool = True) \
-        -> List[List[str], List[str], List[str], List[str]]:
+                upos: bool = True) -> List[List[str]]:
     """Convert a file in conllu format to a (x,y,z,z_xpos)-dataset.
 
     Parameters:
@@ -89,8 +88,7 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
     return x, y, z, z_xpos
 
 
-def read_germanc(FILE: str, translit: bool = True) \
-        -> List[List[str], List[str], List[str], List[str]]:
+def read_germanc(FILE: str, translit: bool = True) -> List[List[str]]:
     """Convert a file from GermanC corpus to a (x,y,z,z_xpos)-dataset.
 
     Parameters:
@@ -134,8 +132,7 @@ def read_germanc(FILE: str, translit: bool = True) \
     return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
-def read_nostad(FILE: str, normalised: bool = False) \
-        -> List[List[str], List[str], List[str], List[str]]:
+def read_nostad(FILE: str, normalised: bool = False) -> List[List[str]]:
     """Convert a file from NoSta-D corpus to a (x,y,z,z_xpos)-dataset.
 
     Parameters:
@@ -176,8 +173,7 @@ def read_nostad(FILE: str, normalised: bool = False) \
     return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
-def read_empirist(FILE: str) \
-        -> List[List[str], List[str], List[str], List[str]]:
+def read_empirist(FILE: str) -> List[List[str]]:
     """Convert a file from Empirist corpus to a (x,y,z,z_xpos)-dataset,
     including original and normalised tokens.
 
@@ -216,8 +212,7 @@ def read_empirist(FILE: str) \
     return x, x_norm, y, to_upos(z), z
 
 
-def read_tgermacor(FILE: str, EOS: str = '$.') \
-        -> List[List[str], List[str], List[str], List[str]]:
+def read_tgermacor(FILE: str, EOS: str = '$.') -> List[List[str]]:
     """Convert a file from TGermaCorpus to a (x,y,z,z_xpos)-dataset.
 
     Parameters:

@@ -7,11 +7,7 @@ from .reader import (read_germanc, read_conllu, read_nostad,
                      read_empirist, read_tgermacor)
 
 
-def load_data(DATASETSPATH: str) -> Generator[List[List[str]],  # tokens
-                                              List[List[str]],  # lemmata
-                                              List[List[str]],  # uPoS tags
-                                              List[List[str]],  # xPoS tags
-                                              str]:             # dataset name
+def load_data(DATASETSPATH: str) -> Generator:
     """Load tokens, gold lemmata and PoS tags (uPoS, xPoS) from all datasets.
 
     Parameters
