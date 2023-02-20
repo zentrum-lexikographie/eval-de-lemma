@@ -38,17 +38,17 @@ def predict(x_test, y_test, z_test, z_test_xpos):
         for sent in x_test:
             prompt = f"Lemmatisiere die Tokenliste: {sent}"
             response = openai.Completion.create(
-                engine="text-davinci-002",
+                engine="text-davinci-003",
                 prompt=prompt,
                 max_tokens=len(prompt)
             )
             answer = response["choices"][0]["text"]
             tokens += response['usage']['total_tokens']
             # response structure:
-            # \n\nDie Tokenliste wird lemmatisiert zu: ['lemma1', '...']
+            # \n\n['lemma1', '...']
             try:
                 lemmata.append(lemma.strip("'[]") for lemma in
-                               answer.split(': ')[1].split("', "))
+                               answer.split('\n\n')[1].split("', "))
             except Exception as e:
                 logger.error(e, answer)
             f.write(answer+'\n')
