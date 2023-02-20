@@ -35,6 +35,14 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
             for sent in xpos]
 
 
+filebreak = """
+17	denn	denn	_	KON	_	_	_	_	_
+18	er	er	_	PPER	number=sg|person=3|case=nom|gender=masc	19	subj	_	_
+19	ist	sein	_	VAFIN	number=sg|person=3|mood=ind|tense=pres	_	_	_	_
+20	mächtig	mächtig	_	ADJD	degree=pos	19	pred	_	_
+21	.	.	_	$.	_	_	_	_	_"""
+
+
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
                 upos: bool = True) -> List[List[str]]:
     """Convert a file in conllu format to a (x,y,z,z_xpos)-dataset.
@@ -59,7 +67,7 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
     """
     x, y, z, z_xpos = [], [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
-        corpus = conllu.parse(fp.read())
+        corpus = conllu.parse(fp.read().split(filebreak)[1])
     for sents in corpus:
         xtmp, ytmp, ztmp, z_xpostmp = [], [], [], []
         for tok in sents:
