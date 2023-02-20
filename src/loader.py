@@ -32,11 +32,11 @@ def load_data(DATASETSPATH: str) -> Generator:
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 2
+    n_datasets = 1
 
     for i in range(n_datasets):
 
-        if i == 0:
+        if i == 10:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -169,7 +169,7 @@ def load_data(DATASETSPATH: str) -> Generator:
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-novelette"
 
-        elif i == 14:
+        elif i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-subtitles"
