@@ -1,8 +1,9 @@
 import json
 import logging
 import os
-import pandas as pd
 import sys
+
+import pandas as pd
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -24,6 +25,7 @@ warnings.filterwarnings("ignore")
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using TreeTagger."""
     # write tokens to file
     with open("pretokenized.txt", "w") as fp:
         for sent in x_test:
@@ -36,7 +38,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return output["lemma"].to_list()
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

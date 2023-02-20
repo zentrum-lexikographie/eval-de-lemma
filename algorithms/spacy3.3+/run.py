@@ -1,7 +1,8 @@
 import logging
 import json
-import spacy
 import sys
+
+import spacy
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -22,12 +23,13 @@ DATASETSPATH = "../../datasets"
 import warnings
 warnings.filterwarnings("ignore")
 
-# (A) Instanciate SpaCy model
+# instanciate SpaCy model
 model = spacy.load('de_dep_news_trf')
 model.disable_pipes(["parser"])
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using SpaCy33+."""
     y_pred = []
     docs = [spacy.tokens.doc.Doc(model.vocab, words=sequence)
             for sequence in x_test]
@@ -38,7 +40,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return y_pred
 
 
-# (B) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

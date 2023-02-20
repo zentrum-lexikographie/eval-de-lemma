@@ -9,14 +9,14 @@ from codecarbon import EmissionsTracker
 from src.metrics import metrics_by_pos
 
 
-def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
-    """
-    Computes metrics on the outputs of a lemmatization tool on a corpus.
+def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
+        -> dict:
+    """Compute metrics on the outputs of a lemmatization tool on a corpus.
 
     Parameters
     ----------
     predict : funct
-        a function to predict the lemma of x_test
+        Function to predict the lemmata of surface forms in x_test.
     x_test : List[List[str]]
         Nested list of tokens.
     y_test : List[List[str]]
@@ -26,16 +26,15 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
     z_test_xpos : List[List[str]]
         Nested list of xPoS tags (STTS).
     dname : str
-        name of the data set.
+        Name of the data set.
     aname : str
-        name of the lemmatization algorithm.
+        Name of the lemmatization algorithm.
 
     Returns
     -------
     results : dict
-        includes dataset name, sample-size, lemmatizer name, metrics,
-        elapsed_time, memory_current, memory_peak
-
+        Includes dataset name, sample-size, lemmatizer name, metrics,
+        elapsed_time, memory_current, memory_peak.
     """
     # initialize tracker
     tracker = EmissionsTracker(
@@ -43,12 +42,12 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
         on_csv_write="append")
     tracker.start()
     tracemalloc.start()
-    # (A.1) predict labels
+    # predict labels
     y_pred = predict(x_test, y_test, z_test, z_test_xpos)
     current, peak = tracemalloc.get_traced_memory()
     tracemalloc.stop()
     tracker.stop()
-    # (A.2) flatten sequences
+    # flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
     if not aname == 'germalemma':  # germalemma flattened tokens, tags, lemmata
@@ -71,13 +70,13 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname):
         csvwriter.writerow(['token', 'tag', 'tag_STTS',
                             'lemma_gold', 'lemma_pred'])
         csvwriter.writerows(df)
-    # (A.3) Compute metrics, considering content words only, certain PoS tags
+    # compute metrics, considering content words only, certain PoS tags
     metrics = metrics_by_pos(y_test, y_pred, z_test, z_test_xpos)
     size = len(y_test)
     # delete variables, collect garbage
     del x_test, y_test, y_pred, z_test, z_test_xpos
     gc.collect()
-    # Save results
+    # save results
     return {
         'dataset': dname, 'sample-size': size,
         'lemmatizer': aname, 'metrics': metrics,

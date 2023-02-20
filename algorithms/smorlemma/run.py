@@ -2,9 +2,8 @@ import itertools
 import json
 import logging
 import re
-import sys
-
 from subprocess import run, PIPE
+import sys
 
 
 sys.path.append("../..")
@@ -34,26 +33,9 @@ smor_tags = {'NOUN': 'NN', 'PROPN': 'NPROP', 'VERB': 'V', 'ADJ': 'ADJ',
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
-    """
-    Predicts a lemma based on the SMORLemma analyses: If the gold lemma is
-    among the predictions, it is returned. Otherwise the most frequent lemma
-    with the gold PoS tag is returned or, if none of the analyses contains the
-    gold PoS tag, simply the most frequent lemma is returned.
-
-    Parameters
-    ----------
-    x_test : TYPE
-        DESCRIPTION.
-    y_test : TYPE
-        DESCRIPTION.
-    z_test : TYPE
-        DESCRIPTION.
-
-    Returns
-    -------
-    predicted : TYPE
-        DESCRIPTION.
-
+    """Predicts a lemma based on the SMORLemma analyses: If the gold lemma is
+    among the predictions, it is returned. Otherwise the empty string is
+    returned.
     """
     predicted = []
     for i, x in enumerate(list(itertools.chain(*x_test))):
@@ -74,6 +56,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return predicted
 
 
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

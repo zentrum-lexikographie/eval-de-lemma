@@ -1,7 +1,8 @@
 import json
 import logging
-import simplemma
 import sys
+
+import simplemma
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -24,11 +25,12 @@ warnings.filterwarnings("ignore")
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using Simplemma."""
     return [[simplemma.lemmatize(t, lang='de') for t in sent]
             for sent in x_test]
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

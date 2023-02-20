@@ -1,13 +1,18 @@
 # -*- coding: utf-8 -*-
+import glob
+import os
+from typing import Generator, List
+
 from .reader import (read_germanc, read_conllu, read_nostad,
                      read_empirist, read_tgermacor)
-import os
-import glob
 
 
-def load_data(DATASETSPATH):
-    """
-    Reads all tokens, gold lemmata and PoS-tags from a dataset.
+def load_data(DATASETSPATH: str) -> Generator[List[List[str]],  # tokens
+                                              List[List[str]],  # lemmata
+                                              List[List[str]],  # uPoS tags
+                                              List[List[str]],  # xPoS tags
+                                              str]:             # dataset name
+    """Load tokens, gold lemmata and PoS tags (uPoS, xPoS) from all datasets.
 
     Parameters
     ----------
@@ -16,28 +21,26 @@ def load_data(DATASETSPATH):
 
     Yields
     ------
-    List[List[str], List[str], List[str]]
-    x_test : List[str]
-        List of tokens.
-    y_test : List[str]
-        List of lemmata.
-    z_test : List[str]
-        List of uPoS-tags.
-    z_test_xpos : List[str]
-        List of xPoS-tags.
+    x_test : List[List[str]]
+        Nested list of tokens.
+    y_test : List[List[str]]
+        Nested list of gold lemmata.
+    z_test : List[List[str]]
+        Nested list of uPoS tags.
+    z_test_xpos : List[List[str]]
+        Nested list of xPoS tags.
     dname : str
         Dataset name.
-
     """
     # default output
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
+    n_datasets = 2
 
     for i in range(n_datasets):
 
-        if i == 1:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -170,7 +173,7 @@ def load_data(DATASETSPATH):
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-novelette"
 
-        elif i == 0:
+        elif i == 14:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-subtitles"

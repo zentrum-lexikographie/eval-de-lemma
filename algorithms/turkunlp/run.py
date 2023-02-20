@@ -1,8 +1,9 @@
-import conllu
 import json
 import logging
 import os
 import sys
+
+import conllu
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -25,6 +26,7 @@ warnings.filterwarnings("ignore")
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a list of tokens with Universal Lemmatizer."""
     # write tokens to txt file
     with open("tmp.txt", "w", encoding="utf-8") as f:
         for sent in x_test:  # one sentence per line
@@ -40,7 +42,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return lemmata
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
