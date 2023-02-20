@@ -34,12 +34,6 @@ def to_upos(xpos: List[List[str]]) -> List[List[str]]:
     return [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
             for sent in xpos]
 
-filebreak = """
-9	aus	aus	_	APPR	_	_	_	_	_
-10	den	der	_	ART	number=pl|case=dat|gender=neut	_	_	_	_
-11	Archiven	Archiv	_	NN	number=pl|case=dat|gender=neut	_	_	_	_
-12	geholt	holen	_	VVPP	_	_	_	_	_
-13	.	.	_	$.	_	_	_	_	_"""
 
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
                 upos: bool = True) -> List[List[str]]:
@@ -65,7 +59,7 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
     """
     x, y, z, z_xpos = [], [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
-        corpus = conllu.parse(fp.read().split(filebreak)[1])
+        corpus = conllu.parse(fp.read())
     for sents in corpus:
         xtmp, ytmp, ztmp, z_xpostmp = [], [], [], []
         for tok in sents:

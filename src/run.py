@@ -36,17 +36,21 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
         Includes dataset name, sample-size, lemmatizer name, metrics,
         elapsed_time, memory_current, memory_peak.
     """
-    # initialize tracker
-    tracker = EmissionsTracker(
-        output_file=f"../../nbs/emissions/emissions-{aname}.csv",
-        on_csv_write="append")
-    tracker.start()
-    tracemalloc.start()
-    # predict labels
-    y_pred = predict(x_test, y_test, z_test, z_test_xpos)
-    current, peak = tracemalloc.get_traced_memory()
-    tracemalloc.stop()
-    tracker.stop()
+    if not dname == 'chatgpt':
+        # initialize tracker
+        tracker = EmissionsTracker(
+            output_file=f"../../nbs/emissions/emissions-{aname}.csv",
+            on_csv_write="append")
+        tracker.start()
+        tracemalloc.start()
+        # predict labels
+        y_pred = predict(x_test, y_test, z_test, z_test_xpos)
+        current, peak = tracemalloc.get_traced_memory()
+        tracemalloc.stop()
+        tracker.stop()
+    else:  # read predictions from files
+        y_pred = predict(x_test, dname)
+        current, peak = 0, 0
     # flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
