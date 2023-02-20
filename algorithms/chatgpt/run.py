@@ -1,14 +1,12 @@
+# -*- coding: utf-8 -*-
 import json
 import logging
-import os
 import sys
-import time
-
-import openai
 
 sys.path.append("../..")
 from src.loader import load_data
 from src.run import run_algorithm
+from postprocess import clean_up
 
 
 # logging settings
@@ -26,34 +24,10 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# bash command: export OPEN_AI_KEY=INSERT_KEY_HERE
-openai.api_key = os.environ["OPEN_AI_KEY"]
-
-
-def predict(x_test, y_test, z_test, z_test_xpos):
-    """Query the OpenAI API to predict lemmata of a list of sentences."""
-    lemmata = []
-    tokens = 0
-    with open('../../nbs/openai_responses.txt', 'w', encoding='utf-8') as f:
-        for sent in x_test:
-            prompt = f"Lemmatisiere die Tokenliste: {sent}"
-            response = openai.Completion.create(
-                engine="text-davinci-003",
-                prompt=prompt,
-                max_tokens=len(prompt)
-            )
-            answer = response["choices"][0]["text"]
-            tokens += response['usage']['total_tokens']
-            # response structure:
-            # \n\n['lemma1', '...']
-            try:
-                lemmata.append(lemma.strip("'[]") for lemma in
-                               answer.split('\n\n')[1].split("', "))
-            except Exception as e:
-                logger.error(e, answer)
-            f.write(answer+'\n')
-            time.sleep(3.)  # prevent rate limit errors
-    print(f"{tokens} tokens used.")
+def predict(x_test, dname):
+    """Read lemmata from API query outputs."""
+    lemmata = clean_up(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt')
+    # TODO prevent index errors
     return lemmata
 
 
