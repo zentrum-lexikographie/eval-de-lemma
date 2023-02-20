@@ -28,6 +28,7 @@ tagger = ht.HanoverTagger('morphmodel_ger.pgz')
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using HanTa."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence
         lemmata += [[tagger.analyze(token, taglevel=1)[0]
@@ -35,7 +36,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return lemmata
 
 
-# (A) Run all benchmarks
+# 1. run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
@@ -51,8 +52,9 @@ with open("../../nbs/results-hanta.json", "w") as fp:
     json.dump(results, fp, indent=4)
 
 
-# run with PoS tags in input
+# 2. run with PoS tags in input
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a PoS-tagged list of tokens using HanTa."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence
         lemmata += [[tagger.analyze(token, taglevel=1,
@@ -61,7 +63,6 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return lemmata
 
 
-# (A) Run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

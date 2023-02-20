@@ -1,8 +1,9 @@
-from germalemma import GermaLemma
 import itertools
 import json
 import logging
 import sys
+
+from germalemma import GermaLemma
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -38,15 +39,16 @@ def lemmatize(token, pos):
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Lemmatize a flat list of tokens with GermaLemma."""
     return [lemmatize(x_test[i], z_test[i]) for i in range(len(x_test))]
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
-        # (A.1) encode labels and flatten sequences
+        # encode labels and flatten sequences
         x_test = list(itertools.chain(*x_test))
         z_test = list(itertools.chain(*z_test))
         results.append(run_algorithm(predict, x_test, y_test, z_test,

@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-import conllu
 import logging
 import os
 from typing import List
+
 from bs4 import BeautifulSoup
+import conllu
 
 # logging settings
 logger = logging.getLogger(__name__)
@@ -18,7 +19,7 @@ logging.basicConfig(
 pos_dict = {}
 pos_dict['PROAV'] = 'ADV'  # tag missing in list
 
-# ../src/stts_to_upos.txt
+# fill pos_dict, structure {xPoS: uPoS}
 with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
           encoding='utf-8') as f:
     file = f.readlines()
@@ -29,31 +30,33 @@ with open(os.path.realpath('../../src/stts_to_upos.txt'), 'r',
 
 
 def to_upos(xpos: List[List[str]]) -> List[List[str]]:
-    """convert nested list of STTS tags to universal PoS tags"""
+    """Convert a nested list of STTS tags to universal PoS tags."""
     return [[pos_dict[p] if p in pos_dict.keys() else 'UNK' for p in sent]
             for sent in xpos]
 
 
 def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
-                upos: bool = True):
-    """Convert file in conllu format to a (x,y,z)-Dataset
+                upos: bool = True) \
+        -> List[List[str], List[str], List[str], List[str]]:
+    """Convert a file in conllu format to a (x,y,z,z_xpos)-dataset.
+
     Parameters:
     -----------
     FILE : str
-        The path to the data file
+        The path to the data file.
     lower_first : bool
         Transform the first lemma of a sentence to lower case
-        (except from nouns)
+        (except from nouns).
     EOS : str
         End-of-sentence universal STTS tag, usually '$.',
-        but in case of PUD '.'
+        but in case of PUD '.'.
     upos : bool
-        True if UPOS tags are available.
+        True if uPoS tags are available.
+
     Returns:
     --------
-    examples: List[List[str], List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y),
-        PoS tags (z) and SSTS PoS tags (z_xpos)
+        All tokenized sequences as nested lists of word tokens (x),
+        lemmata (y), uPoS tags (z) and xPoS tags (z_xpos).
     """
     x, y, z, z_xpos = [], [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:
@@ -67,7 +70,7 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
                 if tok['xpos'] in pos_dict.keys():
                     # prevent keyerror
                     if lower_first and sents.index(tok) == 0 \
-                        and not pos_dict[tok['xpos']] in {'NOUN', 'PROPN'}:
+                            and not pos_dict[tok['xpos']] in {'NOUN', 'PROPN'}:
                         # lower first lemma, needed for HDT corpus
                         ylem = tok['lemma'].lower()
                 ytmp.append(ylem)
@@ -81,27 +84,29 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
             y.append(ytmp)
             z.append(ztmp)
             z_xpos.append(z_xpostmp)
-    if not upos:  # conversion to of STTS to UPOS tags
+    if not upos:  # conversion of STTS to uPoS tags
         z = to_upos(z)
     return x, y, z, z_xpos
 
 
-def read_germanc(FILE: str, translit: bool = True):
-    """Convert file from GermanC corpus to a (x,y,z)-Dataset
+def read_germanc(FILE: str, translit: bool = True) \
+        -> List[List[str], List[str], List[str], List[str]]:
+    """Convert a file from GermanC corpus to a (x,y,z,z_xpos)-dataset.
+
     Parameters:
     -----------
     FILE : str
-        The path to the data file
+        The path to the data file.
     translit : bool
         If set to True, the transliterated form of the token is used instead
         of the original, e.g. "kömmet" instead of "koͤmmet".
+
     Returns:
     --------
-    examples: List[List[str], List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z) in uPoS and STTS version
+        All tokenized sequences as nested lists of word tokens (x),
+        lemmata (y), uPoS tags and xPoS tags (z).
     """
-    # 1: original word, 2: transliteration
+    #  column index: 1 (original word), 2 (transliteration)
     if translit:
         colidx = 2
     else:
@@ -129,20 +134,22 @@ def read_germanc(FILE: str, translit: bool = True):
     return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
-def read_nostad(FILE: str, normalised: bool = False):
-    """Convert file from GermanC corpus to a (x,y,z)-Dataset
+def read_nostad(FILE: str, normalised: bool = False) \
+        -> List[List[str], List[str], List[str], List[str]]:
+    """Convert a file from NoSta-D corpus to a (x,y,z,z_xpos)-dataset.
+
     Parameters:
     -----------
     FILE : str
-        The path to the data file
+        The path to the data file.
     normalised : bool
         If set to True, the normalised form of the file is used instead
         of the original (no orthographic variation, ellipses corrected).
+
     Returns:
     --------
-    examples: List[List[str], List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z) in uPoS and xPoS (STTS) verison
+        All tokenized sequences as nested lists of word tokens (x),
+        lemmata (y), uPoS tags and xPoS tags (z).
     """
     # parse file
     x, y, z = [], [], []
@@ -169,18 +176,20 @@ def read_nostad(FILE: str, normalised: bool = False):
     return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
 
 
-def read_empirist(FILE: str):
-    """Convert file from Empirist corpus to a (x,y,z)-Dataset, including
-    original and normalised tokens
+def read_empirist(FILE: str) \
+        -> List[List[str], List[str], List[str], List[str]]:
+    """Convert a file from Empirist corpus to a (x,y,z,z_xpos)-dataset,
+    including original and normalised tokens.
+
     Parameters:
     -----------
     FILE : str
-        The path to the data file
+        The path to the data file.
+
     Returns:
     --------
-    examples: List[List[str], List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y) and
-        PoS tags (z)
+        All tokenized sequences as nested lists of word tokens (x), normalized
+        word tokens (x_norm), lemmata (y), uPoS tags and xPoS tags (z).
     """
     # parse file
     x, x_norm, y, z = [], [], [], []
@@ -207,20 +216,22 @@ def read_empirist(FILE: str):
     return x, x_norm, y, to_upos(z), z
 
 
-def read_tgermacor(FILE: str, EOS: str = '$.'):
-    """Convert file from TGermaCorpus to a (x,y,z)-Dataset
+def read_tgermacor(FILE: str, EOS: str = '$.') \
+        -> List[List[str], List[str], List[str], List[str]]:
+    """Convert a file from TGermaCorpus to a (x,y,z,z_xpos)-dataset.
+
     Parameters:
     -----------
     FILE : str
-        The path to the data file
+        The path to the data file.
     EOS : str
         End-of-sentence universal STTS tag, usually '$.',
         but in some cases '.'
+
     Returns:
     --------
-    examples: List[List[str], List[str], List[str], List[str]]
-        All tokenized sequences with word tokens (x), lemmata (y),
-        PoS tags (z) and SSTS PoS tags (z_xpos)
+        All tokenized sequences as nested lists of word tokens (x),
+        lemmata (y), uPoS tags and xPoS tags (z).
     """
     x, y, z = [], [], []
     with open(FILE, 'r', encoding='utf-8') as fp:

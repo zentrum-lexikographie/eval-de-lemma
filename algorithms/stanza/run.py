@@ -1,9 +1,8 @@
-import itertools
 import json
 import logging
-import stanza
 import sys
 
+import stanza
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -25,18 +24,19 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# (A) Load stanza model
+# load stanza model
 model = stanza.Pipeline(
     lang='de', processors='tokenize,pos,lemma',
     tokenize_pretokenized=True)
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using Stanza."""
     docs = model(x_test)
     return [[t.lemma for t in sent.words] for sent in docs.sentences]
 
 
-# (B) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
@@ -53,13 +53,14 @@ with open("../../nbs/results-stanza.json", "w") as fp:
 
 
 # run with PoS tags in input
-# (A) Load stanza model
+# load stanza model
 model = stanza.Pipeline(
     lang='de', processors='tokenize,lemma',
     lemma_pretagged=True, tokenize_pretokenized=True)
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a PoS-tagged list of tokens using Stanza."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence
         doc = stanza.models.common.doc.Document([[{'id': i, 'text': token,
@@ -71,7 +72,7 @@ def predict(x_test, y_test, z_test, z_test_xpos):
     return lemmata
 
 
-# (B) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

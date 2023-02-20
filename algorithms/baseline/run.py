@@ -22,11 +22,11 @@ warnings.filterwarnings("ignore")
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
-    # baseline lemmatization: lemma = token
+    """Perform baseline lemmatization: lemma = token."""
     return x_test
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

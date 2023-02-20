@@ -1,9 +1,10 @@
 import json
 import logging
-import openai
 import os
 import sys
 import time
+
+import openai
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -30,6 +31,7 @@ openai.api_key = os.environ["OPEN_AI_KEY"]
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Query the OpenAI API to predict lemmata of a list of sentences."""
     lemmata = []
     tokens = 0
     with open('../../nbs/openai_responses.txt', 'w', encoding='utf-8') as f:
@@ -51,12 +53,11 @@ def predict(x_test, y_test, z_test, z_test_xpos):
                 logger.error(e, answer)
             f.write(answer+'\n')
             time.sleep(3.)  # prevent rate limit errors
-            # see https://github.com/openai/openai-cookbook/blob/main/examples/How_to_handle_rate_limits.ipynb
     print(f"{tokens} tokens used.")
     return lemmata
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

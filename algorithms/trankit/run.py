@@ -1,6 +1,7 @@
 import json
 import logging
 import sys
+
 import trankit
 
 sys.path.append("../..")
@@ -23,17 +24,18 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# (A) Load trankit model
+# load trankit model
 model = trankit.Pipeline(lang='german', gpu=False)
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using Trankit."""
     lemmatized_doc = model.lemmatize(x_test)
     return [[t['lemma'] for t in sent['tokens']]
             for sent in lemmatized_doc['sentences']]
 
 
-# (A) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

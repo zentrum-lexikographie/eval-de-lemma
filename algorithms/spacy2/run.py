@@ -1,7 +1,8 @@
 import logging
 import json
-import spacy
 import sys
+
+import spacy
 
 sys.path.append("../..")
 from src.loader import load_data
@@ -22,19 +23,20 @@ DATASETSPATH = "../../datasets"
 import warnings
 warnings.filterwarnings("ignore")
 
-# (A) Instanciate SpaCy model
+# instanciate SpaCy model
 model = spacy.load('de_core_news_lg')
 model.disable_pipes(["ner", "parser"])
 
 
 def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a nested list of tokens using SpaCy2."""
     lemmatizer = model.pipeline[0][1]
     docs = [lemmatizer(spacy.tokens.doc.Doc(model.vocab, words=sequence))
             for sequence in x_test]
     return [[w.lemma_ for w in doc] for doc in docs]
 
 
-# (B) Run all benchmarks
+# run all benchmarks
 results = []
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):

@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
-from sklearn.metrics import (
-    recall_score, precision_score, f1_score,
-    accuracy_score, balanced_accuracy_score)
 from typing import List
 import logging
+
+from nltk.metrics import edit_distance
 import numpy as np
 import pandas as pd
-from nltk.metrics import edit_distance
+from sklearn.metrics import (recall_score, precision_score, f1_score,
+                             accuracy_score, balanced_accuracy_score)
 
 from src.reader import pos_dict
 
@@ -21,9 +21,25 @@ logging.basicConfig(
 )
 
 
-def log_levenshtein(y_true: List[str], y_pred: List[str], sub: int = 1) -> float:
-    """logarithmized Levenshtein distance
-    sub: substitution cost, default 1, else 2 substitution = insert+delete"""
+def log_levenshtein(y_true: List[str], y_pred: List[str], sub: int = 1) \
+        -> float:
+    """Compute the logarithmized Levenshtein distance.
+
+    Parameters
+    ----------
+    y_true : List[str]
+        List of gold lemmata.
+    y_pred : List[str]
+        List of predicted lemmata.
+    sub : int, optional
+        Cost for a substition (deletion and insertion costs are 1).
+        The default is 1.
+
+    Returns
+    -------
+    float
+        Logarithmized Levenshtein distance.
+    """
     N = len(y_true)
     try:
         loglev = sum(np.log(edit_distance(y_true[i], y_pred[i],
@@ -35,7 +51,7 @@ def log_levenshtein(y_true: List[str], y_pred: List[str], sub: int = 1) -> float
 
 
 def levenshtein(y_true: List[str], y_pred: List[str]) -> float:
-    """average Levenshtein distance"""
+    """Compute average Levenshtein distance."""
     N = len(y_true)
     try:
         lev = sum((edit_distance(y_true[i], y_pred[i]))
@@ -46,7 +62,7 @@ def levenshtein(y_true: List[str], y_pred: List[str]) -> float:
 
 
 def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
-    """average Levenshtein distance normalized by word length"""
+    """Compute average Levenshtein distance normalized by word length."""
     N = len(y_true)
     try:
         lev = sum((edit_distance(y_true[i], y_pred[i])/len(y_true[i]))
@@ -57,9 +73,7 @@ def levenshtein_wordlen(y_true: List[str], y_pred: List[str]) -> float:
 
 
 def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
-    """
-    compute different token-level and character-level metrics
-    """
+    """Compute different token-level and character-level metrics."""
     res = {}
     res['number_of_lemmata'] = len(y_true)
 
@@ -105,7 +119,7 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
 def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
                    z_xpos, UPOS: set = {'ADJ', 'ADV', 'NOUN', 'PROPN',
                                         'VERB'}) -> dict:
-    """compute metrics by POS tag"""
+    """Compute metrics overall, by uPoS and xPoS tag."""
     res = {}
     data = pd.DataFrame({'y_true': y_true, 'y_pred': y_pred, 'uPoS': z_upos,
                          'xPoS': z_xpos})
@@ -128,6 +142,7 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
 
 
 def demo():
+    """A short demo of the different metrics."""
     y1 = ['das', 'der', 'die']
     y2 = ['das', 'der', 'der']
     print(log_levenshtein(y1, y2), levenshtein(y1, y2),
