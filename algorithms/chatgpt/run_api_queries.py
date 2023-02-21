@@ -35,23 +35,23 @@ def lemmatize_query(x_test, dname):
     with open(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt', 'w',
               encoding='utf-8') as f:
         for sent in x_test:
-            prompt = f"Lemmatisiere die Tokenliste: {sent}"
-            response = openai.Completion.create(
-                engine="text-davinci-003",
-                prompt=prompt,
-                max_tokens=len(prompt)
-            )
-            answer = response["choices"][0]["text"]
-            tokens += response['usage']['total_tokens']
-            f.write(answer+'\n')
-            time.sleep(3.)  # prevent rate limit errors
+            try:
+                prompt = f"Lemmatisiere die Tokenliste: {sent}"
+                response = openai.Completion.create(
+                    engine="text-davinci-003",
+                    prompt=prompt,
+                    max_tokens=len(prompt)
+                )
+                answer = response["choices"][0]["text"]
+                tokens += response['usage']['total_tokens']
+                f.write(answer+'\n')
+                time.sleep(3.)  # prevent rate limit errors
+            except Exception as err:
+                logger.error(err)
     print(f"{tokens} tokens used.")
     return lemmata
 
 
 # lemmatize all datasets
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
-    try:
-        lemmatize_query(x_test, dname)
-    except Exception as err:
-        logger.error(err)
+    lemmatize_query(x_test, dname)
