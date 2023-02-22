@@ -1,0 +1,191 @@
+
+
+['das', 'wär', ',', 'alle', 'Teilnehmer', 'herzlich', 'Dank', '!', '#dtaclarin14']
+
+
+['CLARIN', 'VLO', ':', 'https', 'catalog','clarin','eu','#','dtaclarin14']
+
+
+Dieter Van Uytvanck (Nijmegen): Auf der Suche nach Sprachressourcen: CLARINs Virtual Language Observatory #dtaclarin14
+
+
+Praktisch | Beispiel | der | Wortverlaufskurve | : | Abnahme | von | erweitert | Partizipialattribut | mit | " | haben | " | : | http://bit.ly/1EUPPhK | #dtaclarin14
+
+
+['WLAN', 'an', 'der', '@bbaw_de', 'heute', 'leider', 'sehr', 'instabil', 'und', 'nicht', 'wirklich', 'brauchbar', '.', 'tun', 'uns', 'leid', '...', '#dtaclarin14']
+
+
+['der', 'Troll', ',', 'der', 'noch', 'im', '@dwds_de', 'fehlen', ':', 'http://de.m.wikipedia.org/wiki/Troll_(Netzkultur)', '…', '#dtaclarin14']
+
+
+['"', 'in', 'welche', 'Modus', 'werden', 'werden', 'in', 'einige', 'Jahr', 'kommunizieren', '?', '"', '@berlinothar', '#ibk', '#cmc', '#dtaclarin14']
+
+
+['Erfurt', 'europäisch', 'Welt', 'und', 'Staatsgeschichte', ':', '20', 'Ausgabe', 'von', '1744', 'aus', 'dem', 'MKHZ', 'bereits', 'in', 'DTAQ', 'http://www.deutschestextarchiv.de/dtaq/about', '#dtaclarin14']
+
+
+Mannheimer#NOUN Zeitungskorpus#NOUN :#PUNCT 652#NUM Ausgabe#NOUN ,#PUNCT 4678#NUM Seite#NOUN ,#PUNCT 4,1#NUM Mio#NOUN Tokens#NOUN ,#PUNCT 18#NUM und#CONJ 19#NUM Jh#NOUN ,#PUNCT D#NOUN und#CONJ AT#NOUN #HASHTAG dtaclarin14#NOUN
+
+
+['E', 'Teich', ',', 'H', 'Kermes', ',', 'C', 'Draxler', ':', 'kontextualisieren', 'von', 'Sprachressource', 'und', '-technologie', 'in', 'der', 'Geisteswissenschaft', 'Forschung', '#dtaclarin14']
+
+
+['@xyzbaba', '"', 'ich', 'wollen', 'ein', 'Tweed', 'für', 'all', 'schreiben', ',', 'haben', 'wohl', 'nicht', 'klappen', '"', '<-', 'einfach', 'Schlagwort', '#semibk', 'einbauen', ',', 'dann', 'klappen', 'das', ':)']
+
+
+['@SimMüller', '#semibk', '"', 'zwitschern', 'zwitschern', 'geschaffen', '"', '<-', 'aha', '!', 'es', 'zwitscher', 'im', 'virtuell', 'geäst', '!', ';)', 'http://tinyurl.com/6hg24tw']
+
+
+['@Mia1234', '#semibk', '"', 'werden', 'funktionieren', 'der', 'mit', 'pdf', '?', '"', '<-', 'Wenn', 'Sie', 'Word', 'verwenden', ',', 'dann', 'speichern', 'Sie', 'Ihr', 'Dokument', 'doch', 'einfach', 'als', '"', 'Word', '97', '"', 'oder', 'RTF']
+
+
+['@Ramiona', '"', 'openoffice', 'dokument', '...', 'oder', 'nur', 'als', 'word', '"', '<-', 'am', 'liebst', 'werden', 'RTF', 'oder', 'PDF', '-', 'dies', 'können', 'ihr', 'offen', 'Büro', 'doch', ',', 'oder' '?', ':)']
+
+
+['#semibk', 'hier', 'noch', 'mal', 'schriftlich', '+', 'zum', 'nachlesen', ':', 'verlängern', 'der', 'Frist', 'für', 'die', 'fertigstellen', 'der', 'Einstiegsreflexion', 'bis', 'zum', '12.', '5.']
+
+
+['@kelly456', '#semibk', '"', 'können', 'man', 'der', 'Ergebnis', 'v.', '14.', '4.', 'nachlesen', '?', '"', '<-', 'ja', ',', 'im', 'Profil', 'von', 'Frau', 'Baumann', '/', '@abcmaria', '(', 'dort', 'unter', '"', 'weiterer', 'Tweet', '"', ')']
+
+
+['#semibk', 'wir', 'nutzen', 'dann', 'ein', '"', 'Twitterwall', '"', '.', 'mal', 'sehn', ',', 'ob', '/', 'wie', 'chaotisch', 'der', 'sei', '.', ';)', 'Ich', 'schreiben', 'das', 'vielleicht', 'auch', 'noch', 'mal', 'per', 'Rundmail', '..', ':)']
+
+
+['#semibk', 'ich', 'vergessen', 'ganz', 'ankündigen', ',', 'dass', 'sie', 'all', 'in', 'der', 'nächst', 'Sitzung', 'vortragsbegleitend', 'per', 'Twitter', 'kommentieren', '/', 'Rückfrage', 'dürfen', '.', ';)']
+
+
+Interessant Hintergrundstory zu Twitter heute auf Spiegel Online : http://tinyurl.com/6heegfw #semibk
+
+
+['@aPfeL4321', 'Das', 'TB', 'sollen', 'allerdings', 'gut', 'lesbar', 'sein', '.', 'Vllt', 'lesen', 'Sie', 'vor', 'Abgabe', 'einfach', 'noch', 'mal', 'drüber', 'und', 'glätten', 'dann', 'ggf.', 'noch', 'ein', 'wenig', ':)']
+
+
+['@aPfeL4321', 'das', 'Tagebuch', 'über', 'ihr', 'Twittererkundung', 'sein', 'ein', '"', 'Experiment', '"', '-', 'insofern', 'muss', 'es', 'auch', 'nicht', 'der', 'Charakter', 'einer', 'wissen', 'Arbeit', 'haben', '.']
+
+
+['@Biggi_1010', '#semibk', '"', 'der', 'Tagebuch', 'werden', 'bestimmen', 'sehr', 'spannend', '"', '<-', 'klingen', 'ungemein', 'vielversprechen', '.', ':-)']
+   
+
+['@Montaaag', '#semibk', '"', 'ich', 'können', 'erstaunlich', 'viel', 'schreiben', '"', '<-', 'denken', 'ich', 'mir', 'doch', ',', 'dass', 'sich', 'der', 'Tagebuch', 'schnell', 'füllen', ';)']
+
+
+['@Biggi_1010', '#semibk', '...', 'insofern', 'entschuldigen', 'ich', 'mich', 'für', 'der', 'Wurf', 'in', 'kalt', 'Wasser', '-', 'und', 'sein', 'höchst', 'gespannt', 'auf', 'die', 'Nutzung', 'Tagebuch', '!', ':D']
+
+
+['@Biggi_1010', '#semibk', 'er', 'sein', 'von', 'mein', 'Seite', 'hier', 'jawohl', 'auch', 'ein', 'wenig', 'Vorsatz', 'dabei', ',', 'Sie', 'was', 'Neu', '/', 'noch', 'nicht', 'Vertraut', 'ausprobieren', 'zu', 'lassen', '.']
+
+
+['@Biggi_1010', 'Klick', 'sie', 'mal', 'oben', 'recht', 'auf', 'Ihrer', 'Name', ',', 'da', 'gibt', 'ein', '"', 'Hilfe-Center', '"', '.', ':)']
+
+
+['@Biggi_1010', '#semibk', 'Immerhin', 'haben', 'Sie', 'es', 'soeben', 'schaffen', ',', 'Ihr', 'erst', '"', 'Tweet', '"', 'absetzen', '-', 'Das', 'sein', 'doch', 'schon', 'mal', 'was', '!', ':-)']
+
+
+['@Montaaag', '#semibk', '"', 'Anstoß', 'zur', 'Einstieg', 'Reflexion', '"', '<-', 'das', 'ver3fachten', 'Vokalgraphem', 'in', 'ihr', 'Twittername', 'wären', 'übrigens', 'auch', 'reflexionwürdig', ';)']
+
+
+['@Montaaag', '#semibk', '"', 'geben', 'Anstoß', 'zur', 'Einstiegsreflexion', '!', '"', '<-', 'sehr', 'schön', ',', 'dann', 'sein', 'mal', 'gespannt', '-', 'und', 'wünschen', 'ein', 'sonnig', 'Sonntag', '!']
+
+
+['@Montaaag', '#semibk', '"', 'Emoticon', '=', 'schriftl.', 'Äquivalent', 'zur', 'Mimik', '?', '...', 'es', 'sein', 'vllt', 'ein', 'Versuch', ',', 'doch', 'fehlen', 'einig', '!', '"', '<-', 'was', 'fehlen', '?', 'was', 'sein', 'anders', '?']
+
+
+['#semibk', 'Handout', 'mit', 'Hinweis', 'zur', 'Einstiegsreflexion', 'sein', 'online', '.', 'http://www.ews.tu-dortmund.de/']
+
+
+['@Mia1234', '#semibk', '"', 'groß', '/', 'kleinschreibung', '..', 'nicht', 'so', 'wichtig', 'für', 'das', 'Verständnis', '"', '<--', 'Grund', '?', 'Und', ':', 'Verhalten', 'es', 'sich', 'in', 'anderes', 'Kommunikation', 'anders', '?']
+
+
+'"', 'emoticon', ',', 'usw.', '"', '<--', 'sein', 'emoticon', 'eigentlich', 'ein', 'schriftlich', 'äquivalent', 'zu', 'mimik', 'in', 'face2face-komm.', '?', 'oder', 'geben', 'es', 'unterschied', '?', '#semibk
+
+
+'"'  -->
+'asynchroner' --> asynchron
+'Ablauf' --> Ablauf
+'/' --> /
+'Durcheinander' --> Durcheinander
+'der' --> der
+'Abfolge' --> Abfolge
+'"' --> '
+'<--' --> <-
+'Gründe' --> Grund
+'?' --> ?
+'Ignorieren' --> ignorieren
+'die' --> die
+'Chatter' --> Chatter
+'die' --> die
+'Vorbeiträge' --> Vorbeitrag
+'ihrer' --> ihr
+'Partner' --> Partner
+'? --> ?
+'Oder' --> Oder
+'woran' --> woran
+"liegt's" --> liegen
+'?' --> ?
+'#semibk' --> #semibk
+
+
+['"', 'fehlerhaft', 'Interpunktion', 'in', 'der', 'IBK', '"', '<--', "'", 'Fehler', '(', 'unbewusst', ')', 'oder', 'Verzicht', '(', 'bewusst', ')', "'", 'sein', 'auch', 'hier', 'die', 'Frag', '!', 'Jemand', 'Idee', '?', '#semibk']
+
+
+'"', 'kein', 'Beachtung', 'Groß', 'und', 'Kleinschreibung', '"', '<--', 'Zeichen', '1', ')', 'mangeln', 'Kompetenz', '?', 'Oder', '2', ')', 'geflissentlich', 'Vernachlässigung', '?', 'Wenn', '2', ':', 'warum', '?', '#semibk'
+
+
+['#semibk', 'Idee', ',', 'Rückmeldung', ',', 'Stellungnahme', 'erwünschen', '!', ':)']
+
+
+['#semibk', 'klicken', 'sie', 'jeweilig', 'auf', 'der', 'Sprechblase', 'recht', 'oben', 'in', 'mein', 'Beitrag', ',', 'um', 'zu', 'sehen', ',', 'auf', 'welchen', 'Vorbeitrag', 'ich', 'mich', 'beziehen', '.']
+
+
+ok , comma ich kommentieren die aus der sitzung festgehalten punkt jetzt mal ein bisschen . #semibk
+
+
+['@Montaaag', '..', 'und', 'insbesondere', 'können', 'man', 'sie', 'nicht', 'überhören', '!', 'Auf', 'weiter', 'Potenzial', 'd.', 'Schrift', 'kommen', 'wir', 'im', 'Seminar', 'noch', 'zu', 'sprechen', '#semibk']
+
+
+['@Montaaag', '...', 'weiternutzen', ':)', '#semibk', 'womit', 'sie', 'ein', 'wichtig', 'Potential', 'der', 'Schriftlichkeit', 'benennen', 'haben', ':', 'Schrift', 'können', 'man', 'nachlesen', '+']
+
+
+['@abcmaria', 'herzlich', 'danken', 'für', 'Speed-Tippen', '!', 'daher', 'geben', 'nächster', 'Woche', 'ein', 'Ü-Ei', '!', ':-)', '#semibk']
+
+
+['Herzlich', 'willkommen', '@Mia1234', ':)'] ->  ['herzlich', 'willkommen', '@Mia1234', ':)']
+
+
+['Twitterwall', '#semibk', '-', 'ggf.', '"', 'für', 'zum', 'Mitschreiben', '"', 'in', 'der', 'Sitzung', ';)', '(', '(', 'allg.', 'Info', 'zu', 'Twitterwall', ':', 'http://tinyurl.com/5snbvpn', ')', ')']
+
+
+['[', 'SP.ON', ']', 'Warum', 'öffentlich', 'Interesse', 'an', 'Fall', 'Guttenberg', 'bestehen', '...', 'http://tinyurl.com/69a4tny']
+
+
+['(', 'noch', ')', 'unbewiesen', 'Hypothese', '(', '117', ')', ':', '"', 'der', 'Wikinger', 'haben', 'die', 'Gurke', 'erfinden', '"', 'Quelle', ':', 'mein', 'Sohn', '(', '7', ')', 'beim', 'Abendessen', '.']
+
+
+['gefallen', 'mir', ':', '„', 'wie', 'kommen', 'der', 'Leute', 'eigentlich', 'in', 'Internet', ',', 'als', 'es', 'noch', 'kein', 'Computer', 'geben', '?', '“', '<-', 'aufschnappen', 'bei', 'http://tinyurl.com/3u93vuo']
+
+
+['@hileute', 'sehen', '#tudwiki11', 'für', 'Tweet', 'rund', 'um', 'der', 'Workshop', 'und', 'http://tinyurl.com/44ve5hn', 'für', 'die', 'Dokumentation', 'der', 'Veranstaltung', '.', ':)']
+
+
+['Gefallen', 'mir', ':', 'Der', 'digital', 'Brotkasten', 'sein', 'zurück', '-', 'Commodore', 'reaktivieren', 'der', 'C64', '!', ':D', 'http://spon.de/adkA2']
+
+
+['@kaeferchen', '"', 'gehen', '..', 'Gesundheitspolitik', 'Intermezzo', '"', '<--', 'das', 'haben', 'bestimmt', 'ein', 'dramaturgisch', 'Grund', '!', 'ich', 'tippen', 'auf', 'jemand', 'aus', 'dem', 'Intermezzo', '!']
+
+
+['@kaeferchen', 'lassen', 'sich', 'schon', 'absehen', ',', 'wer', 'der', '/', 'die', 'Mörder/in', 'sein', '?', 'Oder', 'müssen', 'ich', 'noch', 'selbst', 'einschalten', '?']
+
+
+['@PianoMan', '@1000_MHz', '@kaeferchen', 'ich', 'selbst', 'schauen', 'ja', 'nicht', '-', 'hoffen', 'mir', 'aber', 'regelmäßig', 'Update', 'über', 'der', 'Story', 'von', 'den', 'zwei', 'andere', '!', ';)']
+
+
+['@1000 MHz', '@kaeferchen', 'Ihr', 'twittern', ',', 'während', 'Ihr', '#tatort', 'schauen', '?', 'Dann', 'brauchen', 'ich', 'ja', 'gar', 'nicht', 'selbst', 'einschalten', '.', 'Halten', 'ich', 'auf', 'dem', 'Laufenden', '!']
+
+
+'#semibk', 'übrig', ':', 'ein', 'TeilnehmerInne', 'haben', 'Weblog', 'anlegen', '.', 'vllt.', 'mögen', 'der', 'betreffen', 'ja', 'hier', 'ein', 'Link', 'auf', 'ihr', 'blog', 'posten', '..', ':)'
+
+
+['@DieMaJa22', '@abcmaria', '#semibk', '"', '^3', 'ich', 'sein', 'gespannt', ',', 'ob', 'sich', 'das', 'durchsetzenswerden', '"', '<-', 'interessant', 'Sprachwandelexperiment', '!', '^3', ',', 'sagen', 'ich', 'da', 'nur', '!!', ':D']
+
+
+['@RioTeam', '#semibk', 'die', 'Twitterwall-Sequenz', 'vom', 'letzt', 'Do', 'haben', 'ich', 'aber', '(', 'natürlich', '^^', ')', 'archivieren', '.', 'Ich', 'stellen', 'sie', 'in', 'EWS', 'ein', ',', 'zum', 'Nachlesen', '.', ':)']

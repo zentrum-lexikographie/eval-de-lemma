@@ -1,447 +1,407 @@
 
+[von, Heinz, Pampel, erfreulicherweise, wollen, CDU, ,, CSU, und, SPD, in, dieser, Legislaturperiode, wichtig, Rahmenbedingung, für, ein, zeitgemäß, Umgang, mit, wissenschaftlich, Information, schaffen, ., im, heut, vorstellen, Koalitionsvertrag, (, PDF, ), heißen, es, :, „, wir, werden, der, wichtig, Belang, von, Wissenschaft, ,, Forschung, und, Bildung, stärk, Rechnung, zu, tragen, und, ein, Bildungs-, und, Wissenschaftsschranke, einführen, ., “, das, Aktionsbündnis, Urheberrecht, für, Bildung, und, Wissenschaft, bewerten, dieser, Aussage, in, ein, Pressemitteilung, als, „, vielversprechen, “, ,, mahnt, jedoch, zugleich, ein, „, tatsächlich, bildungs- und, forschungsfreundlich, “, Umsetzung, der, nötig, Regelung, im, Urheberrechtsgesetz, an, ., bereit, 2010, haben, das, Aktionsbündnis, ein, Entwurf, für, ein, „, allgemein, Wissenschaftsschranke, “, vorlegen, ,, der, die, „, bisherig, kleinteilig, und, höchst, kompliziert, Schrankenlösung, “, in, ein, Paragraph, bündeln, ., auch, wollen, die, Koalition, prüfen, ,, „, ob, den, öffentlich, Bibliothek, gesetzlich, das, Recht, einräumen, werden, sollen, ,, elektronisch, Buch, zu, lizenzieren, ., “, darüber, hinaus, soll, auf, europäisch, Ebene, für, den, ermäßigt, Mehrwertsteuer, für, elektronisch, Medium, werben, werden, .]
 
-das Vokabular des Esperanto bestehen zum groß Teil aus Entlehnungen aus romanische Sprache, ein Teil lassen sich aber auch auf germanische und slawische Ursprung zurückführen. zur leichte Erlernbarkeit setzte Zamenhof auf strenge Regularität, z.B. eine phonematische Schriftweise (jedem Laut wird genau ein Schriftzeichen zugeordnet, bzw. linguistisch korrekt: jedem Phonem entspricht genau ein Graphem); die Wortbildung ist an agglutinierende Sprachen (z.B. Türkisch) angelehnt, wo Sinn Einheiten (linguistisch: sprachlichen Konzepten) eindeutige Wortbestandteile (linguistisch: Morpheme) zugeordnet sind. so ist ein Wort, das auf -o endet, immer ein Substantiv, eines auf -a immer ein Adjektiv. durch Anhängen von -j kann man den Plural bilden, durch Vorsetzen von mal- verneinen.
+schreiben sich CDU, CSU und SPD die Förderung des offenen Zugangs zu wissenschaftliche Publikation und Forschungsdaten auf die To-Do-Liste: „wir werden eine umfassende Open Access Strategie entwickeln, die die Rahmenbedingung für einen effektiven und dauerhaften Zugang zu öffentlich finanzierten Publikation und auch zu Daten (open data) verbessert.“ durch ein Förderprogramm sollen der „Aufbau, der Ausbau und die koordinierte nationale, europäische und internationale Vernetzung von offenen (Forschungs-) Datenbanken, Repositorien und Open-Access-Zeitschriften der Forschungseinrichtungen und der Hochschulen“ vorangetrieben werden. Optimistisch stimmt der Blick auf das Themenfeld „Digitalisierung und Infrastruktur in der Wissenschaft“. Der Umgang mit Forschungsdaten soll verbessert werde. Dazu heißt es im Koalitionsvertrag: „wir werden eine Strategie für den digitalen Wandel in der Wissenschaft initiieren, zum Beispiel um Zugang und Nutzbarkeit von komplexen Forschungsdaten zu verbessern. Gemeinsam mit den Ländern werden wir einen Rat für Informationsinfrastrukturen gründen, in dem sich die Akteure des Wissenschaftssystems über die Erarbeitung Disziplinen und institutionenübergreifenden Strategien und Standards verständigen. Zudem wollen wir virtuelle Forschungsumgebungen stärken, die es Forscherinnen und Forschern erlauben, mithilfe digitaler Medien über disziplinäre, institutionelle und geografische Grenzen hinweg zusammenzuarbeiten und daraus auch neue Forschungsmethoden und -gegenstände zu entwickeln.”
 
+schreiben sich CDU, CSU und SPD die Förderung des offenen Zugangs zu wissenschaftlichen Publikationen und Forschungsdaten auf die To-Do-Liste: „wir werden eine umfassende Open Access Strategie entwickeln, die die Rahmenbedingungen für einen effektiven und dauerhaften Zugang zu öffentlich finanzierten Publikationen und auch zu Daten (open data) verbessert.“ durch ein Förderprogramm sollen der „Aufbau, der Ausbau und die koordinierte nationale, europäische und internationale Vernetzung von offenen (Forschungs-) Datenbanken, Repositorien und Open-Access-Zeitschriften der Forschungseinrichtungen und der Hochschulen“ vorangetrieben werden. Optimistisch stimmen der Blick auf das Themenfeld „Digitalisierung und Infrastruktur in der Wissenschaft“. Der Umgang mit Forschungsdaten soll verbessern werden. Dazu heißt es im Koalitionsvertrag: „wir werden eine Strategie für den digitalen Wandel in der Wissenschaft initiieren, zum Beispiel um Zugang und Nutzbarkeit von komplexen Forschungsdaten zu verbessern. Gemeinsam mit den Ländern werden wir einen Rat für Informationsinfrastrukturen gründen, in dem sich die Akteure des Wissenschaftssystems über die Erarbeitung Disziplinen und institutionenübergreifenden Strategien und Standards verständigen. Zudem wollen wir virtuelle Forschungsumgebungen stärken, die es Forscherinnen und Forschern erlauben, mithilfe digitaler Medien über disziplinäre, institutionelle und geografische Grenzen hinweg zusammenzuarbeiten und daraus auch neue Forschungsmethoden und -gegenstände zu entwickeln.”
 
-['bela', 'blogo', '–', 'der', 'schön', 'Blog']
+schreiben sich CDU, CSU und SPD die Förderung des offenen Zugangs zu wissenschaftliche Publikation und Forschungsdaten auf die To-Do-Liste: „wir werden eine umfassende Open Access Strategie entwickeln, die die Rahmenbedingung für einen effektiven und dauerhaften Zugang zu öffentlich finanzierten Publikation und auch zu Daten (open data) verbessern.“ durch ein Förderprogramm sollen der „Aufbau, der Ausbau und die koordinierte nationale, europäische und internationale Vernetzung von offenen (Forschungs-) Datenbanken, Repositorien und Open-Access-Zeitschriften der Forschungseinrichtungen und der Hochschulen“ vorantreiben werden. Optimistisch stimmen der Blick auf das Themenfeld „Digitalisierung und Infrastruktur in der Wissenschaft“. Der Umgang mit Forschungsdaten soll verbessern werden. Dazu heißt es im Koalitionsvertrag: „wir werden eine Strategie für den digitalen Wandel in der Wissenschaft initiieren, zum Beispiel um Zugang und Nutzbarkeit von komplexen Forschungsdaten zu verbessern. Gemeinsam mit den Ländern werden wir einen Rat für Informationsinfrastrukturen gründen, in dem sich die Akteure des Wissenschaftssystems über die Erarbeitung Disziplinen und institutionenübergreifenden Strategien und Standards verständigen. Zudem wollen wir virtuelle Forschungsumgebungen stärken, die es Forscherinnen und Forschern erlauben, mithilfe digitaler Medien über disziplinäre, institutionelle und geografische Grenzen hinweg zusammenzuarbeiten und daraus auch neue Forschungsmethoden und -gegenstände zu entwickeln.”
 
+schreiben sich CDU, CSU und SPD die Förderung des offenen Zugangs zu wissenschaftlichen Publikationen und Forschungsdaten auf die To-Do-Liste: „wir werden eine umfassende Open Access Strategie entwickeln, die die Rahmenbedingungen für einen effektiven und dauerhaften Zugang zu öffentlich finanzierten Publikationen und auch zu Daten (open data) verbessern.“ durch ein Förderprogramm sollen der „Aufbau, der Ausbau und die koordinierte nationale, europäische und internationale Vernetzung von offenen (Forschungs-) Datenbanken, Repositorien und Open-Access-Zeitschriften der Forschungseinrichtungen und der Hochschulen“ vorantreiben werden. Optimistisch stimmt der Blick auf das Themenfeld „Digitalisierung und Infrastruktur in der Wissenschaft“. Der Umgang mit Forschungsdaten soll verbessern werden. Dazu heißt es im Koalitionsvertrag: „wir werden eine Strategie für den digitalen Wandel in der Wissenschaft initiieren, zum Beispiel um Zugang und Nutzbarkeit von komplexen Forschungsdaten zu verbessern. Gemeinsam mit den Ländern werden wir einen Rat für Informationsinfrastrukturen gründen, in dem sich die Akteure des Wissenschaftssystems über die Erarbeitung Disziplinen und institutionenübergreifenden Strategien und Standards verständigen. Zudem wollen wir virtuelle Forschungsumgebungen stärken, die es Forscherinnen und Forschern erlauben, mithilfe digitaler Medien über disziplinäre, institutionelle und geografische Grenzen hinweg zusammenzuarbeiten und daraus auch neue Forschungsmethoden und -gegenstände zu entwickeln.”
 
-Malbenaj, blogoj, –, die, nicht, schön, Blog.
-
-
-bedienen|sich|also|des|Vokabular|verschieden|natürlich|Sprache|und|versuchen|,|die|Grammatik|weitestgehend|zu|systematisieren|.|solch|Artifizielle|Sprachkonstrukt|,|die|sich|an|natürlichsprachlich|Vorbild|orientieren|,|nennen|auch|Plan-Sprache|a|posteriori|.|sie|werden|unterscheiden|2|von|Plan-Sprache|a|priori|,|die|sich|in|erster|Linie|an|andere|Konzept|(|z.B.|Logik|,|Kategorienlehre|)|anlehnen|.
-
-
-a-priori-Plansprache können u. a. philosophisch inspiriert sein, wenn z. B. die natürliche Ordnung der Dinge in der Sprache wiedergespiegelt werden soll. ein solcher Ordnungsversuch unternimmt etwa der anglikanische Geistliche und Naturphilosoph John Wilkins, niedergelegt in seinem „Essay towards a Real Character and a Philosophical Language“ von 1668. 3 dafür müssen er zunächst grundlegende Begriffsvorstellungen klassifizieren. für diese klassifizierte Grundidee entwickeln er eine Begriffsschrift, bei der Grundkonzepte aus wenigen Linien bestehen, Untergattungen dann jeweils noch weiter Striche hinzufügen. daraus resultiert, dass ähnliche Konzepte (die aus den gleichen Obergattungen abgeleitet sind) ähnliche Schriftzeichen zugeordnet werden. in der Übersetzung des Vater Unser (Abbildung unten) ist zu sehen, dass sich „Earth“ (Zeichen 21) von „Heaven“ (24) nur durch einen zusätzlichen Querstrich rechts am Zeichen unterscheiden. beide sind aus dem Zeichen für „World“, das ähnlich wie ein Additionszeichen (+) aussieht, abgeleitet. „Power“ (71) und „Glory“ (74) sind, nach ihren Zeichenkörpern zu urteilen, ebenfalls verwandte Konzepte für Wilkins, wie auch (etwas weiter voneinander entfernt) „trespass“ (50) und „evil“ (65).
-
-a-priori-Plansprache können u. a. philosophisch inspiriert sein, wenn z. B. die natürliche Ordnung der Dinge in der Sprache wiedergespiegelt werden soll. ein solcher Ordungsversuch unternehmen etwa der anglikanische Geistliche und Naturphilosoph John Wilkins, niederlegen in sein „Essay towards a Real Character and a Philosophical Language“ von 1668. 3 dafür müssen er zuerst grundlegende Begriffsvorstellungen klassifizieren. für diese klassifizierte Grundidee entwickeln er eine Begriffsschrift, bei der Grundkonzepte aus wenigen Linien bestehen, Untergattungen dann jeweils noch mehr Striche hinzufügen. daraus ergeben sich, dass ähnliche Konzepte (die aus den gleichen Obergattungen abgeleitet sind) ähnliche Schriftzeichen zugewiesen werden. in der Übersetzung des Vater Unsers (Abbildung unten) ist zu sehen, dass sich „Earth“ (Zeichen 21) von „Heaven“ (24) nur durch einen zusätzlichen Querstrich rechts am Zeichen unterscheiden. beide sind aus dem Zeichen für „World“, das ähnlich wie ein Additionszeichen (+) aussieht, ableiten. „Power“ (71) und „Glory“ (74) sind, nach ihren Zeichenkörpern zu urteilen, ebenfalls verwandte Konzepte für Wilkins, wie auch (etwas weiter voneinander entfernt) „trespass“ (50) und „evil“ (65).
+schreiben sich CDU, CSU und SPD die Förderung des offenen Zugangs z
 
 
-von Heinz Pampel erfreulicherweise wollen CDU , CSU und SPD in dieser Legislaturperiode wichtig Rahmenbedingung für ein zeitgemäß Umgang mit wissenschaftlich Information schaffen . im heut vorgestellte Koalitionsvertrag ( PDF ) heiß es : „ wir werden den wichtig Belang von Wissenschaft , Forschung und Bildung stärker Rechnung zu tragen und ein Bildung- und Wissenschaftsschranke einführen . “ das Aktionsbündnis Urheberrecht für Bildung und Wissenschaft bewertet diese Aussage in einer Pressemitteilung als „vielversprechend“ , mahnt jedoch zugleich ein „tatsächlich bildungs- und forschungsfreundlich“ Umsetzung der nötig Regelung im Urheberrechtsgesetz an . bereits 2010 hat das Aktionsbündnis ein Entwurf für ein „allgemein Wissenschaftsschranke“ vorgelegt , der die „bisherig kleinteilig und höchst kompliziert Schrankenlösung“ in ein Paragraf bündeln . auch will die Koalition prüfen , „ob den öffentlich Bibliothek gesetzlich das Recht eingeräumt werden sollte , elektronisch Buch zu lizenzieren . “ darüber hinaus soll auf europäisch Ebene für den ermäßigt Mehrwertsteuersatz für elektronisch Medien geworben werden .
+Einrichtung  ein Rat Informationsinfrastruktur werden erst letzte Woche durch gemeinsam Wissenschaftskonferenz (GWK) beschließen. auch der national „Roadmap-Prozess für groß Forschungsinfrastruktur“ soll unter „Berücksichtigung neu Kooperationsmöglichkeit zwischen Bund und Land“ fortgesetzt werden. im Bereich digital Wissenschaft soll die „Forschungs- und Innovationsförderung für ‚Big Data’ auf die Entwicklung von Methode und Werkzeug zur Datenanalyse“ ausrichten werden. weiter soll ein mit „öffentlich Mittel finanzier Internet-Institut“ schaffen. Fazit: es werden spannend welch konkret Maßnahme bis 2017 folgen werden. zu hoffen sein, dass die angesprochen Thema rasch und mutig im Sinne der Wissenschaft umsetzen werden.
 
 
-schreiben|sich|CDU|,|CSU|und|SPD|die|Förderung|des|offenen|Zugang|zu|wissenschaftlich|Publikation|und|Forschungsdatum|auf|die|To-Do-Liste|:|„|wir|werden|eine|umfassend|Open|Access|Strategie|entwickeln|,|die|die|Rahmenbedingung|für|ein|effektiv|und|dauerhaft|Zugang|zu|öffentlich|finanzier|Publikation|und|auch|zu|Daten|(|open|data|)|verbessern|.“|durch|ein|Förderprogramm|sollen|der|“|Aufbau|,|der|Ausbau|und|die|koordinier|national|,|europäisch|und|international|Vernetzung|von|offen|(|Forschungs-|)|Datenbank|,|Repositorium|und|Open-Access-Zeitschrift|der|Forschungseinrichtung|und|der|Hochschule|“|vorantreiben|werden|.|optimistisch|stimmt|der|Blick|auf|das|Themenfeld|„|Digitalisierung|und|Infrastruktur|in|der|Wissenschaft|“|.|der|Umgang|mit|Forschungsdatum|soll|verbessern|werden|.|dazu|heißen|es|im|Koalitionsvertrag|:|„|wir|werden|eine|Strategie|für|den|digital|Wandel|in|der|Wissenschaft|initiieren|,|zum|Beispiel|um|Zugang|und|Nutzbarkeit|von|komplex|Forschungsdatum|zu|verbessern|.|gemeinsam|mit|den|Land|werden|wir|ein|Rat|für|Informationsinfrastruktur|gründen|,|in|dem|sich|die|Akteur|des|Wissenschaftssystem|über|die|Erarbeitung|Disziplin|und|institutionenübergreifend|Strategie|und|Standard|verständigen|.|zudem|wollen|wir|virtuell|Forschungsumgebung|stärken|,|die|es|Forscherin|und|Forscher|erlauben|,|mithilfe|digital|Medium|über|disziplinär|,|institutionell|und|geografisch|Grenze|hinweg|zusammenarbeiten|und|daraus|auch|neu|Forschungsmethod|und|-gegenstand|zu|entwickeln|.”
-
-schreiben|sich|CDU|,|CSU|und|SPD|die|Förder|des|offen|Zugang|zu|wissenschaftlich|Publikation|und|Forschungsdatum|auf|die|To-Do-Liste|:|„|wir|werden|ein|umfassend|Open|Access|Strategie|entwickeln|,|die|die|Rahmenbedingung|für|ein|effektiv|und|dauerhaft|Zugang|zu|öffentlich|finanzier|Publikation|und|auch|zu|Daten|(|open|data|)|verbessern|.“|durch|ein|Förderprogramm|sollen|der|“|Aufbau|,|der|Ausbau|und|die|koordinier|national|,|europäisch|und|international|Vernetzung|von|offen|(|Forschungs-|)|Datenbank|,|Repositorium|und|Open-Access-Zeitschrift|der|Forschungseinrichtung|und|der|Hochschule|“|vorantreiben|werden|.|optimistisch|stimmt|der|Blick|auf|das|Thema|„|Digitalisierung|und|Infrastruktur|in|der|Wissenschaft|“|.|der|Umgang|mit|Forschungsdatum|soll|verbessern|werden|.|dazu|heißen|es|im|Koalitionsvertrag|:|„|wir|werden|ein|Strategie|für|den|digital|Wandel|in|der|Wissenschaft|initiieren|,|zum|Beispiel|um|Zugang|und|Nutzbarkeit|von|komplex|Forschungsdatum|zu|verbessern|.|gemeinsam|mit|den|Land|werden|wir|ein|Rat|für|Informationsinfrastruktur|gründen|,|in|dem|sich|die|Akteur|des|Wissenschaftssystem|über|die|Erarbeitung|Disziplin|und|institutionenübergreifend|Strategie|und|Standard|verständigen|.|zudem|wollen|wir|virtuell|Forschungsumgebung|stärken|,|die|es|Forscherin|und|Forscher|erlauben|,|mithilfe|digital|Medium|über|disziplinär|,|institutionell|und|geografisch|Grenze|hinweg|zusammenarbeiten|und|daraus|auch|neu|Forschungsmethod|und|-gegenstand|zu|entwickeln|.”
+['im', 'Urlaub'] ==> ['in', 'Urlaub']
 
 
-Einrichtung	ein	Rat	für	Informationsinfrastruktur	wollen	letzte	Woche	durch	die	gemeinsam	Wissenschaftskonferenz	(	GWK	)	beschließen	.	auch	der	national	„	Roadmap-Prozess	für	groß	Forschungsinfrastruktur	“	soll	unter	„	unter	Berücksichtigung	neu	Kooperationsmöglichkeit	zwischen	Bund	und	Land	“	fortfahren	werden	.	im	Bereich	der	digital	Wissenschaft	soll	die	„	Forschungs-	und	Innovationsförderung	für	‚	Big	Data	’	auf	die	Entwicklung	von	Methode	und	Werkzeug	zur	Datenanalyse	“	ausrichten	werden	.	weiter	soll	ein	mit	„	öffentlich	Mittel	finanzier	Internet-Institut	“	geschaffen	werden	.	Fazit	:	es	werden	spannend	welch	konkret	Maßnahme	bis	2017	folgen	werden	.	zu	hoffen	sein	,	dass	die	angesprochen	Thema	rasch	und	mutig	im	Sinn	der	Wissenschaft	umsetzen	werden	.
+fliegen, außerhalb, Nordeuropa, müssen, empfindlich, extrem, gut, verpacken, sein, und, möglichst, in, der, Mittel, der, Tasche, ., Gepäck, werden, nicht, nur, horizontal, werfen, ,, sondern, auch, schütteln, ,, es, setzen, sich, Leute, drauf, und, es, werden, aus, dem, Flugzeug, einfach, auf, den, Wagen, fallen, lassen, .
 
 
-['im', 'Urlaub'] -> ['in', 'Urlaub']
+in | der | mitte | des | Urlaub | kaufen | . | dann | weiß | man | , | was | typisch | sein | , | welch | Preis | für | welch | Qualität | passen | [ | weil | man | von | Anfang | an | Händler | + | andere | Urlauber | fragen | haben | ] | , | wo | man | was | bekommen | etc. | man | haben | noch | genug | Zeitpuffer | , | um | bei | teuer | Händler | auch | weggehen | zu | können | und | auf | günstig | warten | . | besonders | als | Mitbringsel | geeignet | sein | alles | , | was | leicht | , | klein | und | zuhause | nicht | zu | bekommen | sein | . | je | nach | beschenken | Person | sollen | es | schnell | weg | sein | ( | z.B. | Süßigkeit | ) | oder | möglichst | lang | erinnern | ( | z.B. | funktionale | Einrichtungsgegenstand | ) | .
 
-
-fliegen, ausserhalb, Nordeuropa, müssen, empfindlich, extrem, gut, verpacken, sein, und, möglich, in, der, Mittel, der, Tasche, ., Gepäck, werden, nicht, nur, horizontal, werfen, ,, sondern, auch, schütteln, ,, es, setzten, sich, Leuten, drauf, und, es, werden, aus, dem, Flugzeuge, einfach, auf, den, Wagen, fallen, lassen, .
-
-
-in  | der | Mitt | Urlaub | kaufen | . | dann | weiß | man | , | was | typisch | sein | , | welch | Prei | für | welch | Qualität | passen | [ | weil | man | von | Anfang | an | Händl | + | ander | Urlauber | fragen | haben | ] | , | wo | man | was | bekommen | etc. | haben | noch | genug | Zeitpuffer | , | um | bei | teuer | Händler | auch | weggehen | zu | können | und | auf | günstige | warten | . | besonders | als | Mitbringsel | geeignet | sein | alles | , | was | leicht | , | klein | und | zuhause | nicht | zu | bekommen | sein | . | je | nach | beschenken | Person | sollte | es | schnell | weg | sein | ( | z.B. | Süßigkeit | ) | oder | möglichst | lang | erinnern | ( | z.B. | funktionale | Einrichtungsgegenstand | ) | .
-
-in | der | Mitt | Urlaub | kaufen | . | dann | wissen | , | was | typisch | sein | , | welch | Preis | für | welch | Qualität | passen | [ | weil | man | von | Anfang | an | Händler | + | ander | Urlauber | fragen | haben | ] | , | wo | man | was | bekommen | etc. | haben | noch | genug | Zeitpuffer | , | um | bei | teuer | Händler | auch | weggehen | zu | können | und | auf | günstig | warten | . | besonders | als | Mitbringsel | geeignet | sein | alles | , | was | leicht | , | klein | und | zuhause | nicht | zu | bekommen | sein | . | je | nach | beschenken | Person | sollten | es | schnell | weg | sein | ( | z.B. | Süßigkeit | ) | oder | möglichst | lang | erinnern | ( | z.B. | funktionale | Einrichtungsgegenstand | ) | .
+in | der | mitte | des | Urlaub | kaufen | . | dann | wissen | man | , | was | typisch | sein | , | welcher | Preis | für | welche | Qualität | passen | [ | weil | man | von | Anfang | an | Händler | + | andere | Urlauber | fragen | haben | ] | , | wo | man | was | bekommen | etc. | man | haben | noch | genug | Zeitpuffer | , | um | bei | teuer | Händler | auch | weggehen | zu | können | und | auf | günstig | warten | . | besonders | als | Mitbringsel | geeignet | sein | alles | , | was | leicht | , | klein | und | zuhause | nicht | zu | bekommen | sein | . | je | nach | beschenken | Person | sollen | es | schnell | weg | sein | ( | z.B. | Süßigkeit | ) | oder | möglichst | lang | erinnern | ( | z.B. | funktionaler | Einrichtungsgegenstand | ) | .
 
 
 ['/', 'Anregung']
 
 
-[',', 'Parfum', ',', 'CD', ',', 'Räucherstäbchen', ',', '...', 'sein', 'in', 'viel', 'Gegend', 'extrem', 'günstig', 'und', 'teilweise', 'sehr', 'landestypisch']
+[',', 'Parfüm', ',', 'CD', ',', 'Räucherstab', ',', '...', 'sein', 'in', 'viel', 'Gegend', 'extrem', 'günstig', 'und', 'teil', 'sehr', 'landestypisch']
 
 
-['sein', 'oft', 'Extrem', 'billig', '(', '1', 'kg', 'für', '5', '€', 'statt', '40', '€', ')']
+['sein', 'oft', 'extrem', 'billig', '(', '1', 'Kilogramm', 'für', '5', 'Euro', 'statten', '40', 'Euro', ')']
 
-
-['mit', 'Ortsbezug', '(', 'Elch-Schild', 'aus', 'Schweden', ',', ' Wikinger', 'aus', 'Dänemark', ',', 'Peperoni', 'aus', 'Ungarn', ')']
 
 ['mit', 'Ortsbezug', '(', 'Elch-Schild', 'aus', 'Schweden', ',', 'Wikinger', 'aus', 'Dänemark', ',', 'Peperoni', 'aus', 'Ungarn', ')']
-
-['mit', 'Ortsbezug', '(', 'Elch-Schild', 'aus', 'Schweden', ',', 'Wikinger', 'aus', '
-
-
-['für', 'Sammler'] -> ['für', 'Sammlerin']
+→ ['mit', 'Ortsbezug', '(', 'Elch-schild', 'aus', 'Schweden', ',', 'Wikinger', 'aus', 'Dänemark', ',', 'Peperoni', 'aus', 'Ungarn', ')']
 
 
-[',', 'z.', 'B.', 'König-Datteln', ',', 'richtig', 'reif', 'Mango', ',', 'Bananenketchup', ',', 'Elchfleisch', ',', 'kräftig', 'Tee', ',', 'Fruchtsuppe', ',', 'Schoko-Raspel', ',', '...']
+['für', 'Sammler'] => ['für', 'Sammler']
 
 
-textil, , die, bei, uns, vergleichsweise, teuer, sein, , also, z.B., mantel, , reich, verzieren, blazer, , ...., achtung, :, qualität, der, naht, , farbstoff, und, faser, teilweise, mies, !, bei, geschenk, peinlich, .
+[',', 'z.', 'B.', 'König-Dattel', ',', 'richtig', 'reif', 'Mango', ',', 'Bananenketchup', ',', 'Elchfleisch', ',', 'kräftig', 'Tee', ',', 'Fruchtsuppe', ',', 'Schoko-Raspel', ',', '...']
 
 
-Tokenliste: ['selbst', 'können', 'man', 'z.B.', 'mitbringen']
+Textil, , die, bei, uns, vergleichsweise, teuer, sein, , also, z.B., Mantel, , reich, verzieren, Blazer, , .... Achtung, : Qualität, der, Naht, , Farbstoff, und, Faser, teilweise, mies, !, beim, Geschenk, peinlich, .
+
+
+['sich', 'selbst', 'können', 'man', 'z.B.', 'mitbringen']
 
 
 [',', 'was', 'auch', 'als', 'Mitbringsel', 'taugen']
 
 
-[',', 'werden', 'man', 'an', 'typisch', 'Genuss', '(', 'Essen', '/', 'Trinken', '/', 'Riechen', '/', 'Hören', '/', 'Sehen', '/', 'Fühlen', ')', 'für', 'der', 'Fotoabend', 'wollen', '/', 'brauchen']
+[',', 'was', 'man', 'an', 'typisch', 'Genuss', '(', 'Essen', '/', 'Trinken', '/', 'Riechen', '/', 'Hören', '/', 'Sehen', '/', 'Fühlen', ')', 'für', 'den', 'Fotoabend', 'wollen', '/', 'brauchen']
 
 
-['(', 'z.B.', 'Tunesien', '20', 'Stück', '1', 'Dinar', '/', '66', 'Cent', ')']
--> ['(', 'z.b.', 'Tunesien', '20', 'Stück', '1', 'Dinar', '/', '66', 'Cent', ')']
+['(', 'z.B.', 'Tunesien', '20', 'Stück', '1', 'Dinar', '/', '66', 'Cent', ')'] → ['(', 'z.b.', 'tunesien', '20', 'stück', '1', 'dinar', '/', '66', 'cent', ')']
 
 
-[',', 'Pflaster', ',', 'Shampoo', ',', '…', 'bekannt', 'Marke', 'sein', 'in', 'Apotheke', 'original', 'und', 'deutlich', 'günstig', '.', 'auf', 'Zollbestimmung', 'achten', '!']
+[',', 'Pflaster', ',', 'Shampoo', ',', '...', 'bekannt', 'Marke', 'sein', 'in', 'Apotheke', 'original', 'und', 'deutlich', 'günstig', '.', 'auf', 'Zollbestimmung', 'achten', '!']
+
+vergessen, dass, in, viel, Region, beim, 20fach, Preis, anfangen, werden, zu, handeln, !, am, gut, Einheimisch, fragen, ,, was, sie, für, Sachen, zahlen, ,, z.B., der, Taxifahrer, ,, Kellner, ,, ...., in, arm, Region, sein, 2, -, 4fach, als, Touripreis, durchaus, normal, +, o.k., ,, weil, für, Anbieter, hoch, Aufwand, (, z.B., erklären, ,, wohin, man, fahren, wollen, ), ., eigen, Maximalpreis, vor, Verhandlungsbeginn, überlegen, [, was, sein, es, mir, in, Deutschland, wert, ?, ] und, –, auch, bei, „, besonders, hoch, Qualität, „, –, nicht, breitschlagen, lassen, ,, lieber, gehen, -, meist, werden, man, zurückrufen, …
+vergessen, dass, viele, Region, 20fach, Preis, anfangen, handeln, bestehen, Einheimischen, fragen, was, zahlen, Taxifahrer, Kellner, armen, Region, 2fach, 4fach, Touripreis, normal, o.k., Anbieter, höheren, Aufwand, erklären, fahren, eigenen, Maximalpreis, Verhandlungsbeginn, überlegen, wert, Deutschland, breitschlagen, lassen, gehen, zurückrufen.
 
 
-vergessen, dass, in, viel, Region, beim, 20fach, Preis, anfangen, werden, zu, handeln, am, best, Einheimisch, fragen, was, sie, für, Sachen, zahlen, z.B., Taxifahrer, Kellner, in, arm, Region, sein, 2, - , 4fach, als, Touripreis, durchaus, normal, +, o.k., weil, für, Anbieter, hoch, Aufwand, ( , z.B., erklären, wohin, man, fahren, wollen, ). eigene, Maximalpreis, vor, Verhandlungsbeginn, überleg, [ , was, werden, es, mir, in, Deutschland, wert, ? ] und, - , auch, bei, " , besonders, hoch, Qualität, " , - , nicht, breitschlagen, lass, lieb, gehen, - , meist, werden, man, zurück, rufen, ....
+wichtig : Zoll muss man auch bei im Ausland geschneiderte Anzug etc. zahlen , daher die Rechnung griffbereit haben , dass der Gesamtpreis unter Reisefreimenge ( 2009 : 300 € Land , 430 € See / Luftreisender ) lag ! Reisefreimenge mehrerer Personen sein nicht addierbar . Gesamtpreis , nicht nur Reisefreimenge übersteigende Teil , sein zu verzollen .
+
+Lemmatisiert:
+
+wichtig : Zoll muss man auch bei im Ausland geschneidern Anzug etc. zahlen , daher die Rechnung griffbereit haben , dass der Gesamtpreis unter Reisefreimenge ( 2009 : 300 € Land , 430 € See / Luftreisender ) liegen ! Reisefreimenge mehrerer Personen sein nicht addierbar . Gesamtpreis , nicht nur Reisefreimenge übersteigende Teil , sein zu verzollen .
 
 
-wichtig : Zoll müssen auch bei im Ausland geschneiderte Anzüge etc. zahlen , daher haben die Rechnung griffbereit , dass der Gesamtpreis unter Reisefreimengen ( 2009 : 300 € Land , 430 € See / Luftreisende ) liegen ! Reisefreimengen mehrerer Personen sind nicht addierbar . Gesamtpreis , nicht nur Reisefreimengen übersteigender Teil , sein zu verzollen .
+['Rückkehr'] --> ['Rückkehr']
 
 
-['Rückkehr'] -> ['Rückkehr']
+['für', 'erster', '12', 'h', 'einkaufen', '(', 'Hbf.', ',', 'Tanken', ')']
 
 
-['für', 'erst', '12', 'h', 'einkauf', '(', 'Hbf.', ',', 'Tank', ')']
-
-
-['Mailbox', '&', 'AB-Ansage', 'aufen', '"', 'normal', '"', 'ändern']
+['Mailbox', '&', 'AB-Ansage', 'auf', '"', 'normal', '"', 'ändern']
+→ ['Mailbox', '&', 'AB-Ansage', 'auf', '"', 'normal', '"', 'ändern']
 
 
 ['von', 'Vorbereitung', '(', 'oben', ')', 'umkehren', 'machen']
 
 
-[',', 'E-Mail', ',', 'Mailbox', '&', 'AB', ',', 'Auto', 'check']
+[',', 'E-Mail', ',', 'Mailbox', '&', 'AB', ',', 'Auto', 'checken']
 
 
-Leute|rück|melden|,|Mitbringsel|übergeben
+Leuten | zurückmelden | , | Mitbringsel | übergeben
 
 
-ausräumen, lüften, waschen, Geldgürtel, -verstecke, leeren, Messer, etc., zurück, in, Flug-Klamotten.
+ausräumen, lüften, waschen, Geldgürtel, -versteck, leeren, Messer, etc., zurück, in, Flug-Klamotte.
 
 
-Matt  
-unkomprimieren  
-+  
-mit  
-offen  
-Ventil  
-an  
-trocken  
-Ort  
-(  
-z.B.  
-Schrank  
-,  
-Bettkasten  
-)  
-lagern  
-.  
-Schlafsack  
-unkomprimieren  
-lagern  
-(  
-z.B.  
-in  
-alt  
-Kopfkissenbezug  
-)
+matte | unkomprimiert |+ | mit | offen | Ventil | an | trocken | Ort | ( | z.B. | Schrank |, | Bettkasten |) | lagern | . | Schlafsack | unkomprimiert | lagern | ( | z.B. | in | alt | Kopfkissenbezug |)
 
 
-Kalender, Termin, für, To-do, und, neu, ( E-Mail, ), Adresse, +, Telefonnummer, eintragen
+Kalender, Termin, für, To-do, und, neu, (E-Mail), Adresse, +, Telefonnummer, eintragen
 
 
 verbessern, Wikitravel, EN, /, DE, &, ", wo, ich, sein, "-Liste, aktualisieren
 
 
-sortieren, mithilfe Reiseführer sinnig benennen, entwickeln, verschicken, zeigen
+sortieren, mithilfe, Reiseführer, sinnig, benennen, entwickeln, verschicken, zeigen
 
 
-[Schlagwort,Archiv,: ,Android]
+Schlagwort-Archiv : Android
 
 
 ['–', 'toll', 'Podcast-App', 'für', 'Android', 'OS']
 
 
-['Claus', 'Hesseling', '·', '14.', 'Mai', '2012', '·', '4', 'comment']
+['Claus', 'Hesseling', '·', '14', 'Mai', '2012', '·', '4', 'comment']
+
+Apple-Welt hat manchmal einigen Vorteil – vor allem wenn es um das Thema Podcast gehen. iTunes plus iPhone oder iPad funktioniere usual in der Regel reibungslos. anders sehen es bei Android OS aus.
 
 
-Apple-Welt haben manchmal einige Vorteile – vor allem wenn es ums Thema Podcast gehen. iTunes plus iPhone oder iPad funktionieren in der Regel reibungslos. Anders sehen es bei Android OS aus.
-
-
-['Herausforderung', ':', 'Podcast', 'nicht', 'mit', 'der', 'PC', 'sondern', 'direkt', 'mit', 'dem', 'Android-Handy', 'über', 'WLAN', 'abonnieren', 'und', 'herunterladen', '.']
+Herausforderung : Podcast nicht mit dem PC sondern direkt mit dem Android-Handy über WLAN abonnieren und herunterladen .
 
 
 Lösung: lösen, :, ein, Podcast-App, ., aber, welch, ?
 
 
-Anforderung : die App sollte ein Liste mit Podcast-Feed verwalten , dies regelmäßig aktualisieren und neue Folge herunterladen . und ja , es wär schön , wenn die App kostenlos sein .
+Anforderung : App soll Liste mit Podcast-Feed verwalten , regelmäßig aktualisieren und neue Folge herunterladen . und ja , es wäre schön , wenn App kostenlos sein .
 
 
-['suche', 'lang', 'Zeit', 'haben', 'ich', 'der', 'Android', 'Market', '/', 'Google', 'Play', 'Store', 'durchforsten', 'immer', 'wieder', 'verschieden', 'Podcast-App', 'ausprobieren', '.', 'unter', 'anderem', 'Acast', ',', 'Google', 'Listen', 'oder', 'auch', 'die', 'Podcast-Funktion', 'von', 'GoodNews', '.', 'Favorit', 'sein', 'lang', 'Zeit', 'das', 'kostenlos', 'Hapi', 'Podcast', ',', 'allerdings', 'werden', 'nach', 'ein', 'OS', 'Update', 'die', 'Feed', 'nicht', 'mehr', 'aktualisieren', 'und', 'auch', 'das', 'Hinzufügen', 'von', 'Feed', 'sein', 'ein', 'Qual', '.', 'alle', 'App', 'funktionieren', 'irgendwie', 'ganz', 'passabel', ',', 'aber', 'so', 'richtig', 'können', 'ich', 'kein', 'überzeugen', '.']
+['suchen', ':', 'lange', 'Zeit', 'haben', 'ich', 'der', 'Android', 'Market', '/', 'Google', 'Play', 'Store', 'durchforsten', 'und', 'immer', 'wieder', 'verschieden', 'Podcast-App', 'ausprobieren', '.', 'unter', 'anderer', 'Acast', ',', 'Google', 'Listen', 'oder', 'auch', 'die', 'Podcast-Funktion', 'von', 'GoodNews', '.', 'Favorit', 'sein', 'lange', 'Zeit', 'das', 'kostenlos', 'Hapi', 'Podcast', ',', 'allerdings', 'werden', 'nach', 'einem', 'OS', 'Update', 'die', 'Feed', 'nicht', 'mehr', 'aktualisieren', 'und', 'auch', 'das', 'Hinzufügen', 'von', 'Feed', 'sein', 'eine', 'Qual', '.', 'alle', 'App', 'funktionieren', 'irgendwie', 'ganz', 'passabel', ',', 'aber', 'so', 'richtig', 'können', 'ich', 'keinen', 'überzeugen', '.']
 
 
-Fund : … bis ich in der vergangene Woche auf Podkicker stoßen bin. ein schlank App , die aber wunderbar funktionieren. die Feed-Verwaltung sein übersichtlich ( inkl. OPML-Import ) , die Bedienung intuitiv. das Zusammenstellen von Playlist gehen sehr einfach und ebenso schnell lassen sich gehört Episode wieder löschen. hinzukommen : auch diese App sein kostenlos – es geben auch ein Pro-Version , allerdings reichen für mich die Feature der kostenlosen Variante vollkommen aus.
+Fund : … bis ich in der vergangenen Woche auf Podkicker stoßen sein . ein schlank App , aber wunderbar funktionieren . die Feed-Verwaltung sein übersichtlich ( inkl. OPML-Import ) , die Bedienung intuitiv . das Zusammenstellen von Playlist gehen sehr einfach und ebenso schnell lassen sich gehörte Episode wieder löschen . hinzu kommen : auch diese App sein kostenlos – es geben auch ein Pro-Version , allerdings reichen für mich die Feature der kostenlosen Variante vollkommen aus .
 
-Fund:…bis ich in der vergangenen Woche auf Podkicker stoßen bin. Eine schlanke App, die aber wunderbar funktioniert. Die Feed-Verwaltung ist übersichtlich (inkl. OPML-Import), die Bedienung intuitiv. Das Zusammenstellen von Playlists geht sehr einfach und ebenso schnell lassen sich gehörte Episoden wieder löschen. Hinzu kommt: Auch diese App ist kostenlos – es gibt auch eine Pro-Version, allerdings reichen für mich die Features der kostenlosen Variante vollkommen aus.
-
-
-['Tagesschau-App', 'und', 'das', 'Märchen', 'von', 'der', 'Wettbewerbsverzerrung'] 
-
--> ['Tagesschau-App', 'und', 'das', 'Märchen', 'von', 'der', 'Wettbewerbsverzerrung']
+Fund:… bis ich in der vergangenen Woche auf Podkicker stoßen bin. Eine schlanke App, die aber wunderbar funktioniert. Die Feed-Verwaltung ist übersichtlich (inkl. OPML-Import), die Bedienung intuitiv. Das Zusammenstellen von Playlisten geht sehr einfach und ebenso schnell können gehörte Episoden wieder gelöscht werden. Hinzu kommt: auch diese App ist kostenlos – es gibt auch eine Pro-Version, allerdings reichen für mich die Features der kostenlosen Variante vollkommen aus.
 
 
-['Claus', 'Hesseling', '·', '21', '.', 'Juni', '2011', '·', '20', 'comment']
+['Tagesschau-App', 'und', 'das', 'Märchen', 'von', 'der', 'Wettbewerbsverzerrung']
+->
+['Tagesschau-App', 'und', 'das', 'Märchen', 'von', 'der', 'Wettbewerbsverzerrung']
 
 
-['vor', 'der', 'App', ':', 'blicken', 'in', 'die', 'Redaktion', 'von', 'tagesschau.de-Redaktion', ',', '2004']
+Claus Hesseling · 21. Juni 2011 · 20 Kommentare
+
+
+Vor App : Blick in die Redaktion von tagesschau.de-Redaktion , 2004
 
 
 ['Klage', 'Zeitungsverlag', 'gegen', 'tagesschau.de-App', 'sein', 'schlecht', 'Witz', '–', 'um', 'es', 'mal', 'gleich', 'vorweg', 'zusagen', '.']
 
 
-['der', 'europäisch', 'Hochkultur', 'entstehen', 'in', '6', 'Stufe', ':']
+['der', 'europäisch', 'Hochkultur', 'entstehen', 'in', '6', 'Stuf', ':']
 
 
 ['6', 'grundlegend', 'europäisch', 'Wert']
 
 
-['6', 'europäisch', 'Wert', 'zusammen', 'ergab', 'ein', 'voll', 'entwickeln', '„', 'humanistisch', 'Weltbild', '“']
+['6', 'europäisch', 'Wert', 'zusammen', 'ergeben', 'ein', 'voll', 'entwickeln', '„', 'humanistisch', 'Weltbild', '“']
 
 
-humanistisch Weltbild sein in die Antik bei den Griechen entstehen und werden durch die Renaissance, die Wiedergeburt der Antik, und der daran verbunden Wiedergeburt des humanistisch Denken neu entfachen.
+['humanistische', 'Weltbild', 'sein', 'in', 'der', 'Antike', 'bei', 'der', 'Grieche', 'entstehen', 'und', 'werden', 'durch', 'die', 'Renaissance', ',', 'der', 'Wiedergeburt', 'der', 'Antike', ',', 'und', 'der', 'damit', 'verbunden', 'Wiedergeburt', 'des', 'humanistischen', 'Denken', 'neu', 'entfachen', '.']
 
 
-voll entwickeln Humanismus Weltbild entstehen auf Fundament oben darstellen sechs Stufe. diese sechs Stufe sein gleichzeitig sechs grundlegend europäisch Wert, die Basis für heutig europäisch Hochkultur sein. aus ihnen lassen sich alle anderen europäisch Wert ableiten.
+voll|entwickeln|humanistisch|Weltbild|entstehen|auf|dem|Fundament|der|oben|dargestellen|sechs|Stufe|.|diese|sechs|Stufe|sein|gleichzeitig|die|sechs|grundlegend|europäisch|Wert|,|die|die|Basis|für|unser|heutig|europäisch|Hochkultur|sein|.|aus|ihn|lassen|sich|alle|andere|europäisch|Wert|ableiten|.
 
 
-['humanistisch', 'Weltbild', 'starten', 'mit', 'der', 'Denken', 'der', 'Mensch', 'ein', 'Wert', 'zu', 'geben', '(', 'humanistisch', 'Denken', ')', 'und', 'schließen', 'mit', 'der', 'Denken', 'allen', 'Mensch', 'ein', 'Wert', 'zu', 'geben', '(', 'Menschenrecht', ')', '.']
+['humanistisch', 'Weltbild', 'starten', 'mit', 'der', 'Denken', 'dem', 'Mensch', 'ein', 'Wert', 'zugeben', '(', 'humanistisch', 'Denken', ')', 'und', 'schließen', 'mit', 'der', 'Denken', 'allen', 'Mensch', 'ein', 'Wert', 'zugeben', '(', 'Menschenrecht', ')', '.']
 
 
 ['sein', 'ein', 'Weltsicht', 'von', 'Mensch', 'für', 'Mensch', '.']
 
 
-Lateinische Wort „humanus“ bedeuten „menschlich“, „menschenfreundlich“, „gebildet“, „kultiviert“.
+lateinisch Wort „ humanus “ bedeuten „ menschlich , menschenfreundlich , gebildet , kultiviert “ .
 
 
-latein Wort 'humanitas' bedeuten 'Menschlichkeit' .
+['lateinische', 'Wort', '„', 'humanitas', '“', 'bedeuten', '„', 'Menschlichkeit', '“', '.']
 
 
-heutig humanistisch Denken werden neu einleiten durch Zeit „Humanismus“. der Humanismus bezeichnen ein Denken und Handeln, das auf Bildungsideal griechisch und römisch Antike grunden. das zeichnen sich durch Bewusstsein für Würde Mensch aus.
+heutig   humanistisch   Denken   werden   neu   einleiten   durch   Zeit   „   Humanismus   “   .   der   Humanismus   bezeichnen   ein   Denken   und   Handeln   ,   das   auf   dem   Bildungsideal   der   griechisch   und   römisch   Antike   gründen   .   dies   zeichnen   sich   durch   das   Bewusstsein   für   die   Würde   des   Mensch   aus   .
 
 
 ['der', 'Zeit', 'der', 'Renaissance', 'werden', 'dies', 'Geistesströmung', 'neu', 'entdecken', 'und', 'wieder', 'beleben', '.']
 
 
-Entwicklungsbeginnen der heutig europäisch Wert sein die Abkehr vom theozentrisch Weltbild (Gott stehen im Mittelpunkt) des Mittelalter. Es kommt zu einer Hinwendung zum anthropozentrisch Weltbild der Neuzeit. „Anthropos“ kommen aus dem Griechisch und bedeuten „Mensch“. In diesem Weltbild stehen also der Mensch im Zentrum. Das Wohlergehen des einzelnen Mensch werden immer mehr zum Mittelpunkt des Handeln und Denken.
+Entwicklungsbeginn, der, heutig, europäisch, Wert, sein, Abkehr, vom, theozentrischen, Weltbild, (, Gott, stehen, im, Mittelpunkt, ), Mittelalter, ., es, kommen, zu, ein, Hinwendung, zum, anthropozentrischen, Weltbild, Neuzeit, ., „, anthropos, “, kommen, aus, Griechisch, und, bedeuten, „, Mensch, “, ., diesem, Weltbild, stehen, also, Mensch, im, Zentrum, ., Wohlergehen, einzelnen, Mensch, immer, mehr, Mittelpunkt, Handeln, Denken, .
 
 
-Lateinische Wort „ratio“ bedeuten „Vernunft, Verstand“.
+lateinische Wort „ratio” bedeuten „Vernunft, Verstand”.
+	
+latinus Wort „ratio” significare „Vernunft, Verstand”.
 
 
-['Rationalist', 'legen', 'sein', 'philosophisch', 'Welterklärung', 'vor', 'alle', 'der', 'vernünftig', 'Schlussfolgerung', 'zu', 'Grund', '.']
+Rationalist | legen | sein | philosophisch | Welterklärung | vor | alle | die | vernünftig | Schlussfolgerung | zu | Grund | .
 
 
-Rationalität bezeichnen Geisteshaltung, das rationale Denken, also das von Vernunft bestimmen Denken, als einzige Erkenntnisquelle ansehen.
+Rationalität bezeichnen Geisteshaltung, das rationale Denken, also das von Vernunft bestimmen Denken, als einzig Erkenntnisquelle ansehen.
 
 
-bedeuten, dass man Aussage anhand ihren Inhalt beurteilen und nicht auf Grund Autorität oder Institution, die machen hat. auch erfolgen die Beurteilung nicht danach, wie viele Menschen diese Aussage teilen, oder auf Grund Tatsache, das die Aussage ein Gott zuschreiben. Rationalität beinhalten auch die Fähigkeit, selbst sogenannte „gottgegeben Argument“ als falsch entlarven zu können. verknüpfen mit der griechischen Tradition der logischen Debatte werden das Rationalistische Prinzip in zahlreichen Zusammenhang anwenden und bildet auch Kern wissenschaftliches Arbeiten. im Zeitalter der Aufklärung werden die Vernunft von Descartes und anderen Philosoph und Wissenschaftler auf immer mehr Lebensbereiche anwenden, wodurch Aberglaube entlarvt und eine wissenschaftliche Revolution entfachen.
+bedeut, , dass man Aussage anhand Inhalt beurteilt und nicht Grund Autorität oder Institution , die machen hat . auch erfolg Beurteilung nicht danach , wie viel Mensch diese Aussage teil , oder Grund Tatsache , dass Aussage ein Gott zugeschrieben . Rationalität beinhalt auch Fähigkeit , selbst sogenannt „ gottgegeb Argumen “ al falsch entlarv können . verknüpf mit griech Tradit logig Debat wird rationalist Prinzip in zahlreich Zusammenhang anwend und bild auch Kern wissenschaftlich Arbeit . im Zeitalter Aufklärung wer Vernunft von Descart und ander Philosoph und Wissenschaftl auf immer mehr Lebensbereiche anwend , wodurch Aberglaub entlarv und wissenschaftlich Revolution entfachen .
 
 
 [Kambodscha, :, Robinson, Feel, auf, Crusoe, Island]
 
 
-Verdacht | scheinen | sich | zu | bestätigen | : | the | Beach | liegen | nicht | in | Thailand | , | sondern | in | Kambodscha | .
+Verdacht scheinen sich bestätigen : The Beach liegen nicht in Thailand , sondern in Kambodscha .
 
 
-von- Sonne- und- Wolke- haben- ihren- Traumstrand- auf- Koh- Rong- finden- ,- mein- klein- Paradies- liegen- auf- Koh- Ta- Kiev- und- nennen- sich- Crusoe- Island- .- dort- haben- wir- ein- wunderbar- Woche- lang- zeltet- und- uns- selbst- als- Robinson- 2.0- feiern- .
+['von', 'Sonne', 'und', 'Wolke', 'haben', 'ihr', 'Traumstrand', 'auf', 'Koh', 'Rong', 'finden', ',', 'mein', 'klein', 'Paradies', 'liegen', 'auf', 'Koh', 'Ta', 'Kiev', 'nennen', 'sich', 'Crusoe', 'Island', '.', 'dort', 'haben', 'wir', 'ein', 'wunderbar', 'Woche', 'lang', 'zeltet', 'und', 'wir', 'selbst', 'als', 'Robinson', '2.0', 'feiern', '.']
 
 
-['auf', 'Zeit', '–','das', 'klein', 'sandig', 'Zelt', '.']
+['auf', 'Zeit', '--', 'das', 'klein', 'sandig', 'Zelt', '.']
 
 
-['28', 'qm', 'groß', 'Insel', 'liegen', 'ein', 'Stund', 'mit', 'der', 'Longtailboot', 'entfern', 'und', 'locken', 'mit', 'etwas', 'nach', 'der', 'Kelly', 'und', 'ich', 'unse', 'gesehn', 'haben', ':', 'Ruhe', 'und', 'Strand', 'sonst', 'nix', '.', 'nicht', 'mal', 'Wi-Fi', '.']
+['28', 'qm', 'groß', 'Insel', 'liegen', 'ein', 'Stunde', 'mit', 'dem', 'Longtailboot', 'entfernen', 'und', 'locken', 'mit', 'etwas', 'nach', 'dem', 'Kelly', 'und', 'ich', 'uns', 'sehnen', 'haben', ':', 'Ruhe', 'und', 'Strand', 'sonst', 'nichts', '.', 'nicht', 'mal', 'Wi-Fi', '.']
 
 
-Tokenliste: [for, board, .]
+['for', 'board', '.']
 
 
-Zufall | sein | wir | auf | Crusoe | Island | aufmerksam | werden | . | bei | morgendlich | Kaffee | in | dem | zu | uns | Wohnzimmer | erklären | Dany´s | Beach | Club | , | beobachten | wir | jeden | Morgen | um | 11 | Uhr | ein | Boot | das | nicht | nur | mit | Lebensmittel | und | Getränk | im | groß | Stil | , | sondern | auch | mit | der | ein | oder | ander | Reisende | beladen | werden | . | interessant | . | wo | fahren | die | hin | ? | nach | ein | kurz | Schnack | mit | den | Crew | wissen | wir | , | dass | wir | ab | morgen | unbedingt | unser | sauber | , | geräumig | Bungalow | in | Sihanoukville | gegen | ein | klein | Zelt | und | Sternenhimmel | auf | Ko | Ta | Kiev | tauschen | wollen | .
+Zufall sein wir auf Crusoe Island aufmerksam werden. Beim morgendliche Kaffee in dem zu uns Wohnzimmer erklären Dany´s Beach Club, beobachten wir jeden Morgen um 11 Uhr ein Boot das nicht nur mit Lebensmittel und Getränk im große Stil, sondern auch mit dem ein oder andere Reiseende beladen werden. Interessant. Wo fahren die hin? Nach ein kurz Schnack mit der Crew wissen wir, dass wir ab morgen unbedingt unserem sauberen, geräumigen Bungalow in Sihanoukville gegen ein klein Zelt und Sternenhimmel auf Ko Ta Kiev tauschen wollen.
 
 
-['für', 'ein', 'gut', 'Entscheidung', '!', 'nachdem', 'wir', 'auf', 'der', 'Insel', 'ankommen', 'sein', ',', 'machen', 'wir', 'uns', 'als', 'Erste', 'auf', 'die', 'Suche', 'nach', 'ein', 'passend', 'Zeltplatz', '.', 'der', 'können', 'du', 'dir', 'hier', 'nämlich', 'selbst', 'aussuchen', '.']
+für|ein|gut|Entscheidung|!|nachdem|werden|auf|der|Insel|ankommen|sein|,|machen|werden|uns|al|Erstes|auf|die|Suche|nach|ein|passend|Zeltplatz|.|der|können|du|dir|hier|nämlich|selbst|aussuchen|.
 
 
-'-12', '-12', '13.21.44' → '-12', '-12', '13.21.44'
+[-12, -12, 13.21.44]
 
 
-finden | wir | der | für | uns | perfekt | Platz | . | Zelt | in | Schatten | , | 180 | Grad | Meerblick | direkt | vor | Zelt-Reißverschluss | und | eine | Möglichkeit | die | Hängematte | aufhängen | .
+finden:finden
+wir:wir
+den:der
+für:für
+uns:uns
+perfekten:perfekt
+Platz:Platz
+.:.
+Zelt:Zelt
+im:im
+Schatten:Schatten
+,,:,
+180:180
+Grad:Grad
+Meerblick:Meerblick
+direkt:direkt
+vorm:vorm
+Zelt-Reißverschluss:Zelt-Reißverschluss
+und:und
+eine:eine
+Möglichkeit:Möglichkeit
+die:die
+Hängematte:Hängematte
+aufzuhängen:aufhängen
+.:.
 
 
-['-12', '-12', '13.21.40'] → ['-12', '-12', '13.21.40']
+'-12', '-12', '13.21.40' -> '-12', '-12', '13.21.40'
 
 
-erster | Nacht | sein | es | so | warm | , | dass | wir | der | Regendach | unser | gemietet | Zelt | einfach |weglasse | . | Abend | liegen | blicken | wir | vor | dem | Einschlafen | in | den | Sternenhimmel | und | die | Baumwipfel | und | genießen | der | leicht | Wind | der | durch | das | Moskitonetz | für | die | nötig | Kühlung | sorge | .
+erste Nacht sein es so warm , dass wir das Regendach mieten Zelt einfach weglassen . abend liegen blicken wir vor dem Einschlafen in den Sternenhimmel und die Baumwipfel und genießen den leichte Wind der durch das Moskitonetz für die nötige Kühlung sorgen .
 
 
-['mit', 'Aussicht', '.'] => ['mit', 'Aussicht', '.']
+['mit', 'Aussicht', '.'] --> ['mit', 'Aussicht', '.']
 
 
-schlafen | jed | Nacht | wie | ein | Baby | , | wachen | auf | und | stehen | direkt | vorm | Meer | . | herrlich | ! | der | nächst | Zeltnachbar | sein | erst | 100 | Meter | weiter | .
+schlafen | jede | Nacht | wie | ein | Baby | , | wachen | auf | und | stehen | direkt | vorm | Meer | . | herrlich | ! | der | nächst | Zeltnachbar | sein | erst | 100 | Meter | weit | .
 
 
-['Morgen', '!'] → ['Morgen', '!']
+['Morgen', '!'] → ['Morgen', '!')
 
 
-Tag
-fließen
-dahin
-in
-ein
-Mix
-aus
-lesen
-,
-schlafen
-,
-schwimmen
-und
-essen
-.
-das
-Essen
-sein
-übrigens
-ganz
-wunderbar
-.
-im
-“
-Basecamp
-”
-treffen
-sich
-jedem
-Morgen
-und
-Abend
-all
-Amateur-Robinson
-zum
-Essen
-,
-Trinken
-und
-Quatschen
-.
-wir
-haben
-während
-unser
-Zeit
-dort
-toll
-Mensch
-kennenlernen
-und
-jedem
-Menge
-Spaß
-haben
-.
+Tag|fließen|dahin|in|einem|Mix|aus|lesen|,|schlafen|,|schwimmen|und|essen|.|das|Essen|sein|übrigens|ganz|wunderbar|.|im|“|Basecamp|”|treffen|sich|jeden|Morgen|und|Abend|alle|Amateur-Robinson|zum|Essen|,|Trinken|und|Quatschen|.|wir|haben|während|unser|Zeit|dort|toll|Mensch|kennenlernen|und|jede|Menge|Spaß|haben|.
 
 
-Bush      Sub       ”      Baguette    mit    gegrillt    Gemüse     .      mein     Favorit    in      der      Inselküche     .
- 
-Bush     Sub       ”      Baguette    mit    grillen     Gemüse     .      mein     Favorit    in      der      Inselküche     .
+['Bush', 'Sub', '”', 'Baguette', 'mit', 'gegrillt', 'Gemüse', '.', 'mein', 'Favorit', 'in', 'der', 'Inselküche', '.']
 
 
 ['…', '.']
 
 
-['und', 'Lagerfeuer', '.', 'perfect', 'match', '.'] → ['und', 'Lagerfeuer', '.', 'perfekt', 'match', '.']
+['und', 'Lagerfeuer', '.', 'perfect', 'match', '.'] -> ['und', 'Lagerfeuer', '.', 'perfect', 'match', '.']
 
 
-['Spaß', 'werden', 'noch', 'nicht', 'einmal', 'bremse', 'als', 'es', 'nach', 'fünf', 'Tag', 'anfangen', 'zu', 'regnen', '.', 'vorerst', '.', 'ein', 'bisschen', 'Regen', 'machen', 'wir', 'ja', 'wohl', 'nix', 'aus', '.', 'lächerlich', '.', 'sein', 'ja', 'auch', 'erstmal', 'nur', 'ein', 'klein', 'Tröpfeln', '.']
+['Spaß', 'werden', 'noch', 'nicht', 'einmal', 'bremsten', 'als', 'er', 'nach', 'fünf', 'Tag', 'anfangen', 'zu', 'regnen', '.', 'vorerst', '.', 'ein', 'bisschen', 'Regen', 'machen', 'wir', 'ja', 'wohl', 'nix', 'aus', '.', 'lächerlich', '.', 'sein', 'ja', 'auch', 'erstmal', 'nur', 'ein', 'kleine', 'Tröpfeln', '.']
 
 
-['Schwäche', 'des', 'kambodschanisch', 'Hightechzelt', '-', 'der', 'Reißverschluss', '.']
+['Schwachstelle', 'der', 'kambodschanische', 'Hightechzelt', '-', 'Reißverschluss', '.']
 
 
-['werden', 'trotzdem', '.', 'noch', '.']
+['wir', 'trotzdem', '.', 'noch', '.']
 
 
-“ | tröpfeln | steigern | sich | dann | aber | über | die | nächst | Tag | zu | ein | Dauerregen | der | nur | den | Namen | Monsun | verdienen | haben |. | plötzlich | stehen | ich | leider | nicht | mehr | wunderbar | idyllisch | nach | dem | Aufstehen | am | Strand | , | sondern | mitten | in | ein | Stausee | , | der | quasi | in | unser | Zelt | münden |. | Zeit | zu | gehen |. | genug | Abenteuer |. | das | sein | übrigens | ein | der | wenig | Gelegenheit | bei | den | ich | mein | Hybrid-Rrolley-Rucksack-ich-will-alles-Tasche | mal | als | Rucksack | tragen | haben |.
+'“', Tröpfeln, '”, steigern, sich, dann, aber, über, die, nächst, Tag, zu, einem, Dauerregen, der, nur, den, Namen, Monsun, verdienen, haben, ., plötzlich, stehen, ich, leider, nicht, mehr, wunderbar, idyllisch, nach, dem, Aufstehen, am, Strand, ,, sondern, mitten, in, einem, Stausee, ,, der, quasi, in, unser, Zelt, münden, ., Zeit, zu, gehen, ., genug, Abenteuer, ., das, sein, übrigens, ein, der, wenig, Gelegenheit, bei, denen, ich, mein, Hybrid-Rrolley-Rucksack-ich-will-alles-Tasche, mal, als, Rucksack, tragen, haben, .
 
-des schlecht Wetter zu Schluss haben wir ein toll Zeit auf Crusoe Insel und ich kann dies klein Fleck Erde jeder an Herz legen , der genau soviel Freude an Ruhe und Lagerfeuerromantik haben wie wir . mehr
+des
+schlecht
+Wetter
+zum
+Schluss
+haben
+wir
+ein
+toll
+Zeit
+auf
+Crusoe
+Island
+und
+ich
+können
+dies
+klein
+Fleck
+Erde
+jeder
+an
+Herz
+legen
+,
+der
+genauso
+viel
+Freude
+an
+Ruhe
+und
+Lagerfeuerromantik
+haben
+wie
+wir
+.
+mehr
 
 
-finden, du, unten, www.crusoeisland.asia
+finden, du, unter, www.crusoeisland.asia
 
 
-['Kleine', 'Zelt', ',', 'wir', 'werden', 'dich', 'vermissen', '!']
+['klein', 'Zelt', ',', 'wir', 'werden', 'dich', 'vermissen', '!']
 
 
 ['6', 'Tipp', 'zum', 'Fotografieren']
 
 
-['dieses', 'Video', 'sehen', 'ihr', '6', 'Tipp', ',', 'der', 'beim', 'Fotografieren', 'helfen', 'können', '.']
+[dies, Video, sehen, ich, 6, Tipp, , die, bei, Fotografieren, helfen, können, .]
 
 
 ['das', 'sein', 'die', 'Tipp', 'aus', 'dem', 'Video', ':']
 
 
-viel Displaychutzfolie bringen ein sehr unerfreulich Spiegeleffekt mit sich, der Kamera im prall Sonnenlicht nur schwer benutzbar machen. die Lösung: entweder kein Displaychutzfolie benutzen oder ein matt Variante.
-
-wenn ihr als Fotograf unterweg sein, haben stets etwas Blu-Tack bei euch (in Deutschland z.B. erhältlich bei Amazon.damit können sehr viele kleinere Problem beim Fotografieren lösen, z.B. mit einer Visitenkarte und dem eingebauten Blitz einer DSLR indirekt blitzen.
-
-
-fallen : fall
-eure : euer
-Kamera : Kamera
-das : das
-zulässt : zulassen
-, : ,
-aktiviert : aktivieren
-die : die
-Möglichkeit : Möglichkeit
-, : , 
-den : der
-Autofokus-Punkt : Autofokus-Punkt
-manuell : manuell
-auszuwählen : auswählen
-. : .
-diesen : dieser
-könnt : können
-ihr : ihr
-dann : dann
-für : für
-jedes : jedes
-Foto : Foto
-mit : mit
-dem : dem
-Steuerkreuz : Steuerkreuz
-eurer : euer
-Kamera : Kamera
-händisch : händisch
-auswählen : auswählen
-, : ,
-so : so
-dass : dass
-auch : auch
-unter : unter
-schwierigen : schwierig
-Bedingungen : Bedingung
-der : der
-Fokus : Fokus
-sitzen : sitzen
-sollte : sollen
-. : .
+viele
+Displayschutzfolien
+bringen
+ein
+sehr
+unerfreulich
+Spiegeleffekt
+mit
+sich
+,
+der
+Kamera
+im
+prall
+Sonnenlicht
+nur
+schwer
+benutzbar
+machen
+.
+die
+Lösung
+:
+entweder
+kein
+Displayschutzfolie
+benutzen
+oder
+ein
+matt
+Variante
+.
 
 
-Visitenkarte | eigen | sich | , | um | mit | dem | eingebaut | Blitz | einer | Kamera | ein | indirekt | Blitz | zu | erzeugen | ( | sehen | oben | ) | .
+wenn | ihr | als | Fotograf | unterweg | sein |, | haben | stet | etwas | Blu-Tack | bei | euch | ( | in | Deutschland | z.B. | erhaltenlich | bei | Amazon |. | damit | können | man | sehr | viel | klein | Problem | beim | Fotografieren | lösen |, | z.B. | mit | ein | Visitenkarte | und | der | eingebaut | Blitz | ein | DSLR | indirekt | blitzen |.
 
 
-damit | euer | Filter | auf | Linse | mit | verschieden | Filtergewind | passen | , | besorgen | euch | der | Filter | in | eine | Größe | , | die | auf | der | größte | euer | Linse | passen | . | mit | entsprechend | Adapterring | können | ihr | der | Filter | dann | auch | auf | kleineren | Linsen | benutzen | , | ohne | für | jede | Gewindegröße | ein | eigene | Filter | kaufen | zu | müssen | . | dies | bieten | sich | natürlich | nur | bei | teuer | Filter | an | , | nicht | aber | bei | Filter | , | die | zum | schützen | der | Linse | auf | diese | setzen | ( | bei | viel | wohl | Polfilter | ) | .
+fall|eure|Kamera|das|zulassen| , |aktivieren |die|Möglichkeit| , |der|Autofokus-Punkt|manuell|auswählen| . |dieser|können|ihr|dann|für|jede|Foto|mit|dem|Steuerkreuz|eure|Kamera|händisch|auswählen| , |so|dass|auch|unter|schwierig|Bedingung|der|Fokus|sitzen|sollen| .
 
 
-fall | ihr | ein | Mikrofonständer | besitzen | , | können | ihr | dies | bei | Bedarf | als | Ständer | für | euer | Blitzlicht | verwenden | . | fall | ihr | diese | Möglichkeit | nur | selten | benötigen | , | müssen | ihr | also | nicht | gleich | ein | Blitzständer | kaufen | .
+Visitenkarte eignen sich, um mit dem eingebauten Blitz einer Kamera einen indirekten Blitz erzeugen (siehe oben).
 
 
-[ihr,weiter,Tipp,zum,Thema,Fotografie,?
+['damit', 'eure', 'filtern', 'auf', 'linse', 'mit', 'verschieden', 'filtergewind', 'passen', ',', 'besorgen', 'euch', 'die', 'filter', 'in', 'ein', 'Größe', ',', 'die', 'auf', 'die', 'groß', 'euer', 'linse', 'passen', '.', 'mit', 'entsprechend', 'Adapterring', 'können', 'ihr', 'die', 'filter', 'dann', 'auch', 'auf', 'klein', 'linsen', 'benutzen', ',', 'ohne', 'für', 'jed', 'gewindegröße', 'ein', 'eigen', 'filter', 'kaufen', 'zu', 'müssen', '.', 'das', 'bieten', 'sich', 'natürlich', 'nur', 'bei', 'teuer', 'filter', 'an', ',', 'nicht', 'aber', 'bei', 'filter', ',', 'die', 'zum', 'schutz', 'der', 'linse', 'auf', 'diese', 'setzen', '(', 'bei', 'viel', 'wohl', 'polfilter', ')', '.']
 
 
-Production | 6 Photography Life Hack
+fall|ihr|ein|Mikrofonständer|besitzen|,|können|ihr|diese|bei|Bedarf|als|Ständer|für|euer|Blitzlicht|verwenden|.|fall|ihr|diese|Möglichkeit|nur|selten|benötigen|,|müssen|ihr|also|nicht|gleich|ein|Blitzständer|kaufen|.
 
 
-['Beitrag', 'können', 'du', 'auch', 'interessieren', ':']
+['ihr', 'weiter', 'Tipp', 'zum', 'Thema', 'Fotografie', '?']
+
+
+Production | 6 Photograph Life Hack
+
+
+[Beitrag, können, du, auch, interessieren, :]
 
 
 ['Cocoon', 'Grid-IT', 'Organizer', 'schaffen', 'Ordnung', 'in', 'Tasche']
@@ -453,16 +413,183 @@ Production | 6 Photography Life Hack
 Sonnencremerand, von, Kleidung, entfernen
 
 
-['3', 'Tip', 'für', 'das', 'Laufen', 'in', 'der', 'Dunkelheit']
+['3', 'Tipp', 'für', 'das', 'Laufen', 'in', 'der', 'Dunkelheit']
 
 
-['9', 'weiter', 'Tipp', 'für', 'Heim', 'und', 'Haushalt']
+['9', 'weit', 'Tipp', 'für', 'Heim', 'und', 'Haushalt']
+
+telefonieren du noch , oder skypen du schon ?! 27. März 2012 von Stefan Pohl | kein Kommentar über den Blog von Skype sein wir auf eine tolle Infografik über das Thema Videotelefonie aufmerksam machen werden . zwar gehören diese Statistik genau genommen nicht unbedingt zum Thema Social Media , doch fast jeder von uns bemerke , wie die Telefonie über das Internet unsere Nutzungsverhalten verändern . die Verwandte in Übersee oder der beste Freund auf Weltreise können so schnell und kostengünstig erreichen werden . auch dieser Blog wurde zum großen Teil via Skype-Konferenzen planen . kaum jemand wird denken , dass Skype erst neun Jahre alt sein . noch weniger Mensch werden wissen , dass es laut Skype das erste Video-Telefon schon 1936 geben und dass es in Deutschland erfunden werden . pro Tag werden heute 300.000.000 Videominuten via Skype übertragen , die nutzungsstärksten Tage sein dabei Samstag und Sonntag . im Vergleich mit der herkömmlichen Sprachübertragung machen Videoanrufe jetzt schon 42 Prozent aller Anrufe aus . vergleichen man Skype und Youtube , so werden bei Skype pro Minute 6 Monat an " Videos " übertragen , bei Youtube sein es " nur " 48 Stunde an Videomaterial . aber schauen selber : hier mehr erfahren zum Thema Internettelefonie wie sein eure Erfahrungen mit Skype und wie häufig entscheiden ihr euch aktiv diese Plattform statt das Telefon oder Handy zu benutzen ?
 
 
-telefonieren | du | noch | , | oder | skypen | du | schon | ?! | 27. | März | 2012 | von | Stefan | Pohl | | kein | Kommentar | über | den | Blog | von | Skype | sein | wir | auf | ein | toll | Infografik | über | das | Thema | Videotelefonie | aufmerksam | machen | werden | . | zwar | gehören | dies | Statistik | genau | nehmen | nicht | unbedingt | zu | dem | Social | Media | , | doch | fast | jeder | von | uns | bemerken | , | wie | die | Telefonie | über | das | Internet | unser | Nutzungsverhalten | verändern | . | die | Verwandter | in | Übersee | oder | der | beste | Freund | auf | Weltreise | können | so | schnell | und | kostengünstig | erreichen | werden | . | auch | dieser | Blog | werden | zu | groß | Teil | über | Skype-Konferenz | planen | . | kaum | jemand | denken | , | dass | Skype | erst | neun | Jahr | alt | sein | . | noch | wenig | Mensch | wissen | , | dass | es | laut | Skype | das | erst | Video-Telefon | schon | 1936 | geben | und | dass | es | in | Deutschland | erfinden | werden | . | pro | Tag | werden | heute | 300.000.000 | Videominute | über | Skype | übertragen | , | die | nutzungsstark | Tag | sein | dabei | Samstag | und | Sonntag | . | im | Vergleich | mit | der | herkömmlich | Sprachübertragung | machen | Videoanruf | jetzt | schon | 42 | Prozent | all | Anruf | aus | . | vergleichen | man | Skype | und | Youtube | , | so | werden | bei | Skype | pro | Minute | 6 | Monat | an | „ | Video | “ | übertragen | , | bei | Youtube | sein | es | “ | nur | ” | 48 | Stunde | an | Videomaterial | . | aber | schauen | selber | : | hier | mehr | erfahren | zu | dem | Internettelefonie | wie | sein | eure | Erfahrung | mit | Skype | und | wie | häufig | entscheiden | ihr | euch | aktiv | diese | Plattform | statt | das | Telefon | oder | Handy | zu | benutzen | ?
+['Bibliothekartag', '#bibtag14', ',', 'Zukunftswerkstatt', 'und', 'OpenBiblioJob'] -> ['Bibliothekartag', '#bibtag14', ',', 'Zukunftswerkstatt', 'und', 'OpenBiblioJob']
 
 
-Bibliothekartag #bibtag14 , Zukunftswerkstatt und OpenBiblioJobs
+June 2014 · 1 Kommentar · Kategorien : Veranstaltung/Bericht · Tags : #bibtag14, Bibliothekartag, Bibliothekartag 2014, Bremen, Impression, OpenBiblioJob, Präsentation, Vortrag
 
 
-June | 2014 | · | 1 | Kommentar | · | Kategorie | : | Veranstaltung | / | Bericht | · | Tag | : | #bibtag14 | , | Bibliothekartag | , | Bibliothekartag | 2014 | , | Bremen | , | Impression | , | OpenBiblioJob | , | Präsentation | , | Vortrag
+['für', 'jeder', '–', 'OpenBiblioJob', 'von', 'Dörte', 'Böhner']
+
+
+wie, versprechen, geben, sein, hier, ein, paar, statistisch, Datum, damit, verständlich, sein, dass, man, mit, eine, Mitarbeit, bei, OBJ, andere, wirksam, helfen, können, Phu, haben, diese, Datum, ganz, rasch, liefern, vielen, Dank, dafür, frisch, Zahl, aus, dem, Monat, Mai, 2014, für, OpenBiblio, Durchschnitt, 1990, Besucher, am, Tag, Monat, 61690, Besucher, viel, Besucher, kommen, über, Bibliotheksportal, Plan3t.info, VDB-Online, und, Netbib, sowie, BIB-info.de, dies, zeigen, die, breit, Verankerung, in, der, bibliothekarisch, Online-Welt, der, Eröffnungsabend, mit, dem, nett, Chor, Don, Bleu, und, Thomas, Böhm, als, Festredner, sein, gelingen, und, haben, den, ersten, Tag, auf, den, Bibliothekartag, super, abrunden.
+
+
+['Kreuzspinnen']
+
+
+['(', 'Araneus', 'diadematus', ')'] -> ['(', 'Araneus', 'diadematus', ')']
+
+
+Tokenliste:
+
+Run, Running, Ran
+
+Lemma: 
+Run, Run, Run
+
+
+[':', 'spinnentier', '(', 'arachnid', ')']
+
+
+[':', 'Webspinnen', '(', 'Aranea', ')']
+
+
+[':', 'echt', 'Webspinne', '(', 'Araneomorphae', ')']
+
+
+[':', 'Radnetzspinner', '(', 'Araneoidea', ')']
+
+
+[':', 'echt', 'Radnetzspinner', '(', 'Araneidae', ')']
+
+
+[':', 'Kreuzspinne']
+
+
+Name
+
+
+- Token: play
+- Lemma: play
+
+
+[',', '1757'] → [',', '1757']
+
+
+Kreuzspinnen (Araneus) sein mit mehrere hundert Arten ein der artenreichsten Gattung der Familie der echt Radnetzspinnen. sie sein weltweit verteilt. die Gattung sein mit über zehn nachgewiesen Arten in Mitteleuropa representieren. [1] [2] zu ihr gehören die bekannt Gartenkreuzspinne.
+
+
+Tokenliste: [run, running, runs, ran]
+
+Lemmatisierung: run, run, run, run
+
+Merkmal
+
+
+Art, und, Synonym
+
+
+Weblink
+
+
+['Einzelnachweis']
+
+
+Tokenliste: ['Writing', 'writes', 'written', 'write']
+
+Lemmatisierte Tokenliste:
+
+
+Namens, haben, Kreuzspinne, von, dem, charakteristisch, Kreuz, auf, dem, vorder, Hinterleib, ,, welch, bei, der, Gartenkreuzspinne, aus, fünf, Fleck, (, vier, länglich, und, ein, kreisförmig, in, der, Mitte, ), und, bei, der, Vierfleckkreuzspinne, aus, vier, Fleck, bestehen, ., bei, der, Fleck, handeln, es, sich, um, Stoffwechselprodukt, ,, die, unter, dem, Chitinpanzer, ablagern, werden, ., [, 3, ], dies, Fleck, sind, jedoch, nicht, bei, allen, Art, der, Gattung, Araneus, auch, kreuzförmig, anordnen, ;, die, meiste, Art, haben, ein, andersartig, Zeichnung, .
+
+
+['Gartenkreuzspinne', 'bei', 'Netzbau']
+ -->
+
+['ein', 'Gartenkreuzspinnen']
+
+
+['Gartenkreuzspinn', 'in', 'Netz']
+
+
+[Bauch ansicht]
+
+
+['und', 'Synonym']
+
+
+['Paläarktisch', 'verbreiten', 'Eichblatt-Radspinne', 'Aculepeira', 'ceropegia', '(', 'Walckenaer', ',', '1802', ')', 'und', 'die', 'Kürbisspinne', 'Araniella', 'cucurbitina', 'werden', 'häufig', 'in', 'alt', 'Literatur', 'als', 'Araneus', 'ceropegia', 'bzw.', 'Araneus', 'cucurbitina', 'führen', '.', 'sie', 'werden', 'heute', 'aber', ',', 'ebenso', 'wie', 'manch', 'anderer', 'Art', ',', 'nicht', 'mehr', 'zählen', 'zu', 'die', 'Gattung', 'der', 'Kreuzspinnen', '.', '[', '1', ']']
+
+
+Araneus, alsine, –, Walckenaer, ,, 1802
+
+
+[Kreuzspinne, Araneus, angulatus, –, Clerck, ,, 1757]
+
+
+[Circe, –, Audouin, ,, 1826]
+
+
+[Araneus, Diadematus, –, Clerk, , , 1757]
+
+
+['Araneus', 'grossus', '–', 'C.', 'L.', 'Koch', ',', '1844'] -> ['Araneus', 'grossus', '–', 'C.', 'L.', 'Koch', ',', '1844']
+
+
+['Kreuzspinne', 'Araneus', 'marmoreus', '–', 'Clerck', ',', '1757'] 
+=> ['Kreuzspinne', 'Araneus', 'marmoreus', '–', 'Clerck', ',', '1757']
+
+
+[nordmánni, –, Thórell, ,, 1870]
+
+Araneus quadratus– Clerck , 1757
+
+
+['s͜aeve', '–', 'L.', 'Koch', ',', '1872']
+
+
+['Araneus', 'sturmi', '–', 'Hahn', ',', '1831'] → ['Araneus', 'sturmi', '–', 'Hahn', ',', '1831']
+
+
+[triguttatus, –, Fabricius, ,, 1793]
+ 
+
+[] -> []
+
+
+[':', 'Araneus', '–', 'Album', 'mit', 'Bild', ',', 'Video', 'und', 'Audiodatei']
+
+
+['I', 'world', 'spider', 'catalog']
+
+
+[] geeigend, liefern, lieferte, liefert, laufen, lief
+
+
+Museum der Bürgergemeinde Bern : World Spider Catalog Version 15.5 – Araneus abgerufen am 5. September 2014
+
+
+[',', 'T.', ',', 'R.', 'Bosman', ',', 'J.', 'Buchar', ',', 'P.', 'Gajdoš', ',', 'A.', 'Hänggi', ',', 'P.', 'Van', 'Helsdingen', ',', 'V.', 'Ružicka', ',', 'W.', 'Starega', '&', 'K.', 'Thaler', ',', '2004', '.', 'Checklist', 'of', 'the', 'spider', 'of', 'Central', 'Europe', '.', '(', 'Arachnid', ':', 'Aranea', ')', '.', 'Version', '1.', 'Dezember', '2004', '.']
+
+
+[',', 'Rainer', 'F.', '1979', '.', 'Biologie', 'der', 'Spinne', '.', 'Georg', 'Thieme', 'Verlag', 'Stuttgart', '.', 'ISBN', '313575801x']
+
+
+['veröffentlichen', ':', '14:14', ',', '13', 'Oktober', '2012', '(', 'CEST', ')']
+
+
+['kein', 'inhaltlich', 'Veränderung', 'vornehmen', '.']
+
+
+Hai
+
+
+['Australien', '(', 'Australien', ')', ',', '13', '10', '2012', '–', 'der', 'Regierung', 'des', 'Bundesstaat', 'Western', 'Australia', 'haben', 'die', 'Jagd', 'auf', 'den', 'weiß', 'Hai', 'vor', 'der', 'Küste', 'freigeben', '.', 'als', 'Grund', 'werden', 'der', 'Anstieg', 'von', 'Haiangriff', 'auf', 'Mensch', 'nennen', '.', 'kommen', 'es', 'früh', 'durchschnittlich', 'zu', 'einem', 'Angriff', 'im', 'Jahr', ',', 'so', 'sein', 'es', '2012', 'bereits', 'fünf', 'Attacke', '.']
+
+
+[Colin, Barnett, geben, bekannt, ,,dass, Hai, ,,die, in, der, Nähe, von, Strand, gesichtet, werden, ,,töten, werden, sollen, ,,damit, eine, Bedrohung, von, Schwimmer, ausschließen, werden, ., der, Bundesstaat, Western, Austalia, stellen, zwei, Million, australisch, Dollar, für, die, Tötung, der, Tier, zu, Verfügung, ,,der, gleichen, Betrag, wollen, man, für, die, Erforschung, und, Registrierung, von, Hai, ausgeben, ., Barnett, weiter, :, „, wir, werden, das, Leben, und, die, Sicherheit, von, Strandgänger, immer, über, der, Hai, stellen, ., “, Experte, kritisieren, das, Vorgehen, ., Mensch, stehen, nicht, auf, dem, Speiseplan, des, Hai, ,,sie, stehen, ihnen, höchst, im, Weg, ., die, vorsorglich, Tötung, von, Hai, schließen, weitere, Angriff, nicht, aus, .]
+
+
+30 Jahr stehen die Hai an der australisch Küste unter Schutz. lediglich Exemplar, von denen ein konkret Bedrohung für den Menschen ausgehen, dürfen gejagen werden. möglich Ursache für die Zunahme der Angriff sein das Bevölkerungswachstum, die Zunahme von Haifütterung durch Taucher und die Ausbreitung des Wassersport. neu in der Geschichte sein die plötzlich Zunahme von Haiangriff an einer Küste nicht. 1916 kommen es vor New Jersey ebenfalls zu fünf Angriff auf Menschen, was eine Hysterie auslösen und die Grundlage für die Geschichte des Film „der weiße Hai“ darstellen. während man sich in Australien Gedanke über die Töten von Haien machen, haben in Bonn 50 Land ein Abkommen zum Schutz von sieben bedroht Haiart unterzeichnet, darunter auch der weiße Hai.
+
+
+Artikel
