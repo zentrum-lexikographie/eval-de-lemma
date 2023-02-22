@@ -1,0 +1,255 @@
+
+
+['_', 'omnis', 'arbor', 'bonus', 'facere', 'fructus', 'suus', 'bonus', '.']
+
+
+['_', 'dies', 'Wort', 'sprechen', 'unser', 'lieb', 'Herr', 'Jesus', 'Christus', 'zu', 'einem', 'solchen', 'Mensch', '_', 'der', 'dann', 'vorbauen', 'wollen', 'kommen', 'und', '_', '_', 'fruchtbar', 'wollen', 'werden', 'an', 'sein', 'Ziel', '.']
+
+
+'_', 'vnd', 'bedeuten', 'diese', 'Wort', 'also', '_', '_', 'ein', 'eachlich', 'guter', 'Baum', 'bringen', 'eine', 'gute', 'Frucht', '_', '_', 'Willst', 'du', 'nun', '_', '_', '_', 'guter', 'Mensch', 'einen', 'guten', 'Baum', 'sein', '_', '_', 'vnd', 'Willst', 'du', '_', 'gute', 'Frucht', 'an', 'deiner', 'Seele', 'bringen', '_', 'so', 'sollst', 'du', 'dich', 'üben', 'an', 'guten', 'Werk', 'geen', 'oben', 'alle', 'Ding', '.'
+
+
+['_', 'so', 'salt', 'ù', 'dich', 'vbène', 'an', 'dy', 'martir', 'vnsers', 'heer', 'ihesùs', 'xp-i', '.']
+
+
+['_', 'und', '_', 'salz', 'die', 'merken', 'mit', 'alle', 'deiner', 'Kraft', 'deine', 'Sünde', '_', '_', 'und', '_', 'salz', 'dich', 'mit', 'deiner', 'Eile', 'hängen', 'an', 'den', 'heiligen', 'Baum', '_', 'an', 'dem', 'unsre', 'Heiland', 'sein', 'Seele', 'verfäll', 'durch', 'unse', 'Sünde', '.']
+
+
+['_', 'vnn', '_', 'salzen', 'betrachten', 'syne', 'martir', 'myt', 'eyme', 'betruben', 'herczen', '_', 'also', '_', 'der', 'heilig', 'bischof', 'tet', '_', '_', 'senden', 'anshelmus', 'batt', 'mari', 'manch', 'ia', 'myt', 'heysen', 'trenen', '_', 'das', 'sy', 'ym', 'offenbaren', '_', 'wi', 'vnser', 'herr', 'ih-uns', 'christus', 'syne', 'marter', 'irleden', 'haben', '.']
+
+
+['_', 'do', 'sprechen', 'unse', 'Frau', '_', 'Anshelm', '_', 'ich', 'sagen', 'dir', '_', 'dass', 'mein', 'Herr', 'Jesus', 'Christus', 'also', 'groß', 'Märtyrer', 'erlitten', 'haben', '.', 'dass', 'sie', 'nirgends', 'Menschen', 'ausgelegen', 'machen', '.']
+
+
+['_', 'Doch', 'salzen', 'u', 'wissen', '_', 'dass', 'ich', 'an', 'solche', 'Widrigkeit', 'kommen', 'bei', '_', 'dass', 'ich', 'immermer', 'betrübt', 'machen', 'werden', '.']
+
+
+['_' 'darvmme' 'so' 'wil' 'ich' 'berichten' 'dich' '_' 'wey' 'mein' 'liebes' 'KIND' 'sein' 'martiren' 'irren' 'haben' 'und' 'wey' 'her' 'gemartert' 'sein' '_' '_' 'Do' 'fragen' 'Sende' 'Anselmus' 'unser' 'Frau' 'von' 'Worten' 'zu' 'Worten' '.']
+ 
+
+['_', 'und', 'unse', 'Frau', 'berichtete', 'in', '_', 'war', 'herr', 'frogete', '_', '_', 'da', 'sagte', 'Anselmus', '_', 'liebe', 'Frau', '_', 'sage', 'mir', '_', '_', 'dessen', 'lieben', 'Kinder', 'Marter', '_', '_', 'Da', 'sagte', 'unse', 'Frau', '_', 'da', 'mein', 'liebes', 'Kind', 'das', 'obentbrot', 'hatte', 'esssen', 'mit', 'seinen', 'jüngeren', '_', '_', 'uffgestanden', 'war', 'noch', 'dem', 'Essen', '_', 'Da', 'ließ', 'Judas', 'zu', 'den', 'Juden', '_', '_', 'und', '_', 'verkaufte', 'es', '_', '_','unde', '_', 'gab', 'in', 'um', 'Dreißig', 'Pfennige', '.']
+
+
+['_', 'do', 'vrogete', 'anshelmu', '.']
+
+
+['_', 'und', '_', 'sprechen', '_', 'liebe', 'Frau', '_', 'welche', 'waren', 'die', 'Paarung', '?']
+
+
+['_', 'do', 'sprechen', 'unse', 'Frau', '.']
+
+
+anshelme, se weren geslagen in dem lande czu ysmahel _ _ vnde _ weren dy selben phennynge _ dorvmme yoseph vorkauft waren von synen bruderen, dy wol vor tusent ioren weren geslagen _ _ vnde _ weren von eyme geslechte bis an das ander _ geerbet bijs an dy iuden _ dy myn lybes kynt kouften _ _ do sprach sente anshelmus _ lybe vrouwe _ do das geschach _ werst u do by dynem lyben kynde _ _ do sprach vnse vrouwe _ neyn _ anshelme. doch salt u wissen _ das do myn lybes kynt das obentbrot hadde gessyn vnd _ dy vuse syner iunger hadde getwagen vnd _ syn heiliges blut gegeben vnde iudas syn vorreter ym gelofen was. do gyng myn libes kynt von dem berge syon durch dy phorte _ dy do get czu dem wasser. das do heyset syloe yn eyme garten.
+
+anshelme, se werden geslagen in dem land czu ysmahel _ _ vnde _ werden die selben phennynge _ dorvmme yoseph vorkaufen waren von seinen brudern, die wohl vor tausend ioren werden geslagen _ _ vnde _ werden von einem geschlecht bis an das ander _ gerbet bijs an die iuden _ die mein liebes kind kaufen _ _ do sprach sent anshelmus _ liebe frau _ do das geschehen _ wirst du doch bei deinem lieben kinde _ _ do sprach unser frau _ nein _ anshelme. doch sollst du wissen _ das da mein liebes kind das obenbrot had gessen vnd _ die vuse seiner jünger hadde getwogen vnd _ sein heiliges blut gegeben vnde iudas sein verräter ym geloben war. do ging mein liebes kind von dem berg syon durch die pforte _ die da gehen czu dem wasser. das da heisst syloe in einem garten.
+
+
+['_', 'do', 'werden', 'die', 'jüngere', 'entsloffen', '.']
+
+
+['_', 'do', 'ging', 'mine', 'lief', 'kind', 'van', 'in', 'also', 'ver', '.', 'als', 'mannen', 'macht', 'eim', 'steen', 'werden', '.']
+
+
+['_', '_', 'die', 'Juden', 'oben', 'in', 'nicht', 'erbarmen', 'werden', '_', 'Darum', 'so', 'bete', 'herr', 'seine', 'himmelischen', 'Vater', 'an', '.']
+
+_ vnd sprechen dys beten _ _ vater si fieri potest et cetera _ _ _ das sprechen alzo _ _ Vater ist es möglich so verreßen mich dieser Marterer . wenn mein Geist _ der ist bereit vnd mein Fleisch _ alszu krank _ Doch so werde an mir ervollet dein Wille _ _ vnde do mein Liebes Kind alzo Gebet _ _ Do sante im sein himmlischer Vater einen Engel _ der in Troste _ _ vnd _ sprechen _ Here Ihesu Christe _ bys stete an dieser Seite an deiner Marterer _ Io salt u vil irlösen der _ durch der du Mensch worden bist _ _ Do ginc mein Liebes Kind weder zu seinen iüngeren _ _ vnd _ wanth se Schlaffende _ _ vnd _ sprechen alsus: En möge hir nicht ein wenig mit mir wachen _ _ Nu, set _ der mich vertreten hat _ der ist gar nicht.
+
+lemma: _ und sprechen dis beten _ _ vater si fieri potest et cetera _ _ _ das sprechen also _ _ vater sein möglich so verreißen ich dieser marterer . wenn mein geist _ der sein bereit und mein fleisch _ alszu krank _ doch so werden an mir erfüllen dein wille _ _ vnde do mein liebe kind also gebet _ _ do santen im sein himmlischer vater ein engel _ der in trost _ _ vnd _ sprechen _ herr ihesu christus _ bys stete an dieser seite an deiner marterer _ io salz u vil irlösen der _ durch der du mensch werden sein _ _ do gehen mein liebe kind wieder zu sein iünger _ _ vnd _ wanth se schlafend _ _ vnd _ sprechen alsus: en mögen hier nicht ein wenig mit mir wachen _ _ nu, setzt _ der mich vertreten hat _ der sein gar nicht.
+
+
+['_', 'do', 'myn', 'lief', 'kent', 'das', 'Wort', 'sprechen', '.', 'do', 'kommen', 'Judas', '_', 'sein', 'Vorreter', '_', 'mit', 'viel', 'Juden', 'in', 'den', 'Garten', 'mit', 'Kölen', 'und', 'mit', 'Schwertern', '.']
+
+
+['_', 'do', 'sprechen', 'Iudas', 'zu', 'der', 'Jude', '.']
+
+
+['Ich', 'heir', '_', 'ich', 'geben', 'ihr', 'ein', 'Zeichen', '.']
+
+
+['_', 'wer', 'ich', 'küssen', 'vor', 'sein', 'Mund', '_', 'der', 'greifen', 'an', 'und', 'führen', 'in', 'sicher', '_', '_', 'dann', 'Judas', 'dann', 'zu', 'mein', 'Liebe', 'Kind', 'kommen', 'mit', 'sein', 'Untreue', '_', 'dann', 'gehen', 'mein', 'Liebe', 'Kind', 'gegen', 'in', '_', '_', 'und', '_', 'sprechen', 'zu', 'in', '_', 'wer', 'suchen', 'sie', '.']
+
+
+['_', 'doo', 'ryfe', 'sy', 'all', 'gemeyne', '.']
+
+
+['Ihesum', 'Nazarenum', '_', '_', 'doo', 'spreken', 'myn', 'lyb', 'kyn', '_', 'ich', 'bijnnen', 'is', 'selb', '.']
+
+
+['_', 'do', 'vilen', 'se', 'czu', 'rucken', 'von', 'der', 'großen', 'Kraft', 'synen', 'heiligen', 'Wort', '_', '_', 'Dornoch', 'sprechen', 'abyr', 'mein', 'Liebe', 'Kunde', '_', 'Ist', '_', '_', 'dass', 'er', 'mich', 'suchen', '_', 'so', 'lassen', 'mein', 'Junger', 'unbetrübt', 'hinweg', 'gehen', '.']
+
+
+['_', 'do', 'traten', 'iudas', 'zu', 'meinem', 'lieben', 'kinde', '_', '_', 'und', '_', 'Kosten', 'in', 'vor', 'seine', 'heiligen', 'Mund', '_', '_', 'Do', 'sprach', 'mein', 'liebes', 'Kind', '_', 'O', 'iudas', '_', 'mit', 'diesem', 'Kuss', 'vorerst', 'mich', '_', '_', 'Alsdann', 'griffen', 'in', 'die', 'Iuden', 'an', 'und', '_', 'bunden', 'ihm', 'die', 'Hände', 'hertlichen', '_', '_', 'Do', 'das', 'Petrus', 'ersah', '_', 'da', 'lief', 'her', 'daraus', '_', '_', 'und', '_', 'heißp', 'einem', 'Iuden', 'ein', 'Ohr', 'ab.']
+
+
+['_', 'do', 'vraget', 'send', 'anshalmus', '_', 'lyeb', 'vrouw', '_', 'geschicht', 'do', 'kein', 'czeychen', '_', '_', 'do', 'sprechen', 'uns', 'vrouw', '.']
+
+yo
+_
+anshelme.
+myn
+lybe
+kyn
+irbarmen
+sich
+über
+yn
+_
+_
+und
+_
+machte
+ym
+sein
+oor
+gesund
+_
+_
+und
+_
+geben
+petro
+_
+dass
+her
+das
+swert
+von
+ym
+teten
+_
+_
+Do
+vrogete
+sente
+anshelmus
+_
+_
+und
+_
+sprechen
+_
+lybe
+frau
+_
+wo
+furtet
+sie
+in
+dahin
+_
+_
+und
+wo
+werst
+du
+dort
+dywile
+_
+do
+das
+geschehen
+_
+_
+Do
+sprechen
+Vnse
+frau
+_
+Anshelme
+_
+es
+war
+spät
+_
+_
+und
+_
+hette
+oben
+gestanden.
+das
+mann
+jungfrau
+hette
+gesehen
+an
+der
+straßen
+_
+_
+Do
+sprechen
+sente
+anshelmus
+_
+liebe
+frau
+_
+wo
+werst
+du
+do
+dywile
+_
+_
+Do
+sprechen
+Vnse
+frau
+_
+ich
+war
+in
+meiner
+schwester
+haus
+zu
+johanne
+_
+evangelisten
+_
+_
+Da
+sprechen
+sente
+anshelmus
+_
+liebe
+frau
+_
+wir
+wartet
+is
+dort
+zu
+wissen
+_
+_
+Do
+sprechen
+Vnse
+frau.
+
+
+anshelme _ dy iunger mynes lyben kyndes quomen czu myr geloufen _ _ vnd _ weynten yemmerlichen _ _ vnd _ sprechen _ Owe _ allerlibeste vrouwe _ dyn lybes kynt _ vnser meister _ ist gevangen _ _ vnde _ wissen nycht _ wo her hyn gefurt _ adir was ym geschen ist _ _ do sprechen sente Anshelme _ lybe vrouwe _ weynest u do icht _ _ do sprechen vnse vrouwe _ yo _ Anshelme _ alleyne ich wol wuste _ das mein libes kynt irlösen sulde den Menschen.
+
+
+['_', 'doch', 'durch', 'dy', 'muterlich', 'lieben', 'so', 'warten', 'ich', 'so', 'herczelich', 'sehr', 'betrüben', '.', 'das', 'mein', 'Zele', 'warten', 'vorwunden', 'mit', 'ein', 'werte', '.']
+
+
+['_', 'Dovon', 'her', 'symeon', 'sprechen', 'haben', '.', 'das', 'ein', 'Schwert', 'sollen', 'mein', 'Seele', 'vorzuschneiden', '_', '_', 'Da', 'sprach', 'senten', 'anshelmus', '_', 'liebe', 'Frau', '.', 'wo', 'furt', 'sie', 'in', 'die', 'hin', '.']
+
+
+['_', 'Do', 'sprechen', 'uns', 'Frau', '.']
+
+
+[se,furten,yn,_,eyne,iude,huus,.,der,hys,anna,.]
+
+
+['_', 'doby', 'stunt', 'der', 'tempel', '_', '_', 'do', 'vrogeten', 'anna', 'myn', 'lyben', 'kint', '.']
+
+
+was her den lute lernen _ _ Do sprechen mein lieb kind _ Ich haben offenbarlich gelernt und nicht heimlich _ _ Durch wem vorgestellt um mich.
+
+
+['_', 'vroge', '_', '_', 'dy', 'meynen', 'leren', 'gehören', 'haben', '.']
