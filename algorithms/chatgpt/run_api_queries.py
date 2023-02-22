@@ -48,7 +48,8 @@ def lemmatize_query(x_test, dname):
                 time.sleep(3.)  # prevent rate limit errors
             except Exception as err:
                 logger.error(err)
-    print(f"{tokens} tokens used.")
+                logger.info(f"{tokens} tokens used.")
+    print(f"{tokens} tokens used for {dname}.")
     return lemmata
 
 
