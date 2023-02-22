@@ -1,0 +1,315 @@
+
+
+['können', 'ich', 'ein', 'Laptop', 'mit', 'in', 'die', 'Bibliothek', 'nehmen', ',', 'damit', 'ich', 'im', 'Katalog', 'nach', 'Buch', 'suchen', 'können', ',', 'oder', 'sein', 'es', 'jederzeit', 'möglich', 'ein', 'frei', 'EDV-Platz', '...']
+
+
+['sie', 'können', 'auf', 'Jedenfall', 'Ihr', 'Laptop', 'mitnehmen', '.', 'wir', 'haben', '...']
+
+
+['ein', 'Notebook-Arbeitspool', 'einrichten', ',', 'für', 'der', 'Nutzen', 'mit', 'Kabel', 'und', 'Funknetz', '.', 'doch', '...']
+
+
+geben | sein | ein | bibliothekseigen | Internet-Pool | sowie | ein | Recherche-Pool | der | Sie | jederzeit | nutzen | können | evtl. | im | Internet-Pool | müssen | müssen | etwas | warten | bis | ein | Platz | frei | werden | .
+
+
+['nochmal', 'viel', 'Dank', '!']
+
+
+['bitte', 'schön', ':)'] -> ['bitten', 'schön', ':)']
+
+
+['wie', 'bekommen', 'ich', 'heraus', ',', 'ob', 'die', 'Uni', 'Dortmund', 'ein', 'bestimmter', 'Zeitschrift', 'abonniert', 'haben', 'und', 'in', 'welcher', 'Bibliothek', 'die', 'stehen', '?']
+
+
+Sie können unter dem Link "unser Katalog" nach Zeitschriftentitel suchen.
+
+
+['danken', 'schön', '!!', 'das', 'gehen', 'ja', 'fix']
+
+
+[gehen, geschehen, :)]
+
+
+['wie', 'können', 'ich', 'in', 'die', 'Zeitschrift', 'WISU', 'nach', 'Schlagwort', 'in', 'Artikel', 'suchen', '?']
+
+
+['hallo', '?'] → ['hallo', '?']
+
+
+['entweder', 'sie', 'benutzen', 'eine', 'Datenbank'] → ['entweder', 'sie', 'benutzen', 'ein', 'Datenbank']
+
+
+['oder', 'sie', 'wälzen', 'die', 'Jahresinhaltsverzeichnis']
+
+
+['der', 'Zeitschrift', ',', 'da', 'sein', 'meistens', 'ein', 'Sachregister', 'enthalten']
+
+
+['können','ich','die','Jahresverzeichnis','online','einsehen','oder','gehen','das','nur','an','der','Uni','?']
+
+
+['haben', 'von', 'Service', 'hören', ',', 'der', 'nur', 'im', 'Netz', 'der', 'Uni', 'funktionieren', '.']
+
+
+['sie', 'meinen', 'sicher', 'die', 'elektronisch', 'Zeitschrift']
+
+
+['oder', 'der', 'Datenbank', ',', 'der', 'sich', 'nur', 'an', 'Uni-Rechner', 'aufrufen', 'lassen']
+
+
+['sitzen', 'Sie', 'zur', 'Zeit', 'auf', 'der', 'Uni-Gelände', '?']
+
+
+['dann', 'würde', 'ich', 'nachsehen']
+ => ['dann', 'würde', 'ich', 'nachsehen']
+
+
+['ob', 'der', 'WISU', 'elektronisch', 'verfügbar', 'sein']
+
+
+['andernfalls', 'müssen', 'Sie', 'uns', 'besuchen', ';-)']
+
+
+['zur', 'Zeit', 'sitzen', 'ich', 'auf', 'der', 'Couch', '.', 'aber', 'ich', 'müssen', 'eh', 'noch', 'zur', 'Uni', '.']
+
+
+['dann', 'sein', 'es', 'am', 'einfach']
+
+
+['wenn', 'Sie', 'herkommen'] → ['wenn', 'Sie', 'herkommen']
+
+
+[dann, stehen, Ihnen, sowohl, der, gedruckte]
+
+
+['als', 'auch', 'elektronisch', 'Hilfsmittel', 'zur', 'Verfügung']
+
+['melden', 'Sie', 'sich', 'einfach', 'an', 'der', 'Info-Theke'] → ['melden', 'Sie', 'sich', 'einfach', 'an', 'der', 'Info-Theke']
+
+
+['dann', 'zeigen', 'werden', 'Ihnen', 'wie', 'es', 'funktionieren']
+
+
+['das', 'werden', 'ich', 'machen', '.', 'danken', 'für', 'die', 'schnell', 'Hilfe', '.', 'toll', 'Service', '.']
+
+
+['viel', 'Dank', 'Mike', '!']
+
+
+['bis', 'dann', 'mal', '!'] -> ['bis', 'dann', 'mal', '!']
+
+
+und viel Erfolg sein bei die Suche
+
+
+hab haben Sie sie noch weitere Frage Fragen ?
+
+
+['sonne', 'würde', 'ich', 'der', 'Chat', 'schließen']
+
+
+von | mein | Seite | währen | das | schon | alles | . | danken | nochmals | ...
+
+
+['bitten', '.', 'wir', 'freuen', 'sich', 'immer', 'über', 'Chatten', ';-)))']
+
+
+['können', 'ich', 'der', 'Signatur', 'erkennen', ',', 'ob', 'es', 'sich', 'um', 'ein', 'Buch', 'aus', 'der', 'Lehrbuchsammlung', 'handeln', '?']
+
+
+['Buch', 'aus', 'der', 'Lehrbuchsammlung']
+
+
+haben, ein, groß, L
+
+
+[in, der, Signatur]
+
+
+daraus folgen ein bis zwei weiter Buchstabe und eine Zahl
+
+
+['oder', 'sie', 'gucken', 'in', 'der', 'vollanzeige']
+
+
+['Zweigstelle', '00', 'Abteilung', '02'] => ['Zweigstelle', '00', 'Abteilung', '02']
+
+
+['bedeuten', 'auch', 'immer', 'Lehrbuchsammlung']
+
+
+['viel', 'Dank', '.']
+
+
+['bitten', '.', 'haben', 'Sie', 'weiter', 'Frage', '?']
+
+
+['noch', 'ein', 'Frage', ':']
+
+
+['jahr', '?']
+
+
+ich studieren in Essen an eine Fachhochschule (FOM) können ich Buch aus den Lehrbuchsammlung überhaupt ausleihen?
+
+
+[nur, wenn, sie, in, der, FH, Dortmund, ,, Bochum, ,, Gelsenkirchen, oder, Hagen, studieren]
+
+
+ansonsten | geben | sein | aber | meist | ein | Exemplar | des | gleich | Buch
+
+
+['im', 'normal', 'Bestand']
+
+
+['dass', 'frühe', 'mal', 'in', 'Do', 'studieren', 'haben', 'zählen', 'nicht', 'mehr', ',', 'oder', '?', '(-:']
+
+
+['leiden', 'nicht', ';-((']
+
+
+['o.k.', ',', 'viel', 'Dank', '!']
+
+
+Tokenliste: ['bitteschön', '!']
+Lemmatisierung: ['bitteschön', '!']
+
+
+['viele', 'Dank', 'für', 'der', 'Chat', '!', 'bitte', 'schließen', 'Sie', 'das', 'Chat-Fenster', '.']
+
+
+['hallo', '!'] -> ['hallo', '!']
+
+
+['Hallo', 'Student', '5']
+
+
+['Hallo', 'Student', '!']
+
+
+['Hallo', 'ebenso']
+
+
+['hallo', 'Student3', '!', 'hello', 'Student5', '!']
+
+
+['fördern', ',', 'verfolgen', 'tun', 'was', 'sein', 'mit', 'Etymologie', '?']
+
+
+['so', ',', 'das', 'haben', 'wir', '°']
+
+
+sehen | grade | nach | ...
+
+
+hast  du  ein  etymologisch  Wörterbuch  ?  im  Internet  finden  wir  nichts  .
+
+
+dafür|aber|die|Synonyme|:|abbauen|,|aufbauen|,|ausbeuten|,|begünstigen|,|emporbringen|,|favorisieren|,|gewinnen|,|helfen|,|lanceren|,|protegieren|,|unterstützen|,|vorwärtsbringen|,|weiterhelfen
+
+dafür|aber|die|Synonym|:|abbauen|,|aufbauen|,|ausbeuten|,|begünstigen|,|emporbringen|,|favorisieren|,|gewinnen|,|helfen|,|lanceren|,|protegieren|,|unterstützen|,|vorwärtsbringen|,|weiterhelfen
+
+
+['müssen', 'wir', 'denn', 'der', 'Etymologie', 'mitnehmen', '?']
+
+['wichtig', 'sein', 'doch', 'der', 'Bedeutungsangabe', ':', 'man', 'können', 'etwas', 'fördern', ',', 'aber', 'auch', 'jemand', '...']
+
+
+[nicht, unbedingt, ,, aber, vielleicht, der, Herkunftssprache, .]
+
+
+['also', 'Verwendungsmöglichkeit', '?']
+
+
+fördern, juvare, promovere, provehere, beschleunigen, nicht aufschieben, aus förder gebildet, wie fürdern aus fürder, fordern aus forder, fördern, der Gegensatz von hindern, die mhd. Form fürdern erscheint auch hin und wieder nhd.
+
+fördern, juvare, promovere, provehere, beschleunigen, nicht aufschieben, fördern, fürdern, fordern, fördern, hindern, fürdern.
+
+
+['sorry', ',', 'das', 'sein', 'die', 'etymologisch', 'Angabe', 'zu', 'fördern', ',', 'die', 'ich', 'finden', 'haben', '....']
+
+
+sie sein nicht sehr hilfreich * e *
+
+
+['fördern', ',', 'verben', '(', 'aus', 'dem', 'mittelhochdeutsch', 'fürdern', ',', 'aus', 'fürder', ')']
+
+
+['was', 'meinen', 'ihr', '?']
+
+
+['die', 'mittelhochdeutsche', 'Angabe', 'wären', 'schon', 'für', 'der', 'Eintrag', 'interessant', '.']
+
+
+Tokenliste: [fördern, ,, sehen, ich, grad, ,, heißen, vorwärts, ..., fördern, :, ein, Sache, vorwärts, bringen]
+
+
+soll | wir | es | mit | Satzstruktur | : | jemand | fördern | = | jemand | unterstützen | . | helfen | , | etwas | fördern | etwas | bewegen | , | so | wa | wie | in | Förderanlage | ( | hier | im | Pott | :-) | ) | ?
+
+
+['kurz', 'Satzbeispiel', 'sein', 'gut', '.']
+
+
+['wer', 'wollen', 'von', 'der', 'Mächtige', 'ich', 'fördern', '?', '(', 'Quelle', ':', 'Kindler', 'Literaturlexikon', ')']
+
+
+sie | vermitteln | eine | praktisch | Moral | , | geeignet | , | der | Verstand | zu | schärfen | und | der | Wille | zu | stärken | , | als | Herz | gut | , | Held | Mut | oder | idealistisch | Gesinnung | zu | fördern | . | ( | Quelle | : | Kindler | Literatur | Lexikon | )
+
+
+[dies, sein, aber, Erfahrungselement, ,, die, die, Fähigkeit, fördern, ,, festgefahren, Verhaltensmuster, zu, durchschauen, .]
+
+
+dies behinden vor allem die klein Anbieter , die es ja grade zu fördern gelt " . ( Quelle : ZDNet 1999 )
+
+
+Tokenliste: ['sein', 'dein', 'Beispiel', 'nicht', 'vielleicht', 'ein', 'bisschen', 'lang', ',', 'Student3', '?']
+
+
+die Bundesregierung will die Telearbeit mit zwei neue Projekt weiter fördern. (Quelle: ZDNet 1999)
+
+
+da geben ich dir Recht , Student5 ! sein aus dem Wortschatzlexikon , das untersuchen besonders Kindler
+
+
+sie | werfen | Diamond | vor | , | die | Musikpiraterie | zu | fördern | . | ( | Quelle | : | ZDNet | 1999 | ) 
+
+sie | werfen | Diamond | vor | , | die | Musikpiraterie | zu | fördern | . | ( | Quelle | : | ZDNet | 1999 | )
+
+
+['wie', 'würden', 'ihr', 'dann', 'die', 'Bedeutungsdefinition', 'formulieren', '?', 'oder', 'nur', 'Synonymangabe', '?']
+
+
+['bitten', 'zurück', 'in', 'der', 'Classroom', 'kommen']
+
+
+['wie', 'du', ',', 'Student3', 'schreiben', 'haben', 'haben', '...', 'jemand', 'unterstützen', ',', 'helfen', '...']
+
+
+['und', 'sonst', 'nur', 'Beispielsatz', '...']
+
+
+['das', 'müssen', 'eigentlich', 'reichen', '.']
+
+
+[ja]
+
+
+ok
+
+
+['können', 'werden', 'das', 'einfach', 'per', 'E-Mail', 'regeln', '?']
+
+
+['ebenso', 'Student5', ',', 'und', 'du', 'Student6', 'wünschen', 'ich', 'das', 'auch', '!']
+
+
+passt, immer noch, nicht, aber, wissen, ja, ,, was, meinen, sein, !
+
+
+['euch', 'auch', '!'] -> ['euch', 'auch', '!']
+
+
+['wir', 'machen', 'das', 'dann', 'per', 'Mail', '.'] -> ['wir', 'machen', 'das', 'dann', 'per', 'Mail', '.']
+
+
+sein|sein|unter|der|Adresse|,|der|auf|der|Seminarseite|stehen|zu|erreichen|?|ich|geben|mal|ein|Entwurf|vor|,|ihr|ergänzen|oder|irgendwelch|Einwand|?

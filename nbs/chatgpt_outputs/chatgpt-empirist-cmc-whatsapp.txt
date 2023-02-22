@@ -1,0 +1,138 @@
+
+
+mein Papa haben zwei groß Block super hart Styropor und wir machen mal das Teil daraus schnitzen , wo die Haken rauskommen . emojiQsmilingFaceWithOpenMouthAndSmilingEyes
+
+
+['Uuuh', 'das', 'sehen', 'voll', 'gut', 'aus', '*_*', 'Und', 'der', 'pilzkopferwin', 'auch', 'xD']
+
+
+Nadine|bestellen|sich|jetzt|neu|Styroporschneider|für|die|Grigfe|und|machen|neu|Prototyp|.|emojiQsmilingFaceWithSmilingEyes|und|den|perfekt|Lack|für|die|Klinge|haben|ich|auch|schon|finden|.|Müssen|uns|bald|mal|wieder|treffen|.|emojiQkissingCatFaceWithClosedEyes
+
+
+['Au', 'ja', '!', ':)', 'unbedingt', '!', '*_*']  -->  ['Au', 'ja', '!', ':)', 'unbedingt', '!', '*_*']
+
+
+['Dann', 'können', 'ich', 'dir', 'alles', 'zeigen', '.', 'Mann', 'ich', 'sein', 'schon', 'so', 'aufregen', '.', 'emojiQflushedFace']
+
+
+['Ja', '!', 'Hehe', 'ich', 'auch', 'xD']
+
+
+['Das', 'werden', 'so', 'gut', '.', 'emojiQsmilingCatFaceWithHeartShapedEyes']
+
+
+['Ja', 'auf', 'jedenfall', '!', ':)']
+
+
+Und Sushi müssen wir auch mal wieder essen gehen.
+
+
+Hehe:) das klingen gut auch wenn ich schon voll pleite sein xD
+
+
+['Ich', 'doch', 'auch', '.', 'XD'] -> ['Ich', 'doch', 'auch', '.', 'XD']
+
+
+xD
+
+
+['Ahahahaha', '!', 'Wie', 'herrlich', '!', 'XD'] -> ['Ahahahaha', '!', 'Wie', 'herrlich', '!', 'XD']
+
+
+['Der', 'haben', 'soviel', 'Potenzial', '.']
+
+
+['ooh', 'mann', ',', 'wie', 'herrlich', '!', 'ich', 'lieben', 'du', 'dafür', '!', 'XD']
+
+
+['XD', 'ooh', 'man', '!']
+
+
+['Oh', ',', 'Gryffindor', '?', 'XD']
+
+
+['XD', 'du', 'killen', 'ich', '!', 'Soooo', 'herrlich', 'xDD']
+
+
+['das', 'machen', 'so', 'Spaß', '.', 'emojiQcatFaceWithWrySmile']
+
+
+[Uuuh, XD, ja, !]
+
+
+['Ich', 'denken', 'mich', 'heute', 'sicher', 'noch', 'mehr', 'machen', '.', 'emojiQkissingCatGesichtMitClosedEyes']
+
+
+['Ich', 'glauben', ',', 'Ich', 'bleiben', 'bei', 'Janosch', '.', 'emojiQpersonFrowning']
+
+
+['ja', '...', 'Benedikt', 'sein', 'irgendwie', 'etwas', 'seltsam', 'aus', 'xD']
+
+
+['Ich', 'wissen', '...', 'dabei', 'haben', 'ich', 'mit', 'voll', 'Mühe', 'geben', '.', 'emojiQpersonFrowning']
+
+
+['hm', 'hm', ':)']
+
+
+['Speckig', 'Fettfinger', 'machen', 'sich', 'schlecht', '.', 'emojiQcatFaceWithWrySmile']
+
+
+Lemma: XD
+
+
+['Hahaha', 'sein', 'sein', 'sooo', 'herrlich', '!', ':)']
+
+
+['Huhu', '!', ':)', 'Ich', 'haben', 'jetzt', 'erfahren', ',', 'wer', 'die', 'halloweenparty', 'sein', ':', 'am', '31.', ':)', 'haben', 'Lust', '?', ':)']
+
+
+['Ich', 'müssen', 'mal', 'schauen', '.', 'Mein', 'Schwester', 'kommen', 'ja', 'am', 'Sonntag', 'und', 'dann', 'erfahren', 'ich', ',', 'wie', 'lang', 'sie', 'bleiben', '.', 'emojiQcatFaceWithWrySmile']
+
+
+[':)', 'all', 'klar']
+
+
+Aaah , wie cool *_* wollen wir uns eigentlich nächste Woche nochmal treffen oder so ? ;)
+
+
+['Ja', ',', 'natürlich', '.', 'müssen', 'nur', 'schauen', 'wegen', 'Uni', '.', 'emojiQkissingCatFaceWithClosedEyes']
+
+
+['Am', 'gut', "wär's", 'Freitag', ',', 'aber', 'da', 'sein', 'ja', 'auch', 'die', 'Party', ',', 'ne', '?', 'emojiQwearyFace']
+
+
+['ja', ',', 'da', 'sein', 'auch', 'die', 'party', '...', 'also', 'eher', 'doof', 'xD']
+
+
+['Hm', '...', 'und', 'sonst', 'gehen', 'gar', 'nicht', '?', 'Hm', '...', 'Und', 'weiß', 'du', 'schon', 'wegen', 'Freitag', '?', '(', 'Weil', 'ich', 'wegen', 'ein', 'Kostüm', 'überlegen', ',', 'aber', 'allein', 'wollen', 'ich', 'eben', 'nicht', 'xD', ')']
+
+
+['meinen', 'du', ',', 'ich', 'können', 'Nadine', 'mitnehmen', '?', 'emojiQcatFaceWithWrySmile', 'und', 'Donnerstag', 'Nachmittag', 'gehen', 'bei', 'uns', 'auch', 'noch', '.', 'Dann', 'lassen', 'ich', 'einmal', 'Latein', 'ausfallen', '.']
+
+
+klar, warum nicht? ( wie alt sein nadine nochmal? XD ) ach, du müssen doch nicht latein ausfallen lassen! müssen ja auch nicht lang sein - ich wollen euch nur unbedingt helfen xD
+
+
+['Nadine', 'sein', '16', 'emojiQcatFaceWithWrySmile', 'Ach', 'sein', ',', 'Latein', 'werden', 'geschwänzen', 'und', 'dafür', 'basteln', '.', 'emojiQsmilingFaceWithOpenMouthAndTightlyClosedEyes']
+
+
+Haha , ok xD ok , also ich fragen mal nach , ob sie mit Muttizettel quasi mit können ( wissen nämlich nicht , wie das bei den sein )
+
+
+['Wir', 'sein', 'eh', 'noch', 'unentschlossen', ',', 'weil', 'Freitag', 'der', 'einzige', 'Tag', 'sein', ',', 'an', 'dem', 'wir', 'richtig', 'was', 'schaffen', 'können', '.', 'emojiQcatFaceWithWrySmile']
+
+
+['emojiQsmile','eye','smile']
+
+
+['haha', ',', 'all', 'klaren', ':)', 'Whaaa', 'sein', 'sein', 'sooo', 'toll', '*_*']
+
+
+['Wir', 'haben', 'jetzt', '6', 'Klinge', '.', 'Zwei', 'für', 'jedermann', '.', 'Die', 'restlich', 'werden', 'Attrappe', '.', 'emojiQcatFaceWithTearsOfJoy']
+
+
+['Oh', 'wie', 'geil', '!', 'emojiQsmilingCatFaceWithHeartShapedEyes']
+
+
+['Und', 'MetallLack', 'haben', 'wir', 'vorhin', 'auch', 'bestellen', '.', 'emojiQsmilingCatFaceWithHeartShapedEyes']
