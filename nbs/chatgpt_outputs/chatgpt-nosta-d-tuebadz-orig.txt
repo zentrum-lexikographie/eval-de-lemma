@@ -1,0 +1,867 @@
+
+
+['_', 'Veruntreuen', 'die', 'AWO', 'Spendengeld', '?']
+
+
+['_', '_', 'Staatsanwaltschaft', 'müssen', 'AWO-Konto', 'prüfen', '/', '_', 'Floss', '165.000', 'Mark', 'Sammelgeld', 'für', 'Flutopfer', 'in', 'ein', 'Altenheim', 'in', 'Danzig', '?']
+
+
+['_', 'landesvorsitzend', 'ute', 'wedemeier', '_', ':']
+
+
+['_', '_', 'Ein', 'Buchungsfehlen', '_', 'Im', 'Januar', 'haben', 'der', 'Arbeiterwohlfahrt', 'Bremen', 'ihr', 'langjährig', 'Geschäftsführer', 'Hans', 'Taake', 'fristlos', 'entlassen', ',', 'nun', 'werden', 'auch', 'der', 'Vorstand', 'der', 'Wohlfahrt', 'Organisation', 'in', 'den', 'Fall', 'hineingezogen', '.']
+
+
+['_', 'in', 'einer', 'anonym', 'Anzeige', 'werden', 'der', 'Bremer', 'Staatsanwalt', 'Detail', 'über', 'dubiose', 'finanziell', 'Transaktion', 'miteilen', '.']
+
+
+['_', 'verantwortlich', ',', 'so', '_', 'der', 'schreiben', 'ein', 'Mitarbeiterin', 'der', 'AWO', ',', 'sein', 'die', 'Landesvorsitzende', 'Ute', 'Wedemeier', ',', 'der', 'sich', 'jetzt', 'als', '"', 'Sauberfrau', '"', 'geben', ',', '"', 'wo', 'doch', 'all', 'wissen', ',', 'wie', 'eng', 'sie', 'mit', 'Taake', 'zusammenhängen', '"', '.']
+
+
+['_', '_', 'Vorwurf', 'Nummer', '1', '_', ':'].
+
+
+['165000', 'Mark', 'aus', 'der', 'bundesweiten', 'Geldsammlung', 'für', 'die', 'Flutopfer', 'in', 'Südpolen', 'sein', 'über', 'das', 'Konto', 'des', 'Bremer', 'Landesverbandes', 'der', 'AWO', 'an', 'die', 'Caritas', 'in', 'Danzig', 'fließen', ',', '"', 'damit', 'dort', 'ein', 'Altenheim', 'bauen', 'wird', '"', '.']
+
+
+['_', 'das', 'Altenheim', 'sein', '"', 'ein', 'Prestigeobjekt', 'von', 'ihr', 'und', 'anderen', '"', '.']
+
+
+['_', 'in', 'der', 'Tat', 'sitzen', 'Ute', 'Wedemeier', 'im', 'Kuratorium', 'für', 'das', 'Altenheim', ',', 'ein', 'derartiges', 'Umleitung', 'von', 'Geld', 'haben', 'es', 'aber', 'nicht', 'geben', ',', 'sagen', 'sie', '.']
+
+
+['_', '"', 'Wenn', 'sei', 'was', 'buchen', 'werden', 'sein', ',', 'dann', 'sein', 'das', 'nicht', 'in', 'Ordnung', '"', '-', 'höchstens', 'ein', 'Buchungsfehler', 'können', 'sie', 'sich', 'vorstellen', '.']
+
+
+['_', 'Volker', 'Tegeler', ',', 'stellvertretend', 'Geschäftsführer', 'des', 'Landesverband', ',', 'sagen', ':']
+
+
+['"', 'Es', 'geben', 'so', 'ein', 'Buchung', '.']
+
+
+['"', '_', 'in', 'ein', 'intern', 'Kontrolle', 'nach', 'der', 'Kündigung', 'von', 'Taake', 'sein', 'dies', 'auffallen', ',', 'zur', 'Aufklärung', 'sollen', 'ein', 'extern', 'Wirtschaftsprüfer', 'beauftragen', 'werden', '.']
+
+
+['_', 'verantworten', 'für', 'die', 'Finanzen', 'des', 'Landesverbandes', 'sein', 'aber', '"', 'durchgehen', 'Herr', 'Taake', '"', 'gewesen', ',', 'sagen', 'Tegeler', '.']
+
+
+['_', 'auffallen', 'bei', 'der', 'intern', 'Prüfung', 'sein', 'auch', '_', 'Vorwurf', 'Nummer', '2', ':']
+
+
+die AWO haben sich für Seniorenreise nach Mallorca von Hapaq Lloyd Provision zahlen lassen.
+
+
+['_', 'die', 'sein', 'auf', 'ein', 'Konto', 'des', 'Landesverband', 'der', 'AWO', 'fließen', ',', 'weil', 'sie', 'dort', 'vor', 'eine', 'Finanzamtsprüfung', 'sicher', 'sein', 'sein', '.']
+
+
+['_', 'Tegeler', 'bestätigen', 'der', 'Vorgang', 'der', 'Provision', 'zahlen', ',', '_', 'meinen', 'allerdings', ',', 'er', 'müssen', 'ein', '"', 'Buchungsfehler', '"', 'sein', '.']
+
+
+['_', 'der', 'ehrenamtlich', 'Landesvorsitzenden', 'Wedemeier', 'wissen', 'von', 'dies', 'Vorgang', 'nichts', ',', '"', 'ich', 'kontrollieren', 'solch', 'Sache', 'doch', 'nicht', ',', 'das', 'machen', 'der', 'hauptamtlich', 'Geschäftsführerin', '.']
+
+
+["'", '_', 'kontrollieren', 'werden', 'die', 'Geschäftsführer', 'von', 'dem', 'gewählt', 'Revisor', 'des', 'AWO-Landesverband', ',', 'das', 'sein', 'Detlev', 'Griesche', 'und', 'Karin', 'Freudenthal', '.']
+
+
+['_', 'Freudenthal', 'wollen', 'gestern', 'nichts', 'dazu', 'sagen', ',', 'ob', 'bei', 'ihr', 'Prüfung', 'ihr', 'etwas', 'auffallen', 'sein', '.']
+
+
+['_', 'der', 'Landesverband', 'Dachverband', 'ohne', 'hauptamtlich', 'Personal', 'nur', 'ein', '"', 'klein', 'Haushalt', '"', 'haben', '(', '_', '_', 'Wedemeier', ')', ',', 'haben', 'Summe', 'von', 'Hapaq', 'Lloyd', 'oder', '165.000', 'Mark', 'schon', 'auffallen', 'müssen', '.']
+
+
+['_', '_', 'Vorwurf', 'Nummer', '3', '_', ':' ] -> ['_', '_', 'Vorwurf', 'Nummer', '3', '_', ':']
+
+
+die Landesvorsitzend Ute Wedemeier haben auf AWO-Kosten ein Handy .
+
+
+['_', '"', 'hier', 'werden', 'Beitrag', 'von', 'klein', 'Mensch', 'veraast', ',', 'der', 'von', 'ehrenamtlich', 'Kassierer', 'fünf|', 'mark|', 'weise|', 'sammeln', 'werden', '"', ',', 'schreiben', 'der', 'anonym', 'AWO-Mitarbeiter', 'an', 'der', 'Staatsanwaltschaft', '.']
+
+
+['_', 'Obwohl', 'Frau', 'Wedemeier', '"', 'vor', 'allem', 'Privatgespräch', 'über', 'das', 'Handy', '"', 'führen', ',', 'würde', 'alles', 'von', 'der', 'AWO', 'bezahlen', '.']
+
+
+['_', 'Ute', 'Wedemeier', 'halten', 'es', 'für', '"', 'selbstverständlich', '"', ',', 'daß', 'sie', 'als', 'ehrenamtlich', 'Vorsitzend', 'ein', 'dienstlich', 'Handy', 'haben', '.']
+
+
+['_', 'insbesondere', 'wegen', 'ihr', 'aktivität', 'in', 'riga', 'und', 'danzig', 'müssen', 'sie', 'erreichbar', 'sein', 'und', 'auch', 'telefonieren', 'können', '.']
+
+
+['_', 'wie|', 'viel', 'das', 'monatlich', 'fällig', 'werden', ',', 'wissen', 'sie', 'aber', 'nicht', '-', '"', 'der', 'Rechnung', 'gehen', 'direkt', 'an', 'die', 'AWO', '"', '.']
+
+
+['_', 'Hintergrund', 'gehen', 'gegenseitig', 'Vorwurf', 'in', 'der', 'Arbeiterwohlfahrt', 'sein', 'offenbar', 'scharf', 'Konkurrenz', 'zwischen', 'Bremer', 'und', 'Bremerhavener', '.']
+
+
+['_', 'Als', 'sein', 'in', 'dieser', 'Woche', 'um', 'die', 'Neubesetzung', 'des', 'ehrenamtlich', 'Geschäftsführer-Posten', 'im', 'Landesverband', 'gehen', ',', 'da', 'sein', 'diese', 'Differenz', 'wieder', 'aufbrechen', '.']
+
+
+['_', 'Lothar', 'Koring', ',', 'Bremerhavener', 'AWO-Vorsitzender', ',', 'wollen', 'seinen', 'Bremerhavener', 'Geschäftsführer', 'Volker', 'Tegeler', 'auch', 'im', 'Landesverband', 'zu', 'Geschäftsführer', 'machen', '.']
+
+
+['_','Kor','selbst','haben','früher','auch','gegen','Ute','Wedemeier','für','den','Landesvorsitz','kandidieren','.']
+
+
+['_', 'gegen', 'Tegeler', 'sprechen', 'allerdings', ',', 'daß', 'noch', 'ein', 'staatsanwaltschaftlich', 'Ermittlungsverfahren', 'gegen', 'ihn', 'laufen', '.']
+
+
+['_', 'und', 'korin', 'sein', 'früher', 'einmal', 'in', 'schief', 'Licht', 'geraten', ',', 'weil', 'er', 'bei', 'ein', 'Prüfgesellschaft', 'im', 'Vorstand', 'sein', ',', 'der', 'der', 'AWO', ',', 'wo', 'er', 'Kreisvorsitzender', 'sein', ',', 'prüfen', '.']
+
+
+['_', 'sein', 'Position', 'bei', 'der', 'Prüfgesellschaft', 'müssen', 'er', 'damals', 'niederlegen', ',', 'der', 'AWO-Posten', '_', '_', 'nicht', '_', '.']
+
+
+['_', 'K.W.', '_', 'SPD/CDU/AfB', '_', 'für', 'Daewoo-Millionen', '_', 'Aber', 'Bremerhaven', 'AfB', 'fordern', 'jetzt', '_', 'Untersuchungsausschuß', '_', 'Die', 'Wirtschaftsförderausschuss', 'haben', 'gehen', 'ein', 'Finanzierungsvolumen', 'von', 'insgesamt', '86', 'Millionen', 'Mark', 'beschließen', ',', 'mit', 'dem', 'der', 'Vulkan-Gelände', 'für', 'die', 'Ansiedlung', 'des', 'Autoimporteur', 'Egerland', 'frei', 'machen', 'können', '.']
+
+
+_
+Egerland
+sollen
+die
+10.000
+bis
+20.000
+koreanisch
+Daewoo-Pkw
+,
+die
+derzeit
+von
+der
+Firma
+Mosolf
+in
+Bremerhaven
+abladen
+werden
+,
+in
+Vegesack
+abladen
+.
+
+
+['_', 'chef', 'Bremen', 'Investitions-Gesellschaft', '(', 'BIG', ')', ',', 'Ulrich', 'Keller', ',', 'erklären', 'ausschuss', ',', 'es', '"', 'zeichen', 'sich', 'konkret', 'Möglichkeit', '"', 'ab', ',', 'daß', 'Daewoo', 'auch', 'Ersatzteillager', 'Vegesack', 'einrichten', ',', 'berichten', 'SPD-Wirtschaftspolitiker', '.']
+
+
+['_', 'auch', 'der', 'Vertreter', 'der', 'AfB', 'stimmen', 'die', '86', 'Millionen', 'zu', ',', 'während', 'Bremerhavens', 'AfB-Vorsitzender', 'Günter', 'Diekhöner', 'an', 'sein', 'Forderung', 'festhalten', ',', 'ein', 'Untersuchungsausschuß', 'sollen', 'die', 'undurchsichtig', 'Vorgang', 'prüfen', '.']
+
+
+['_', 'aus', 'sein', 'Sicht', 'schaden', 'die', 'Verlagerung', 'des', 'Auto-Geschäft', 'den', 'Bremerhavener', 'Interesse', '.']
+
+
+['_', 'heftig', 'kritik', 'und', 'Gegenstimme', 'kommen', 'in', 'das', 'Ausschuß', 'nur', 'von', 'der', 'Grün', ',', 'der', 'darauf', 'verweisen', ',', 'dass', 'der', 'bisher', 'auf', 'dem', 'Vulkan-Gelände', 'arbeiten', 'Betrieb', 'für', 'Daewoo', 'Arbeitsplatz', 'abbauen', 'müssen', '.']
+
+
+['_', 'Wirtschaftspolitisch', 'machen', 'ein', 'Auto-Umschlagsort', 'Vegesack', 'keinen', 'Sinn', ':']
+
+
+['_', '"', 'die', 'wollen', 'die', 'BLG', 'schonen', '.']
+
+
+'"' '_' 'K.W.' '_' '"' 'Gleichstellung' 'statt' 'Barriere' '"' '_' 'behindern' 'Mensch' 'veranstalten' '_' 'Protesttag' 'in' 'Bremen' '_' 'fehlen' 'Niederflurbus' ',' 'zu' 'viele' 'Treppenstufe' 'an' 'öffentlich' 'Gebäude' 'und' 'immer' 'noch' 'kein' '"' 'Schreibtelefon' '"' 'für' 'Gehörlos' 'an' 'Bahnhof' ':'
+
+
+['Die', 'Mangel', 'der', 'Bremen', 'Behindertenverbände', 'sein', 'lang', '.']
+
+
+['_', 'Für', 'ein', '"', 'barrierefrei', 'Bremen', '"', 'gehen', 'deshalb', 'gestern', 'mehreren', 'hundert', 'behindert', 'Mensch', 'auf', 'die', 'Straße', '-', 'und', '_', 'demonstrieren', 'am', '"', '7.', 'Bremer', 'Protesttag', 'gegen', 'Diskriminierung', '"', 'für', '"', 'Gleichstellung', 'statt', 'Barriere', '"', '.']
+
+
+['_', 'noch', 'immer', 'können', 'Gehörlos', 'zum', 'Beispiel', 'nicht', 'am', 'Bahnhof', '"', 'telefonieren', ',', 'um', 'Freund', 'zu', 'sagen', ',', 'dass', 'ihr', 'Zug', 'Verspätung', 'haben', '"', ',', 'erklären', 'Mirko', 'Stokil', 'von', 'der', '"', 'Lebenshilfe', '"', '.']
+
+
+['_', 'auch', 'Bus', 'und', 'Bahn', 'im', 'öffentlich', 'Nahverkehr', 'sei', 'noch', 'lang', 'nicht', 'all', 'behindertengerecht', 'gestalten', '.']
+
+
+['_', '"', 'Es', 'geben', 'zwar', 'ein', 'Paar', 'Niederflurbus', ',', 'aber', 'das', 'reichen', 'ja', 'nicht', '"', ',', 'sagen', 'er', '.']
+
+
+['_', 'und', 'ein', '"', 'Landesbehindertenbeauftragter', ',', 'der', 'so', 'etwas', 'forcieren', 'können', ',', 'sein', 'in', 'Bremen', 'immer', 'noch', 'nicht', 'in', 'Sicht', '"', ',', 'so', '_', 'die', 'gestrig', 'Manöverkritik', 'bei', 'der', 'Abschlußkundgebung', 'des', 'Protestag', 'auf', 'dem', 'Bremen', 'Markplatz', '.']
+
+
+['_', '"', 'Warum', '_', 'immer', 'wir', '?'] --> ['_', '"', 'Warum', '_', 'immer', 'wir', '?']
+
+
+['"', '_', 'fragen', 'die', 'Versammelt', 'deshalb', 'auf', 'Plakat', '-', 'und', '_', 'ziehen', 'mit', 'sein', 'gross', 'Transparent', 'und', 'Samba-Rhythmus', 'am', 'Mittag', 'vom', 'Steintor', 'über', 'der', 'Ostertorsteinweg', 'zu', 'Markplatz', '.']
+
+
+['_', 'am', 'Vormittag', 'haben', 'sich', 'Betroffener', 'bereits', 'mit', 'Vertreter', 'aus', 'dem', 'Bauressort', 'zur', 'Podiumsdiskussion', 'treffen', '-', 'um', 'neben', 'neu', 'Baugesetz', 'auch', 'mehr', 'Mitspracherecht', 'einfordern', '.']
+
+
+['_', '"', 'bei', 'bedeutend', 'Bau-', 'und', 'Verkehrsplanung', 'müssen', 'unser', 'Einflußmöglichkeit', 'stärken', 'werden', '"', ',', 'fordern', 'die', 'Behindertenverband', '.']
+
+
+['_', 'denn', ':']
+
+
+['"', 'wir', 'behinderung', 'müssen', 'doch', 'selbst', 'bestimmen', 'können', ',', 'was', 'behindertengerecht', 'bauen', '"', 'eigentlich', 'bedeuten', '.']
+
+
+['_', 'kat', '_', 'Kommentar', '_', 'Interesse', 'der', 'BLG', '_', 'Warum', 'Daewoo', 'nach', 'Bremen', 'müssen', '_', 'Der', 'koreanischen', 'Autokonzern', 'Daewoo', 'wollen', 'auf', 'kein', 'Fall', 'mit', 'sein', 'Auto', 'Umschlag', 'in', 'Bremerhaven', 'bleiben', 'und', 'mit', 'sein', 'Konzern-Zentrale', 'auch', 'nicht', 'nach', 'Bremerhaven', 'gehen', '.']
+
+
+['_', 'dies', 'sein', 'die', 'behaupten', ',', 'mit', 'der', 'bremen', 'häfensenator', 'die', 'skeptiker', 'in', 'den', 'wirtschaftsförder-ausschuss', 'davon', 'überzeugen', 'haben', ',', 'dass', 'die', 'ansiedlung', 'in', 'vegesack', 'nur', 'die', 'alternative', 'zu', 'einer', 'abwanderung', 'nach', 'rotterdam', 'sein', 'sein', '.']
+
+
+['_', 'Für', 'dies', 'Behauptung', 'haben', 'Beckmeyer', 'bisher', 'kein', 'Nachweis', 'liefern', '.']
+
+
+['_', 'was', 'sollen', 'Daewoo', 'gegen', 'den', 'betriebswirtschaftlich', 'günstig', 'Standort', 'Bremerhaven', 'haben', '?']
+
+
+['_', 'oder', 'sein', 'Bremerhaven', 'nicht', 'günstig', '?']
+
+
+['_', 'Sinn', 'machen', 'das', 'Ganze', 'nur', 'unter', 'zwei', 'Annahme', ':']
+
+
+Der Autoimporteur Egerland wollen auf jeder Fall selbst an eigen Kaje ablade, um die teuer Bremer Lagerhaus Gesellschaft (BLG) zu umgehen.
+
+
+['_', 'und', 'Uwe', 'Beckmeyer', 'wollen', 'auf', 'kein', 'Fall', 'in', 'Bremerhaven', 'das', 'BLG-Monopol', 'aufwächen', ',', 'weil', 'er', 'dann', 'die', 'andere', 'Auto-Import', 'gleichbehandeln', 'müssen', '.']
+
+
+['_', 'Denn', 'auch', 'der', 'gehen', 'davon', 'aus', ',', 'daß', 'sie', 'ohne', 'das', 'BLG-Monopol', 'preiswert', 'arbeiten', 'können', '.']
+
+
+['_', 'der', 'japanisch', 'auto-produzent', 'Toyota', ',', 'der', 'fünfmal', 'viel', 'nach', 'Bremerhaven', 'liefern', 'als', 'Daewoo', ',', 'haben', 'schon', 'offiziell', 'mitteilen', ',', 'auch', 'er', 'wollen', 'nun', 'ein', 'eigen', 'Kaje', 'haben', ',', 'ohne', 'BLG', '.']
+
+
+['_', 'haben', 'Beckmeyer', 'als', 'BLG-Aufsichtsratsvorsitzender', 'nur', 'BLG-Interesse', 'verteidigen', '?']
+
+
+['_', 'Klaus', 'Wolschner', '_', 'zur', 'Person', '_', 'neu', 'Schlagerstar', '_', 'Vita', 'B.', 'sein', 'die', 'Sieger', 'des', 'diesjährig', 'Grand', 'Prix', 'Cologne', '-', 'dem', 'LesbischSchwulen', 'Schlagerwettbewerb', ',', 'der', 'vor', 'zwei', 'Woche', 'in', 'Köln', 'stattfinden', '.']
+
+
+['_', 'die', '31jährig', 'Gewerkschaft', 'Mitarbeiterin', 'und', 'ausbilden', 'Industriekaufmann', 'aus', 'Oldenburg', 'bereiten', 'nun', 'ihr', 'erst', 'eigen', 'CD', 'vor', '.']
+
+
+['_', 'Mit', 'ihr', 'Titel', '"', 'Es', 'sein', 'so', '_', 'wie', 'es', 'sein', '"', 'sein', 'Vita', 'B.', 'ursprünglich', 'auf', 'dem', 'zweit', 'von', 'insgesamt', '16', 'Platz', 'des', 'Schlager-Wettbewerb', 'landen', '.']
+
+
+['_', 'doch', 'dann', 'werden', 'die', 'erstplaziert', 'überraschend', 'als', 'mutmaßlich', 'hetero', 'enttarnen', ':']
+
+
+Das Lied "Ich brauche eine Frau heute Nacht" , mit dem die Erstplazierte angetreten war , soll bereits in einem Theaterstück gespielt worden sein - _ _ _ klarer Regelverstoß und Grund genug , die ehemalige Siegerin zu disqualifizieren .
+
+Das Lied "Ich brauche eine Frau heute Nacht" , mit dem die Erstplatzierte antreten war , sollen bereits in einem Theaterstück gespielt haben sein - _ _ _ klarer Regelverstoß und Grund genug , die ehemalige Siegerin zu disqualifizieren .
+
+
+['_', 'in', 'der', 'Theaterstück', 'übrigens', 'heißen', 'das', 'Lied', 'pikanterweise', ':']
+
+
+['_', '"', 'Ich', 'brauchen', 'ein', 'Mann', 'heute', 'Nacht', '.']
+
+
+['"', '_', '_', '_', '_', 'queer', 'Welt', '.']
+
+
+['_', 'CD', '_', '_', 'agenda-21-bericht', '_', 'von', 'Tisch', '_', 'das', '167seitig', 'Aktionsprogramm', 'der', 'Bremer', 'Agenda', '21', 'werden', 'vom', 'Senat', 'vorher', 'nur', '"', 'zu', 'Kenntnis', 'nehmen', '.']
+
+
+['"', '_', 'der', 'fraktionsvorsitzende', 'der', 'spd', ',', 'christian', 'weber', ',', 'begrüßen', 'dies', 'gestern', ':']
+
+
+['_', '"', 'Ich', 'finden', 'seiner', 'gut', ',', 'daß', 'das', 'Aktionsprogramm', 'nun', 'in', 'eine', 'breit', 'Öffentlichkeit', 'diskutieren', 'werden', '.']
+
+
+['\"', '_', 'Kritik', 'äußern', 'hingegen', 'der', 'Bremer', 'Grüne', '.']
+
+
+['_', 'Fraktionssprecher', 'Helmut', 'Zachau', 'nannten', 'es', 'gestern', '"', 'beschämend', '"', '_', 'da', 'das', 'seit', 'März', 'vorliegend', 'Bremer', 'Agenda-Programm', 'vom', 'Senat', '"', 'nicht', '-', 'wie', 'versprechen', '_', '-', 'in', 'die', 'Bürgerschaft', 'einbringen', '"', 'werden', 'sein', '.']
+
+
+['_', 'die', 'Grüne', 'haben', 'der', 'Agenda-Bericht', 'deshalb', 'jetzt', 'selbst', 'auf', 'der', 'Tagesordnung', 'der', 'kommen', 'Parlamentssitzung', 'setzen', '.']
+
+
+['_', 'Taz', '_', '_', 'Privatuniversität', 'in', 'Grohn', 'werden', 'finanzieren', '.']
+
+
+['_', 'die', 'Wirtschaftsförderausschuss', 'Bremen', 'haben', 'gestern', 'der', 'Errichtung', 'die', 'International', 'University', 'Bremen', 'in', 'Grohn', 'zustimmen', '.']
+
+
+['_','Damm','sein','der','Weg','frei','für','die','geplant','Anllauffinanzierung','in','Höhe','von','230','Million','Mark','bis','2004','.']
+
+
+['_', 'der', 'Studienbetrieb', 'sollen', 'bereits', 'im', 'Herbst', '2000', 'aufnehmen', 'werden', '.']
+
+
+['_', 'nach', 'ein', 'Anlaufphase', 'von', 'sechs', 'Jahr', 'sein', 'insgesamt', '1.200', 'Studienplatz', 'an', 'der', 'Privatuni', 'planen', '.']
+
+
+['_', 'Taz', '_', 'Warnstreik', 'in', 'Zeitungs-Druckerei', '_', 'vor', 'der', 'dritte', 'Verhandlungsrunde', 'im', 'Tarifstreit', 'der', 'Druckindustrie', 'sein', 'es', 'in', 'der', 'Nacht', 'zum', 'Donnerstag', 'auch', 'in', 'Bremen', 'zu', 'Warnstreik', 'kommen', '.']
+
+
+['_', 'nach', 'Angabe', 'der', 'Gewerkschaft', 'IG', 'Medium', 'und', 'der', 'Verband', 'der', 'Druckindustrie', 'erscheinen', 'der', '"', 'Weser-Kurier', '"', 'und', 'die', '"', 'Bremer', 'Nachricht', '"', 'in', 'eingeschränkt', 'Umfang', '.']
+
+
+['_', 'die', 'Gewerkschaft', 'wollen', 'im', 'wesentlich', 'der', 'Tarifverhandlung', 'am', 'Donnerstag', 'in', 'Frankfurt', '/', 'Main', 'abwarten', '.']
+
+
+['_', 'für', 'der', 'rund', '200.000', 'Beschäftigte', 'die', 'Branche', 'verlangen', 'die', 'IG', 'Medium', '6,5', 'Prozent', 'mehr', 'Lohn', 'und', 'Gehalt', '.']
+
+
+['_', 'bisher', 'bieten', 'der', 'Arbeitgeber', '2,8', 'Prozentsatz', '.']
+
+
+['_', 'dpa', '_', 'Abstiegskampf', 'gegen', 'Frankfurt', '_', 'Bei', 'SV', 'Werder', 'Bremen', 'gehen', 'akut', 'der', 'Gespenst', 'zweiten', 'Liga', 'um', '_', 'In', 'Bremen', 'haben', 'die', 'Verantwortlicher', 'des', 'ehemalig', 'Europapokalsieger', 'Werder', 'Bremen', 'den', 'Ernst', 'der', 'Lage', 'erkennen', '.']
+
+
+['_', '"', 'Wir', 'bestreiten', 'der', 'wichtig', 'Spiel', 'in', 'die', 'Vereinsgeschichte', '"', ',', 'unterstreichen', 'am', 'siebent', 'Jahrestag', 'des', 'Europapokal-Triumph', 'in', 'Lissabon', 'Cheftrainer', 'Felix', 'Magath', 'die', 'Bedeutung', 'des', 'Bundesliga-Treffen', 'gegen', 'Eintracht', 'Frankfurt', '.']
+
+
+['_', 'für', 'den', '"', 'Abstiegsschlager', '"', 'heute', 'abend', 'im', 'Weserstadion', 'haben', 'Manager', 'Willi', 'Lemke', 'heftig', 'die', 'Werbung', 'rühren', '.']
+
+
+['_', '"', 'Wir', 'haben', '28.000', 'Karte', 'verkaufen', 'und', '_', 'rechnen', 'mit', 'ein', 'ausverkaufen', 'Haus', '"', ',', 'berichten', 'er', 'gestern', '.']
+
+
+['_', 'er', 'haben', 'Bürgermeister', 'Hennen', 'Scherf', 'und', 'Bremen', 'Theaterdirektor', 'Klaus', 'Pierwoß', 'als', '"', 'moralisch', 'Beistand', '"', 'zu', 'dies', 'Begegnung', 'einladen', '.']
+
+
+['_', 'sie', 'wollen', 'auf', 'ein', 'Tandem', 'in', 'Stadion', 'radeln', '.']
+
+
+['_', 'im', 'Gegensatz', 'zum', 'üblich', 'Ablauf', 'haben', 'Magath', 'die', 'Profi', 'bereits', 'am', 'Mittwoch', 'abend', 'in', 'das', 'Trainingslager', 'Niedersachsenhof', 'nach', 'Verden', 'beordern', '.']
+
+
+['_', 'Sonne', 'treffen', 'sein', 'die', 'Mannschaft', 'erst', 'am', 'Spieltag', '.']
+
+
+['_', 'Magath', 'ziehen', 'dafür', 'die', 'Konsequenz', 'aus', 'der', '0:4', 'in', 'Kaiserslautern', '.']
+
+
+['_', 'das', 'Werder-Präsidium', 'kündigen', 'ein', 'außerplanmäßig', 'Besuch', 'im', 'Trainingslager', '24', 'Stunde', 'vor', 'dem', 'Anpfiff', 'an', '.']
+
+
+['_', 'Präsident', 'Franz', 'Böhmert', 'wollen', 'die', 'Spieler', 'mit', 'ein', '"', 'flammend', 'Rede', '"', 'auf', 'die', 'schwierig', 'Aufgabe', 'gegen', 'die', 'ebenfalls', 'vom', 'Abstieg', 'bedrohen', 'Frankfurter', 'einschwören', '.']
+
+
+['_', '"', 'Unsere', 'Lage', 'haben', 'sich', 'nach', 'dem', 'Sieg', 'der', 'Duisburger', 'in', 'Bochum', 'nur', 'ein', 'wenig', 'verbessern', '.']
+
+
+['_', 'wir', 'müssen', 'uns', 'selbst', 'helfen', '"', ',', 'meinen', 'Magath', '.']
+
+
+[' _ ', 'der', 'Werder-Coach', 'bangen', 'um', 'die', 'Einsatz', 'von', 'Dieter', 'Eilts', 'und', 'Marco', 'Bode', '.']
+
+
+['_', 'Kapitän', 'Eilt', 'laborieren', 'an', 'ein', 'Zehenbruch', '.']
+
+
+['_', 'durch', 'ein', 'Spezialschiene', 'soll', 'sein', 'Mitwirken', 'doch', 'noch', 'möglich', 'machen', 'werden', '.']
+
+
+['_', 'Nationalspieler', 'Bode', 'klagen', 'erneut', 'über', 'ein', 'alt', 'Oberschenkelzerrung', 'und', '_', 'können', 'nicht', 'das', 'komplett', 'Trainingsprogramm', 'absolvieren', '.']
+
+
+['_', 'dpa', '_', 'Frau', ',', 'der', 'trinken', '_', 'Im', 'Rahmen', 'des', 'von', 'der', 'Bürgerschaft', 'beschließen', '"', 'Aktionsplan', 'Alkohol', '"', 'finden', 'im', 'Zentralkrankenhaus', 'Ost', 'eine', 'Fachtagung', 'zum', 'Thema', '"', 'Frau', 'und', 'Alkohol', '"', 'statt', '_', 'Kulisammler', 'aufpassen', ':']
+
+
+[Es, geben, ein, neu, Kuli, auf, dem, Markt, ,, der, heute, schon, als, Rarität, zu, bezeichnen, sein', .]
+
+
+['_', 'er', 'haben', 'drei', 'lila', 'Streifen', 'und', '_', 'tragen', 'der', 'Inschrift', ':']
+
+
+Frau trink ander.
+
+
+['_', 'die', 'Nachfrage', 'unter', 'Mann', 'sein', 'groß', '.']
+
+
+['_', 'gestern', 'finden', 'im', 'Krankenhaus', 'Ost', 'ein', 'Fachtagung', 'zu', 'Thema', '"', 'Frau', 'und', 'Alkohol', '"', 'statt', ',', 'deren', 'Organisator', 'nennen', 'Kugelschreiber', 'in', 'Auftrag', 'geben', '.']
+
+
+['_', '_', 'Veranstalter', 'sein', 'das', 'Landesinstitut', 'für', 'Schule', '-', 'Suchtprävention', 'Bremen', 'und', 'der', 'Senator', 'für', 'Frau', ',', 'Gesundheit', 'etc.', '-', 'Referat', 'Suchtkrankenhilfe', '.']
+
+
+['_', '830.000', 'Alkoholkrank', 'geben', 'sein', 'schätzen', 'in', 'Deutschland', ',', '_', '_', 'zwischen', '15.000', 'und', '22.000', '_', 'in', 'Bremen', ',', 'ein', 'Drittel', 'davon', 'sein', 'Frau', '.']
+
+
+['_', 'Das', 'Problem', '_', ':'] -> ['_', 'Der', 'Problem', '_', ':']
+
+
+Frauen, sagen, die, Psychologin, Klaudia, Winkler, werden, nicht, behandeln, sondern, "mitbehandeln", .
+
+
+['_', 'der', 'männlich', 'Trinker', 'sein', 'gut', 'erforscht', ',', 'die', 'Trinkerin', '_', 'jedoch', 'kaum', '_', ',', 'obwohl', 'ihr', 'Krankheit', 'anderes', 'Ursache', 'haben', 'und', 'nach', 'anderer', 'Therapieform', 'verlangen', '.']
+
+
+['_', 'Alkoholabhängige', 'Frau', ',', 'also', '_', 'Winkler', ',', 'sein', 'nicht', 'nur', 'aufgrund', 'ihr', 'Krankheit', 'stigmatisieren', ',', 'sondern', '_', 'gelten', 'darüber|', 'hinauf', 'auch', 'noch', 'unter', 'Säufer', 'als', '"', 'der', 'schlechte', 'Alkoholiker', '"', '.']
+
+
+['_', 'Betrunkener', 'Frau', 'werden', 'schnell', 'Affinität', 'zu', 'Promiskuität', 'und', 'Prostitution', 'nachgesagt', ',', 'wo', 'der', 'Rausch', 'bei', 'Mann', 'noch', 'als', 'Zeichen', 'von', 'Erwachsensein', 'durchgehen', 'können', '.']
+
+
+['_', 'weiblich', 'trinken', 'sein', 'ein', 'tabu', ',', 'der', 'tabubruch', 'führen', 'zu', 'schuld', 'und', 'schamgefühl', '.']
+
+
+['_', 'der', 'Forschungsstand', 'sein', 'traditionell', 'miserabel', ',', 'doch', 'gesichert', 'scheinen', ',', 'daß', 'Frau', 'aus', 'anderes', 'Grund', 'zu', 'Flasche', 'greifen', 'als', 'Mann', '.']
+
+
+['_', 'Frau', 'trinken', 'in', 'Krise', ',', 'bei', 'emotional', 'Stress', 'und', 'familiär', 'Problem', '.']
+
+
+['_', 'trinken', 'stehen', 'nicht', 'seltig', 'in', 'Zusammenhang', 'mit', 'schlecht', 'sexuell', 'Erfahrung', '.']
+
+
+['_', 'betrunken', 'sein', 'der', 'mies', 'Sex', 'besser', 'auszuhalten', ',', '_', '_', 'ein', 'unter', 'Mann', 'kaum', 'verbreitet', 'Einstellung', '.']
+
+
+['_', 'Dies', 'saufen', 'öftere', 'in', 'Gesellschaft', '.']
+
+
+['_', 'Frau', 'erleben', 'der', 'Vollrausch', 'dagegen', 'eher', 'heimlich', 'und', 'zu', 'Haus', '-', 'außer', 'Weiberfastnacht', 'bieten', 'der', 'Öffentlichkeit', 'ihnen', 'kaum', 'Ort', 'für', 'ungehemmt', 'Alkoholzufuhr', '.']
+
+
+['_', 'auch', 'der', 'Konsequenz', 'des', 'Trinken', 'scheinen', 'ander', 'zu', 'sein', ':']
+
+
+Alkoholkonsum | führen | bei | Frau | schnell | zu | Schädigung | und | Abhängigkeit | .
+
+
+['_', 'die', 'Gefahr', 'für', 'eine', 'Trinkerin', ',', 'vom', 'Partner', 'verlassen', 'werden', ',', 'sein', 'viermal', 'so', 'groß', 'wie', 'für', 'den', 'alkoholkrank', 'Mann', '.']
+
+
+['_', 'die', 'gesellschaftlich', 'Stigmatisierung', 'ein', 'Alkoholikerin', 'scheinen', 'noch', 'groß', 'zu', 'sein', 'als', 'für', 'ihr', 'männlich', 'Pendant', '.']
+
+
+['_', 'Dabei', 'entwickeln', 'Frau', 'offenbar', 'ausgeklügl', 'Strategie', ',', 'nicht', 'weiter', 'auffallen', '.']
+
+
+['_', 'und', 'der', 'Mann', 'machen', 'mit', ',', 'indem', 'sie', 'nicht', 'hinsehen', '.']
+
+
+['_', 'Katastrophe', 'stimmung', 'herrschen', 'erst', ',', 'wenn', 'nichts', 'mehr', 'zu', 'verheimlichen', 'sein', '.']
+
+
+['_', 'die', 'Dortmunder', 'Psychologin', 'Prof.', 'Alexa', 'Franke', 'haben', 'herausfinden', ',', 'daß', 'die', 'Scheidungsquote', 'bei', 'abhängig', 'Frau', 'fünf', 'mal', 'so', 'hoch', 'sein', 'wie', 'bei', '"', 'nur', '"', 'trinken', '.']
+
+
+['_', 'Berücksichtigen', 'man', ',', 'daß', 'europaweit', 'weiblich', 'Alkoholismus', '-', 'andere', 'als', 'bei', 'Mann', '-', 'stark', 'in', 'gut', 'situieren', 'Verhältnis', 'vorkommen', ',', 'können', 'man', 'die', 'Anpassungsdruck', 'erahnen', ',', 'unter', 'der', 'solch', 'Frau', 'stehen', '.']
+
+
+['_', 'dies', 'haben', 'Auswirkung', 'auf', 'die', 'Bereitschaft', ',', 'Therapieangebot', 'annehmen', '.']
+
+
+['_', 'ein', 'frauenspezifisch', 'Alkoholismustherapie', 'müssen', ',', 'sagen', 'Klaudia', 'Winkler', ',', 'nicht', 'nur', 'der', 'Frage', 'der', 'Kinderbetreuung', 'klären', '.']
+
+
+['_', 'sondern', '_', '_', 'auch', 'auf', 'erleiden', 'Gewalt', 'Erfahrung', ',', 'Sexproblem', ',', 'Konflikt', 'mit', 'Frauenrolle', '/', 'Mutterrolle', 'eingehen', '.']
+
+
+['_', 'Therapieeinrichtung', 'mit', 'streng', 'Reglement', ',', 'evtl.', 'rüd', 'Umgangston', 'und', 'Anmache', 'durch', 'Mitpatient', 'tun', 'Frau', ',', 'deren', 'Selbstwertgefühl', 'meist', 'schwach', 'entwickeln', 'sein', ',', 'nicht', 'gut', '.']
+
+
+_ | Bus | _ | urdrüssen | wahr | Kolumne | _ | Affenklo | und | Zungenkuß | _ | im | Zug | nach | Bremen | zeigen | mir | die | mit | einem | herrlich | flachsfarben | Dutt | ausgestatten | Inhaber | ein | Senioren-Bahncard | die | aktuell | Heim | & | WELT | mit | eben | dieser | Leserbrief | von | Frau | Ursel | Belz | aus | Berlin | :
+
+
+['_', '"', 'Wencke', 'Myhre', 'lassen', 'sich', 'also', 'scheiden', '.']
+
+
+['_', 'Hätte', 'sie', 'sich', 'das', 'nicht', 'alles', 'vorher', 'überlegen', 'können', '?']
+
+['_', 'Haben', 'sie', 'sich', 'das', 'nicht', 'alles', 'vorher', 'überlegen', 'können', '?']
+
+
+['_', 'schließlich', 'haben', 'sie', 'für', 'diese', 'Mann', 'Michael', 'Pfleghar', 'verlassen', 'und', 'der', 'bringen', 'sich', 'daraufhin', 'um', '.']
+
+
+['_', 'Jetzt', 'fragen', 'ich', 'mich', ',', 'wofür', 'das', 'Ganz', 'gut', 'sein', '.']
+
+
+['"', '_', 'Noch', 'vor', 'ich', 'dies', 'Gedanke', 'so', 'recht', 'verdauen', 'hab', ',', 'stoßen', 'die', 'kontaktfreudig', 'Greisin', 'argumentativ', 'nach', ':']
+
+
+'_', '"', 'glauben|', 'sein', 'mir', ',', 'der', 'ganz', 'Krieg', ',', 'das', 'würden', 'es', 'gar', 'nicht', 'geben', ',', 'wenn', 'die', 'Frau', 'ein', 'bißchen', 'gut', 'auf', 'ihr', 'Mann', 'aufpassen', 'würden', '-', 'sein', 'doch', 'klar', ',', 'dass', 'so', 'ein', 'jetzt', 'gekränkt', 'sein', 'und', 'sich', 'austoben', 'müssen', '"', '.'
+
+
+['_', 'Kopf', ',', 'Kopf', '!']
+
+
+['_', 'aber', 'der', 'sein', 'ja', 'auch', 'schon', 'die', 'vier', '.']
+
+
+['_', 'vermutlich', 'meinen', 'sie', 'es', 'gut', ',', 'der', 'Mann', ',', 'Lesbe', 'und', 'Frau', 'vom', 'Hagener', 'Friedenszeichen', 'e.V.', ',', 'wenn', 'sie', 'für', 'den', '13.', 'Mai', 'zur', 'fürsorglich', 'belagern', 'des', 'grün', 'Sonderparteitag', 'nach', 'Bielefeld', 'rufen', '.']
+
+
+['_', 'Ob', 'aber', 'der', 'Parole', '"', 'Green', 'Peace', 'statt', 'Green', 'War', '"', 'der', 'gerecht', 'Sach', 'vorantreiben', ',', 'wagen', 'man', 'doch', 'zu', 'bezweifeln', ':']
+
+
+Tokenliste lemmatisiert: ['_', '_', 'zwar', 'nicht', 'ganz', 'so', 'beknackt', 'werden', '"', 'ich', 'sein', 'verzweifelt', ',', 'aber', '_', 'haben', 'kein', 'Zweifel', '"', ',', 'aber', '_', '_', 'doch', 'nicht', 'so', 'gehaltvoll', 'werden', '"', 'Fight', 'back', '"', '...', '_', '_', 'Nashorn-Bürgermeister', 'Henning', 'Storchbein', 'setzen', 'auf', 'die', 'Sammlung', 'der', 'positiv', 'Kraft', 'und', 'prompt', 'werden', 'da', 'gepöbelt', '.']
+
+
+['_', 'statt', 'sich', 'zu', 'freuen', ',', 'daß', 'dieser', 'asketisch', 'Kunstradfahrer', 'endlich', 'mal', 'gegen', 'Ausgrenzung', 'aktiv', 'werden', 'und', 'im', 'nächsten', 'Senat', 'auch', 'HIV-Positiv', 'eine', 'Chance', 'geben', ',', 'noch', 'ein', 'paar', 'Mark', 'Rente', 'einfahren', '.']
+
+
+['_', 'be', 'fürchten', 'sein', ',', 'daß', 'er', 'der', 'neu', 'SenatorIn', 'in', 'Tateinheit', 'mit', 'Inge', 'Meysel', 'Zungenkuss', 'aufnötigen', ',', 'um', 'zu', 'zeigen', ',', 'daß', 'gar', 'nichts', 'dabei', 'sein', ':']
+
+
+Dann _ _ doch lieber nur Sozialhilfe !
+
+
+['_', 'nehmen', 'du', 'mein', 'Tier', ',', 'nehmen', 'ich', 'dein', ':']
+
+
+unter|dies|segensreich|Motto|koordinieren|der|Bremer|Tierschutzverein|auch|heuer|wieder|die|Selbsthilfeorganisation|von|Wellensittichzüchter|und|Hundehalter|während|Herrchen|Fahrt|nach|Italien|,|wo|ferienmachen|Sittich|gern|im|gerupft|Dutzend|frittieren|werden|und|Möpse|als|Carnigglio|im|haschieren|Zustand|zu|Teigware|Verwendung|finden|.
+
+
+['_', '_', '_', 'kurz', 'und', 'gut', '-', 'irgendwann', 'müssen', 'auch', 'Andy', 'Kreiter', 'Urlaub', 'vom', 'Affenschinder', 'machen', 'und', 'dann', 'stehen', 'ich', 'mit', 'Herzenswärme', 'und', 'Banane', 'als', 'Urlaubsvertretung', 'bereit', '.']
+
+
+['_', 'irgendwo', 'in', 'der', 'Wald', 'Schaumburg', 'werden', 'der', 'Makak', 'und', 'ich', 'untertauchen', 'und', 'vielleicht', 'in', 'ein', 'klein', 'Bergdorf', 'als', 'Wählergemeinschaft', 'für', 'den', 'Ortsrat', 'kandidieren', ':']
+
+
+und | unser | Plumpsklo | nennen | wir | Andreas | , | damit | die | Affe | wenig | in | ihr | zweit | Lebenshälfte | noch | ein | bißchen | was | zu | lachen | haben |... | _ | Daß | der | berufspolitisch | Speckjäger | Ralf | Fück | die | Gegner | der | NATO-Bombenteppich | in | die | Fascho-Ecke | zu | schieben | trachten | , | liegen | in | der | logisch | Entwicklung | dies | KB-Wichtig | in | den | letzt | zwei | Jahrzehnt |.
+
+
+_, dass, er, das, aber, als, Vorstand, der, Heinrich, Böll-Stiftung, tun, ,, sollen, jedem, liebenswert, Schriftsteller, veranlassen, ,, testamentarisch, zu, verfügen, ,, dass, sich, die, ideologisch, Leichenfledderer, nach, sein, Ableben, nicht, am, gut, Name, gütlich, tun, dürfen, -, _, _, Ansicht, ein, naive, Clown, ,, gewiss, ,, und, _, _, nicht, so, ganz, kompatibel, zu, politisch, Vernunft, ,, die, in, diesen, Kreis, mit, dem, Aluminiumlöffel, aus, der, Feldküche, löffeln, werden, .
+
+
+['_', 'Dafür', 'aber', 'können', 'ich', 'nun', 'auch', 'nichts', '.']
+
+
+['_', 'miteinander', 'Herzeleid', 'und', 'NATO-Haß', 'grüßen', 'Ulrich', '"', 'Tofu', '"', 'Reineking', '_', '_', 'Brand', 'in', 'Bremer', 'Wohnhaus', '_', 'bei', 'ein', 'Feuer', 'in', 'ein', 'Wohnhaus', 'in', 'Bremen', 'haben', 'in', 'der', 'Nacht', 'zu', 'Donnerstag', 'ein', 'Mensch', 'eine', 'Rauchvergiftung', 'erleiden', '.']
+
+
+['_', 'der', 'Schaden', 'betragen', 'nach', 'Angabe', 'der', 'Feuerwehr', 'etwa', '300.000', 'Mark', '.']
+
+
+['_', 'Das', 'Feuer', 'haben', 'sich', 'gegen', '0.40', 'Uhr', 'im', 'dritt', 'Stock', 'des', 'viergeschossig', 'Haus', 'entzünden', '.']
+
+
+['_', 'die', 'gesamt', 'Wohnung', 'brennen', 'aus', ',', 'benachbart', 'Wohnung', 'werden', 'erheblich', 'beschädigen', '.']
+
+
+['_', 'die', 'Ursache', 'des', 'Feuer', 'sein', 'zunächst', 'noch', 'unklar', '.']
+
+
+['_', 'dpa', '_', 'erneuen', '_', '_', 'alt', 'Frau', 'fahren', 'an', 'Lebensgefahrlich', 'Körperverletzung', 'haben', 'selbst', 'ein', '88jährig', 'Fußgängerin', 'bei', 'ein', 'Zusammenstoß', 'mit', 'ein', 'Pkw', 'zuziehen', '.']
+
+
+['_', 'die', 'Frau', 'haben', 'das', 'Auto', 'bei', 'überqueren', 'der', 'Waller', 'Heerstraße', 'offensiv', 'übersehen', '.']
+
+
+['_', 'Der', 'Fahrer', 'können', 'nicht', 'mehr', 'bremsen', '.']
+
+
+['_', 'die', '88jährig', 'werden', 'vom', 'recht', 'Außenspiegel', 'erfassen', ',', '_', 'schleudern', 'über', 'die', 'Motorhaube', 'und', '_', 'prallen', 'mit', 'dem', 'Kopf', 'auf', 'die', 'Fahrbahn', '.']
+
+
+['_', 'Sie', 'werden', 'anschließend', 'in', 'Krankenhaus', 'einliefern', '.']
+
+
+['_', 'POL.BER.', '_', 'NUN', '_', '_', 'ZU', 'WETTER', '_', 'DER', 'MEU', 'MACHEN', 'NICHT', 'ALLES', 'NEU', '!']
+
+
+['_', 'es', 'sein', 'zur', 'Zeit', 'eher', 'ein', 'Seumeu', '.']
+
+
+['_', 'Die', 'sonst', 'im', 'Meu', 'lachen', 'Sonne', 'haben', 'sich', 'hinter', 'Wolke', 'verziehen', '.']
+
+
+['_', 'sein', 'sollen', 'zum', 'Wochenende', 'sogar', 'teilweise', 'Schauer', 'geben', '.']
+
+
+['_', 'immerhin', 'werden', 'es', 'nicht', 'noch', 'obendrein', 'kalt', ',', 'sondern', '_', '_', 'bei', '20', 'Grad', 'erträglich', '.']
+
+
+['_', 'der', 'nächtlich', 'Bodenfrost', 'verziehen', 'sich', 'zudem', 'zu', 'Gunst', 'von', 'halbweg', 'akzeptabel', 'zehn', 'Grad', '.']
+
+
+['_', 'Auftakt', 'zu', 'Selbsthilfetag', '_', '"', 'ich', 'leben', 'du', '_', 'Berthold', 'Kilian', 'sprechen', 'in', 'Bremen', 'vor', 'Betroffenen', 'über', 'Co-Abhängigkeit', '_', 'In', 'Vortrag', 'von', 'Berthold', 'Kilian', 'stechen', 'viel', 'geflügelt', 'Wort', '.']
+
+
+['_', '_', '_', 'Zu', 'Beispiel', ':']
+
+
+['"', 'immer', 'kommen', 'ein', 'und', '_', 'stehlen', 'mein', 'mein', 'Krise', '"', '.']
+
+
+['_', 'denn', 'Krise', 'kennen', 'die', 'meist', 'der', 'rund', '60', 'ZuhörerIn', ',', 'die', 'am', 'Mittwoch', 'abend', 'in', 'der', 'Angestellte', 'zusammenkommen', '.']
+
+
+['_', 'viele', 'haben', 'suchtkrank', 'Kind', ',', 'Partner', 'oder', 'Freund', 'und', '_', 'haben', 'sich', 'in', 'Elternkreis', 'zusammenschließen', '.']
+
+
+['_', 'endlich', 'nun', 'kommen', 'der', 'Frankfurter', '"', 'Guru', '"', 'Berthold', 'Kilian', 'nach', 'Bremen', ',', 'um', 'über', 'das', 'aktuell', 'diskutieren', 'Thema', 'Co-Abhängigkeit', 'zu', 'sprechen', '.']
+
+
+['_', '"', 'werden', 'Co-Abhängigkeit', 'tun', ',', 'nennen', 'man', 'früher', 'verwöhnen', '"', ',', 'erzählen', 'der', 'alt', 'Mann', 'mit', 'raspelkurz-geschoren', 'Haar', '-', 'und', '_', 'beginnen', 'mit', 'ein', 'Geschichte', ',', 'einer', 'von', 'viele', 'weiteren', 'an', 'dieser', 'Abend', ':']
+
+
+['ein', 'Mann', 'stehen', 'auf', 'nur', 'ein', 'Bein', '.']
+
+
+['_', 'Alle', 'vorübergehend', 'stützen', 'und', '_', 'massieren', 'der', 'Arm', ',', 'der', 'vor', 'Schmerz', 'schreien', '.']
+
+
+['_', 'endlich', 'kommen', 'einer', 'und', '_', 'fragen', ',', 'warum', 'der', 'Mann', 'nicht', 'sein', 'zweit', 'Bein', 'benutzen', '.']
+
+
+['_', '"', 'Warum', 'wohl', '_', '_', '?'] --> ['_', '"', 'warum', 'wohl', '_', '_', '?']
+
+
+['"', ',', 'fragen', 'Kilian', 'der', 'Publikum', 'und', '_', 'geben', 'sich', 'selbst', 'die', 'Antwort', ':']
+
+
+['_', '"', 'Er', 'haben', 'es', 'einfach', 'nicht', 'bemerken', '.']
+
+
+['"', '_', 'Kilian', 'Theme', 'sein', 'an', 'dies', 'Abend', 'das', '"', 'loslassen', '"', '.']
+
+
+['_', 'aus', 'langjährig', 'Erfahrung', 'in', 'der', 'Suchtkrankenhilfe', 'wissen', 'der', 'Frankfurter', 'Pädagoge', ',', 'dass', 'Suchtkranker', 'vielfältig', 'decken', 'werden', '.']
+
+
+['_', 'Jahr', 'ziehen', 'sich', 'das', 'Dilemma', 'am', 'Arbeitsplatz', 'oder', 'in', 'die', 'Familie', 'hin', '.']
+
+
+['_', 'Anstatt', 'das', 'krankhaft', 'Hick-Hack', 'zwischen', 'Helfer', 'und', 'Süchtig', 'einbrechen', 'zu', 'lassen', ',', 'kitten', 'die', 'Helfer', 'emsig', 'am', 'morsch', 'Geflecht', '.']
+
+
+['_', 'letztendlich', 'ermöglichen', 'ihr', '"', 'Beziehungssucht', '"', 'die', 'Krankheit', '.']
+
+
+_, "Wenn Angehörige es sich zur Lebensaufgabe machen, den Kranken zu kontrollieren", "so", _, "Kilian", ",", "vergessen sie darüber ihr eigenes Leben", ".".
+
+
+['_', 'Deshalb', 'raten', 'er', 'sein', 'Publikum', ',', 'aus', 'ihr', '"', 'gemütlich', 'Elend', '"', 'aussteigen', '.']
+
+
+['_', 'und', '_', 'geben', 'ein', 'Trost', 'mit', 'auf', 'der', 'Weg', ':']
+
+
+['_', '"', 'Wenn', 'jeder', 'sich', 'gut', 'um', 'sich', 'kümmern', ',', 'sein', 'für', 'alle', 'sorgen', '.']
+
+
+['"', '_', 'Liane', 'Aiwanger', '_', '"', 'lieben', 'taz', '...', '"', 'Wahlkampf', 'der', 'SPDU', '-', 'Betroffenheit', ':']
+
+
+['"', '_', 'Scherf-Angriff', 'auf', 'der', 'positiv', 'Kraft', '"', ',', 'taz', 'bremen', 'vom', '5.', 'Mai', '1999', '_', 'Lieb', 'tazzen', ',', 'versteh', 'ihr', 's', 'wirklich', 'nicht', '?']
+
+
+['_', 'der', 'Streit', 'um', 'die', 'Großflächenplakat', 'sein', 'doch', 'der', 'versprechen', 'inhaltlich', 'Wahlkampf', 'der', 'SPDU', '!']
+
+
+['_', '_', '_', 'immer', 'zu', 'dienen', ',', 'Klaus', 'Jarchow', '_', 'kein', 'Kafka', 'für', 'Brillenträger', '-', 'betreffen', ':']
+
+
+['"', 'Kafka', 'gehen', 'Kleinkunst', '"', '-', '_', 'Kritik', 'der', 'Inszenierung', '"', 'Der', 'Bau', '"', ',', 'taz', 'bremen', 'vom', '29.', 'April', '1999', '_', 'Als', 'Premiere', 'sein', 'ich', 'keinesfalls', '"', 'besinnungslos', '"', ',', 'als', 'ich', 'am', 'Ende', 'diese', 'sehr', 'empfehlenswert', 'Abend', 'euphorisch', 'klatschen', ':'].
+
+
+Endlich | kein | Kafka | für | Rollkragenpullover | tragen | Brillenträger | in | schwarz | Kulisse |, | sondern | _ | _ | ein | schauspielerisch | fulminant | Gratwanderung | Uta | Krause | zwischen | Gänsehaut-Abgrund | und | feinsinnig | Komik | ( | Jawohl |:
+
+
+['ihr', 'Lexikon', 'haben', 'richtig', ':']
+
+
+['Kafka', 'sein', 'komisch', '!']
+
+
+['_', 'Schon', 'Thomas', 'Mann', 'befinden', ',', 'er', 'sein', 'ein', '"', 'religiös', 'Humorist', '"', ')', '.']
+
+
+['_', 'wen', 'sie', 'der', 'kühl', ',', 'feucht-Schimmel', ',', 'Fensterlos', 'schwankhalle', 'als', '"', 'hübsch', 'und', 'ganzlich', 'undüstern', '"', 'bezeichnen', ',', 'mögen', 'ich', 'nicht', 'ihr', 'Haus', 'sehen', '.']
+
+
+['_', 'mit', 'welch', 'Recht', 'vergleichen', 'sie', 'dies', 'beachtenswert', 'Regie-Debüt', 'von', 'Sebastian', 'Kautz', 'mit', 'ein', 'Tabori-Inszenierung', 'von', '1977', ',', 'die', 'sie', 'kaum', 'sehen', 'haben', 'dürfen', '?']
+
+
+['_', 'Jochen', 'Sesse', '_', 'der', 'Vorschau', '_', 'Canto', 'vs.', 'Klischee', '_', 'das', 'Duo', 'Mismetti', 'und', 'Daniel', 'servieren', 'brasilianisch', 'Musik', 'jenseit', 'der', 'Samba', '_', 'einzigartig', 'Möglichkeit', ',', 'sich', 'über', 'die', 'Musik', 'Brasiliens', 'zu', 'informieren', ',', 'geben', 'es', 'heutig', 'Abend', 'in', 'der', 'Kunsthalle', ':']
+
+
+['Das', 'treten', 'nämlich', 'der', 'Bariton', 'Renato', 'Mismetti', 'und', 'der', 'Pianist', 'Max', 'Daniel', 'auf', '.']
+
+
+['_', 'Beide', 'haben', 'sich', 'gründlich', 'mit', 'der', 'gebrochen', '(Musik-)Geschichte', 'ihr', 'Land', 'beschäftigen', ':']
+
+
+['Die', 'unterdrücken', 'Kultur', 'der', 'Indianer', ',', 'die', 'der', 'afrikanisch', 'Sklave', 'und', 'die', 'der', 'Portugiesisch', 'Kolonisiert', 'prägen', 'die', 'Ästhetik', '.']
+
+
+['_', 'unter', 'dem', 'Titel', '"', 'Canto', 'do', 'Brasil', '"', 'sein', 'Lied', 'aus', 'zwei', 'Jahrhundert', 'zu', 'hören', ',', 'indianisch', 'Gesang', ',', 'so', 'man', 'sie', 'rekonstruieren', 'können', ',', 'Volkslied', 'und', 'zeitgenössisch', 'Kunstlied', 'von', 'Komponist', ',', 'der', 'uns', 'unbekannt', 'sein', '.']
+
+
+['_', 'Sie', 'beziehen', 'sich', 'auf', 'die', '"', 'Modinha', '"', ',', 'der', 'am', 'besten', 'mit', 'einer', 'Art', 'Salonlied', 'kennzeichnen', 'können', ',', 'und', 'den', '"', 'Lundu', '"', ',', 'der', 'über', 'rhythmisch', 'Eigenschaft', 'aus', 'der', 'afrikanisch', 'Musik', 'aufbauen', '.']
+
+
+['_', 'Beide', 'sein', 'Liedform', ',', 'der', 'am', 'Ende', 'des', 'achtzehnten', 'Jahrhundert', 'der', 'erste', 'Anzeichen', 'ein', 'Verschmelzungsprozess', 'zeige', '.']
+
+
+['_', 'und', 'so', 'existieren', 'heute', '"', 'ein', 'national', 'brasilianisch', 'Musik', '-', 'einzigartig', ',', 'facettenreich', 'und', 'von', 'stark', 'Charakter', '"', '(', '_', 'Renato', 'Mismetti', ')', '.']
+
+
+['_', 'Renato', 'Mismetti', 'haben', 'zunächst', 'Psychologie', 'studieren', 'und', 'dann', '_', '_', 'Gesang', 'an', 'der', 'Universität', 'Uberlandia', 'in', 'Brasilien', '_', ',', 'an', 'die', 'Max', 'Daniel', 'Professor', 'für', 'Klavier', 'sein', '.']
+
+
+['_'.", 'beiden', 'haben', 'beim', '”', '44.', 'Internationalen', 'Jugend-Festspieltreffen', 'Bayreuth', '”', 'ein', 'Workshop', 'zur', 'Interpretation', 'des', 'brasilianischen', 'Lied', 'leiten', 'und', '_', 'sei', 'davon', 'überzeugen', ',', 'dass', 'sie', 'bei', 'der', 'Verbreitung', 'der', 'bunten', 'Kultur', 'Brasiliens', 'gegen', 'viele', 'Klischee', 'und', 'Vorurteil', 'angreift', 'müssen', '.']
+
+
+['_', 'und', 'lauten', 'der', 'sorgfältig', 'Programmgestaltung', 'wollen', 'sie', 'das', 'auch', '_', '.']
+
+
+['_', 'usl', '_', 'heute', '_', 'um', '20', 'Uhr', 'in', 'der', 'Kunsthalle', ':']
+
+
+['"', 'Canto', 'do', 'Brasil', '"', '.']
+
+
+_ _ _ Von Klassik und Popkultur _ Die türkische Sängerin Candan Ercettin haben die Umarmung durch Bremer Gutmenschen schadlos überstanden und _ gastieren jetzt in der Glocke _ Candan Ercettin sein überall.
+
+
+['_', 'Ich', 'Reisebüro', ',', 'ich', 'Supermarkt', 'und', 'in', 'Plattenladen', 'hängen', 'ihr', 'Plakat', '.']
+
+
+['_', 'und', 'jetzt', 'sitzen', 'sie', 'auch', 'noch', 'neben', 'Henning', 'Scherf', 'im', 'Rathaussaal', ',', 'wo', 'sonst', 'nur', 'Leute', 'wie', 'der', 'dick', ',', 'wichtig', 'EU-Kommissar', 'Martin', 'Bangemann', 'neben', 'den', 'Bremer', 'regieren', 'sitzen', '.']
+
+['_', '"', 'wollen', 'sein', 'mich', 'was', 'fragen', '?']
+
+
+['"', 'geben', 'sie', 'kokettieren', 'in', 'die', 'versammeln', 'Journalistenrunde', '.']
+
+
+['_', '_', 'wollen', 'wir', '.']
+
+
+['_', 'aber', 'Henning', 'Scherf', 'lassen', 'uns', 'nicht', '_', ',', 'sondern', '_', 'erzählen', 'erstmal', ',', 'wie', 'wichtig', 'sein', 'es', 'ist', ',', 'dass', 'wir', 'Candan', 'Ercettin', 'gut', 'finden', '.']
+
+
+['_', 'schließen', 'sein', 'sie', 'ein', 'der', 'erfolgreich', 'Sängerin', 'der', 'Türkei', '.']
+
+
+['_', 'Und', 'sie', 'kommen', 'für', 'ein', 'einzig', 'Konzert', 'nach', 'Deutschland', '-', 'ja', ',', 'nach', 'Bremen', '.']
+
+
+['_', 'und', 'das', 'sein', 'einmalig', 'Chance', ',', 'mal', 'ein', 'ander', ',', 'aufgeklärt', ',', 'weltbürgerlich', 'Variante', 'der', 'Türkei', 'kennenlernen', ',', 'finden', 'der', 'Bürgermeister', '.']
+
+
+['_', 'Tatsächlich', 'sein', 'Candan', 'Ercettin', 'ein', 'ungewöhnlich', 'Sängerin', ',', 'der', 'es', 'lohnen', ',', 'im', 'Konzert', 'zu', 'sehen', '-', 'nicht', 'nur', ',', 'weil', 'sie', 'dank', 'eines', 'Studienjahres', 'in', 'Wien', 'sehr', 'gut', 'deutsch', 'sprechen', '.']
+
+
+['_', 'Erst', 'mit', '32', 'Jahr', 'nehmen', 'sie', '1995', 'ihr', 'erste', 'Pop-Album', 'auf', '.']
+
+
+['_', 'zuvor', 'haben', 'sie', 'ein', 'Studium', '-', 'Archäologie', '-', 'durchführen', ',', 'wie', 'es', 'sich', 'für', 'eine', 'Tochter', 'der', 'wohlhabend', ',', 'aufgeklärt', 'türkisch', 'Oberschicht', 'gehören', '.']
+
+
+['_', 'danach', 'werden', 'sie', 'am', 'staatlich', 'konservatorium', 'für', 'Musik', 'und', 'Gesang', 'in', 'Istanbul', 'ausbilden', '.']
+
+
+['_', 'Ihr', 'klassisch', 'schulen', 'Stimme', 'überzeugen', 'das', 'türkisch', 'Massenpublikum', 'auf', 'Anhieb', '.']
+
+
+['_', 'Ihr', 'Debüt', '"', 'Hazirim', '"', '(', 'Ich', 'sein', 'bereit', ')', 'verkaufen', 'sich', '400.000', 'mal', '.']
+
+
+['_', 'Allerdings', 'bleiben', 'sie', 'trotz', 'des', 'Erfolg', 'auf', 'Distanz', 'zu', 'Popszene', ':']
+
+
+['_', '_', 'kein', 'Drogengeschicht', ',', 'kein', 'wild', 'Affär', ',', 'kein', 'Klatsch', '.']
+
+
+['_', '"', 'Ich', 'bleiben', 'lieb', 'zu', 'Haus', ',', '"', 'sagen', 'sie', '.']
+
+
+['_', 'Das', 'zweit', 'Album', '"', 'Capkin', '"', '(', 'Verführer', ')', 'verkaufen', 'sich', 'trotz', 'doppeln', 'so', 'of', 'wie', 'das', 'erst', '.']
+
+
+['_', 'eigentlich', 'soll', 'das', 'ausreichen', ',', 'um', 'auf', 'dies', 'Verteterin', 'der', 'türkisch', 'Popmusik', 'neugierig', 'sein', '.']
+
+
+['_', 'doch', 'der', 'Bremen', 'Veranstalter', 'inszenieren', 'um', 'Candan', 'Ercettin', 'ein', 'sinnlos', 'Scharade', ':']
+
+
+' ' , die , Stimme , des , Bosporus , ' ' , sollen , die , Popsängerin , sein , , _ _ , ein , Etikett , , das , sie , selbst , zu , lachen , finden , , so , blöd , sein , es , .
+
+
+['_', 'dann', '_', 'der', 'Bürgermeister', ',', 'der', 'dem', 'Bildungsbürger', 'hochoffiziell', 'verkünden', 'müssen', ',', 'wie', 'toll', 'so', 'ein', 'Beitrag', 'zur', 'Völkerverständigung', 'sein', '.']
+
+
+['_', 'Auch', 'dies', 'Vorlage', 'kommen', 'vom', 'Veranstalter', ':']
+
+
+das Konzert sein als Beitrag für den kulturellen Austausch zwischen den Völkern gedacht und _ sollen deutschen Musikliebhaber einen Einblick in die türkische "World-Music" geben, heißen es auf dem Waschzettel.
+
+
+['_', 'Mit', 'Weltmusik', 'und', 'Völkerverständigung', 'aber', 'haben', 'die', 'Musik', 'von', 'Candan', 'Ercettin', 'ebenso|', 'viel', 'haben', 'zu', 'tun', 'wie', 'Walt', "Disney's", '"', 'Alladin', '"', 'mit', 'dem', 'Leben', 'in', 'Istanbul', '.']
+
+
+['_', 'Es', 'gehen', 'um', 'populär', 'Unterhaltung', ',', 'gut', 'machen', 'und', 'freundlich', ',', 'um', 'mehr', '_', '_', 'nicht', '.']
+
+
+['_', 'wer', 'einfach', 'gut', 'unterhalten', 'werden', 'wollen', ',', 'kommen', 'auf', 'seiner', 'Kosten', '.']
+
+
+['_', 'wer', 'ethno-klänge', 'oder', 'tief', 'einblick', 'in', 'die', 'türkisch', 'kultur', 'erwarten', ',', 'werden', 'enttäuschen', '.']
+
+
+['_', 'so', 'gut', 'meinen', 'Werbung', 'unversehens', 'zur', 'Mogelpackung', ',', 'wenn', 'ein', 'groß', 'Koalition', 'aus', 'Veranstalter', 'und', 'Bürgermeister', 'fürchten', ',', 'mit', 'einfach', 'gut', 'türkisch', 'Pop', 'die', 'Bude', 'nicht', 'voll', 'bekommen', '.']
+
+
+['_', '"', 'für', 'der', 'türkisch', 'Popmusik', 'können', 'man', 'es', ',', 'Alternativ', 'nennen', ',', '"', 'sagen', 'Ercettin', ',', 'als', 'sie', 'endlich', 'selbst', 'über', 'der', 'Musik', 'erzählen', 'dürfen', ',', 'der', 'sie', 'machen', '.']
+
+
+['_', 'Dafür', 'sprechen', 'seine', 'klassische', 'Ausbildung', ',', 'die', 'nicht', 'mit', 'Wegwerfkultur', 'und', 'platt', 'Melodie', 'zusammen|', 'passen', '.']
+
+
+['_', 'wie', 'viel', 'Popkünstler', 'glänzen', 'Ercettin', 'durch', 'Perfektion', '.']
+
+
+['_', 'nichts', 'sein', 'der', 'zufall', 'überlassen', '.']
+
+
+['_', 'die', 'türkisch', 'Instrument', 'und', 'Harmonie', 'sein', 'nahtlos', 'in', 'ein', 'westlich', 'Klange', 'aus', 'E-Gitarre', 'und', 'dick', 'Keyboard', 'eingearbeitet', '.']
+
+
+['_', 'die', 'traditionell', 'Element', 'kommen', 'ab', 'und', 'an', 'zurückhaltend', 'an', 'die', 'Oberfläche', ',', 'ohne', 'die', 'glatt', 'Klangpolitur', 'irritieren', 'zu', 'stören', '.']
+
+
+['_', 'ein', 'toll', 'Stimme', 'haben', 'die', 'Türkin', '.']
+
+
+['_','von','der','Einfluss',',','der','sie','nennen','und','_','_','bei','ihr','Live-Konzert','aufgreifen','-','Edith','Piaf',',','Marlene','Dietrich','und','Co.','-','hören','man','dagegen','auf','der','Platte','gar','nichts','.']
+
+
+['_', 'aber', 'ercettin', 'wollen', 'pop', 'mit', 'niveau', 'machen', ',', 'sagen', 'sie', '.']
+
+
+['_', 'sie', 'singen', 'nicht', 'Playback', '.']
+
+
+['_', 'die', 'künstlerisch', 'Regel', 'bestimmen', 'sie', '-', '_', '_', 'kein', 'Selbstverständlichkeit', 'in', 'der', 'Popwelt', ',', 'schon', 'gar', 'nicht', 'im', 'Macho-Wunderland', 'Türkei', '.']
+
+
+['_', 'Küßchen-Geräusch', 'wie', 'in', 'Tarkan', 'derzeitig', 'Hit', '"', 'Sirselik', '"', 'würde', 'sie', 'niemals', 'nachmachen', ',', 'sagen', 'sie', '.']
+
+
+['_', 'dass', 'auch', 'türkische', 'Eltern', 'sie', 'deshalb', 'mögen', ',', 'heißen', 'aber', 'nicht', ',', 'dass', 'die', 'Türkin', 'langweilig', 'sein', '.']
+
+
+['_', 'im', 'Gegenteil', ':']
+
+
+Ercettin sein erste türkisch Sängerin , sein eigen Remis-Album auf den Markt bringen .
+
+
+['_', 'und', '"', 'capkin', '"', 'sein', 'auch', 'im', 'originalmix', 'ein', 'solid', 'pop-album', 'voll', 'sauber', 'produzieren', 'stück', 'zu', 'immer', 'gleich', 'thema', 'liebe', '.']
+
+
+['_', '"', 'Das', 'erster', 'Lied', 'handeln', 'davon', ',', '"', 'sagen', 'Candan', 'Ercettin', '.']
+
+
+['_', '"', 'Und', 'das', 'zweit', '_', '_', 'auch', '.']
+
+
+['_', 'warten', 'sie', 'mal', ',', 'das', 'dritt', '...']
+
+
+['das', '_',  '_', 'auch', ',', 'aber', 'der', 'Text', 'sein', 'sehr', 'abstrakt', '.']
+
+
+['_', 'Verschieden', 'Bedeutung', 'stecken', 'darin', '.']
+
+
+['"' , '_' , 'schön' , 'haben' , 'es' , 'auch' , 'Ex-Take-That-Sänger' , 'Robbie' , 'Williams' , 'nicht' , 'sagen' , 'können' , '.']

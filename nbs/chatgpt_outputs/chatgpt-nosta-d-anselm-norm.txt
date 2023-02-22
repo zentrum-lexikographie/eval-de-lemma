@@ -1,0 +1,335 @@
+
+
+['_', 'omn', 'arbor', 'bonus', 'facere', 'fructus', 'suus', 'bonus', '.']
+
+
+['_', 'Dies', 'Wort', 'sprechen', 'unser', 'lieb', 'Herr', 'Jesus', 'Christus', 'zu', 'ein', 'jeder', 'Mensch', ',', 'der', 'da', 'wahrhaftig', 'wollen', 'kommen', 'und', 'der', 'da', 'fruchtbar', 'wollen', 'werden', 'an', 'sein', 'Seele', '.']
+
+
+['_', 'Und', 'bedeuten', 'dies', 'Wort', 'also', ',', 'dass', 'ein', 'jeder', 'gut', 'Baum', 'bringen', 'ein', 'gut', 'Frucht', '.']
+
+
+['_', 'wollen', 'du', 'nun', ',', 'dass', 'ein', 'gut', 'Mensch', 'ein', 'gut', 'Baum', 'säen', '.']
+
+
+['_', 'und', 'wollen', 'du', 'ein', 'gut', 'Frucht', 'zu', 'dein', 'Seele', 'bringen', ',', 'so', 'sollen', 'du', 'du', 'üben', 'in', 'gut', 'Werk', 'jedoch', 'über', 'all', 'Ding', '.']
+
+
+['_', 'so', 'soll', 'du', 'du', 'üben', 'in', 'der', 'Marter', 'unser', 'Herr', 'Jesus', 'Christus', '.']
+
+
+['_', 'und', 'du', 'sollen', 'dies', 'merken', 'mit', 'all', 'dein', 'Kraft', 'dein', 'Sinn', '.']
+
+
+['_', 'und', 'du', 'sollen', 'dich', 'mit', 'dein', 'Seele', 'hängen', 'an', 'der', 'heilig', 'Baum', ',', 'an', 'dem', 'unser', 'Heiland', 'sein', 'Seele', 'aufgeben', 'durch', 'unser', 'Sünde', '.']
+
+
+['_', 'und', 'du', 'sollen', 'betrachten', 'sein', 'Marter', 'mit', 'ein', 'betrüben', 'Herz', ',', 'wie', 'es', 'der', 'heilig', 'Bischof', 'tun', '.']
+
+
+['_', 'Sankt', 'Anselm', 'bitten', 'Maria', 'viel', 'Jahr', 'mit', 'heiß', 'Träne', ',', 'dass', 'sie', 'ihm', 'offenbaren', ',', 'wie', 'unser', 'Herr', 'Jesus', 'Christus', 'sein', 'Marter', 'erleiden', 'haben', '.']
+
+
+['_', 'das', 'sprechen', 'unser', 'Frau', ':']
+
+
+Anselm, ich sagen dir, dass mein Herr Jesus Christus so groß Martyr erleiden haben, dass sie kein Mensch auslegen können.
+
+
+['_', 'doe', 'soll', 'du', 'wissen', ',', 'dass', 'ich', 'an', 'sotan', 'Würdigkeit', 'kommen', 'bin', ',', 'dass', 'ich', 'nimmermehr', 'betrübt', 'machen', 'werden', '.']
+
+
+['_', 'Darum', 'so', 'wollen', 'ich', 'berichten', 'dir', ',', 'wie', 'mein', 'lieb', 'Kind', 'sein', 'Marter', 'erleiden', 'haben', 'und', 'wie', 'er', 'gemartet', 'werden', '.']
+
+
+['_', 'fragen', 'Sankt', 'Anselm', 'unser', 'Frau', 'von', 'Wort', 'zu', 'Wort', '.']
+
+
+['_', 'und', 'unser', 'Frau', 'berichten', 'ihm', ',', 'was', 'er', 'fragen', '.']
+
+
+['_', 'say', 'Saint', 'Anselm', ':' ]
+
+
+['Liebe', 'Frau', ',', 'sagen', 'mir', 'etwas', 'über', 'dein', 'lieb', 'Kind', 'Marter', '.']
+
+
+['_', 'sprechen', 'unser', 'Frau', ':']
+
+
+['Da', 'mein', 'lieb', 'Kind', 'der', 'Abendbrot', 'haben', 'essen', 'mit', 'seine', 'Jünger', ',', 'er', 'aufstehen', 'sein', 'nach', 'dem', 'Essen', ',', 'da', 'laufen', 'Judas', 'zu', 'der', 'Juden', '.']
+
+
+['_', 'und', 'er', 'verraten', 'mein', 'lieb', 'Kind', '.']
+
+
+['_', 'Und', 'er', 'verkaufen', 'es', '.']
+
+
+['_', 'und', 'er', 'geben', 'ihn', 'für', 'dreißig', 'Pfennig', '.']
+
+
+['_', 'das', 'fragen', 'Anselm', '.']
+
+
+['_', 'und', 'er', 'sprechen', ':']
+
+['Liebe', 'Frau', ',', 'welcherlei', 'werden', 'die', 'Pfennig', '?']
+
+
+['_', 'sprechen', 'unser', 'Frau', ':']
+
+
+Anselm, sie, werden, schlagen, in, dem, Land, zu, Ismahel, .
+
+
+['_', 'und', 'sie', 'sein', 'die|', 'selbe', 'Pfennig', ',', 'weshalb', 'Josef', 'verkaufen', 'werden', 'von', 'sein', 'Bruder', ',', 'die', 'wohl', 'vor', 'tausend', 'Jahr', 'werden', 'schlagen', '.']
+
+
+['_', 'und', 'sie', 'werden', 'von', 'ein', 'Geschlecht', 'bis', 'zu', 'das', 'andere', 'Geschlecht', 'vererben', 'bis', 'zu', 'der', 'Juden', ',', 'die', 'mein', 'lieb', 'Kind', 'kaufen', '.']
+
+
+['_', 'sprechen', 'Sankt', 'Anselm', ':']
+
+
+['Liebe', 'Frau', ',', 'als', 'das', 'geschehen', ',', 'sein', 'du', 'da', 'bei', 'dein', 'lieb', 'Kind', '?']
+
+
+['_', 'sagen', 'unser', 'Frau', ':']
+
+Nein, Anselm, doch, sollen, du, wissen, dass, als, mein, lieb, Kind, das, Abendbrot, haben, essen, und, er, der, Fuß, seiner, Jünger, haben, waschen, und, er, sein, heilig, Blut, geben, haben, und, Judas, sein, Verräter, ihm, fortlaufen, sein, da, gehen, mein, lieb, Kind, von, dem, Berg, Sion, durch, die, Pforte, die, da, gehen, zu, dem, Wasser, das, da, heißen, Siloe, in, ein, Garten.
+
+
+['_', 'Da', 'werden', 'der', 'Jünger', 'erschlafen', '.']
+
+
+['_', 'gehen', 'mein', 'lieb', 'Kind', 'von', 'sie', 'so', 'weit', ',', 'wie', 'man', 'mit', 'ein', 'Stein', 'werfen', '.']
+
+
+['_', 'das', 'Juden', 'über', 'er', 'nicht', 'erbarmen', 'werden', ',', 'darum', 'so', 'beten', 'er', 'sein', 'himmlisch', 'Vater', 'an', '.']
+
+
+['_', 'und', 'er', 'sprechen', 'dies', 'Gebet', ':']
+
+
+['"', 'pater', 'esse', 'fieri', 'possum', 'et', 'ceterus', '"', '.']
+
+
+['_', 'das', 'meinen', 'also', ':' ]
+
+
+'"', 'Vater', 'sein', 'es', 'möglich', ',', 'so', 'erlösen', 'ich', 'dieser', 'Marter', ',', 'wenn', 'mein', 'Geist', ',', 'der', 'sein', 'bereit', 'und', 'mein', 'Fleisch', 'sein', 'allzu', 'krank', '.'
+
+
+['_', 'Doch', 'so', 'werden', 'an', 'ich', 'erfüllen', 'dein', 'Wille', '.']
+
+
+['_', 'und', 'das', 'mein', 'lieb', 'Kind', 'so', 'beten', 'haben', ',', 'das', 'senden', 'ihm', 'sein', 'himmlisch', 'Vater', 'ein', 'Engel', ',', 'der', 'ihn', 'trösten', '.']
+
+
+['_', 'und', 'der', 'sprechen', ':']
+
+
+Herr Jesus Christus, sei beständig in der Zeit von deiner Marter, so sollst du viele erlösen dessen, durch den du Mensch werden bist.
+
+
+['_', 'gehen', 'mein', 'lieb', 'Kind', 'wieder', 'zu', 'sein', 'Jünger', '.']
+
+
+['_', 'und', 'er', 'finden', 'sie', 'schlafen', '.']
+
+
+['_', 'und', 'er', 'sprechen', 'zu', 'sie', ':']
+
+
+['also', 'nicht', 'mögen', 'ihr', 'nicht', 'ein', 'wenig', 'mit', 'ich', 'wachen', '?']
+
+
+['_', 'Nun', 'sehen', ',', 'der', 'ich', 'verraten', 'haben', ',', 'der', 'sein', 'gar', 'nahe', '.']
+
+
+['_', 'Als', 'mein', 'lieb', 'Kind', 'dies', 'Wort', 'sprechen', ',', 'da', 'kommen', 'Judas', ',', 'sein', 'Verräter', ',', 'mit', 'viel', 'Jude', 'in', 'den', 'Garten', 'mit', 'Keule', 'und', 'mit', 'Schwert', '.']
+
+
+['_', 'sagen', 'Judas', 'zu', 'der', 'Juden', ':']
+
+
+['Ihr', 'Herr', ',', 'ich', 'geben', 'ihr', 'ein', 'Zeichen', '.']
+
+
+['_', 'wickeln', 'ich', 'küssen', 'vor', 'sein', 'Mund', ',', 'der', 'greifen', 'an', 'und', 'führen', 'er', 'sicher', '.']
+
+
+['_', 'Als', 'Judas', 'gehen', 'zu', 'mein', 'lieb', 'Kind', 'kommen', 'mit', 'sein', 'Untreue', ',', 'gehen', 'mein', 'lieb', 'Kind', 'gehen', 'sie', '.']
+
+
+['_', 'und', 'er', 'sprechen', 'zu', 'sie', ':']
+
+
+['Wer', 'suchen', 'du', '?']
+
+
+['_', 'Da', 'rief', 'sie', 'all', 'gemein', ':']
+
+
+['Jesus', 'Nazareth', '.'] -> ['Jesus', 'Nazareth', '.']
+
+
+['_', 'sagen', 'mein', 'lieb', 'Kind', ':']
+
+
+['Ich', 'sein', 'es', 'selbst', '.']
+
+
+['_', 'da', 'fallen', 'sie', 'zurück', 'von', 'der', 'groß', 'kraft', 'sein', 'heilig', 'wort', '.']
+ 
+
+['_', 'danach', 'sprechen', 'aber', 'mein', 'lieb', 'Kind', ':']
+
+
+ist es, dass ihr mich suchen, so lassen mein Jünger unbetrübt hinweggehen.
+
+
+['_', 'gehen', 'Judas', 'zu', 'mein', 'lieb', 'Kind', '.']
+
+
+['_', 'und', 'er', 'küssen', 'ihn', 'vor', 'sein', 'heilig', 'Mund', '.']
+
+
+['_', 'sagen', 'mein', 'lieb', 'Kind', ':']
+
+
+['Oh-weh', 'Judas', ',', 'mit', 'dies', 'Kuss', 'verraten', 'du', 'ich', '.']
+
+
+['_', 'allesamt', 'greifen', 'er', 'die', 'Jude', 'an', 'und', 'sie', 'binden', 'ihm', 'die', 'Hand', 'hart', '.']
+
+
+['_', 'Als', 'das', 'Petrus', 'sehen', ',', 'da', 'laufen', 'er', 'dorthin', '.']
+
+
+['_', 'und', 'er', 'hieb', 'einem', 'Juden', 'ein', 'Ohr', 'ab', '.']
+
+
+['_', 'da', 'fragen', 'sankt', 'anselm', ':']
+
+
+['Lieb' , 'Frau', ',', 'geschehen', 'da', 'kein', 'Zeichen', '?']
+
+
+['_', 'sagen', 'unsere', 'Frau', ':'].
+
+
+[Ja, , Anselm, , mein, lieb, Kind, erbarmen, sich, über, ihn, .]
+
+
+['_', 'und', 'er', 'machen', 'ihm', 'sein', 'Ohr', 'gesund', '.']
+
+
+['_', 'und', 'er', 'geben', 'Petrus', ',', 'dass', 'er', 'der', 'Schwert', 'von', 'sich', 'tun', '.']
+
+
+['_', 'das', 'fragen', 'Sankt', 'Anselm', '.']
+
+
+['_', 'Und', 'er', 'sprechen', ':']
+
+
+['Liebe', 'Frau', ',', 'wo', 'führen', 'sie', 'ihn', 'hin', '?']
+
+
+['_', 'und', 'wo', 'sein', 'du', 'derweil', ',', 'da', 'das', 'geschehen', '.']
+
+
+['_', 'das', 'sprechen', 'unser', 'Frau', ':']
+
+
+Anselm, es sein spät.
+
+
+['_', 'und', 'sein', 'äußern', 'übel', 'stehen', ',', 'dass', 'man', 'Jungfrau', 'haben', 'sehen', 'an', 'der', 'Straße', '.']
+
+
+['_', 'sprechen', 'Sankt', 'Anselm', ':' ]
+
+
+Tokenliste lemmatisiert:
+['Liebe', 'Frau', ',', 'wo', 'sein', 'du', 'da', 'derweil', '.']
+
+
+['_', 'das', 'sprechen', 'unser', 'Frau', ':']
+
+
+['Ich', 'sein', 'in', 'mein', 'Schwester', 'Haus', 'bei', 'Johannis', 'der', 'Evangelist', '.']
+
+
+['_', 'sagen', 'Sankt', 'Anselm', ':'].
+
+
+['Liebe', 'Frau', ',', 'wie', 'sein', 'es', 'du', 'zu', 'wissen', '.']
+
+
+['_', 'sagen', 'unser', 'Frau', ':']
+
+
+Anselm , die Jünger mein lieb Kind kommen zu mir laufen .
+
+
+['_', 'Und', 'sie', 'weinen', 'jämmerlich', '.']
+
+
+['_', 'und', 'sie', 'sprechen', ':']
+
+
+Oh-weh , allerliebst Frau , dein lieb Kind , unser Meister , sein gefangen .
+
+
+['_', 'Und', 'wir', 'wissen', 'nicht', ',', 'wo', 'er', 'hin|', 'führen', 'werden', 'oder', 'was', 'ihm', 'geschehen', 'sein', '.']
+
+
+['_', 'sagen', 'Sankt', 'Anselm', ':'].
+
+
+['Liebe', 'Frau', ',', 'weinen', 'du', 'da', 'nicht', '.']
+
+
+['_', 'sagen', 'unser', 'Frau', ':']
+
+
+['Ja', ',', 'Anselm', ',', 'allein', 'ich', 'wohl', 'wissen', ',', 'dass', 'mein', 'lieb', 'Kind', 'erlösen', 'sollen', 'der', 'Mensch', '.']
+
+
+['_', 'doch', 'durch', 'die', 'mütterlich', 'Liebe', 'so', 'sein', 'ich', 'so', 'herzlich', 'sehr', 'betrüben', ',', 'dass', 'mein', 'Seele', 'werden', 'verwunden', 'mit', 'ein', 'Schwert', '.']
+
+
+['_', 'Davon', 'her', 'Simeon', 'sprechen', 'haben', ',', 'dass', 'ein', 'Schwert', 'sollen', 'mein', 'Seele', 'zerschneiden', '.']
+
+
+['_', 'Das', 'sprechen', 'Sankt', 'Anselm', ':']
+
+
+['Lieb', 'Frau', ',', 'wo', 'führen', 'sie', 'ihn', 'da', 'hin', '?']
+
+
+['_', 'das', 'sprechen', 'unser', 'Frau', ':']
+
+
+Sie führen ihn in ein Judenhaus, der heißen Annas.
+
+
+['_', 'dabei', 'stehen', 'der', 'Tempel', '.']
+
+
+['_', 'Da', 'fragen', 'Anna', 'mein', 'lieb', 'Kind', ',', 'was', 'er', 'die', 'Leute', 'lehren', '.']
+
+
+['_', 'sagen', 'mein', 'lieb', 'Kind', ':']
+
+
+['Ich', 'haben', 'offenbar', 'lehren', 'und', 'nicht', 'heimlich', '.']
+
+
+['_', 'durch', 'was', 'fragen', 'du', 'ich', '?']
+
+
+['_', 'Frage', 'der', ',', 'der', 'mein', 'Lehre', 'gehören', 'haben', '!']

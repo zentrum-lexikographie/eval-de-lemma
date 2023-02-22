@@ -1,0 +1,848 @@
+
+
+['_', 'JustChat', '4.0r0.204', '(', '55,204', ')', 'develop', 'by', 'Medium.net', '.']
+
+
+['_', 'Du', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'werden', '_', '_', '_', '_', '_', 'echt', '_', 'zori', '?']
+
+
+['_', 'little15', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'das', 'küssen', '_', '_', '?'] -> ['_', 'der', 'küssen', '_', '_', '?']
+
+
+['_', 'na', 'scope', 'gut', '_', 'marc', '.']
+
+
+__, __, __, kein, Servicepaket, Nr., 1, für, dich, __, __, :) ,__, __, was, __, __.
+
+
+[ '_', 'TomcatMJ', 'kommen', 'aus', 'der', 'Raum', 'Go-Rin-No-Sho', 'herein', '.']
+
+
+['_', 'Hi', '_', 'TomcatMJ', 'sein', 'wieder', 'da', '.']
+
+
+['_', 'danken', ',', 'Pharao', '_', '_', '*', 'erleichtern|', 'gucken', '_', '*', '_', '_', 'juhuuu', '_', 'tom', 'sein', 'dada', '_', '_', '_', '_', 'echt', '?']
+
+
+['_', 'he', '_', 'quaki', '_', '_', 'heyho', '_', 'tom', '_', '_', 'tom', '_', '_', 'he', '_', 'marc', '_', '_', 'he', '_', 'tom', '_', '_', 'he', '_', 'faryen', '_', '_', 'he', '_', 'zora', '_', '_', 'huhu', '_', 'tom', '_', '_', '_', 'alle', 'konfetti', 'bei', 'euch', '?']
+
+
+['_', '_', 'ich', 'noch', 'zu', 'hie', 'hin', 'stellen', '_', 'little15', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'Lantonie', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'Lantus', '_', '_', 'Hallo', '.']
+
+
+['_', ':)))', '_', '_', 'gucken', '_', 'wo', 'Quak', 'sich', 'nun', 'hinstellen', '_', '_', '*', 'G', '*', '_', '_', '_', '*', 'freuen', '*', '_', '_']
+
+
+['_', 'juhuuuu', '_', '_', 'Hallo', '_', 'quak', '.']
+
+
+['_', ':o)', '_', 'hi', '_', 'Lantonie', '_', '_', 'huhu', '_', 'zoriiiiii', '.']
+-> ['_', ':o)', '_', 'hi', '_', 'lantonie', '_', '_', 'huhu', '_', 'zoriiiiii', '.']
+
+
+['_', 're', '_', 'Tomcat', '.'] => ['_', 're', '_', 'tomcat', '.']
+
+
+['_', 're', '_', 'march', '.']
+
+
+['_', '.)))', '_', 'up', '_', 'sein', 'das', 'das', 'falsch', 'ecke', '?']
+
+
+['_', 'quaken', 'krabbeln', 'aus', 'der', 'Ecke', 'raus', '_', '_', 'Hallo', '_', 'Faryen', '.']
+
+
+['_', 'Ich', 'finden', 'der', 'quaki', 'klasse', ',', 'er', 'sein', 'ein', 'toll', 'Neuzugang', ',', 'der', 'sich', 'echt', 'bewähren', '.']
+
+
+['_', 'Na', ',', 'zor', '?']
+
+
+['_', ':))', '_', 'der', '_', '_', '?']
+
+
+['_', '*', 'geh', '*', '_', '_', 'dange', '_', 'lantonie', '_', '_', 'Ich', 'haben', 'heute', 'ein', 'SMS', 'von', 'Tigaaaaelse', 'bekommen', '.']
+
+
+['_', 'erzählen', '_', '_', 'Lante', 'reden', 'wie', 'ein', 'Bewährungshelfer', '_', '_', 'Zora', 'freuen', 'sich', 'über', 'ihr', 'Zeugnis', '_', '_', '*', 'aufplustern', '*', '_', '_', '_', '_', 'Thor', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'ich', '_', '_', 'mahl', 'wieder', 'nicht', '...']
+
+
+['_', 'sein', 'haben', '_', 'dann', '_', 'zori', '?']
+
+
+['_', 'Stoep', 'kommen', 'aus', 'der', 'Raum', 'Number_of_the_beast', 'herein', '.']
+
+
+['_', 'das', 'haben', 'du', 'sich', 'verdienen', ',', 'zori', '?']
+
+
+'_' 'Oh' '_' 'Mann' '_' 'watt' 'für' '_' 'Krawall' '_' 'hier' 'draußen' '...'
+
+
+['_', '_', '*', 'gucken', '*', '_', '_', '_', '_', 'nur', 'ein', '_', '_', '_', '*', 'Brust|schwellen', '*', '_', '_', '_', 'Emon', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 're', '_', '_', ':-)))', '_', 'Emon', 'sein', 'wieder', 'da', '.']
+
+
+['_', 're', '_', 'emon', '_', '_', 'und', '_', '_', 'ein', 'ein', 'minus', 'in', 'benehmen', '_', '_', '*', 'ggg', '*', '_', '_', '*', 'njamnjamnajm', '*', '_', '_', 're', '_', 'stoeps', '_', '_', 'ohhhh', '_', '_', 'die', 'geistigkeit', 'kommen', 'auch', '_', '_', '+s', '_', 'hallo', '_', 'emon', '_', '_', 'hi', '_', 'emon', '_', 'tag', '_', 'quaki', '_', '_', 'das', 'sein', 'schätzungsweise', '200', 'krähe', 'oder', 'so', 'in', 'einem', 'baum', '_', 'der', 'etwa', '100', 'm', 'weg', 'sei', '...']
+
+
+['_', 'quaaakiiii', 'und', 'lanto', '_', '_', '_', '_', 'hi', '_', 'thor', '_', '_', ':-)', '_', 'hi', '_', 'stoep', 'unf', 'tom', '_', '_', ':(', '_', 'über', 'mein', 'benehmennote', 'reden', 'wir', 'lieber', 'nicht', '_', '_', 'hi', '_', 'emon', '_', '_', '200', 'krähe', '_', '_', '?']
+
+
+['_', 'jo..', '_', 'der', 'ein', 'Minus', 'haben', 'du', 'bekommen', ',', 'weil', 'du', 'ein', 'Zeit|', 'lang', 'häuften', 'sagen', 'haben', '.']
+
+
+['_', '_', 'sein', 'sein', 'Benehmen', '?']
+
+
+['_', '_', 'der', 'Vogel', '_', '_', '_', 'B67', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'Lantonie', 'sein', 'jetzt', 'weg', ':']
+
+
+['Pissen', '_', '_', 'hi', '_', 'quak', ',', 'Lantonie', '_', '_', 'Lantonie', 'sein', 'wieder', 'da', '.']
+
+
+['_', '*', 'hehe', '*', '.']
+
+
+['_', 'Stoep', 'geben', 'Thor', 'ein', '6', '_', '_', 'stimmt|', 'sein', '?']
+
+
+['_', 'Schdobbe', '_', '_', 'Erdbeere$', 'betreten', 'der', 'Raum', '.']
+
+
+['_', '*', 'looool', '*', '_', '_', 'zor', '?']
+
+
+['_', '_', '*', 'lachen', '*', '_', '_', 'tache', '_', 'Erdbeere', '_', 'Hallo', '_', 'Erdbeere', '.']
+
+
+['_', 'Hallo', '_', 'Beere', '_', '_', 'Lantonie', 'können', 'ihr', 'Note', 'begründen', '.']
+
+
+['_', 'Mann', ',', '_', 'haben', 'tatsächlich', 'werden', 'verdaulich', 'essen', '...']
+
+
+['_', 'das', 'sein', 'so|', 'ein', 'etwa', '25', 'm', 'hoch', 'Pappel', '_', 'wo', 'die', 'drinsitzen', 'und', 'rumzetern', '_', '_', 'Hallo', '_', 'Lanto', '_', '_', 'die', 'Viech', 'reißen', 'immer', 'die', 'Müllsack', 'auf', '_', '_', 'hmmmm', '_', '_', 'Stoeps', '_', '_', 'auch', '_', '_', 're', '_', 'Beere', '_', '_', 'und', 'außerdem', 'sein', 'Zora', 'ja', 'mein', 'Lieblingsschülerin', 'hier', '.']
+
+
+['_', 'oh', '_', 'stoepe', '.']
+
+
+['_', 'haben', 'ich', 'dir', 'was', 'getan', '?']
+
+
+['_', 'hallo', '_', 'pharao', '_', '_', '_', '_', '_', 'weißpappel', 'oder', 'schwarzpappel', '?']
+
+['_', 'hallo', '_', 'pharao', '_', '_', '_', '_', '_', 'weißpappel', 'oder', 'schwarzpappel', '?']
+
+['_', 'hallo', '_', 'pharao', '_', '
+
+
+['_', 'süß', '_', 'klein', 'zora', '.']
+
+
+['_', 'hello', '_', 'marci', '_', '_', '8:)', '_', '*', 'hach', '*', '_', '_', 'zora', 'bringen', 'Lanto', 'ein', 'Apfel', 'mit', '_', '_', '_', '_', 'kein', 'ahnen', ',', '_', '_', 'ein', '_', 'der', 'zur', 'blütenzeit', 'wohl', 'immer', 'dieser', 'Berg', 'weiß', 'Flocke', 'von', 'sich', 'werfen', '...']
+
+
+['_', 'und', 'wo', 'sein', 'ein', 'Apfel', 'für', 'mich', '?']
+
+
+['_', 'Ah', ',', '_', '_', 'sehr', 'gesund', '.'] --> ['_', 'Ah', ',', '_', '_', 'sehr', 'gesund', '.']
+
+
+['_', 'B67', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'tom', 'sein', 'ja', 'immer', 'nock', 'da', '_', '_', 'wilhelm', 'busch', 'zitieren', '_', '_', '_', 'und', 'vom', 'ganz', 'hühnerschmaus', 'schauen', 'nur', 'noch', 'ein', 'bein', 'heraus', '...']
+
+
+['_', 'dann', 'sein', 'ein', 'hmmmmm', '_', '_', 'sie', 'ziehen', 'nach', 'Hannover', ',', '_', '_', 'net', 'nach', 'Wien', '_', '_', 'Warst', 'du', 'vom', 'Zeugnis', 'überrascht', '_', '_', 'das', 'kommen', 'auf', 'die', 'rinde', 'drauf', 'an', '?']
+
+
+['_', 'auf', 'jeder', 'Fall', '_', '_', 'mit', 'eine', 'Wolke', 'schwarz', 'Vogel', 'drüber', 'und', 'drin', '_', '_', 'Bochum', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'wie', 'der', 'ausschauen', '_', '_', 'ja', '_', '_', 'wo', 'ich', 'doch', 'kaum', 'was', 'dafür', 'tun', 'haben', '_', '_', '+s*', '_', '_', 'sein', 'so', 'ein', 'grober', 'Rinde', '..']
+
+
+['_', 'warum', 'werden', 'tom', 'nicht', 'aus', 'dem', 'chat', 'entfernen', '?']
+
+
+['_', 'zora', 'bewerben', 'sich', 'damit', 'mal', 'um', 'Stipendium', 'an', 'die', 'Universität', '_', '_', '*', 's', '*', '_', '_', 'Kriegen', 'ich', 'auch', 'ein', 'Zeugnis', '?']
+
+
+['_', 'der', 'haben', 'aber', 'so', 'schön', 'Gefieder', 'und', '_', 'sein', 'nicht', 'dumm', '_', '_', 'weil', 'ich', 'hartnäckig', 'sein', '_', 'stoße', '_', '_', 'stoße', '_', '_', 'auch', '_', '_', 'Quak', 'binden', 'tom', 'am', 'Chat', 'fest', '_', '_', '_', '*', 'knüpfen', '*', '_', '_', '_', '_', 'Zora', 'bewerben', 'sich', 'womit', 'um', 'Stipendium', '?']
+
+
+underscore, underscore, underscore, nehmen, Apfel, underscore, Fragezeichen.
+
+
+['_', 'Stoeps', 'schreiben', 'ein', 'Beschwerde', 'an', 'Unicum', '_', '_', '_', 'ein', 'mit', 'mein', 'Zeugnis', ',', 'ich', 'sein', 'ja', 'nicht', 'doof', '!']
+
+
+['_', 'eh', '!'] --> ['_', 'eh', '!']
+
+
+_, _, rupfen, , zerren, , reißen, , mich, los, machen, _, _, der, Paris, sein, ein, ganz, schön, dämlich, _, _, ah, _, soo, _, _, nicht, festbinden, sein, mögen, _, _, _, welch, Zeugnis, _, _, ?
+
+
+['_', 'klären', 'mich', 'mal', 'jemand', 'über', 'den', 'sachverhalt', 'auf', '?']
+
+
+['_', '*', 'Na', 'gut', '50', 'cm', 'Lauflaufleine', '*', '_', '_', '.']
+
+
+['_', 'thor', '_', '_', 'tach', '_', 'erdbeere', '_', '_', 'wie', 'großzügig', 'quaki', 'manchmal', 'sein', '...']
+
+
+['_', '_', '*', 'warten', '*', '_', '_', 'kommen', 'du', 'zum', 'ct', '?']
+
+
+['_', '_', '_', '*', '51', '|', 'cm', '*', '?']
+
+
+['_', '_', '_', '51', '_', '?'] → ['_', '_', '_', '51', '_', '?']
+
+
+['_', '*', '_', 'Leine', 'durch|', 'beißen', '*', '_', '_', '_', 'wen', 'Zora', 'und', 'Lantonie', 'absagen', '_', 'ja', '_', '_', 'ui', '_', '_', 'danken', '!']
+
+
+['_', '*', 'brml', '*', '_', '_', 'Shadok', 'kommen', 'aus', 'der', 'Raum', 'Alshain', 'herein', '.']
+
+
+['_', '*', 'neu', 'suchen', '*', '_', '_', '_', 'das', 'haben', 'doch', 'noch', 'gar', 'net', 'zusagen', ',', 'oder', '?']
+
+
+['_', 're', '_', 'sahd', '_', '_', 'gnu', '_', 'stoop', ',', 'emon', '_', 'holla', '_', '_', 'shaddy', '_', '_', 'emon', ':']
+
+
+['http://mitglied.lycos.de/achtpfennig/zeugnis.jpg', '_', 'wieso', '_', 'das', 'denn', '?'] ↦ ['http://mitglied.lycos.de/achtpfennig/zeugnis.jpg', '_', 'wieso', '_', 'das', 'denn', '?']
+
+
+['_', 'heya', '_', 'marc30', '_', '_', ';o)', '_', 're', '_', 'baby', '_', '_', 'hi', '_', 'shadok', '_', 'auf', '_', 'bruam', 'rauf|', 'klettern', '_', '_', 'um', 'nicht', 'angeleint', 'zu', 'werden', '_', '_', 'http://www.cu-here.de/showchat.php3?id=69&amp;offset=159', '_', '_', '_', '_', 'erst', '!']
+
+
+['_', 'hmm', '_', 'Qaki', 'suchen', 'ein', 'm', '_', '_', 'Baum', '=', 'Baum', '_', '_', '*', 'ts', '*', '_', '_', '*', 'Fleißsternchen', 'auf|', 'kleben', '*', '_', '_', '_', 'Lebbaum', '_', '_', '_', 'Shadok', 'schenken', 'Qaki', 'ein', 'm', '_', '_', 'Hallo', '_', 'Shadok', '_', '_', 'wissen', 'jetzt', 'jemand', '_', 'was', 'Umzugsunternehmen', 'so', 'kosten', '?']
+
+
+['_', 'danken', '_', 'shadok', '_', '_', 'bitten', 'schön', '.']
+
+
+['_', 'heya', '_', 'Lanto', '_', '_', ';O)', '_', '_', '_', 'geld', '_', 'zorsa', '_', 'zor', '_', '_', '_', 'teuer', '.']
+
+
+['_', 'gehen', 'nicht', 'selbst', 'mit', 'mietwagen', '?']
+
+
+['_', 'meisten', '_', '_', '_', 'Euro', '_', '_', 'verdammt', ',', 'das', 'habe', 'ich', 'befürchten', '_', 'shaddy', '_', '_', ':P', '_', 'Ich', 'haben', 'erst', 'Zweifel', ',', 'ob', 'du', 'überhaupt', 'ein', 'Zeugnis', 'wollen', '.']
+
+
+['_','immer','bewerten','ich','du','dann','ja','.']
+
+
+['_', ':O)', '_', 'lassen', 'sein', 'lieber', '_', 'zor', '_', '_', '_', '_', 'k|', 'A', '_', 'waß', 'das', 'kosten', '_', '_', 'aber', ',', 'ich', 'dächte', ',', 'du', 'halten', 'das', 'schon', 'aus', '.']
+
+
+['_', 'tapfer', '_', 'klein', 'zoraaaay', '_', '_', 'quak', 'wissen', 'nicht', '_', 'wo', 'sie', 'zuziehen', 'sollen', '_', '_', '_', '_', '_', 'unternehmen', '?']
+
+
+['_', 'eigentlich', 'kosten', 'so|', 'wollen', 'die', 'Miete', 'für', 'ein', 'LKW', 'für', 'ein', 'Tag', 'und', 'Verköstigung', 'für', 'einen', 'Haufen', 'helfenden', 'Freunde', '@', 'Zora', '_', '_', 'Bochum-Münster', 'ohne', 'Küche', '_', '3500', 'Euro', '..']
+
+
+['_', 'der', 'Mietwagen', 'kosten', 'auf', 'die', 'Entfernung', 'schon', 'ein', 'Vermögen', '_', '_', 'UFFZ', '_', 'Bochum', '_', '_', '_', 'am', 'besser', 'nach', 'Deutschland', '_', 'Quaki', '_', '_', '_', 'sein', 'nicht', '_', 'so', 'weg', '_', '_', 'aber', '_', '_', 'sicher', 'billig', 'als', 'ein', 'Firma', '_', '_', 'hmmm', '...', '_', 'Kreativität', '_', '_', 'ein', '1', '?']
+
+
+['_', 'Stoep', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'stoep', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'Ja', ',', '_', '_', 'auf', 'jedenfall', '!']
+
+
+['_', 'so', 'wa', '_', '_', '_', '_', 'wb', '_', 'stoep', '_', '_', '_', '_', '_', 'wagen', 'von', 'interessierten', 'und', 'ein', 'paar', 'Leute', 'zum', 'anpacken', '_', '_', '*', 'brml', '*', '_', '_', 'ja', '_', 'Pharao', '_', '_', 'Zoar', 'sein', 'hoch', 'kreativ', '!']
+
+
+['_', 'Asja', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'Sein', 'sie', 'alles', 'so', 'einfallen', ',', 'da', 'kommen', 'keiner', 'Mensch', 'dran', '.']
+
+
+['_', 'hi', '_', 'Asja', '_', '_', 'Quaki', 'fragen', 'sich', '_', 'wie', 'sie', 'machen', 'Augenschaden', 'den', 'Nachmittag', 'überstehen', 'sollen', '_', '_', 'heyho', '_', 'Asja', '_', '_', 'hello', '_', 'Asja', '_', '_', 'ich', 'wollen', 'ja', 'vergleichen', '_', 'Tom', '_', 'weil', 'es', 'eh', 'so', 'teuer', 'sein', '_', '_', 'wenn', 'das', 'keinen', 'so', 'großen', 'Unterschied', 'machen', '_', 'wäre', '_', 'ja', 'mal', 'dran', '_', '_', 'am', 'besten', '_', '_', 'welche', '_', '_', 'was', 'Handwerk', 'machen', '_', '_', 'Hallo', '_', 'Tom', '_', '_', 'huhu', '_', 'Frau', 'Beere', '_', '_', '_', '*', 'Drücken', '*', '_', '_', '_', 'und', 'nehmen', 'nicht', 'den', 'billigste', '_', '_', '_', 'nicht', 'chatten', '_', 'Quaki', '?']
+
+
+_ Bochum in den kleiderkasten schicken _ zum umziehen _ _ * mit|drücken * _ _ _ naja , auf das _ was mir so einfallen _ kommen auch meist keine Sau drauf _ _ beim ersten Umzug haben nur einer Deutsch gesprochen _ _ heya _ Asja _ _ dennoch würde ich mir bei Kreativität nicht mehr als ne 2 geben _ _ stöps verdrücken sich in einen anderen Raum :
+
+
+[telefon, _, _, marc30, haben, n, Vollschaden, und, _, überstehen, den, Nachmittag, ohne, Problem, _, _, handwerklich, können, ich, _, selbst, _, _, _, Lantonie, geben, Emon, auch, ein, ein, in, Einfallsreichtum, .]
+
+
+['_', '*', 'gehen', '*', '@', 'Marc', '_', '_', '_', 'lachen', '_', 'Marc', '_', '_', 'naja', ',', 'dann', 'heißen|', 'es', 'wohl', '_', 'mal', 'rumtelefonieren', 'und', 'nachfragen', '_', 'da', 'Umzugsformen', 'selten', 'im', 'Internet', 'stehen', '@', 'Zora', '_', '_', '_', '_', 'klar', '_', 'Zora', '_', '_', '_', '_', 'Vollschaden', 'gleich', '_', 'Totalschaden', '_', 'Marc', '?']
+
+
+['_', 'na', '_', 'okay', '...'] -> ['_', 'n', '_', 'okay', '...']
+
+
+['_', '1', 'an|', 'sein', 'Stirn', 'bappen', '_', '_', '_', '_', 'die', 'stehen', 'da', 'schon', '_', 'über', '_', '_', 'ohne', 'Preis', '_', '_', 'aber', 'wie', 'kommen|', 'e', 'mit', 'den', '1,51', 'an', 'die', 'Lampe', 'und', 'Hängeschrank', '?']
+
+
+['_', 're', ':'] -> ['_', 're', ':']
+
+
+[';-))', '_', '_', '_', '_', '_', 'leiten', '.']
+
+
+['_', '_', 'haben', 'schon', 'eine', 'richtig', 'dick', 'Beule', 'um', 'den', 'Bauchnabel', 'rum', '...']
+
+
+['_', 'außerdem', 'sein', 'ich', 'groß', '!']
+
+
+['_', 'marc', ',', 'der', 'beuel', 'um', 'den', 'bauchnabel', 'nennen', 'sich|', 'plauze', '_', '_', ';)', '_', 'Ach', ',', 'die', 'ein', 'sein', 'dir', 'wohl', 'egal', ',', 'emon', '.']
+
+
+['_', 'wieder', 'wegnehmen', '_', '_', '_', '_', '_', 'pöööh', '_', '_', 'rufen', '_', '_', '_', 'stoeps', 'kommen', 'aus', 'dem', 'Raum', 'Telefon', 'herein', '.']
+
+
+['_', '_', '_', 'ein', 'Beule', '?']
+
+
+['_', 'wie', 'kommen', 'e', 'an', 'die', 'Spross', '?']
+
+
+['_', '_', '_', 'at', 'navel', '?']
+
+
+['_', 'danken', '_', 'emon', ',', '_', 'sein', 'mir', 'grad', 'entfallen', '....']
+
+
+['_', '*', 'Hmpf', '*', '_', '_', 'so', 'sein', 'Bierbauch', '_', '_', '?']
+
+
+['_', '_', 'kopfkratzen', '_', '_', 'mit', 'stützrädchen', '_', '_', ',', 'quaken', '_', '_', '_', '_', 'klären', ',', '_', '_', 'nehmen', 'richtig', 'dick', '_', '_', '_', '_', 'gähnen', '_', '_', 'noch', '15', 'kostbar', 'minuten', 'bis', 'zur', 'mittagspause', '_', '_', '_', 'quaken', 'sein', 'sicher', 'in', 'der', 'mauser', '.']
+
+
+['_', '*', 'fett', 'sein', '*', '_', '_', '_', '_', 'wb', '_', 'stoeps', '_', '_', '_', 'vermutung', 'äußern', '_', '_', '_', '_', '*', 'schwabbeln', '*', '_', '_', '*', 'fest', 'binden', '*', '_', '_', '_', '_', 'öhöööööö', '_', 'SexyGe', 'betreten', 'den', 'Raum', '.']
+
+
+['_', 'Lantonie', 'heiraten', 'Thor', '.']
+
+
+['_', 're', '_', 'stoop', '.']
+
+
+['_', 'Mann', ',', 'dies', 'Fehler', '_', '.']
+
+
+['_', 'Lohn', '_', 'das', '?']
+
+
+['_', 'stoep', 'sein', 'etwas', 'unstetig', '_', '_', '*', 'gg', '*', '_', '_', 'hi', '_', 'stoep', '_', '_', '_', '*', 'korsett', 'suchen', '*', '_', '_', '_', 'nein', '_', '_', 'aber', ',', 'immerhin', ',', '_', '_', 'ein', 'Landsmann', '.']
+
+
+['_', 're', '_', 'Das', 'sein', 'selten', 'genug', '.']
+
+
+['_', 'ui', '_', 'lanto', '_', '_', '_', 'kommen', 'drauf', 'an', ',', 'wieviel', '_', 'Geld', 'Thor', 'haben', '_', '_', 'Lantonie', 'heiraten', 'Thor', '?']
+
+ §§ 1074
++['_', 'ich', 'verdienen', 'mein', 'eigen', 'Geld', '.']
+
+
+['_', 'quak', '?']
+
+
+['_', 'Meister', 'betreten', 'der', 'Raum', '.']
+
+['_', 'werden', '_', '?']
+
+
+['_', '_', '*', 'eifersüchtig', '*', '@', 'lanta', '_', '_', 'SexyGe', 'gehen', 'in', 'ein', 'ander', 'Raum', ':']
+
+
+My Room | _ | _ | genau | , | Lanto | sein | selbstständig | _ | _ | Lanto | sein | ein | gut | Partie | _ | _ | es | geben | Entenbraten | zu | Hochzeit | .
+
+
+['_', '_', '_', 'umso', 'besser', '_', 'Lanto', '_', '_', 'ich', 'haben', 'nämlich', 'kein', '_', '_', 'Stoeps', 'heiraten', 'Lanto', '_', '_', 'Emon', 'heiraten', 'seinen', 'Intellekt', '...']
+
+
+['_', 'dafür', 'können', 'sie', 'nicht', 'kochen', '_', '_', ';p', '_', '_', 'er', 'kochen', '?']
+
+
+['_', 'meisterP', 'gehen', 'in', 'ein', 'ander', 'Raum', ':']
+
+
+['My_Room', '_', '_', 'Ich', 'können', 'kochen', '!']
+
+
+['_', '_', '_', '_', '*', 'Frechheit', '*', '_', '_', 'oh', '_', 'nein', ',', 'er', 'verweigern', 'ich', 'der', 'Gefolgschaft', '_', '_', 'Shadok', 'heiraten', 'Quaki', '...' ]
+
+
+['_', 'in', 'der', 'Niederlande', 'wollen', 'sich', 'doch', 'jetzt', 'eine', 'Studentin', 'selbst', 'heiraten', '_', '_', 'Ich', 'können', 'sogar', 'sehr', 'gut', 'kochen', '!']
+
+
+['_', 'lantus', '?']
+
+
+['_', '_', '_', 'vor', 'Wut', '_', '?']
+
+
+['_', '_', '_', '*', 'allerhand', '*', '_', '_', '_', '*', 'schimpfen', '*', '_', '_', 'mieze', 'kommen', 'aus', 'dem', 'Raum', 'Katzenkörbchen', 'hereinkommen', '.']
+
+
+['_', 'rehen', '_', '_', '_', 'shadok', 'böse', 'angucken', '_', '_', 'ich', 'können', 'besser', 'kochen', '_', '_', 'reee', '_', 'mietzen', '.']
+
+
+['_', 'zora', ',' 'der', 'sein', 'ein', 'Aktionskünstlerin', '_', '_', 'Hi', '_', 'Mieze', '_', '_', 'wer', 'er', 'sich', 'selbst', 'machen', 'können', ',', 'können', 'sich', 'auch', 'selbst', 'heiraten', '_', '_', 'Ja', ',', 'gehen', 'denn', 'das', '_', 'zora', '?']
+
+
+['_', 'lant', 'mag', 'stoep', 'net', 'heiraten', '_', '_', 'Thor', 'sein', 'großgrundbesitzer', 'und', '_', 'haben', 'ein', 'haus', '_', '_', 'die', 'müssen', 'so|', 'machen', 'wegen', '_', 'pr', '_', '_', 'und', '_', 'verkaufen', 'sie', 'dann', 'an', 'polnisch', 'Einwanderer', 'für', 'gut', 'Geld', '_', '_', '_', 'sein', 'ne', 'gespalten', 'Persönlichkeit', '...']
+
+
+['_', '_', '_', '_', 'toll', 'Spruch', '_', '_', 'Tag', '_', 'Miez', '_', '_', 'Lantonie', 'mögen', 'doch', 'nur', 'ein', 'Mann', 'haben', ',', 'Stoeps', '.']
+
+
+['_', '_', '_', 'mist', '_', '_', '_', '*', 'mutieren', '*', '_', '_', 'tadaaaa', '_', '_', '*', 'remiezmiez', '*', '_', '_', 'remarcmarc', '_', '_', 'und', 'haben', 'zorren', 'haben', 'ich', 'ein', 'dreckig', 'Affäre', '_', 'haben', 'wir', 'beschließen', '.']
+
+
+['_', 'Thor', 'lassen', 'sich', 'nicht', 'haben', '_', '_', 'oder', '_', '_', '_', '_', 'Frau', '_', '?']
+
+
+['_', 'hoffen', 'schöpfen', '_', '_', '_', 'juhuu', '_', '_', '_', 'auch', 'gut', '_', '_', '*', 'sss', '*', '_', '_', 'ich', 'denken', '_', 'zora', 'sein', 'dein', 'mama', '_', '_', 'zora', '_', 'du', 'alt', 'lesbe', '_', '_', 'was', '_', 'denn', 'nun', '?']
+
+
+['_', 'Lantonie', 'sein', 'schnell', 'weg', '.']
+
+
+['_', '_', '*', 'winken', '*', '_', '_', 'Thor', ',', 'das', 'sein', 'falsch', '..']
+
+
+['_', 'es', 'müssen', 'heißen', ':']
+
+
+['_', 'Thor', 'wollen', 'Mann', 'nicht', 'haben', '_', '_', 'wir', 'sein', 'neu', 'verlottern', 'Familie', '_', '_', 'Lantonie', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'by', '_', '_', 'emon', 'geben', 'lanto', 'und', 'zora', 'seife', '_', '_', 'boa', '_', 'mieze', '_', '_', 'ich', 'sein', 'nett', 'alt', '_', 'thor', '!']
+
+
+['_', 'umzugswagen', 'sein', 'in', 'der', 'Woche', 'billig', '_', 'Zora', '_', '_', 'ja', ',', 'Thor', '?']
+
+
+['_', 'Zora', 'sein', 'nicht', 'Lesbisch', '...']
+
+
+['_', 'sie', 'mag', 'auch', 'männlich', 'bierdose', '_', '_', '*', 'l', '*', '_', '_', '*', 'nick', '*', '_', 'bochum', '_', 'Faryen-Angle', 'wollen', 'auch', 'los', '_', '_', '_', 'ich', 'sein', 'halt', 'ein', 'sei', ',', 'kein', 'haben', '_', '_', 'ohne', 'kilometer', 'werden', '_', 'prima', ',', 'die', 'hauen', 'halt', 'so', 'rein', '_', '_', 'Bye', '_', 'faryen', '_', '_', 'aha', '.']
+
+
+['_', 'Thor', '_', 'bis', 'Bald', '...']
+
+
+['_', 'cya', '_', 'faryen', '_', '_', 'Thor', 'empfehlen', 'fromm', 'als', 'Lektüre', 'und', 'Günther', 'anders', '_', '_', 'und', 'was', 'sollen', 'das', 'genau', 'heißen', '?']
+
+
+['_', 'drehen', 'die', 'Tachoellte', 'ab', '_', '_', ':-))', '_', 'Faryen-Angle', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'bün', 'ich', 'nun', 'schon', 'vörheiraten', '?']
+
+
+['_', 'marc', '?'] -> ['_', 'marc', '?']
+
+
+['_', 'oder', 'fahren', 'rückwärts', '....']
+
+
+['_', 'aha', '..', '_', '_', 'der', 'Günther', 'also', 'andere', '..']
+
+
+['_', 'Wie', 'sein', 'machen', 'tun', 'denn', '?']
+
+
+['_', 'Zora', ',', 'verkaufen', 'doch', 'alles', '_', 'was', 'du', 'haben', '_', '_', 'und', 'kaufen', 'dafür', 'neu', 'für', 'dein', 'Busse', '.']
+
+
+['_', '_', 'sparen', 'der', 'Umzug', '_', '_', 'DJ.Hoffi', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'ja', ',', 'Schäbbe', '?']
+
+
+['_', '_', 'zwickeln', '*', '_', '_', '_', '_', '_', 'super', '_', 'bochum', '_', '_', 'aua', '_', '_' ,':-P', '_', 'und', '_', '_', 'privat', 'und', 'Buch', 'und', 'so', '?']
+
+
+['_', 'oder', 'kaufen', 'was', 'für', '100', 'Euro', 'in', 'Parktiker', '_', '_', 'ach', 'ja', '..', 'Zora', '..']
+
+
+['_', 'herzlich', 'Glückwunsch', '_', '_', '_', 'noch', 'nachträglich', '_', '_', 'einsam', 'wolf', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'danken', '_', 'Mieze', '_', '_', '_', '*', 'pieksen', '*', '_', '_', '_', 'DJ.Hoffi', 'gehen', 'in', 'ein', 'anderes', 'Raum', ':']
+
+
+['DJ.Hoffi', "'", 'World', 'Diddlchen', 'betreten', 'der', 'Raum', '.']
+
+
+['_', '*', 'autsch', '*', '_', '_', 'nun', 'haben', 'schtöpfen', 'mich', 'auch', 'erwischen', '_', '_', 'dann', 'können', '_', 'nehmen', 'Leihwagen', 'haben', '_', '_', 'boah', '...']
+
+
+['_', 'ich', 'bekommen', 'echt', 'Augenkrebs', 'von', 'Bochum', '...']
+
+
+['_', '_', 'Augen|reib', '*', '_', '_', '_', '_', 'Tagchen', '_', '_', 'Stoepse', 'fuchteln', 'malen', '_', 'Bissel', 'mit', 'der', 'Nadel', 'rum', '_', '_', 'Emon,', 'ne', 'Sonnenbrille', 'helfen', '_', '_', 'ich', '_', '_', 'auch', '_', '_', 'ab', 'bei', 'mir', 'ändern', 'er', 'nix', '_', 'der', 'Bochum', '_', '_', 'zurückkommen', 'betreten', 'den', 'Raum', '.']
+
+
+['_', 'können', 'wir', 'der', 'Club', 'gezwickt', 'aufmachen', ',', 'quaki', '_', '_', 'ich', '_', '_', 'vom', 'haben', '_', 'emit', '_', '_', '_', '_', 'echt', '_', 'Bochum', '?']
+
+
+['_', 'Nudelsuppestern', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'haft', '_', '_', '_', '*', 'stochern', '*', '_', '_', 'hallöchen', '_', 'Diddlchen', '_', '_', 'Hallo', '_', 'Sternchen', '_', '_', 'zwickizwacki|', 'marc30|', 'quaken', '_', '_', 'Hey', ',', 'Hallo', '_', 'Sternchen', '.']
+
+
+['_', '_', '*', 'lächeln', '*', '_', '_', 'Bochum', 'ändern', 'nichts', '_', '_', 'he', '_', 'Stern', '_', '_', 'TomcatMJ', 'weichen', 'mal', "stoeps's", 'Nadel', 'aus', '...']
+
+
+['_', 'einsam', 'Wolf', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'Hi', '_', 'Sususte', '_', '_', 'na', '_', 'erdbeere', '_', '_', '_', 'all', 'best', '?']
+
+
+['_', 'HSV', 'heißen', 'dass', '_', '_', 'Nusust', '_', '_', 'öhm', ',', 'Sternchen', 'sein', 'ja', 'ich', '...']
+
+
+['_', 'verwirrt', 'gucken', '_', '_', '_', 'Engel', 'betreten', 'der', 'Raum', '.']
+
+_ tach _ nss _ _ jepp _ _ bist dudu _ _ Hallo _ Thor , _ Hi _ engelchen _ _ _ _ kein chance _ tom ...
+
+
+
+['_', 'dich', 'stochern', 'ich', 'als', 'erste', 'damit', 'aus', 'dem', 'chat', '_', '_', 'ja', '_', '_', '_', '_', 'immer', 'noch', '_', '_', '_', 'Pharao', '_', '_', 'hi', '_', 'ihr', 'süß', '_', '_', 'was', '_', '_', 'tun', '_', '_', '_', 'Mittagspause', '_', '_', '_', '_', 'bye', '_', 'ihr', '_', '_', 'Shadok', 'verlassen', 'den', 'Raum', '.']
+
+
+['_', 'also', ',', '_', '_', '_', 'manchmal', ':']
+
+
+['Hallo', '_', 'Erdbeere', '.']
+
+
+['_', 'und', 'tschüssi', '_', '_', 'engel', 'gehen', 'in', 'ein', 'anderer', 'Raum', ':']
+
+
+pferderennen | _ | _ | na | _ | denn | _ | _ | auf | n | baum | wieder | rauf | flitzen | _ | _ | damit | stoßen | nicht | hinterher | _ | können | zum | pieksen | _ | _ | alles | _ | prima | _ | _ | auch | off | gehen | _ | _ | _ | Happy | kommen | aus | dem | Raum | Swing_It! | herein | .
+
+
+['_', 'Ehefrau', 'sein', 'wie', 'essen', 'in', 'der', 'Kantine', '_', '_', 'LoveGirl16*', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'bye', '_', 'asja', '_', '_', 'Bye', '_', 'leutz', '_', '_', 'Asja', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'apache', 'betreten', 'den', 'Raum', '.']
+
+
+_ | sein | das | schnell | _ | _ | re | _ | glücklich | _ | _ | in | beide | stechen | mann | lustlos | herum | _ | _ | _ | * | hängen | * | _ | _ | Bochum | werden | schlecht | _ | _ | Hallo | _ | Bochum | _ | _ | quaken | werfen | schtöpse | nach | oben | _ | _ | Erdbeere$ | sein | ein | Stern | im | Erdbeerkosmos | _ | _ | haaly | happo | _ | _ | *g+ | _ | tschööö | _ | Dollar-Erdbeere | und | andere | _ | _ | _ | * | Ast | mit | stöpse | dran | brechen | sehen | * | _ | _ | _ | ich | sagen | doch | _ | _ | so | n | Baum | sein | nichts | für | Stöpse | ....
+
+
+['_', '_', 'erdbeere', 'sein', 'neu', 'frucht', 'in', 'pudding', '_', '_', 'mieze', 'verdrücken', 'sich', 'in', 'einer', 'anderes', 'Raum', ':']
+
+
+[Katzenkörbchen, _, _, es, haken, etwas, hier, _, _, Bochum, :]
+
+
+['_', 'der', 'sein', 'hier', 'so', 'schnell', '..']
+
+
+['_', 'kommen', 'eben', 'alt', 'Sack', 'wie', 'Du', 'nicht', 'mehr', 'mit', '_', '_', '*fg+', '_', '_', 'by', '_', '_', 'der', 'ast', 'brechen', 'nicht', '_', '_', 'kennen', 'ihr', 'dies', 'Puppe', 'mit', 'den', 'riese', 'Auge', '?']
+
+
+_ * hinterhergucken _ _ wie stoepsen in den Teich am Fuß des Baums plumpsen * _ _ anscha22 verlassen den Raum.
+
+
+['_', 'Anschauung', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'stoop', 'sein', 'noch', 'dahaaaa', '_', '_', 'rääää', '_', 'anschauen', '_', '_', 'Pharao', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'anschauen', '_', '_', 'Bochum', 'sein', 'schnell', '_', '_', 'ja', ',', '_', '_', '_', 'mit', 'der', 'ast', 'in', 'der', 'hand', 'im', 'teich', 'am', 'rumsitzen', '@', 'stoeps', '_', '_', '_', '_', 'schnell', 'weg', '_', '_', 'Bochum', 'sein', 'neu', 'Stadt', 'im', 'Pott', '_', '_', ';-)', '_', '_', '_', 'schnell', 'müde', '..']
+
+
+['_', 'Bochum', 'sein', 'dunkelgrün', '?']
+
+
+['_', 'Happen', 'machen', 'sich', 'jetzt', 'auch', 'weg', '...']
+
+
+['_', 'werden', 'tom', 'so', 'alles', 'sehen', '...']
+
+
+['_', 'die', '5000', 'Stunde', 'scheinen', 'er', 'zu', 'verwirren', '_', '_', 'was', 'für', '_', 'Pott', '_', '_', '?']
+
+
+['_', 'ne', '_', '_', '_', '_', 'grau', '_', '_', 'hi', '_', 'happy', '_', '_', '_', '_', 'im', 'grauen', 'pot', '_', '_', '_', 'wink', '@', 'bochum', '_', '_', '_', 'pot', 'sein', 'nicht', 'grau', '_', '_', '_', 'wink', 'happy', '_', '_', '_', 'na', '_', 'und', '?']
+
+
+['_', 'selbst', 'werden', 'da', 'nur', '3', 'Stunde', 'stünden', '...', 'was', 'soll', '_', '...']
+
+
+_ _ _ hell schwarz?
+
+
+['_', '_', 'winken', '@', 'Bochum', '_', '_', 'und', '_', 'mal', 'grüßen', 'an', 'das', 'Damsch', '...']
+
+
+_, Thor, ärgern, sich, immer, noch, _, ,, daß, der, Franzose, den, Pot, nicht, behalten, haben, _, _, Damsch, _, _, ewig, nicht, mehr, sehen, _, _, Apache, verlassen, der, Raum, .
+
+
+['_', 'der', 'Macht', 'jetzt', 'auf', 'Beamtin', '_', '_', '_', 'müssen', 'eigentlich', 'schon', 'Feierabend', 'haben', '_', '_', 'zurück', 'verlassen', 'den', 'Raum', '.']
+
+
+['_', 'bochum', ':'] → ['_', 'bochum', ':']
+
+
+['_', 'ich', '_', '_', 'auch', 'nicht', '_', '...', 'nur', 'virtuell', '...']
+ --> ['_', 'ich', '_', '_', 'auch', 'nicht', '_', '...', 'nur', 'virtuell', '...']
+
+
+['_', 'jojo', '...'] → ['_', 'jojo', '.. .']
+
+
+['_', 'jojo', '_', '_', 'der', 'machen', 'jetzt', 'auf', 'lau', '_', '_', 'quaki', 'haben', 'Angst', '_', '_', '_', '_', 'ein', 'Indianer', '_', '_', 'Erdbeere$', 'ärgern', 'sich', 'mit', '....']
+
+
+['_', 'der', 'Pott', 'gehen', 'an', 'Frankreich', 'und', 'wir', 'bekommen', 'die', 'Küste', '_', '_', 'wohin', 'sein|', 'ein', 'Indianer', '?']
+
+
+['_', '_', 'von', 'mir', 'auch', 'grüssen', 'an', 'sie', '_', '_', '_', '_', 'wigwam', 'bauen', '_', '_', 'no', 'gate', ',', 'no', 'window', 'but', 'an', 'apache', 'inside', '_', '_', 'da', '_', 'ein', 'apache', '_', '_', 'zora', '_', '_', '::-))', '_', 'uiuiui', '_', '_', 'happy', '_', '_', 'Diddlchen', 'verdrücken', 'sich', 'in', 'einen', 'anderes', 'Raum', ':']
+
+
+['bad', '_', '_', 'Bochum', 'treten', 'Erdbeere', 'in', 'der', 'Arsch', '_', '_', 'gehen', 'der', 'nicht', 'ein', 'P', 'ab', '?']
+
+
+'_', '_', 'kopf', 'kratzen', '_', '_', '_', 'da', 'ein', 'cheyenne', '_', '_', 'stoeps', 'kriegen', 'wieder', 'nichts', 'mit', '_', '_', '_', 'lachen', 'wechseln', '_', '@', 'bochum', '_', '_', 'ok', '_', '_', 'weg', 'radieren', '_', '_', '_', 'stoeps', '_', 'du', 'sein', 'ja', 'auch', 'ein', 'mädchen', '_', '_', 'oh', '_', 'wie', 'net', '_', '_', '_', '_', 'schdöbbs', ',', 'bis', 'sehen', 'wieder', 'zu', 'blöd', 'oder', '_', '_', 'einfach', 'nur', 'zu', 'langsam', '?'
+
+
+_|*, fg, *, _, Erdbeere$, ,, handfest, un, direkt, _, so, sein, ..., die, Pottler, _, _, nu, sein, tom|, befreien, und, _, hocken, noch, imma, dada, _, quaken, schubsen, tom, mal, wech, _, _, Bochum, sein, ein, ganz, nett, _, höflich, _, gut-erzogener, Mensch, _, der, nie, schlimm, Wort, benutzen, und, _, einem, immer, die, Tür, aufhalten, und, so|, wissen, Zora, _, _, ich, mir, auf|, m, Baum, gemütlich, machen, _, _, _, nur, weil, einige, wünschenswert, Eventualität, nicht, eintreffen, _, müssen, du, nicht, stinkig, werden, _, Bochum, _, _, happy, können, das, bezeugen, ....
+
+
+['_', 'quak', 'schreien', ':']
+
+
+['_', '_', '_', 'mein', 'Baumhaus', '_', '_', '_', 'darf', 'man', 'so', 'lügen', '_', '_', 'Zeuge', 'Happy', '_', '_', 'nö', ',', 'dat', 'sein', 'das', 'daneben', '_', 'quaki', '_', '_', 'Bochum', 'sein', 'vielleicht', 'netten', 'und', 'so', ',', 'aber', 'sein', 'Farbe', 'sein', 'und', 'bleiben', 'ein', 'Krampf', ',', 'meinen', 'Emon', '_', '_', 'Bochum', 'stimmt', 'Zora', 'zu', '_', '_', 'Hülfe', '_', '_', 'ihr', 'sein', 'soch', 'eher', 'alles', 'ein', 'Sippe', '_', '_', 'quaki', 'blicken', 'zu', 'ihr', 'Baumhaus', 'auf', 'und', '_', 'wundern', 'sich', 'nur', '_', '_', 'uääärgh', '...']
+
+
+['_', 'dies', 'grün', '_', '...']
+
+
+'_','*','gegen','den','chat','und','emine','compi','tret','*','_','_','_','Thor','sein','kein','sippe','_','_','marc30','gehör','net','zu','dere','Sippe','_','_','*','empört','guck','*','_','_','_','_','hängematt','in','_','baum','auf','spann','_','und','mich','rein','leg','_','_','das','verstöß','wirklich','gegen','die','genfer','konvention','_','_','doch','_','marc','_','_','quaki','werden','gerüttelt','_','weil','stöp','sooo','tret','_','_','marc','_','du','sein','auch','ein','hesse','_','_','Erdbeere','_',':'
+
+
+_ _ sein ja nur neidisch auf uns _ _ stoeps sein ne brutal _ _ stoeps halten das enti mal fest _ _ Bochum holen gleich ne Säge für qaukis Baumquak _ _ Emon halten Stoeps mal fest _ _ ha , ich haben se geiggt und können das nicht lesen _ _ _ stimmen _ _ jetzt wo du es sagen _ _ glücklich _ _ fallen es mir auch auf _ _ man _ _ dieser Fehler _ _ _ danken _ _ Emon _ _ Quaki starten zu der Hängematte wie ein Torpedooooo _ _ Bochum mit Kastanien bewerfen _ _ damit es den Baum _ auf dem ich bin _ in Ruhe lassen _ _ LoveGirl16 gehen in einen anderen Raum :
+
+
+[M4A1, _, _, Emon, ziehen, an, Stuhl, ,, bis, sie, plitterfasernackt, da, stehen, ...]
+
+
+['_', 'wörte', 'sagen', 'an', 'mein', 'baumquak', '?']
+
+
+['_', 'ha', 'have', '!']
+
+
+['_', 'heeee', '_', '_', 'werden', 'werden', 'das', 'denn', '?']
+
+
+['_', 'Mir', 'sein', 'kalt', '_', '_', 'Naja', '_', 'Kind', '_', 'machen', '_', 'gut', '_', ':-)))', '_', 'und', 'lassen', 'Bochum', 'leben', '_', '_', 'wollen', 'Du', 'uns', 'blind', 'machen', ',', 'Emon', '?']
+
+
+_ _ _ ne Strip-Show?
+
+
+['_', '@', 'stoop', '_', '*', 'G', '*', '_', '_', 'adamskostum', 'reich', '_', '_', '_', '_', 'emon', '_', 'und', 'lohnen', 'es', 'sich', '?']
+
+
+['_', '_', '_', 'ein', 'stöpseln', '_', '_', '*', 'ohhhhh', '*', '_', 'danken', '_', 'em', 'on', '...']
+
+_
+nu sein mir viel warmer _ _ _ wink| und| weg _ _ _ _ Happy verlassen der Raum.
+
+
+['_', 'nö', '_', 'Thor', '_', '_', '_', 'nie', '_', '_', 'Bye', '_', 'Häbbie', '_', '_', '_', '_', 'ohne', 'rippen', '_', '_', 'haben', 'ich|', 's', 'mir', 'ja', 'gleich', 'gedacht', '_', 'emon', '_', '_', 'Thor', 'vermuten', 'eh', ',', 'daß', 'Stöps', 'ein', '12', 'Junge', 'sein', '_', '_', '_', '_', 'Mist', '_', '_', 'nun', 'haben', 'ihr', 'mich', 'entlarven', '_', '_', 'Lalalala', '_', '_', 'ich', 'gehen', 'auch', 'mal', '_', '_', '_', '_', 'klar', ',', 'sonst', 'haben', 'Stöps', 'ein', 'Evakostüm', 'verlangen', '_', '_', 'Quaki', 'fressen', 'Erdbeere', 'auf', '_', '_', '_', 'Erdbeere', 'in', 'Eis', '?']
+
+
+['_', '-v', 'machen', 'es', 'gut', '_', 'ihr', '-', 'wo', 'auch', 'immer', 'ihr', 'herkommen', '_', '_', 'Bye', '_', 'Beere', '_', '_', 'wünschen', 'Erdbeere', '_', '_', '_', 'cya', '_', 'Beere', '_', '_', 'bye', '_', 'Erdbeere', '_', '_', '_', '_', 'mit', 'Vanilleis', '_', '_', '_', '_', '*', 'leggen', '*', '_', '_', 'Erdbeere$', 'gehen', 'in', 'ein', 'anderer', 'Raum', ':']
+
+
+['www.Erdbeerkosmos.de', '_', '_', 'oden', '_', '_', 'mit', 'sekt', '_', '_', 'oder', '_', '_', 'auf', 'einem', 'Kuchen', '_', '_', 'rebeln', 'betreten', 'der', 'Raum', '.']
+
+
+['_', '_', '*', 'zunge|', 'raus|', 'hängen|', '*', '_', '_', '_', 'hi', '_', 'rebe', '_', '_', 'der', 'Rebell', '_', '_', '_', '_', 'rebbbb', '_', 'hiiii', '_', '_', 'nehmen', 'Himbeere', 'auf', 'Quaki', 'Zunge', 'werfen', '_', '_', '_', '_', '*', 'schlucken', '*', '_', '_', 'danggen', '_', 'tom', '_', '_', 'Lena29', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'tippeln', 'tapeln', 'tuppeln', 'betreten', 'der', 'Raum', '.']
+
+
+['_', '(', '_', 'sein', 'ja', 'kein', 'ameisenbär', ')', '_', '_', 'Nightshade', 'betreten', 'der', 'Raum', '.']
+
+
+['_', '_', '_', 'das', 'Lenachen', '....']
+
+
+['_', 'Moin', '_', '_', 'Gadjo', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'ja', '....']
+
+
+['_', '_', '_', 'der', 'maaaarc', '_', '_', 'nightshade', 'gehen', 'in', 'ein', 'ander', 'raum', ':']
+
+
+['Dark_Night', '_', '_', 'lang', '_', '_', '_', 'nett', 'sehen', 'und', 'trotzdem', '_', '_', '_', 'wiedererkennen', '_', '_', 'die', 'Geräusch', '_', 'die', 'mein', 'Rechner', 'schon', 'wieder', 'machen', '_', 'gefallen', 'mir', 'gar', 'nicht', '_', '_', 'Gadjo', 'gehen', 'in', 'ein', 'ander', 'Raum', ':']
+
+
+sofa, skeptisch, zu, hören, noch, 2, :
+
+
+['40', 'std. ', '_ ', '_ ', 'bis', 'feiern', 'schluss ', '_ ', '_ ', ':D ', '_ ', 'Ja ', ', ', 'Lena29', 'sein', 'auch', 'ganz', 'erstaunt ', '_ ', '_ ', 'er ', 'haben', 'durchfall ', '?']
+
+
+'_', 'vielleicht', 'essen', 'es', 'auch', 'nur', 'der', 'Hamster', 'im', 'Rechner', ',', 'schöbbs', '_', '_', 'Stups', '_', 'streichel', 'ihn', 'dochmal', '_', '_', '_', 'Tach', '_', 'Lena', '_', '_', 'Ei', '_', 'Thor', '!'
+
+
+['_', ':c)', '_', 'nein', '_', 'stoep', 'haben', 'der', 'code', 'eingeben', '..']
+
+
+['_', '_)', '_', '_', 'cull', '@', 'll', '_', '_', 'rebell', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'Stoep', ',', 'sein', 'sein', 'neben', 'eurer', 'Rechner', '?']
+
+
+['_', '_', 'der', 'Klo', '_', '?']
+
+
+['_', 'juchuuu', '...', 'ich', 'werden', 'noch', 'erkennen', '_', '_', 'der', 'hamster', '_', '_', '_', '_', 'Gummibär', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'Kool_Savas', 'kommen', 'aus', 'der', 'Raum', 'big_city', 'herein', '.']
+
+
+['_', 'genau', '_', '_', 'der', 'haben', 'noch', 'nix', 'zu', 'fressen', 'bekommen', '_', '_', 'und', '_', '_', '_', '_', 'tschuuuuuuusch', '_', '_', '_', 'Kool_Savas', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'Gummibär', 'gehen', 'in', 'ein', 'anderer', 'Raum', ':']
+
+
+sofa| für| 2| unkraut| vergehen| wirklich| nett| len| an| schauen| hören| Rebe| sein| da| sein| ?
+
+
+['_', 'jap', ',', 'aber', '_', '_', 'nur', 'kurz', '_', ',', 'Emon', '_', '_', 'hmmm', '_', '_', 'und', '_', 'sagen', 'nix', ',', 'der', 'sack', '_', '_', 'eieiei', '_', '_', '_', '*', 'lauschen', '*', '_', '_', '_', '_', 'kopieren', 'und', '_', '_', '_', '/m', 'rebund', 'einfügen', '_', '_', 'der', 'sein', 'stechmückenartig', 'da', '_', 'emon', '_', '_', 'er', 'haben', 'doch', 'was', 'sagen', '_', '_', '_', '_', 'wünk|', 'und|', 'wech', '_', '_', '_', '_', 'haben', 'er', 'sagen', '_', '_', 'jo', ',', '_', 'cu', '@', 'all', '_', '_', 'haben|', 'er', 's`sagen', '_', '_', 'ich', 'sagte', 'nichts', '_', '_', 'jo', '_', '_', 'Lena29', 'gehen', 'in', 'ein', 'anderes', 'Raum', ':']
+
+
+['Penn', '_', '_', 'der', 'Imperator', 'betreten', 'der', 'Raum', '.']
+
+
+['_', 'oha', '...'] → ['_', 'oh', '...']
+
+
+['_', 'höhööö', '_', 'singen', '_', '_', '_', 'imperial', 'marsch', 'von', 'john', 'william', 'ab|', 'spielen', '_', '_', '_', 'ein', 'imperial', 'ex', '_', '_', '?']
+
+
+['_', 'Der_Imperator', 'haben', 'die', 'Farbe', 'wechseln', '.']
+
+
+['_', 'nix', 'imperius', '_', '_', '_', '_', '*', 'lol', '*', '_', '_', 'emon', '_', 'stehen', 'du', 'kurz', 'vor', '_', 'Irak', '?']
+
+
+['_', 'tippeln', 'tappeln', 'tuppeln', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'imperio', 'ex', '?']
+
+
+['_', 'sein', 'sein', 'das', '?']
+
+
+['_', '"', 'der', 'imperator', 'verzeih', 'nicht', 'so', 'leicht', ',', 'wie', 'ich', 'es', 'tun', '_', '"', '_', 'stöpsel', 'sein', 'jetzt', 'weg', ':']
+
+
+['_', '_', 'gleich', 'zurück', '_', '_', 'packen', 'ein', 'r', 'vorsitzen', '_', 'ex', 'und', 'du', 'haben', 'der', 'ausspruch', 'ein', 'marvel-comicfigur', '_', '_', '_', '_', 'marvel', 'comic', '?']
+
+
+['_', '_', 'welch', 'Figur', '_', '_', '?']
+
+
+['_', 'na', '_', 'prinz', 'namor', 'von', 'atlantis', '_', '_', '_', '_', '_', '_', 'aketso', '_', '_', 'ich', 'kennen', 'nur', 'hulk', ',', 'spiderman', ',', 'fanta4', 'etc', '_', 'Goonie', 'betreten', 'den', 'Raum', '.']
+
+
+['_', 'rrrrrrrr', '_', '_', '_', 'daten', 'schwimmviech', 'mit', 'den', 'flügelfuß', '_', '_', 're', '_', 'klein', '_', '_', '_', '_', 'der', 'typ', '_', 'der', 'ebi', 'dc', '_', '_', 'gegen', 'aquaman', 'antreten', 'müssen', '_', '_', 'anscha22', 'gehen', 'in', 'ein', 'andere', 'Raum', ':']
+
+
+['Sofa', 'für', '2', 'dat', 'sein', 'donald', 'duck', 'der', ',', 'der', 'hierzuland', 'schon', 'in', 'den', 'william', 'sein', 'unwesen', 'triebe', 'mein', 'opa', 'duck', 'tach', 'Goonie', 'gehen', 'in', 'einen', 'ander', 'Raum', ':']
+
+
+['Katzenkörbchen', '_', '_', '_', '_', 'dussel', 'ducken', '_', '_', 'Der_Imperator', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'thor', ',', 'der', 'haben', 'schwimmfuß', ',', '_', '_', 'kein', 'flügel', 'an', 'den', 'knöchel', '_', '_', 'hi', '_', 'goonie', '_', '_', 'daniel', 'düsentrieb', '…', 'der', 'singen', 'neuerdings', 'bei', 'rtl', '_', '_', 'phuuuuuuu', '_', '_', '_', '_', 'flügelfuß', '_', '_', 'ha', '_', '_', 'daniel', 'drüsentrieb', '_', '=', 'dieter', 'bohlen', '?']
+
+
+_, _, _, entenbraten, _, _, _, _, lecker, _, _, dieter, sein, nie, so, gescheit, Werden, Daniel, !
+
+
+['_', 'nö', ',', 'bohlen', 'haben', 'nie', 'ein', 'helferlein', ',', '_', '_', 'nur', 'ein', 'spinnerlein', '_', '_', 'daniel', '_', '_', 'klein', '_', 'schlecht', 'singen', 'rockträger', '_', '_', 'das', 'nennen', 'Du', 'schon', 'Gesang', '?']
+
+
+['_', 'bohlen', 'haben', 'ein', 'paar', 'weiblich', 'helferlein', '...']
+
+
+['_', 'werden', 'schätzen', 'dort', 'in', 'hintergrund', '?']
+
+
+['_', 'ähmmmm', '_', 'thor', '?'] → ['_', 'ähmmmm', '_', 'thor', '?']
+
+
+['_', 'der', 'sein', 'ein', 'Provokation', 'gegenüber', 'all', 'Sänger', '_', '_', '_', 'haben', 'er', 'helfen', ',', 'sein', 'Aggression', 'loswerden', '_', '_', '_', '_', 'kein', 'Ahnung', '..']
+
+
+['_', '_', 'haben', '_', 'nur', 'bei', 'Raab', 'sehen', ',', 'das', 'sein', 'echt', 'übel', '_', '_', 'und', '_', '_', 'mehrere', 'Nackelein', '_', '_', 'Mile', 'betreten', 'den', 'Raum', '.']
+
+
+['_', 'Mile', 'verlassen', 'der', 'Raum', '.']
+
+
+['_', 'ja', '_', '_', 'quaki', '_', 'machen', 'dich', 'nackisch', '_', '_', 'hoi', '_', 'Miles', '_', '_', 'hi', '_', '_', 'tach', '_', 'linksverdreher', '_', '_', 'Thor', 'wollen', 'das', 'Entschen', 'rupfen', '...']
+
+
+['_', 'rtl', 'Freitag', 'Nacht', 'haben', 'es', 'erfassen', '...']
+
+
+['"', 'Deutschland', 'suchen', 'der', 'Superstar', '-', 'wer', 'ihr', 'finden', '_', 'darf', 'ihr', 'behalten', '_', '"', '_', 'Hallo', '_', 'Linksagitator', '_', '_', '_', '_', '_', 'Prozess', 'in', 'Mainz', 'gegen', 'Horst', 'Mahler', '!']
+
+
+['_', 'sein', '_', '_', '?']
