@@ -55,20 +55,20 @@ def clean_up(FILE):
                 punct = set('?!,.')
                 for i, s in enumerate(sentlemmata):
                     if len(s) >= 2:  # prevent index error
-                        if any(s.endswith(p) and s[-2].isalnum() for p in punct):
+                        if any(s.endswith(p) and s[-2].isalnum()
+                               for p in punct):
                             word, p_mark, empty = \
                                 re.split('([^a-zA-ZäöüßÄÖÜ0-9])', s)
                             sentlemmata[i] = word
                             sentlemmata.insert(i+1, p_mark)
                 if sentlemmata:
                     lemmata.append(sentlemmata)
-                    #print(sentlemmata)
         except Exception as e:
             print(line, e)
     return lemmata
 
 
-#print(clean_up('../../nbs/chatgpt_outputs/chatgpt-rub2019-opensubtitles.txt'))
-#clean_up('../../nbs/chatgpt_outputs/chatgpt-nosta-d-anselm-norm.txt')
-#clean_up('../../nbs/chatgpt_outputs/chatgpt-empirist-cmc-blog-norm.txt')
-#clean_up('../../nbs/chatgpt_outputs/chatgpt-ud-gsd.txt')
+if __name__ == '__main__':
+    # short demo, glance into lemma list
+    path = '../../nbs/chatgpt_outputs/chatgpt-rub2019-opensubtitles.txt'
+    print(clean_up(path)[:10])

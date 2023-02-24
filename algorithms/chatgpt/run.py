@@ -11,7 +11,6 @@ sys.path.append("../..")
 from postprocess import clean_up
 from src.loader import load_data
 from src.metrics import metrics_by_pos
-from src.run import run_algorithm
 
 
 # logging settings
@@ -30,11 +29,10 @@ warnings.filterwarnings("ignore")
 
 
 def predict(x_test, y_test, z_test, z_test_xpos, dname):
-    """Read lemmata from API query outputs."""
+    """Read lemmata from API query outputs, resolve alignment issues."""
     lemmata = clean_up(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt')
-    # TODO prevent index errors
     keep_sents = []  # indices of kept sentences in gold data
-    keep_sents_lem = []  # indices of kept sentences in lemma list
+    keep_sents_lem = []  # indices of kept sentences in predicted lemma list
     wrong = dict()
     if len(x_test) == len(lemmata):  # same number of sentences in pred & gold
         for i, sent in enumerate(x_test):
@@ -92,7 +90,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
             if len(y_pred) < j:
                 j = len(y_pred)
             for i in range(j):
-                # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
+                # dataframe with token, upos tag, xpos tag, gold lemma, pred
                 df.append([x_test_eval[i], z_test_eval[i], z_test_xpos_eval[i],
                            y_test_eval[i], y_pred[i]])
             with open(f"../../nbs/lemmata/{dname}/chatgpt-{dname}.csv", 'w',
