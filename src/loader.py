@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import glob
 import os
-from typing import Generator, List
+from typing import Generator
 
 from .reader import (read_germanc, read_conllu, read_nostad,
                      read_empirist, read_tgermacor)
@@ -32,11 +32,11 @@ def load_data(DATASETSPATH: str) -> Generator:
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
+    n_datasets = 18
 
     for i in range(n_datasets):
 
-        if i == 10:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -141,7 +141,7 @@ def load_data(DATASETSPATH: str) -> Generator:
             x_test, x_test_norm, y_test, z_test, z_test_xpos = read_empirist(FILE)
             dname = "empirist-cmc-chat-social"
 
-        elif i == 0:
+        elif i == 10:
             FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_whats_app.txt")
             x_test, x_test_norm, y_test, z_test, z_test_xpos = read_empirist(FILE)
             dname = "empirist-cmc-whatsapp"
