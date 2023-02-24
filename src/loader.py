@@ -141,7 +141,7 @@ def load_data(DATASETSPATH: str) -> Generator:
             x_test, x_test_norm, y_test, z_test, z_test_xpos = read_empirist(FILE)
             dname = "empirist-cmc-chat-social"
 
-        elif i == 10:
+        elif i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_whats_app.txt")
             x_test, x_test_norm, y_test, z_test, z_test_xpos = read_empirist(FILE)
             dname = "empirist-cmc-whatsapp"
@@ -169,7 +169,7 @@ def load_data(DATASETSPATH: str) -> Generator:
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-novelette"
 
-        elif i == 0:
+        elif i == 14:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-subtitles"
