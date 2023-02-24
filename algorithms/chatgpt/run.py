@@ -49,6 +49,7 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
             if i > len(lemmata)-1:  # end of predicted list reached
                 break
             if len(sent) != len(lemmata[j]):
+                # alignment issues:
                 if len(sent) == len(lemmata[j-1]):  # check previous
                     keep_sents.append(i)
                     keep_sents_lem.append(j-1)
@@ -56,15 +57,14 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                     keep_sents.append(i)
                     keep_sents_lem.append(j+1)
                     j += 2
-                else:
+                else:  # different sentence length
                     wrong[str(i)] = (sent, lemmata[j])
+                    j += 1
             else:
                 keep_sents.append(i)
                 keep_sents_lem.append(j)
                 j += 1
-    print(len(wrong.items()))
     assert len(keep_sents) == len(keep_sents_lem)
-    print(keep_sents, keep_sents_lem)
     return [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
         [z_test[j] for j in keep_sents], [z_test_xpos[j] for j in keep_sents]
