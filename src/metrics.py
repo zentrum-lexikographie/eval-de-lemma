@@ -140,14 +140,3 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
                                      p_entries.y_pred.tolist())
     return res
 
-
-def demo():
-    """A short demo of the different metrics."""
-    y1 = ['das', 'der', 'die']
-    y2 = ['das', 'der', 'der']
-    print(log_levenshtein(y1, y2), levenshtein(y1, y2),
-          levenshtein_wordlen(y1, y2))
-
-
-if __name__ == '__main__':
-    demo()
