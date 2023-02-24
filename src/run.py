@@ -44,7 +44,7 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
         tracker.start()
         tracemalloc.start()
         # predict labels
-        y_pred = predict(x_test, y_test, z_test, z_test_xpos)
+        y_pred = predict(x_test, y_test, z_test, z_test_xpos, dname=dname)
         current, peak = tracemalloc.get_traced_memory()
         tracemalloc.stop()
         tracker.stop()
