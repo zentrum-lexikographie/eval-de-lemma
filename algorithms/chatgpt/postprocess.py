@@ -57,10 +57,11 @@ def clean_up(FILE):
                     if len(s) >= 2:  # prevent index error
                         if any(s.endswith(p) and s[-2].isalnum()
                                for p in punct):
-                            word, p_mark, empty = \
-                                re.split('([^a-zA-ZäöüßÄÖÜ0-9])', s)
-                            sentlemmata[i] = word
-                            sentlemmata.insert(i+1, p_mark)
+                            if len(re.split('([^a-zA-ZäöüßÄÖÜ0-9])', s)) == 3:
+                                word, p_mark, empty = \
+                                    re.split('([^a-zA-ZäöüßÄÖÜ0-9])', s)
+                                sentlemmata[i] = word
+                                sentlemmata.insert(i+1, p_mark)
                 if sentlemmata:
                     lemmata.append(sentlemmata)
         except Exception as e:
