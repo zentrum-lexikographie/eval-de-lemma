@@ -60,12 +60,9 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
             y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
         z_test = list(itertools.chain(*z_test))
-    # store and output lemmatizations of first 2000 tokens
+    # store and output lemmatizations of tokens
     df = []
-    j = 2000
-    if len(y_test) < j:
-        j = len(y_test)
-    for i in range(j):
+    for i in range(len(y_test)):
         # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
         df.append([x_test[i], z_test[i], z_test_xpos[i], y_test[i], y_pred[i]])
     with open(f"../../nbs/lemmata/{dname}/{aname}-{dname}.csv", 'w',
