@@ -38,8 +38,28 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
     print(f'{len(x_test)} sentences in data, {len(lemmata)} sentences in outputs')
     for i, sent in enumerate(lemmata):
         if j >= len(x_test)-1:  # end of token list reached
-            if len(sent) != len(x_test[j]):
-                if len(sent) == len(x_test[j-1]):  # check previous just in case
+            if j == len(x_test)-1:
+                if len(sent) != len(x_test[j]):
+                    if len(sent) == len(x_test[j-1]):  # check previous just in case
+                        keep_sents.append(j-1)
+                        keep_sents_lem.append(i)
+                        continue
+                    elif len(sent) == len(x_test[j-2]):  # check before previous
+                        keep_sents.append(j-2)
+                        keep_sents_lem.append(i)
+                        j -= 1
+                        continue
+                    else:
+                        # different sentence length
+                        wrong[str(i)] = (sent, x_test[j])
+                        break
+                else:
+                    keep_sents.append(j)
+                    keep_sents_lem.append(i)
+                    j += 1
+                    break
+            else:  # very last token
+                if len(sent) == len(x_test[j-1]):  # check previous
                     keep_sents.append(j-1)
                     keep_sents_lem.append(i)
                     continue
@@ -49,40 +69,36 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                     j -= 1
                     continue
                 else:
-                    # different sentence length
-                    wrong[str(i)] = (sent, x_test[j])
+                    # different sentence lengths
+                    wrong[str(i)] = (sent, x_test[j-1])
                     break
-            else:
+        else:
+            if len(sent) != len(x_test[j]):
+                # alignment issues:
+                if len(sent) == len(x_test[j-1]):  # check previous
+                    keep_sents.append(j-1)
+                    keep_sents_lem.append(i)
+                    continue
+                elif len(sent) == len(x_test[j+1]):  # check next
+                    keep_sents.append(j+1)
+                    keep_sents_lem.append(i)
+                    j += 2
+                    continue
+                elif len(sent) == len(x_test[j+2]):  # check after next
+                    keep_sents.append(j+2)
+                    keep_sents_lem.append(i)
+                    j += 3
+                elif len(sent) == len(x_test[j-2]):  # check before previous
+                    keep_sents.append(j-2)
+                    keep_sents_lem.append(i)
+                    j -= 1
+                else:  # different sentence length
+                    wrong[str(i)] = (sent, x_test[j])
+                    j += 1
+            else:  # correct indices, same sentence lengths
                 keep_sents.append(j)
                 keep_sents_lem.append(i)
                 j += 1
-                break
-        if len(sent) != len(x_test[j]):
-            # alignment issues:
-            if len(sent) == len(x_test[j-1]):  # check previous
-                keep_sents.append(j-1)
-                keep_sents_lem.append(i)
-                continue
-            elif len(sent) == len(x_test[j+1]):  # check next
-                keep_sents.append(j+1)
-                keep_sents_lem.append(i)
-                j += 2
-                continue
-            elif len(sent) == len(x_test[j+2]):  # check after next
-                keep_sents.append(j+2)
-                keep_sents_lem.append(i)
-                j += 3
-            elif len(sent) == len(x_test[j-2]):  # check before previous
-                keep_sents.append(j-2)
-                keep_sents_lem.append(i)
-                j -= 1
-            else:  # different sentence length
-                wrong[str(i)] = (sent, x_test[j])
-                j += 1
-        else:
-            keep_sents.append(j)
-            keep_sents_lem.append(i)
-            j += 1
     assert len(keep_sents) == len(keep_sents_lem)
     return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
@@ -109,7 +125,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
             y_pred = list(itertools.chain(*y_pred))
             x_test_eval = list(itertools.chain(*x_test_eval))
             z_test_eval = list(itertools.chain(*z_test_eval))
-            # store and output lemmatizations of first 2000 tokens
+            # store and output lemmatizations tokens
             df = []
             for i in range(len(y_pred)):
                 # dataframe with token, upos tag, xpos tag, gold lemma, pred
