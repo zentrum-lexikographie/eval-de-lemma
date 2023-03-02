@@ -5,6 +5,17 @@ import re
 
 def clean_up(FILE):
     lemmata = []
+    # count different formats
+    formats = {'list-notation': 0,
+               'list-notation-without-quot': 0,
+               ':-notation': 0,
+               'comma-separated': 0,
+               'whitespace-separated': 0,
+               '+-separated': 0,
+               '|-separated': 0,
+               '_-separated': 0,
+               'other': [],
+               'error': []}
     with open(FILE, 'r', encoding='utf-8') as f:
         lines = f.read().split('\n\n')
     for line in lines:
@@ -28,27 +39,35 @@ def clean_up(FILE):
                 if "|" in line and (line.count("|") >= 3):
                     # Legen|sie|er|.
                     sentlemmata = map(str.strip, line.split('|'))
+                    formats['|-separated'] += 1
                 elif "+" in line and (line.count("+") >= 3):
                     sentlemmata = map(str.strip, line.split('+'))
+                    formats['+-separated'] += 1
                 elif "_" in line and (line.count("_") >= 3):
                     sentlemmata = map(str.strip, line.split('_'))
+                    formats['_-separated'] += 1
                 elif line.count(':') == line.count('\n') != 0:
                     # token : lemma\n
                     sentlemmata = [x.split(':')[1].strip() for x in
                                    line.split('\n')]
+                    formats[':-notation'] += 1
                 elif line.strip().startswith("[") or \
                         line.strip().startswith("("):
                     if not ('"' in line or '\'' in line):
                         # list notation without quotation marks "/'
                         sentlemmata = [lemma.strip("()[]\n") for lemma in
                                        line.split(", ")]
+                        formats['list-notation-without-quot'] += 1
                     else:  # list notation
                         sentlemmata = ast.literal_eval(line)
+                        formats['list-notation'] += 1
                 else:  # white space or comma tokenization
                     if line.count(",") >= (len(line.split())-1):
                         sentlemmata = line.split(', ')
+                        formats['comma-separated'] += 1
                     else:
                         sentlemmata = line.split()
+                        formats['whitespace-separated'] += 1
                 sentlemmata = list(map(str.strip, sentlemmata))
                 sentlemmata = list(map(lambda s: s.strip('"\''), sentlemmata))
                 # separate punctuation
@@ -64,12 +83,16 @@ def clean_up(FILE):
                                 sentlemmata.insert(i+1, p_mark)
                 if sentlemmata:
                     lemmata.append(sentlemmata)
-        except Exception as e:
-            print(line, e)
-    return lemmata
+                else:  # other format?
+                    formats['other'].append(line)
+        except Exception:
+            formats['error'].append(line)
+    return lemmata, formats
 
 
 if __name__ == '__main__':
     # short demo, glance into lemma list
-    path = '../../nbs/chatgpt_outputs/chatgpt-rub2019-opensubtitles.txt'
-    print(clean_up(path)[:10])
+    # path = '../../nbs/chatgpt_outputs/chatgpt-ud-gsd.txt'
+    path = '../../nbs/chatgpt_outputs/chatgpt-nosta-d-bematac-norm.txt'
+    lems, forms = clean_up(path)
+    print(lems[:10], forms)

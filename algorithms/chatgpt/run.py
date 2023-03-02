@@ -30,14 +30,13 @@ warnings.filterwarnings("ignore")
 
 def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Read lemmata from API query outputs, resolve alignment issues."""
-    lemmata = clean_up(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt')
+    lemmata, forms = clean_up(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt')
     keep_sents = []  # indices of kept sentences in in gold data
     keep_sents_lem = []  # indices of kept sentences predicted lemma list
     wrong = dict()
     j = 0  # index in token list
     for i, sent in enumerate(lemmata):
         if i > len(x_test)-1 or j > len(x_test)-1:  # end of token list reached
-            print('yay')
             break
         if len(sent) != len(x_test[j]):
             # alignment issues:
@@ -66,20 +65,21 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
             keep_sents_lem.append(i)
             j += 1
     assert len(keep_sents) == len(keep_sents_lem)
-    return [lemmata[j] for j in keep_sents_lem], \
+    return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
         [z_test[j] for j in keep_sents], [z_test_xpos[j] for j in keep_sents]
 
 
 # run all benchmarks
 results = []
+formats = []  # count different output formats
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:  # not all datasets lemmatized with gpt-3
         if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
             # create new lists with matching indices
-            y_pred, x_test_eval, y_test_eval, z_test_eval, z_test_xpos_eval = \
-                predict(x_test, y_test, z_test, z_test_xpos, dname)
+            f, y_pred, x_test_eval, y_test_eval, z_test_eval, z_test_xpos_eval \
+                = predict(x_test, y_test, z_test, z_test_xpos, dname)
             print(len(y_pred), len(x_test_eval))
             # number of ignored sentences
             num_ignored_sents = len(x_test) - len(y_pred)
@@ -117,6 +117,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 'memory_peak': 0,
                 'num_sents_corpus': num_sents,
                 'num_sents_ignored': num_ignored_sents})
+            formats[dname] = f
     except Exception as err:
         logger.error(err)
 
@@ -124,3 +125,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
 # store results
 with open("../../nbs/results-chatgpt.json", "w") as fp:
     json.dump(results, fp, indent=4)
+
+# store output formats
+with open("../../nbs/chatgpt_outputs/formats.json", "w") as fp:
+    json.dump(formats, fp, indent=4)
