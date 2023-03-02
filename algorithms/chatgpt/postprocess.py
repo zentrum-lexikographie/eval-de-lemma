@@ -93,6 +93,7 @@ def clean_up(FILE):
 if __name__ == '__main__':
     # short demo, glance into lemma list
     # path = '../../nbs/chatgpt_outputs/chatgpt-ud-gsd.txt'
-    path = '../../nbs/chatgpt_outputs/chatgpt-nosta-d-bematac-norm.txt'
+    # path = '../../nbs/chatgpt_outputs/chatgpt-nosta-d-bematac-norm.txt'
+    path = '../../nbs/chatgpt_outputs/chatgpt-empirist-cmc-blog.txt'
     lems, forms = clean_up(path)
     print(lems[:10], forms)

@@ -35,9 +35,28 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
     keep_sents_lem = []  # indices of kept sentences predicted lemma list
     wrong = dict()
     j = 0  # index in token list
+    print(f'{len(x_test)} sentences in data, {len(lemmata)} sentences in outputs')
     for i, sent in enumerate(lemmata):
-        if i > len(x_test)-1 or j > len(x_test)-1:  # end of token list reached
-            break
+        if j >= len(x_test)-1:  # end of token list reached
+            if len(sent) != len(x_test[j]):
+                if len(sent) == len(x_test[j-1]):  # check previous just in case
+                    keep_sents.append(j-1)
+                    keep_sents_lem.append(i)
+                    continue
+                elif len(sent) == len(x_test[j-2]):  # check before previous
+                    keep_sents.append(j-2)
+                    keep_sents_lem.append(i)
+                    j -= 1
+                    continue
+                else:
+                    # different sentence length
+                    wrong[str(i)] = (sent, x_test[j])
+                    break
+            else:
+                keep_sents.append(j)
+                keep_sents_lem.append(i)
+                j += 1
+                break
         if len(sent) != len(x_test[j]):
             # alignment issues:
             if len(sent) == len(x_test[j-1]):  # check previous
@@ -75,12 +94,12 @@ results = []
 formats = []  # count different output formats
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
-    try:  # not all datasets lemmatized with gpt-3
-        if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
+    if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
+        try:  # not all datasets lemmatized with gpt-3
             # create new lists with matching indices
             f, y_pred, x_test_eval, y_test_eval, z_test_eval, z_test_xpos_eval \
                 = predict(x_test, y_test, z_test, z_test_xpos, dname)
-            print(len(y_pred), len(x_test_eval))
+            print(f'{len(y_pred)} sentences predicted.')
             # number of ignored sentences
             num_ignored_sents = len(x_test) - len(y_pred)
             num_sents = len(x_test)
@@ -119,8 +138,8 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 'num_sents_ignored': num_ignored_sents})
             f['dataset'] = dname
             formats.append(f)
-    except Exception as err:
-        logger.error(err)
+        except Exception as err:
+            logger.error(err)
 
 
 # store results
