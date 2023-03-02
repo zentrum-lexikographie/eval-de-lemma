@@ -117,7 +117,8 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 'memory_peak': 0,
                 'num_sents_corpus': num_sents,
                 'num_sents_ignored': num_ignored_sents})
-            formats[dname] = f
+            f['dataset'] = dname
+            formats.append(f)
     except Exception as err:
         logger.error(err)
 
