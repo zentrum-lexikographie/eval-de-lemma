@@ -1,0 +1,28 @@
+[
+    {
+        "list-notation": 6,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "comma-separated": 2,
+        "whitespace-separated": 8,
+        "+-separated": 0,
+        "|-separated": 7,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-wiki-norm"
+    },
+    {
+        "list-notation": 6,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 11,
+        "+-separated": 0,
+        "|-separated": 5,
+        "_-separated": 1,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-wiki"
+    }
+]

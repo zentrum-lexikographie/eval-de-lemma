@@ -111,8 +111,11 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     res['levenshtein'] = levenshtein(y_true, y_pred)
     res['levenshtein-wordlen'] = levenshtein_wordlen(y_true, y_pred)
     # number of gold and predicted lemma types, ratio gold/predicted
-    res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)),
-                              len(set(y_true))/len(set(y_pred)))
+    if y_pred:
+        res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)),
+                                  len(set(y_true))/len(set(y_pred)))
+    else:  # prevent ZeroDivisionError
+        res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)), 0)
     return res
 
 

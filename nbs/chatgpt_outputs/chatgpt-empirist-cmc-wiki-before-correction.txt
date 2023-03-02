@@ -1,0 +1,108 @@
+
+
+Jemand, der, Lied, schreiben, sein, gemäß, mein, Sprachverständnis, ein, Liedschreiber, weso, das, wenig, deutsch, sein, soll, als, "Songautor", müssen, du, mir, dann, noch, erläutern. Schreiben, ich, ein, Ssssssong, so, schreiben, ich, nichts, ander, als, ein, Lied.
+
+
+['Ich', 'haben', 'einmal', 'in', 'Duden', 'nachgesehen', '(', '24.', 'Auflage', ',', '2006', ')', ':', '„', 'Liedschreiber', '“', 'geben', 'es', 'nicht', ',', 'dafür', 'aber', '„', 'Songwriter', '“', '.', 'Ich', 'verbessern', 'entsprechend', '.', 'Gruß', ',']
+
+
+Solange| kein| zuverlässig| Informationsquelle| vorliegen| ,| der| Lou| Reed| als| „| Liedschreiber| “| bezeichnen| (| ein| Begriff| ,| den| der| Duden| wiegesagt| nicht| kennen| )| ,| sollen| wir| ihn| nicht| verwenden| .| Die| Konnotation| sein| eben| ein| ander| als| bei| Songwriter| .
+
+
+Haben|der|Artikel|zufällig|auf|meiner|Beobachtungsliste|und|wundern|mich|über|die|Begriffsverkrampfung|.|Also|"|Liedschreiber|"|lesen|sich|schon|arg|reaktionär|.|Warum|nicht|den|allgemein|geläufig|Anglizismus|"|Songwriting|"|akzeptieren|?|Songwriting|können|der|modern|,|an|Popularmusik|interessiert|Mensch|übrigens|sogar|an|deutschen|Universität|erlernen|,|z.|B.|an|der|MH|Stuttgart|.|Und|das|Wiki-Lemma|lauten|ebenso|.|Haben|die|Ehre|,
+
+
+wer|darau|ne|drama|machen|,|sein|wie|immer|phi|-|sie|kann|einfach|nicht|lassen|.|wenn|songwriting|auf|engl.|liedschreiberei|verweisen|,|sein|dies|diskussion|mal|wieder|völlig|sinnlos|.|bewegen|wer|uns|hier|in|der|deutsch|oder|englisch|wp|?|aber|mir|sein|das|egal|,|wer|sich|hier|lächerlich|machen|möchte|...
+
+
+['Und', 'PS.', ':', 'jetzt', 'stehen', 'über', 'dieser', 'Disku-Abschnitt', 'auch', 'noch', '"', 'Songautor', '"', '?']
+
+
+Liederschreiber | sein | ein | verkrampft | Eindeutschung | und | lassen | sich | im | Gegensatz | zu | Songwriter | deswegen | auch | nicht | im | Duden | finden | . | Gemäß | dem | Deutsch | Wortschatzlexikon | haben | Songwriter | ein | Häufigkeitsklasse | von | 15 | , | Liederschreiber | jedoch | nur | ein | von | 21 | , | so | dass | auch | Songwriter | in | Sach | Häufigkeit | vorne | liegen | . | Darüberhinaus | sein | er | ohnehin | nicht | ein | Singer-Songwriter | ?
+ 
+
+['EOD', '.', 'völlig', 'sinnlos', '-', 'schauen', 'in', 'irgendwelchen', 'Musiklexikon', 'nach', '.', 'da', 'werden', 'manchmal', 'Songwriter', ',', 'manchmal', 'Liedschreiber', ',', 'manchmal', 'Liedermacher', 'verwenden', '.', 'das', 'sein', 'alles', 'hanebüchen', ',', 'Kinderkram', '...']
+
+Tokenliste Lemma-Liste
+Selbst - selbst
+Subway - Subway
+to - to
+Sally - Sally
+bezeichnen - bezeichnen
+sich - sich
+als - als
+Liedschreiber - Liedschreiber
+: - :
+http://server.selltec.com/go/rcn/_ws/mediabase/Issue/rcn_127_01_48_web.pdf - http://server.selltec.com/go/rcn/_ws/mediabase/Issue/rcn_127_01_48_web.pdf
+, - ,
+S. - S.
+12 - 12
+und - und
+kommt - kommen
+mir - mir
+nicht - nicht
+mit - mit
+" - "
+Liederschreiber - Liederschreiber
+" - "
+- - -
+das - das
+is - sein
+nu - nu
+mal - mal
+gar - gar
+nix - nichts
+... - ...
+schon - schon
+mal - mal
+was - was
+von - von
+Synonymen - Synonym
+gehört - hören
+? - ?
+Daher - daher
+ist - sein
+diese - dieser
+Disku - Diskussion
+sinnlos - sinnlos
+. - .
+
+
+['Das', 'ständig', 'Revertieren', 'von', 'Phi', 'damit', 'auch', '...']
+
+
+da | stehen | nochmal | ganz | deutlich | für | Leute | lesen | können | : | http://www.duden-suche.de/suche/trefferliste.php?suchbegriff[AND]=songwriter&suche=homepage&treffer_pro_seite=10&modus=title&level=125
+
+
+Fall/Verb    du/Pronomen   lesen/Verb    können/Verb    ,/Punkt    würden/Verb   du/Pronomen   sehen/Verb    ,/Punkt    dass/Konjunktion    der/Determinativ    Eintrag/Substantiv    "/Satzzeichen    Songwriter/Substantiv    "/Satzzeichen    heiß/Verb
+
+
+was besagen Übersetzung du haben nichts besser zu tun scheinen mich ?
+
+
+[':', 'Kreuzspinne']
+
+
+Wieder einmal bin ich auf einen Artikel stoßen, haben Potential, ich aber (aufgrund fehlenden Fachwissen in diesem Fall) nicht mehr weiter ausbauen bzw. verbessern kann.  =) Kurz zusammengefasst, sprechen dafür: kein unnötiges herumgerede, sehr gut bebildert, allerdings vielleicht etwas kurz (Sozialverhalten könnte ergänzt werden, ansonsten fällt mir nichts ein).  Wobei die Kürze sollte nicht hindern, sehe Cholerabrunnen, zudem Qualität > Quantität.  Wenn ein paar hier mithelfen, sollte es aber kein Problem geben, ihn exzellent zu machen.  // OT : übrigens gibt es hier so etwas wie eine Standartgliederung für Tiere, weil unter den exzellenten Tierartikeln sind viele teilweise anders gegliedert bzw. fehlen Punkte der anderen, die man dazu geben könnte.
+
+wieder einmal sein auf einen Artikel stoßen haben Potenzial ich aber (aufgrund fehlendes Fachwissen in diesem Fall) nicht mehr weiter ausbauen bzw. verbessern können. =) kurz zusammenfassen, sprechen dafür: kein unnötiges Rede, gut bebildert, aber vielleicht etwas kurz (Sozialverhalten könnte ergänzen, sonst fällt mir nichts ein). Wobei die Kürze sollte nicht hindern, sehe Cholerabrunnen, zudem Qualität > Quantität. Wenn ein paar hier mithalfen, sollte es kein Problem geben, ihn exzellent machen. // OT: übrigens gibt es hier so etwas wie eine Standartgliederung für Tier, weil unter den exzellenten Tierartikeln sind viele teilweise anders gegliedert bzw. fehlen Punkte der anderen, die man dazu geben können.
+
+
+Bitte	tu	mir	der	Gefallen	und	nehmen	dies	Artikel	wieder	aus	dem	Review	,	denn	ich	haben	eigentlich	kein	Lust	,	den	eigentlich	ganz	gut	Kreuzspinnenartikel	gänzlich	rund	zu	machen	.	Trotzdem	ein	paar	Anmerkung	:	1.	Es	geben	kein	Standartvorlage	,	die	haben	wir	vor	ein	paar	Woche	abschaffen	,	da	sich	die	viel	verschieden	Tier	nicht	in	ein	Form	pressen	lassen	.	2.	Natürlich	können	ein	Artikel	auch	in	der	Kürze	exzellent	werden	aber	eben	nciht	ein	Artikel	über	die	bekannteste	Spinnengrupp	,	die	es	geben	.	Ein	Umfang	wie	etwa	der	der	Raubfliege	würden	ein	exzellent	Kreuzspinnenartikel	mindestens	erreichen	,	komplett	mit	wichtig	Inhalt	füllen	.	Liebe	Gruss	,
+
+
+Gefährlichkeit für den Mensch Kann mal bitte jemand noch etwas mehr zur Gefährlichkeit der verschiedenen Art für den Mensch schreiben. Da steht jetzt nur ein Satz "völlig ungefährlich". Aber viele haben sicher anderes gehört à la ""brennt tierisch", kann zu starken Schwellungen kommen, etc.". Von daher wäre sicher ein etwas ausführlicheres Eingehen auf das Topic angebracht. Habe leider kein Biszchen Ahnung davon und kann es deshalb nicht machen. Danke im Vorraus
+
+Gefährdlichkeit für den Mensch Kann mal bitte jemand noch etwas mehr zur Gefährdlichkeit der verschiedenen Art für den Mensch schreiben. Da steht jetzt nur ein Satz "völlig ungefährdlich". Aber viele haben sicher anderes gehört à la ""brennen tierisch", kommen zu starken Schwellungen, etc.". Von daher wäre sicher ein etwas ausführlicheres Eingehen auf das Topic angebracht. Habe leider kein Biszchen Ahnung davon und kann es deshalb nicht machen. Danke im Voraus.
+
+
+['sie', 'sein', 'ungefährlich', '.']
+
+
+Danke. Ich verlassen mich da jetzt aber drauf, wenn ich das nächste Mal im Dunkeln so 'nem Riesenteil begegnen.
+
+
+Darauf können du dich zu 99.9% verlassen. Nur böse Gedanke dürfen du ihnen gegenüber nicht haben, dann überlegen sie sich es vielleicht anders.
+
+
+gehen	klar	.	kein	Problem	,	sein	ja	auch	Vegetarier	;O)	.	haben	halten	immer	so	komisch	Geschichte	von	diese	Tier	hören	-	und	das	gehen	bestimmen	nicht	nur	mir	so	.	leben	mit	so	'nem	Teil	quasi	in	Symbiose	:	Netz	vor	meinem	Fenster	.	ich	versorgen	ihr	Falle	mit	Licht	und	sie	füttern	für	mich	dafür	die	Fliege	u.	Motte	weg	.	haben	halten	nur	Angst	wenn	sie	mal	Junge	bekommen	,	weil	das	sein	ja	immer	ne	ganze	Menge	bei	Spinne	und	man	hören	ja	,	dass	die	ganz	klein	und	die	ganz	alt	besonders	giftig	sein	(	Spinne	mein	ich	;O)	)	.

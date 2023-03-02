@@ -84,10 +84,11 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                     keep_sents_lem.append(i)
                     j += 2
                     continue
-                elif len(sent) == len(x_test[j+2]):  # check after next
-                    keep_sents.append(j+2)
-                    keep_sents_lem.append(i)
-                    j += 3
+                elif j >= len(x_test)-3:
+                    if len(sent) == len(x_test[j+2]):  # check after next
+                        keep_sents.append(j+2)
+                        keep_sents_lem.append(i)
+                        j += 3
                 elif len(sent) == len(x_test[j-2]):  # check before previous
                     keep_sents.append(j-2)
                     keep_sents_lem.append(i)
@@ -110,8 +111,9 @@ results = []
 formats = []  # count different output formats
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
-    if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
-        try:  # not all datasets lemmatized with gpt-3
+    try:
+        if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
+            # not all datasets lemmatized with gpt-3
             # create new lists with matching indices
             f, y_pred, x_test_eval, y_test_eval, z_test_eval, z_test_xpos_eval \
                 = predict(x_test, y_test, z_test, z_test_xpos, dname)
@@ -154,8 +156,8 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 'num_sents_ignored': num_ignored_sents})
             f['dataset'] = dname
             formats.append(f)
-        except Exception as err:
-            logger.error(err)
+    except Exception as e:
+        logger.error(e)
 
 
 # store results
