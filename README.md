@@ -2,7 +2,14 @@
 An evaluation study of lemmatizers on different German language corpora.
 
 ## Usage
-In order to avoid python dependency conflicts, each lemmatizer is installed in a separate virtual environment.
+
+1. Download the datasets.
+
+```sh
+bash dataset-download.sh
+```
+
+2. In order to avoid python dependency conflicts, each lemmatizer is installed in a separate virtual environment.
 
 ```sh
 for dir in algorithms/*; do
@@ -10,10 +17,10 @@ for dir in algorithms/*; do
 done
 ```
 
-Start the computations with the following command.
+3. Start the computations with the following command.
 
 ```sh
-run.sh
+bash run.sh
 ```
 
 The study has been conducted on TODO Ubuntu/linux version of LAL using Python7.
@@ -36,6 +43,8 @@ The study has been conducted on TODO Ubuntu/linux version of LAL using Python7.
 	* [treetagger](./algorithms/treetagger)
 	* [logs](./logs.log) - log file
  * [nbs](./nbs) - evaluation results and notebooks
+	* [chatgpt_outputs](./nbs/chatgpt_outputs) - outputs of OpenAI API queries 20.-22.02.2023 with [text-davinci-003](https://platform.openai.com/docs/models/gpt-3)
+		* [formats.json](./nbs/chatgpt_outputs/formats.json) - overview of different output formats of gpt-3 experiments
     * [emissions](./nbs/emissions) - energy consumption of experiments
 	* [lemmata](./nbs/lemmata) - lemmatizer outputs for qualitative evaluation
 	* [evaluation.ipynb](./nbs/evaluation.ipynb) - quantitative evaluation of results

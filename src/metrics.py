@@ -105,6 +105,7 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
                                                       adjusted=True)
     except Exception as e:
         logger.error(e)
+        res['bal_accuracy'] = 0  # zero-division error
 
     res['log-levenshtein'] = log_levenshtein(y_true, y_pred)
     res['log-levenshtein2'] = log_levenshtein(y_true, y_pred, sub=2)
@@ -142,4 +143,3 @@ def metrics_by_pos(y_true: List[str], y_pred: List[str], z_upos: List[str],
             res[p] = compute_metrics(p_entries.y_true.tolist(),
                                      p_entries.y_pred.tolist())
     return res
-
