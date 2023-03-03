@@ -170,9 +170,9 @@ def load_data(DATASETSPATH: str) -> Generator:
             dname = "rub2019-novelette"
 
         elif i == 14:
-            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll")
+            FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/opensubtitles.conll.txt")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
-            dname = "rub2019-subtitles"
+            dname = "rub2019-opensubtitles"
 
         elif i == 15:
             FILE = os.path.realpath(f"{DATASETSPATH}/rub2019/sermononline.conll")

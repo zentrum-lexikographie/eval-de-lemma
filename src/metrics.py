@@ -77,46 +77,45 @@ def compute_metrics(y_true: List[str], y_pred: List[str]) -> dict:
     res = {}
     res['number_of_lemmata'] = len(y_true)
 
-    try:
-        res['accuracy'] = accuracy_score(y_true, y_pred)
-    except Exception as e:
-        logger.error(e)
+    if y_pred:  # prevent 0-division error
+        try:
+            res['accuracy'] = accuracy_score(y_true, y_pred)
+        except Exception as e:
+            logger.error(e)
 
-    try:
-        res['adj_recall'] = recall_score(y_true, y_pred, average='macro',
-                                         zero_division=0)
-    except Exception as e:
-        logger.error(e)
+        try:
+            res['adj_recall'] = recall_score(y_true, y_pred, average='macro',
+                                             zero_division=0)
+        except Exception as e:
+            logger.error(e)
 
-    try:
-        res['adj_precision'] = precision_score(y_true, y_pred, average='macro',
-                                               zero_division=0)
-    except Exception as e:
-        logger.error(e)
+        try:
+            res['adj_precision'] = precision_score(y_true, y_pred,
+                                                   average='macro',
+                                                   zero_division=0)
 
-    try:
-        res['adj_f1'] = f1_score(y_true, y_pred, average='macro',
-                                 zero_division=0)
-    except Exception as e:
-        logger.error(e)
+        except Exception as e:
+            logger.error(e)
 
-    try:
-        res['bal_accuracy'] = balanced_accuracy_score(y_true, y_pred,
-                                                      adjusted=True)
-    except Exception as e:
-        logger.error(e)
-        res['bal_accuracy'] = 0  # zero-division error
+        try:
+            res['adj_f1'] = f1_score(y_true, y_pred, average='macro',
+                                     zero_division=0)
+        except Exception as e:
+            logger.error(e)
 
-    res['log-levenshtein'] = log_levenshtein(y_true, y_pred)
-    res['log-levenshtein2'] = log_levenshtein(y_true, y_pred, sub=2)
-    res['levenshtein'] = levenshtein(y_true, y_pred)
-    res['levenshtein-wordlen'] = levenshtein_wordlen(y_true, y_pred)
-    # number of gold and predicted lemma types, ratio gold/predicted
-    if y_pred:
+        try:
+            res['bal_accuracy'] = balanced_accuracy_score(y_true, y_pred,
+                                                          adjusted=True)
+        except Exception as e:
+            logger.error(e)
+
+        res['log-levenshtein'] = log_levenshtein(y_true, y_pred)
+        res['log-levenshtein2'] = log_levenshtein(y_true, y_pred, sub=2)
+        res['levenshtein'] = levenshtein(y_true, y_pred)
+        res['levenshtein-wordlen'] = levenshtein_wordlen(y_true, y_pred)
+        # number of gold and predicted lemma types, ratio gold/predicted
         res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)),
                                   len(set(y_true))/len(set(y_pred)))
-    else:  # prevent ZeroDivisionError
-        res['true-pred-types'] = (len(set(y_true)), len(set(y_pred)), 0)
     return res
 
 
