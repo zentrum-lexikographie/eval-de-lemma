@@ -32,7 +32,7 @@ smor_tags = {'NOUN': 'NN', 'PROPN': 'NPROP', 'VERB': 'V', 'ADJ': 'ADJ',
              'ADV': 'ADV'}
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Predicts a lemma based on the SMORLemma analyses: If the gold lemma is
     among the predictions, it is returned. Otherwise the empty string is
     returned.

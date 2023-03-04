@@ -38,7 +38,7 @@ def lemmatize(token, pos):
         return ""
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Lemmatize a flat list of tokens with GermaLemma."""
     return [lemmatize(x_test[i], z_test[i]) for i in range(len(x_test))]
 

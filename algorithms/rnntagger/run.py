@@ -24,7 +24,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using RNNTagger."""
     # write tokens to file
     with open("pretokenized.txt", "w") as fp:

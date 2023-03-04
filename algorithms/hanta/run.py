@@ -27,7 +27,7 @@ warnings.filterwarnings("ignore")
 tagger = ht.HanoverTagger('morphmodel_ger.pgz')
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using HanTa."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence
