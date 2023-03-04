@@ -2,6 +2,7 @@
 import csv
 import gc
 import itertools
+import os
 import tracemalloc
 
 from codecarbon import EmissionsTracker
@@ -65,6 +66,8 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
     for i in range(len(y_test)):
         # dataframe with token, upos tag, xpos tag, gold lemma, predicted lemma
         df.append([x_test[i], z_test[i], z_test_xpos[i], y_test[i], y_pred[i]])
+    if not os.path.exists(f"../../nbs/lemmata/{dname}/"):
+        os.makedirs(f"../../nbs/lemmata/{dname}/")
     with open(f"../../nbs/lemmata/{dname}/{aname}-{dname}.csv", 'w',
               newline='', encoding="utf-8") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
