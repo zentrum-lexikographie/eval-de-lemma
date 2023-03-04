@@ -37,8 +37,8 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
     j = 0  # index in token list
     print(f'{len(x_test)} sentences in data, {len(lemmata)} sentences in outputs')
     for i, sent in enumerate(lemmata):
-        if j >= len(x_test)-1:  # end of token list reached
-            if j == len(x_test)-1:
+        if j >= len(x_test)-2:  # end of token list reached
+            if j == len(x_test)-2:  # pre-last token
                 if len(sent) != len(x_test[j]):
                     if len(sent) == len(x_test[j-1]):  # check previous just in case
                         keep_sents.append(j-1)
@@ -48,6 +48,11 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                         keep_sents.append(j-2)
                         keep_sents_lem.append(i)
                         j -= 1
+                        continue
+                    elif len(sent) == len(x_test[j+1]):  # check next
+                        keep_sents.append(j+1)
+                        keep_sents_lem.append(i)
+                        j += 2
                         continue
                     else:
                         # different sentence length
@@ -101,6 +106,7 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                 keep_sents_lem.append(i)
                 j += 1
     assert len(keep_sents) == len(keep_sents_lem)
+    print(wrong)
     return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
         [z_test[j] for j in keep_sents], [z_test_xpos[j] for j in keep_sents]

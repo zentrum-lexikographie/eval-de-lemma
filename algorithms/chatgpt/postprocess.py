@@ -9,6 +9,7 @@ def clean_up(FILE):
     formats = {'list-notation': 0,
                'list-notation-without-quot': 0,
                ':-notation': 0,
+               '--notation': 0,
                'comma-separated': 0,
                'whitespace-separated': 0,
                '+-separated': 0,
@@ -51,6 +52,11 @@ def clean_up(FILE):
                     sentlemmata = [x.split(':')[1].strip() for x in
                                    line.split('\n')]
                     formats[':-notation'] += 1
+                elif line.count('-') == line.count('\n') != 0:
+                    # token - lemma\n
+                    sentlemmata = [x.split('-')[1].strip() for x in
+                                   line.split('\n')]
+                    formats['--notation'] += 1
                 elif line.strip().startswith("[") or \
                         line.strip().startswith("("):
                     if not ('"' in line or '\'' in line):
