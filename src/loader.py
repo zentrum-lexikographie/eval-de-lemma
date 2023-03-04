@@ -32,11 +32,11 @@ def load_data(DATASETSPATH: str) -> Generator:
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
+    n_datasets = 18
 
     for i in range(n_datasets):
 
-        if i == 10:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -113,7 +113,7 @@ def load_data(DATASETSPATH: str) -> Generator:
                 z_test_xpos = z_test_xpos + tmp[4]
             dname = "empirist-cmc-twitter"
 
-        elif i == 0:
+        elif i == 6:
             x_test, x_test_norm, y_test, z_test, z_test_xpos = [], [], [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/empirist2019-cmc-train/cmc_train_wiki*.txt"))
