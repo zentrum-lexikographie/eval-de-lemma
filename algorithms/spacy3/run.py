@@ -28,7 +28,7 @@ model = spacy.load('de_dep_news_trf')
 model.disable_pipes(["parser"])
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using SpaCy3."""
     lemmatizer = model.pipeline[4][1]
     docs = [lemmatizer(spacy.tokens.doc.Doc(model.vocab, words=sequence))

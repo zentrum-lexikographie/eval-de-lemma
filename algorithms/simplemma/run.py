@@ -24,7 +24,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using Simplemma."""
     return [[simplemma.lemmatize(t, lang='de') for t in sent]
             for sent in x_test]

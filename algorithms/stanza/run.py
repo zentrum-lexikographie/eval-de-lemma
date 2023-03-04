@@ -30,7 +30,7 @@ model = stanza.Pipeline(
     tokenize_pretokenized=True)
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using Stanza."""
     docs = model(x_test)
     return [[t.lemma for t in sent.words] for sent in docs.sentences]
