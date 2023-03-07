@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore")
 
 def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Read lemmata from API query outputs, resolve alignment issues."""
-    lemmata, forms = clean_up(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt')
+    lemmata, forms = clean_up(f'../../nbs/gpt3_outputs/gpt3-{dname}.txt')
     keep_sents = []  # indices of kept sentences in in gold data
     keep_sents_lem = []  # indices of kept sentences predicted lemma list
     wrong = dict()
@@ -118,7 +118,7 @@ formats = []  # count different output formats
 
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
-        if os.path.exists(f"../../nbs/chatgpt_outputs/chatgpt-{dname}.txt"):
+        if os.path.exists(f"../../nbs/gpt3_outputs/gpt3-{dname}.txt"):
             # not all datasets lemmatized with gpt-3
             # create new lists with matching indices
             f, y_pred, x_test_eval, y_test_eval, z_test_eval, z_test_xpos_eval \
@@ -139,7 +139,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 # dataframe with token, upos tag, xpos tag, gold lemma, pred
                 df.append([x_test_eval[i], z_test_eval[i], z_test_xpos_eval[i],
                            y_test_eval[i], y_pred[i]])
-            with open(f"../../nbs/lemmata/{dname}/chatgpt-{dname}.csv", 'w',
+            with open(f"../../nbs/lemmata/{dname}/gpt3-{dname}.csv", 'w',
                       newline='', encoding="utf-8") as csvfile:
                 csvwriter = csv.writer(csvfile, delimiter=',')
                 csvwriter.writerow(['token', 'tag', 'tag_STTS',
@@ -155,7 +155,7 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
             gc.collect()
             results.append({
                 'dataset': dname, 'sample-size': size,
-                'lemmatizer': 'chatgpt', 'metrics': metrics,
+                'lemmatizer': 'gpt3', 'metrics': metrics,
                 'memory_current': 0,
                 'memory_peak': 0,
                 'num_sents_corpus': num_sents,
@@ -167,9 +167,9 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
 
 
 # store results
-with open("../../nbs/results-chatgpt.json", "w") as fp:
+with open("../../nbs/results-gpt3.json", "w") as fp:
     json.dump(results, fp, indent=4)
 
 # store output formats
-with open("../../nbs/chatgpt_outputs/formats.json", "w") as fp:
+with open("../../nbs/gpt3_outputs/formats.json", "w") as fp:
     json.dump(formats, fp, indent=4)

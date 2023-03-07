@@ -32,7 +32,7 @@ def lemmatize_query(x_test, dname):
     """Query the OpenAI API to predict lemmata of a list of sentences."""
     lemmata = []
     tokens = 0
-    with open(f'../../nbs/chatgpt_outputs/chatgpt-{dname}.txt', 'w',
+    with open(f'../../nbs/gpt3_outputs/gpt3-{dname}.txt', 'w',
               encoding='utf-8') as f:
         for sent in x_test:
             try:
