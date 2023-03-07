@@ -17,19 +17,25 @@ for dir in algorithms/*; do
 done
 ```
 
-3. Start the computations with the following command.
+3. If you wish to track the CO2 emissions during the compute, execute [as described here](https://github.com/mlco2/codecarbon/issues/244):
+
+```sh
+sudo chmod -R a+r /sys/class/powercap/intel-rapl
+```
+
+Then start the computations with the following command.
 
 ```sh
 bash run.sh
 ```
 
-The study has been conducted on TODO Ubuntu/linux version of LAL using Python7.
+The study has been conducted on TODO Ubuntu/linux version of LAL using Python3.7.3.
 
 ## Repository Structure
  * [algorithms](./algorithms) - seperate directory for each algorithm, each containing an install script (`install.sh`), overview of installed third party libraries (`requirements.txt`), and a run script (`run.py`)
 	* [baseline](./algorithms/baseline) - baseline algorithm, lemma = surface form
-	* [chatgpt](./algorithms/chatgpt): no need to run [run_api_queries.py](./algorithms/chatgpt/run_api_queries.py) yourself, you can also just execute [run.py](./algorithms/chatgpt/run.py) to evaluate the outputs of OpenAI queries from 20.-22.02.2023 (see [here](./nbs/chatgpt_outputs))
-		* [run_api_queries.py](./algorithms/chatgpt/run_api_queries.py) - GPT-3 queries via the [OpenAI API](https://platform.openai.com/), to run this script, an OpenAI account and API key is needed, run `export OPEN_AI_KEY=INSERT_KEY_HERE` before executing the run script
+	* [gpt3](./algorithms/gpt3): no need to run [run_api_queries.py](./algorithms/gpt3/run_api_queries.py) yourself, you can also just execute [run.py](./algorithms/gpt3/run.py) to evaluate the outputs of OpenAI queries from 20.-22.02.2023 (see [here](./nbs/gpt3_outputs))
+		* [run_api_queries.py](./algorithms/gpt3/run_api_queries.py) - GPT-3 queries via the [OpenAI API](https://platform.openai.com/), to run this script, an OpenAI account and API key is needed, run `export OPEN_AI_KEY=INSERT_KEY_HERE` before executing the run script
 	* [germalemma](./algorithms/germalemma)
 	* [hanta](./algorithms/hanta)
 	* [rnntagger](./algorithms/rnntagger)
@@ -43,8 +49,8 @@ The study has been conducted on TODO Ubuntu/linux version of LAL using Python7.
 	* [treetagger](./algorithms/treetagger)
 	* [logs](./logs.log) - log file
  * [nbs](./nbs) - evaluation results and notebooks
-	* [chatgpt_outputs](./nbs/chatgpt_outputs) - outputs of OpenAI API queries 20.-22.02.2023 with [text-davinci-003](https://platform.openai.com/docs/models/gpt-3)
-		* [formats.json](./nbs/chatgpt_outputs/formats.json) - overview of different output formats of gpt-3 experiments
+	* [gpt3_outputs](./nbs/gpt3_outputs) - outputs of OpenAI API queries 20.-22.02.2023 with [text-davinci-003](https://platform.openai.com/docs/models/gpt-3)
+		* [formats.json](./nbs/gpt3_outputs/formats.json) - overview of different output formats of gpt-3 experiments
     * [emissions](./nbs/emissions) - energy consumption of experiments
 	* [lemmata](./nbs/lemmata) - lemmatizer outputs for qualitative evaluation
 	* [evaluation.ipynb](./nbs/evaluation.ipynb) - quantitative evaluation of results
