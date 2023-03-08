@@ -73,14 +73,14 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                 wrong[str(i)] = (sent, s_lem1, s_lem2)
         except Exception:  # only top 1
             result1 = forest.query(mq, 1)  # highest similarity
-            # top 1 result
-            i_lem1 = int(result1[0].split('m')[1])  # index in predictions
-            s_lem1 = lemmata[i_lem1]  # pred sentence
-            if len(s_lem1) == len(sent):  # check sentence lengths
-                keep_sents.append(i)
-                keep_sents_lem.append(i_lem1)
-            else:
-                wrong[str(i)] = (sent, s_lem1)
+            if result1:  # top 1 result
+                i_lem1 = int(result1[0].split('m')[1])  # index in predictions
+                s_lem1 = lemmata[i_lem1]  # pred sentence
+                if len(s_lem1) == len(sent):  # check sentence lengths
+                    keep_sents.append(i)
+                    keep_sents_lem.append(i_lem1)
+                else:
+                    wrong[str(i)] = (sent, s_lem1)
     return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
         [z_test[j] for j in keep_sents], [z_test_xpos[j] for j in keep_sents]
