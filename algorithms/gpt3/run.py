@@ -7,6 +7,9 @@ import logging
 import os
 import sys
 
+import datasketch
+import kshingle as ks
+
 sys.path.append("../..")
 from postprocess import clean_up
 from src.loader import load_data
@@ -34,78 +37,39 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
     keep_sents = []  # indices of kept sentences in in gold data
     keep_sents_lem = []  # indices of kept sentences predicted lemma list
     wrong = dict()
-    j = 0  # index in token list
     print(f'{len(x_test)} sentences in data, {len(lemmata)} sentences in outputs')
+    # initialize MinHash LSH Forest
+    forest = datasketch.MinHashLSHForest(num_perm=128)
+    # add all gpt3 sentences to forest
     for i, sent in enumerate(lemmata):
-        if j >= len(x_test)-2:  # end of token list reached
-            if j == len(x_test)-2:  # pre-last token
-                if len(sent) != len(x_test[j]):
-                    if len(sent) == len(x_test[j-1]):  # check previous just in case
-                        keep_sents.append(j-1)
-                        keep_sents_lem.append(i)
-                        continue
-                    elif len(sent) == len(x_test[j-2]):  # check before previous
-                        keep_sents.append(j-2)
-                        keep_sents_lem.append(i)
-                        j -= 1
-                        continue
-                    elif len(sent) == len(x_test[j+1]):  # check next
-                        keep_sents.append(j+1)
-                        keep_sents_lem.append(i)
-                        j += 2
-                        continue
-                    else:
-                        # different sentence length
-                        wrong[str(i)] = (sent, x_test[j])
-                        break
-                else:
-                    keep_sents.append(j)
-                    keep_sents_lem.append(i)
-                    j += 1
-                    break
-            else:  # very last token
-                if len(sent) == len(x_test[j-1]):  # check previous
-                    keep_sents.append(j-1)
-                    keep_sents_lem.append(i)
-                    continue
-                elif len(sent) == len(x_test[j-2]):  # check before previous
-                    keep_sents.append(j-2)
-                    keep_sents_lem.append(i)
-                    j -= 1
-                    continue
-                else:
-                    # different sentence lengths
-                    wrong[str(i)] = (sent, x_test[j-1])
-                    break
+        s1 = ks.shingleset_k(' '.join(sent), k=5)
+        varname = f'm{i}'
+        locals()[varname] = datasketch.MinHash(num_perm=128)
+        for s in s1:
+            locals()[varname].update(s.encode('utf8'))
+        forest.add(f"m{i}", locals()[varname])
+    forest.index()
+    # iterate gold sentences
+    for i, sent in enumerate(y_test):
+        sq = ks.shingleset_k(' '.join(sent), k=5)
+        mq = datasketch.MinHash(num_perm=128)
+        for s in sq:
+            mq.update(s.encode('utf8'))
+        result1, result2 = forest.query(mq, 2)  # highest similarity
+        # top 1 result
+        i_lem1 = int(result1.split('m')[1])  # index in predictions
+        s_lem1 = lemmata[i_lem1]  # pred sentence
+        # top 2 result
+        i_lem2 = int(result2.split('m')[1])  # index in predictions
+        s_lem2 = lemmata[i_lem2]  # pred sentence
+        if len(s_lem1) == len(sent):  # check sentence lengths and similarity
+            keep_sents.append(i)
+            keep_sents_lem.append(i_lem1)
+        elif len(s_lem2) == len(sent):
+            keep_sents.append(i)
+            keep_sents_lem.append(i_lem2)
         else:
-            if len(sent) != len(x_test[j]):
-                # alignment issues:
-                if len(sent) == len(x_test[j-1]):  # check previous
-                    keep_sents.append(j-1)
-                    keep_sents_lem.append(i)
-                    continue
-                elif len(sent) == len(x_test[j+1]):  # check next
-                    keep_sents.append(j+1)
-                    keep_sents_lem.append(i)
-                    j += 2
-                    continue
-                elif j >= len(x_test)-3:
-                    if len(sent) == len(x_test[j+2]):  # check after next
-                        keep_sents.append(j+2)
-                        keep_sents_lem.append(i)
-                        j += 3
-                elif len(sent) == len(x_test[j-2]):  # check before previous
-                    keep_sents.append(j-2)
-                    keep_sents_lem.append(i)
-                    j -= 1
-                else:  # different sentence length
-                    wrong[str(i)] = (sent, x_test[j])
-                    j += 1
-            else:  # correct indices, same sentence lengths
-                keep_sents.append(j)
-                keep_sents_lem.append(i)
-                j += 1
-    assert len(keep_sents) == len(keep_sents_lem)
+            wrong[str(i)] = (sent, s_lem1, s_lem2)
     print(wrong)
     return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
