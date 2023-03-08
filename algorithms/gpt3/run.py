@@ -80,7 +80,7 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
                 keep_sents.append(i)
                 keep_sents_lem.append(i_lem1)
             else:
-                wrong[str(i)] = (sent, s_lem1, s_lem2)
+                wrong[str(i)] = (sent, s_lem1)
     return forms, [lemmata[j] for j in keep_sents_lem], \
         [x_test[j] for j in keep_sents], [y_test[j] for j in keep_sents], \
         [z_test[j] for j in keep_sents], [z_test_xpos[j] for j in keep_sents]
