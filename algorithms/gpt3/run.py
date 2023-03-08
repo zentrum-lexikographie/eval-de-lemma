@@ -74,7 +74,7 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
         except Exception:  # only top 1
             result1 = forest.query(mq, 1)  # highest similarity
             # top 1 result
-            i_lem1 = int(result1.split('m')[1])  # index in predictions
+            i_lem1 = int(result1[0].split('m')[1])  # index in predictions
             s_lem1 = lemmata[i_lem1]  # pred sentence
             if len(s_lem1) == len(sent):  # check sentence lengths
                 keep_sents.append(i)
