@@ -1,5 +1,248 @@
 [
     {
+        "list-notation": 425,
+        "list-notation-without-quot": 27,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 28,
+        "whitespace-separated": 262,
+        "+-separated": 1,
+        "|-separated": 94,
+        "_-separated": 1,
+        "other": [],
+        "error": [
+            "[('(', '('), ('Bei', 'bei'), ('den', 'der'), ('Damen', 'Damen'), ('und', 'und'), ('Herren', 'Herren'), ('des', 'des'), ('besagten', 'besagt'), ('Mobilfunkanbieters', 'Mobilfunkanbieter'), ('bin', 'sein'), ('ich', 'ich'), ('im', 'im'), ('in', 'in'), ('dem', 'dem'), ('Gegensatz', 'Gegensatz'), ('dazu', 'dazu'), ('bisher', 'bisher'), ('ausschlie\u00dflich', 'ausschlie\u00dflich'), ('auf', 'au'), ('arrogante', 'arrogant'), ('Unkenntnis', 'Unkenntnis'), ('gestossen', 'sto\u00dfen'), (')', ')'), ('.', '.')]",
+            "[ein, Boykott, k\u00f6nnen, auch, auf, Kost, von, Arbeitsplatz, in, den, alt, Land, gehen, ,, meinen, er, weiter, in, der, Berlin, ``, Sonntagspost, \"\", .]",
+            "[``, die, Einrichtung, der, evangelischen, Kirche, ben\u00f6tigen, W\u00e4rme, und, Energie, in, der, Gr\u00f6\u00dfenordnung, ein, Stadt, wie, Hannover, \"''\", ,, sagen, Uwe, Ilgemann, vom, von, dem, \u00d6ko, -, Institut, Freiburg, .]",
+            "[SPD, sollen, sich, doch, bitten, ,, auch, in, Schwerin, ,, ``, in, der, Sache, profilieren, --, \"\", sowohl, gegen\u00fcber, der, CDU, als, auch, in, die, andere, Richtung, :]",
+            "[Professor, Wilhelm, Heitmeyer, leiten, das, Projekt, ``, Individualisierung, und, Gewalt, \"\", im, in, dem, Sonderforschungsbereich, ``, Pr\u00e4vention, und, Intervention, im, in, dem, Kind, und, Jugendalter, \"\", der, Universit\u00e4t, Bielefeld, .]",
+            "[Die, lange, Gef\u00e4ngnisstrafe, ,, Auspeitschung, und, Hinrichtung, der, ``, Verderber, auf, Erd, \"\", k\u00f6nnen, jedenfall, die, Unruhe, nicht, eind\u00e4mmen, .]",
+            "[er, haben, zwei, Angebot, , ``, und , \u00fcber, die, verhandeln, ich, ab, 7. November, , wenn, die, Verl\u00e4ngerung, dann, nicht, stattfinden, \"\", .]"
+        ],
+        "dataset": "ud-gsd"
+    },
+    {
+        "list-notation": 216,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 2,
+        "whitespace-separated": 10,
+        "+-separated": 0,
+        "|-separated": 6,
+        "_-separated": 45,
+        "other": [],
+        "error": [
+            "[Es, geben, ein, neu, Kuli, auf, dem, Markt, ,, der, heute, schon, als, Rarit\u00e4t, zu, bezeichnen, sein', .]",
+            "['\"', 'Kafka', 'gehen', 'Kleinkunst', '\"', '-', '_', 'Kritik', 'der', 'Inszenierung', '\"', 'Der', 'Bau', '\"', ',', 'taz', 'bremen', 'vom', '29.', 'April', '1999', '_', 'Als', 'Premiere', 'sein', 'ich', 'keinesfalls', '\"', 'besinnungslos', '\"', ',', 'als', 'ich', 'am', 'Ende', 'diese', 'sehr', 'empfehlenswert', 'Abend', 'euphorisch', 'klatschen', ':'].",
+            "['_'.\", 'beiden', 'haben', 'beim', '\u201d', '44.', 'Internationalen', 'Jugend-Festspieltreffen', 'Bayreuth', '\u201d', 'ein', 'Workshop', 'zur', 'Interpretation', 'des', 'brasilianischen', 'Lied', 'leiten', 'und', '_', 'sei', 'davon', '\u00fcberzeugen', ',', 'dass', 'sie', 'bei', 'der', 'Verbreitung', 'der', 'bunten', 'Kultur', 'Brasiliens', 'gegen', 'viele', 'Klischee', 'und', 'Vorurteil', 'angreift', 'm\u00fcssen', '.']"
+        ],
+        "dataset": "nosta-d-tuebadz-orig"
+    },
+    {
+        "list-notation": 11,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 0,
+        "+-separated": 0,
+        "|-separated": 0,
+        "_-separated": 26,
+        "other": [],
+        "error": [],
+        "dataset": "nosta-d-anselm-orig"
+    },
+    {
+        "list-notation": 98,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 3,
+        "whitespace-separated": 7,
+        "+-separated": 0,
+        "|-separated": 0,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['_', 'sagen', 'unsere', 'Frau', ':'].",
+            "['_', 'sagen', 'Sankt', 'Anselm', ':'].",
+            "['_', 'sagen', 'Sankt', 'Anselm', ':']."
+        ],
+        "dataset": "nosta-d-anselm-norm"
+    },
+    {
+        "list-notation": 173,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 8,
+        "whitespace-separated": 5,
+        "+-separated": 0,
+        "|-separated": 2,
+        "_-separated": 36,
+        "other": [],
+        "error": [
+            "['_', '\"', kommen, sein, doch, herein, \"', ',', haben, K., gerade, noch, sagen, k\u00f6nnen, .]",
+            "[_, \"\" , Solch, Frage, beantworten, wir, nicht, .]"
+        ],
+        "dataset": "nosta-d-kafka-orig"
+    },
+    {
+        "list-notation": 196,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 9,
+        "whitespace-separated": 10,
+        "+-separated": 0,
+        "|-separated": 6,
+        "_-separated": 1,
+        "other": [],
+        "error": [
+            "['_', 'K.', leben, doch, in, ein, Rechtsstaat, ,, \u00fcberall, herrschen, Frieden, ,, alle, Gesetz, bestehen, aufrecht, ,, wer, wagen, ,, ihn, in, sein, Wohnung, zu, \u00fcberfallen, ?]",
+            "['_', '\"', erlauben, sein, '\"', ',', sagen, er, und, er, gehen, eilig, zwischen, der, W\u00e4chter, durch, in, sein, Zimmer, .]",
+            "[nicht, fr\u00fch, \" ,, sagen, der, W\u00e4chter, ,, der, Willem, nennen, werden, sein, .]",
+            "['\"', '_', '\"', wenn, ich, dadurch, die, Sache, beschleunigen, ',', soll, es, mir, recht, sein, '\"', ',', sagen, K., ',', er, \u00f6ffnen, selbst, der, Kleiderkasten, ',',er, suchen, lang, unter, der, viel, Kleider, ',', er, w\u00e4hlen,sein, beste, schwarz, Kleid, ',', ein, Jackettkleid, ',', der, durch, sein, Taille, unter, der, bekannt, fast, Aufsehen, machen, haben, ',', er, ziehen, nun, auch, ein, ander, Hemd, hervor, und, er, beginnen, ',', sich, sorgf\u00e4ltig, anziehen, '.']"
+        ],
+        "dataset": "nosta-d-kafka-norm"
+    },
+    {
+        "list-notation": 370,
+        "list-notation-without-quot": 60,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 67,
+        "whitespace-separated": 35,
+        "+-separated": 0,
+        "|-separated": 25,
+        "_-separated": 179,
+        "other": [],
+        "error": [
+            "['wie', 'weit', 'hinter', 'der', 'Apfel', 'gehen', 'sein', 'k\u00f6nnen'].",
+            "['genau', '_'].",
+            "['nein', '_']\nNein, _",
+            "['aber', '_', '_', 'ein', 'bisschen', 'mehr', 'be",
+            " ['okay', '_']",
+            "[\"okay\", \"_\"]\nLemmatisierung: [\"okay\", \"_\"]",
+            "['_', '_', 'so', 'ein', 'klein', 'wenig', 'unter",
+            "['der', 'Punkt', '_', 'sollen', '_'].",
+            "[so, _]\nLemmatisierung: [so, _]",
+            "['und', 'dann', '_', '_', 'nach', 'oben', 'weiterlau"
+        ],
+        "dataset": "nosta-d-bematac-orig"
+    },
+    {
+        "list-notation": 1193,
+        "list-notation-without-quot": 2,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 5,
+        "whitespace-separated": 19,
+        "+-separated": 0,
+        "|-separated": 12,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['_', 'Nein', '.'] : ['_', 'Nein', '.']",
+            "['_', 'Nein', '.'] &#8594; ['_', 'nein', '.']",
+            "['_', 'Nein', '.'] : ['_', 'Nein', '.']"
+        ],
+        "dataset": "nosta-d-bematac-norm"
+    },
+    {
+        "list-notation": 89,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 2,
+        "whitespace-separated": 1,
+        "+-separated": 0,
+        "|-separated": 7,
+        "_-separated": 183,
+        "other": [],
+        "error": [],
+        "dataset": "nosta-d-unicum-orig"
+    },
+    {
+        "list-notation": 684,
+        "list-notation-without-quot": 5,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 3,
+        "whitespace-separated": 0,
+        "+-separated": 0,
+        "|-separated": 0,
+        "_-separated": 67,
+        "other": [],
+        "error": [
+            "[Telefon, .]\nLemmatisierung: [Telefon, .]",
+            " [';-))', '_', 'Nomen', 'Verb', 'mit', 'ein', 'Leiter', '?']",
+            "['_', 'Remarcmarc', '.'] : ['_', 'Remarcmarc', '.']",
+            "[DJ. Hoffi 's World, .]",
+            "[''\"', '_', 'Stoep', 'sein', 'jetzt', 'weg', ':']"
+        ],
+        "dataset": "nosta-d-unicum-norm"
+    },
+    {
+        "list-notation": 60,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 0,
+        "+-separated": 0,
+        "|-separated": 1,
+        "_-separated": 6,
+        "other": [],
+        "error": [],
+        "dataset": "nosta-d-falko-orig"
+    },
+    {
+        "list-notation": 143,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 1,
+        "whitespace-separated": 4,
+        "+-separated": 0,
+        "|-separated": 1,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "nosta-d-falko-norm"
+    },
+    {
+        "list-notation": 49,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 1,
+        "whitespace-separated": 3,
+        "+-separated": 0,
+        "|-separated": 3,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "Lemmatisierte WLAN, ans, der, @bbaw_de, heute, leid, sehr, instabil, und, nicht, wirklich, brauchbar, tun, uns, leid, ..., #dtaclarin14"
+        ],
+        "dataset": "empirist-cmc-twitter-norm"
+    },
+    {
+        "list-notation": 47,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 3,
+        "whitespace-separated": 5,
+        "+-separated": 0,
+        "|-separated": 1,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-twitter"
+    },
+    {
         "list-notation": 6,
         "list-notation-without-quot": 0,
         ":-notation": 0,
@@ -26,5 +269,241 @@
         "other": [],
         "error": [],
         "dataset": "empirist-cmc-wiki"
+    },
+    {
+        "list-notation": 3,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 2,
+        "+-separated": 0,
+        "|-separated": 2,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-blog-norm"
+    },
+    {
+        "list-notation": 3,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 2,
+        "+-separated": 0,
+        "|-separated": 2,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-blog"
+    },
+    {
+        "list-notation": 71,
+        "list-notation-without-quot": 8,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 3,
+        "whitespace-separated": 12,
+        "+-separated": 0,
+        "|-separated": 11,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['bittesch\u00f6n', '!']\nLemmatisierung: ['bittesch\u00f6n', '!']"
+        ],
+        "dataset": "empirist-cmc-chat-prof-norm"
+    },
+    {
+        "list-notation": 63,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 10,
+        "whitespace-separated": 20,
+        "+-separated": 0,
+        "|-separated": 9,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-chat-prof"
+    },
+    {
+        "list-notation": 172,
+        "list-notation-without-quot": 19,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 21,
+        "whitespace-separated": 16,
+        "+-separated": 0,
+        "|-separated": 3,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "Re - Re\nStoeps - Stoep\n:o) - :o)",
+            "[':)))'] : l\u00e4cheln",
+            "[Er', '!', ':)']",
+            "['Leinbaum' : 'Leinbaum']"
+        ],
+        "dataset": "empirist-cmc-chat-social-norm"
+    },
+    {
+        "list-notation": 168,
+        "list-notation-without-quot": 16,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 22,
+        "whitespace-separated": 21,
+        "+-separated": 0,
+        "|-separated": 2,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['Heyho', 'Tom']: ['Heyho', 'Tom']",
+            "['Huhu', 'zoriiiiii', '.', ':)))'] \u25b6 ['Huhu', 'zorii', '.', ':)))']",
+            "['*', 'warten', '*'].",
+            "['51','?']\nLemmatisierte ['51','?']",
+            "['Tag', 'Quaki']\nLemmatisierung: ['Tag', 'Quak']",
+            "['leinbruam']. leinbruam"
+        ],
+        "dataset": "empirist-cmc-chat-social"
+    },
+    {
+        "list-notation": 36,
+        "list-notation-without-quot": 2,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 3,
+        "whitespace-separated": 2,
+        "+-separated": 0,
+        "|-separated": 1,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['hm', '...', 'und', 'sonst', gehen', 'gar', 'nicht', '?', 'hm', '...', 'und', 'wissen', 'du', 'schon', 'wegen', 'Freitag', '?', '(', 'weil', 'ich', 'wegen', 'ein', 'Kost\u00fcm', '\u00fcberlegen', ',', 'aber', 'allein', 'wollen', 'ich', 'eben', 'nicht', 'xD', ')']"
+        ],
+        "dataset": "empirist-cmc-whatsapp-norm"
+    },
+    {
+        "list-notation": 36,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 2,
+        "whitespace-separated": 6,
+        "+-separated": 0,
+        "|-separated": 1,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "empirist-cmc-whatsapp"
+    },
+    {
+        "list-notation": 78,
+        "list-notation-without-quot": 15,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 27,
+        "whitespace-separated": 38,
+        "+-separated": 0,
+        "|-separated": 12,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "['Morgen', '!')"
+        ],
+        "dataset": "empirist-web-norm"
+    },
+    {
+        "list-notation": 76,
+        "list-notation-without-quot": 9,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 31,
+        "whitespace-separated": 36,
+        "+-separated": 0,
+        "|-separated": 15,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "[Mailbox, &, AB-Ansage, auf, \",\"Normal,\", \u00e4ndern]",
+            "['Tagesschau-App', 'und', 'der', 'M\u00e4rchen', 'von', 'die', '"
+        ],
+        "dataset": "empirist-web"
+    },
+    {
+        "list-notation": 32,
+        "list-notation-without-quot": 0,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 1,
+        "whitespace-separated": 18,
+        "+-separated": 0,
+        "|-separated": 7,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "\u2013 Und weil ich denn nicht aus Erfahrung ein Urteil \u00fcber seine Verfassung in jenen Jahren abgeben, nicht beweisen kann, ob das Laster des Trunks zu einer st\u00e4ndigen Gew\u00f6hnung in ihm ausgeartet oder nur in gelegentlichem Ausbruch mir vor Augen getreten ist, \u2013 wiewohl ich das letztere glauben, Herr Pfarrer, \u2013 so will ich mich nun nicht l\u00e4nger str\u00e4uben, Ihnen die Begegnung vorzuf\u00fchren, die mich und ihn auseinander bringen und von welcher ich nimmer geglaubt, dass meine Lippen sie gegen eines Menschen Ohr ber\u00fchren w\u00fcrden.\n- und weil ich nicht aus Erfahrung ein Urteil \u00fcber seine Verfassung in jenen Jahren geben k\u00f6nnen, nicht beweisen kann, ob die Laster des Trunks zu einer st\u00e4ndigen Gewohnheit in ihm ausarteten oder nur in gelegentlichen Ausbr\u00fcchen vor mir auftreten, \u2013 wobei ich glaube, das letztere, Herr Pfarrer, \u2013 so will ich mich nicht l\u00e4nger wehren, Ihnen die Begegnung zu zeigen, die mich und ihn trennte und von der ich nie geglaubt hatte, dass meine Lippen sie gegen das Ohr eines Menschen ber\u00fchren w\u00fcrden."
+        ],
+        "dataset": "rub2019-novelette"
+    },
+    {
+        "list-notation": 153,
+        "list-notation-without-quot": 11,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 9,
+        "whitespace-separated": 18,
+        "+-separated": 0,
+        "|-separated": 9,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "rub2019-opensubtitles"
+    },
+    {
+        "list-notation": 42,
+        "list-notation-without-quot": 1,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 4,
+        "whitespace-separated": 20,
+        "+-separated": 0,
+        "|-separated": 10,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "rub2019-sermononline"
+    },
+    {
+        "list-notation": 56,
+        "list-notation-without-quot": 4,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 0,
+        "whitespace-separated": 26,
+        "+-separated": 0,
+        "|-separated": 8,
+        "_-separated": 0,
+        "other": [],
+        "error": [],
+        "dataset": "rub2019-ted"
+    },
+    {
+        "list-notation": 30,
+        "list-notation-without-quot": 3,
+        ":-notation": 0,
+        "--notation": 0,
+        "comma-separated": 5,
+        "whitespace-separated": 58,
+        "+-separated": 0,
+        "|-separated": 13,
+        "_-separated": 0,
+        "other": [],
+        "error": [
+            "[ein, Schwerpunkt, bilden, der, ehemalig, Werkstatt, im, 6., Bezirk, wie, die, Glasmalerei, Carl, Geyling', Erbe, und, die, Filiale, der, Tiroler, Glasmalerei, aber, auch, die, Mollardschule, und, viel, kleiner, Betrieb, die, in, Vergessenheit, geraten].",
+            "['In', 'Sodom', 'treffen', 'sie', 'wieder', 'auf"
+        ],
+        "dataset": "rub2019-wikipedia"
     }
 ]
