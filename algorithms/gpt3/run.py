@@ -117,6 +117,8 @@ for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
                 # dataframe with token, upos tag, xpos tag, gold lemma, pred
                 df.append([x_test_eval[i], z_test_eval[i], z_test_xpos_eval[i],
                            y_test_eval[i], y_pred[i]])
+            if not os.path.exists(f"../../nbs/lemmata/{dname}/"):
+                os.makedirs(f"../../nbs/lemmata/{dname}/")
             with open(f"../../nbs/lemmata/{dname}/gpt3-{dname}.csv", 'w',
                       newline='', encoding="utf-8") as csvfile:
                 csvwriter = csv.writer(csvfile, delimiter=',')

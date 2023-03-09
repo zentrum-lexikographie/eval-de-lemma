@@ -37,6 +37,8 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
         Includes dataset name, sample-size, lemmatizer name, metrics,
         elapsed_time, memory_current, memory_peak.
     """
+    if not os.path.exists("../../nbs/emissions/"):
+        os.makedirs("../../nbs/emissions/")
     # initialize tracker
     tracker = EmissionsTracker(
         project_name=f'{aname}-{dname}',
