@@ -32,11 +32,11 @@ def load_data(DATASETSPATH: str) -> Generator:
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 1
+    n_datasets = 18
 
     for i in range(n_datasets):
 
-        if i == 10:
+        if i == 0:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -52,7 +52,10 @@ def load_data(DATASETSPATH: str) -> Generator:
                                                               lower_first=True)
             dname = "ud-hdt"
 
-        elif i == 0:
+        elif i == 3:
+            # GerManC gold standard corpus not freely available
+            if not os.path.exists(f"{DATASETSPATH}/germanc_gs_xml/"):
+                continue
             x_test, x_test_norm, y_test, z_test, z_test_xpos = [], [], [], [], []
             FILES = glob.glob(os.path.realpath(
                 f"{DATASETSPATH}/germanc_gs_xml/*.xml"))
