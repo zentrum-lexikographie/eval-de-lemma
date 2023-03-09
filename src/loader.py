@@ -32,11 +32,11 @@ def load_data(DATASETSPATH: str) -> Generator:
     x_test, y_test, z_test, z_test_xpos, dname = [], [], [], [], "n.a"
 
     # number of datasets
-    n_datasets = 18
+    n_datasets = 1
 
     for i in range(n_datasets):
 
-        if i == 0:
+        if i == 10:
             FILE = os.path.realpath(f"{DATASETSPATH}/ud-gsd/de_gsd-ud-test.conllu")
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE)
             dname = "ud-gsd"
@@ -52,16 +52,17 @@ def load_data(DATASETSPATH: str) -> Generator:
                                                               lower_first=True)
             dname = "ud-hdt"
 
-        elif i == 3:
-            x_test, y_test, z_test = [], [], []
+        elif i == 0:
+            x_test, x_test_norm, y_test, z_test, z_test_xpos = [], [], [], [], []
             FILES = glob.glob(os.path.realpath(
-                f"{DATASETSPATH}/germanc/*.txt"))
+                f"{DATASETSPATH}/germanc_gs_xml/*.xml"))
             for FILE in FILES:
-                tmp = read_germanc(FILE, translit=True)
+                tmp = read_germanc(FILE)
                 x_test = x_test + tmp[0]
-                y_test = y_test + tmp[1]
-                z_test = z_test + tmp[2]
-                z_test_xpos = z_test_xpos + tmp[3]
+                x_test_norm = x_test_norm + tmp[1]
+                y_test = y_test + tmp[2]
+                z_test = z_test + tmp[3]
+                z_test_xpos = z_test_xpos + tmp[4]
             dname = "germanc"
 
         elif i == 4:
@@ -189,7 +190,7 @@ def load_data(DATASETSPATH: str) -> Generator:
             x_test, y_test, z_test, z_test_xpos = read_conllu(FILE, upos=False)
             dname = "rub2019-wikipedia"
 
-        if dname.startswith('empirist'):
+        if dname.startswith('empirist') or dname.startswith('germanc'):
             # yields normalised version of empirist corpus
             print(f'{dname}-norm')
             yield x_test_norm, y_test, z_test, z_test_xpos, f'{dname}-norm'

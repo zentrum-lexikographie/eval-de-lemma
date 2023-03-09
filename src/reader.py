@@ -88,8 +88,8 @@ def read_conllu(FILE: str, lower_first: bool = False, EOS: str = '$.',
     return x, y, z, z_xpos
 
 
-def read_germanc(FILE: str, translit: bool = True) -> List[List[str]]:
-    """Convert a file from GermanC corpus to a (x,y,z,z_xpos)-dataset.
+def read_germanc(FILE: str) -> List[List[str]]:
+    """Convert a file from GermanC GS corpus to a (x,y,z,z_xpos)-dataset.
 
     Parameters:
     -----------
@@ -104,32 +104,30 @@ def read_germanc(FILE: str, translit: bool = True) -> List[List[str]]:
         All tokenized sequences as nested lists of word tokens (x),
         lemmata (y), uPoS tags and xPoS tags (z).
     """
-    #  column index: 1 (original word), 2 (transliteration)
-    if translit:
-        colidx = 2
-    else:
-        colidx = 1
-
     # parse file
-    x, y, z = [], [], []
-    xtmp, ytmp, ztmp = [], [], []
+    x, x_norm, y, z = [], [], [], []
+    xtmp, xtmp_norm, ytmp, ztmp = [], [], [], []
     with open(FILE, "r", encoding="utf-8") as fp:
-        for line in fp.readlines():
-            dat = line.split('\t')
-            if dat[0] != '\n':  # is not an empty line
-                if len(dat[colidx]) > 0:  # word exists
-                    xtmp.append(dat[colidx])  # word
-                    ytmp.append(dat[4])  # lemma
-                    ztmp.append(dat[3])  # tag
-                    if dat[3] == "SENT":  # end of sentence
-                        ztmp[-1] = '$.'
-                        # minimum sequence length
-                        if len(xtmp) >= 2:
-                            x.append(xtmp)
-                            y.append(ytmp)
-                            z.append(ztmp)
-                        xtmp, ytmp, ztmp = [], [], []
-    return x, y, to_upos(z), z  # token, lemma, uPoS tag, xPoS tag
+        f = fp.read()
+    soup = BeautifulSoup(f, "lxml")
+    for paragraph in soup.find_all('p'):  # pragraph
+        for sent in paragraph.find_all('s'):  # sentence
+            for w in sent.find_all('w'):  # word
+                try:
+                    xtmp_norm.append(w['norm'])  # normalized token
+                    xtmp.append(w.text)  # original token
+                    ytmp.append(w['lemma'])
+                    ztmp.append(w['pos'])
+                except Exception:  # meta data
+                    continue
+            if ztmp and ztmp[-1] == '$.' and len(xtmp) >= 2:  # EOS reached
+                x.append(xtmp)
+                x_norm.append(xtmp_norm)
+                y.append(ytmp)
+                z.append(ztmp)
+                xtmp, xtmp_norm, ytmp, ztmp = [], [], [], []
+    # return orig and normalized token, lemma, uPoS tag, xPoS tag
+    return x, x_norm, y, to_upos(z), z
 
 
 def read_nostad(FILE: str, normalised: bool = False) -> List[List[str]]:
