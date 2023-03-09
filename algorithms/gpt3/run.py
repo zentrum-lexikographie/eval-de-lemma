@@ -63,10 +63,13 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
             # top 2 result
             i_lem2 = int(result2.split('m')[1])  # index in predictions
             s_lem2 = lemmata[i_lem2]  # pred sentence
-            if len(s_lem1) == len(sent):  # check sentence lengths
+            # check sentence lengths and jaccard similarities
+            if len(s_lem1) == len(sent) and ks.jaccard_strings(
+                    ' '.join(s_lem1), ' '.join(sent), k=5) > 0.3:
                 keep_sents.append(i)
                 keep_sents_lem.append(i_lem1)
-            elif len(s_lem2) == len(sent):
+            elif len(s_lem2) == len(sent) and ks.jaccard_strings(
+                    ' '.join(s_lem2), ' '.join(sent), k=5) > 0.3:
                 keep_sents.append(i)
                 keep_sents_lem.append(i_lem2)
             else:
@@ -76,7 +79,8 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
             if result1:  # top 1 result
                 i_lem1 = int(result1[0].split('m')[1])  # index in predictions
                 s_lem1 = lemmata[i_lem1]  # pred sentence
-                if len(s_lem1) == len(sent):  # check sentence lengths
+                if len(s_lem1) == len(sent) and ks.jaccard_strings(
+                        ' '.join(s_lem1), ' '.join(sent), k=5) > 0.3:
                     keep_sents.append(i)
                     keep_sents_lem.append(i_lem1)
                 else:
