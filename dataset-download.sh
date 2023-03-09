@@ -29,14 +29,6 @@ mv ${DATAFOLDER}/UD_German-PUD-r2.10/de_pud-ud-test.conllu ${DATAFOLDER}/ud-pud/
 rm -r ${DATAFOLDER}/UD_German-PUD-r2.10
 rm -r ${DATAFOLDER}/UD_German-PUD-r2.10.zip
 
-# GerManC
-wget -c https://ota.bodleian.ox.ac.uk/repository/xmlui/bitstream/handle/20.500.12024/2544/2544.zip -O ${DATAFOLDER}/germanc.zip
-unzip -q ${DATAFOLDER}/germanc.zip -d ${DATAFOLDER}/germanc
-mv ${DATAFOLDER}/germanc/LING-COL/* ${DATAFOLDER}/germanc
-rm ${DATAFOLDER}/germanc/*.{pdf,xlsx}
-rm -r ${DATAFOLDER}/germanc/{LING-COL,LING-GATE,RAW,TEI}
-rm ${DATAFOLDER}/germanc.zip
-
 # NoSta-D
 wget -c https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/nosta-d/nosta-d-korpus-1.2 -O ${DATAFOLDER}/NoSta-D-Korpus-1.2.zip
 mkdir ${DATAFOLDER}/nosta-d
