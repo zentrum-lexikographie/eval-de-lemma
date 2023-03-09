@@ -56,9 +56,6 @@ nochmals,ADV,ADV,nochmals,nochmal
 vielen,DET,PIAT,vieler,viel
 Dank,NOUN,NN,Dank,Dank
 !,PUNCT,$.,!,!
-bitte,PART,PTKANT,bitte,in
-schön,ADJ,ADJD,schön,der
-:),UNK,EMOASC,:),Signatur
 wie,ADV,PWAV,wie,wie
 bekomme,VERB,VVFIN,bekommen,bekommen
 ich,PRON,PPER,ich,ich
@@ -335,8 +332,6 @@ noch,ADV,ADV,noch,noch
 eine,DET,ART,ein,ein
 Frage,NOUN,NN,Frage,Frage
 :,PUNCT,$.,:,:
-ja,PART,PTKANT,ja,jahr
-?,PUNCT,$.,?,?
 nur,UNK,PTKIFG,nur,nur
 wenn,SCONJ,KOUS,wenn,wenn
 Sie,PRON,PPER,sie,sie
@@ -402,7 +397,7 @@ hallo,INTJ,ITJ,hallo,hallo
 !,PUNCT,$.,!,?
 hallo,INTJ,ITJ,hallo,Hallo
 Student6,PROPN,NE,Student6,Student
-!,PUNCT,$.,!,!
+!,PUNCT,$.,!,5
 hallo,INTJ,ITJ,hallo,Hallo
 ebenso,ADV,ADV,ebenso,ebenso
 hallo,INTJ,ITJ,hallo,hallo
@@ -731,7 +726,6 @@ eigentlich,ADJ,ADJD,eigentlich,eigentlich
 reichen,VERB,VVINF,reichen,reichen
 .,PUNCT,$.,.,.
 ja,PART,PTKANT,ja,ja
-o.k.,PART,PTKANT,o.k.,ok
 können,VERB,VMFIN,können,können
 wir,PRON,PPER,wir,werden
 das,PRON,PDS,der,das
