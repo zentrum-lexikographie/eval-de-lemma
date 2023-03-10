@@ -1,0 +1,600 @@
+
+
+['du', 'wollen', 'all', 'wissen', '.']
+
+
+Es sein mein Töff , oder !
+
+
+['Gut', ',', 'also', 'der', 'Benzin', 'gehen', 'hier', 'durch', ',', 'da', 'herein', '.']
+
+
+['Da', 'drin', 'sein', 'es', 'sehr', 'heiß', '.']
+
+
+['dann', 'der', 'Kerze', 'machen', 'ein', '...']
+
+
+['Ja', ',', 'weiß', 'ein', 'Messer', 'auf', 'dem', 'Schleifstein', '.']
+
+
+['Wie', 'ein', 'Feuerzeug', '.']  ->  ['wie', 'ein', 'Feuerzeug', '.']
+
+
+['Ein', 'Funk', '.']
+
+
+['Funke', '...', 'gut', '.'] → ['Funke', '...', 'gut', '.']
+
+Anateo haben uns all verraten und er werden dafür bezahlen.
+
+
+['Und', 'wegen', 'der', "Tau'ri", '...', 'sie', 'befinden', 'sich', 'schon', 'im', 'Krieg', 'gegen', 'uns', 'und', 'wir', 'gegen', 'sie', '...', 'und', 'ich', 'werden', 'mich', 'nicht', 'ängstlich', 'verkriechen', '.']
+
+
+['sagen', 'das', 'weiter', '.']
+
+
+['Schick', 'all', 'verfügbar', 'Schiff', '.']
+
+
+['Ich', 'wollen', ',', 'dass', 'die', 'Odyssey', 'finden', 'werden', '.']
+
+
+['Sofort', '!'] -> ['Sofort', '!']
+
+
+['Kefflin', '.'] --> ['Kefflin', '.']
+
+
+War, sein, wirklich, nötig, mich, so, zu, blamieren, ?
+
+
+[Es, geben, Gerücht, wegen, der, Stärke, dein, Führung, .]
+
+
+['Jetzt', 'werden', 'dies', 'Gerücht', 'aufhören', '.']
+
+
+['und', '?']
+
+
+['Werden', 'du', 'es', 'so', 'lassen', 'oder', 'werden', 'du', 'das', 'in', 'Ordnung', 'bringen', '?']
+
+
+['Sein', 'Du', 'glücklich', '?']
+
+
+Tokenliste: [Ja, .] 
+Lemma: Ja.
+
+
+['-', 'Es', 'sein', 'netto', 'von', 'dir', ',', 'dass', 'du', 'helfen', '.']
+
+
+['-', 'einmal', 'ein', 'Pfadfinder', ',', 'immer', 'ein', 'Pfadfinder', '.']
+
+
+['-', 'Du', 'sein', 'nie', 'ein', 'Pfandfinder', '.']
+
+
+['-', 'offensichtlich', 'haben', 'ich', 'mein', '...']
+
+
+['Verdienstabzeichen', 'für', 'Biberfalle', 'bekommen', '.']
+
+
+['-', 'Konzentrieren', 'du', 'gut', 'da', 'drauf', '.']
+
+
+['Kommen', 'mit', 'ich', '.']
+
+Wissen Sie, wie wertvoll diese Mohnblume sein?
+
+
+['In', 'Rauch', 'aufgehen', '.']
+
+
+['-', 'What', '?']
+
+
+['haben', 'sie', 'jemand', 'anzünden', '?']
+
+
+['-', 'ja', '.']
+
+
+['Betrunken', 'irisch', 'Familie', ',', 'die', 'Straße', 'hoch', '.']
+
+
+['Die', "O'Halloran", '.']
+
+
+['Warum', '?'] → ['Warum', '?']
+
+
+['Was', 'haben', 'du', 'tun', ',', 'um', 'sie', 'zu', 'verärgern', '?']
+
+
+['-', 'arbeiten', 'sie', 'nicht', 'für', 'du', ',', 'Vince', '?']
+
+
+['-', 'ja', ',', 'allerdings', '.']
+
+
+und | bei | e | einfach | der | Hörer | auflegen | , | müssen | ziemlich | entmannend | sein | sein | ?
+
+
+Fühlen | sich | an | , | wie | zu | Direktor | Reeve | in | Büro | rufen | zu | werden | .
+
+
+['Genau', 'wie', 'er', ',', 'werden', 'ich', 'sie', 'sagen', ',', 'wie', 'es', 'sein', '.']
+
+
+['machen', 'das', 'bitte', ',', 'denn', 'ich', 'mag', 'sie', 'nicht', 'aus', 'dem', 'Weg', 'gehen', '.']
+
+
+Nein, nein.
+
+
+['kein', 'weiter', 'ausweichen', '.']
+
+
+['Wir', 'werden', 'sie', 'sagen', ',', 'wir', 'machen', 'kein', 'Film', 'über', 'irgendwas', ',', 'bis', 'der', 'Kamera', 'tatsächlich', 'für', '"', 'Medellin', '"', 'anlaufen', '.']
+
+
+sie | werden | anpöbeln | sein | , | wenn | sie | denken | , | du | nehmen | Ari | ernst | .
+
+
+Er | sehen | wie | Frankenstein | aus | .
+
+
+['immerhin', 'laufen', 'er', 'ohne', 'Krücke', '.']
+
+
+Ja , ich denken , er sein glücklich darüber .
+
+
+['Ich', 'sein', 'glücklich', 'darüber', '.']
+
+
+['Wie', 'gehen', 'sein', 'du', ',', 'Maggie', '?']
+
+
+['Lang', 'Tag', '.']
+
+
+['Sehen', 'so', 'aus', ',', 'als', 'fangen', 'mein', 'Tag', 'gerade', 'an', '.']
+
+
+['Hal', '.'] --> ['hal', '.']
+
+
+['sagen', 'sein', ',', 'mit', 'Militär', 'ausnehmen', 'sein', 'es', 'vielleicht', 'vier', 'Leute', ',', 'genau', 'wissen', ',', 'wie', 'dieser', 'Ort', 'funktionieren', '.']
+
+
+['-', 'die', 'Vaginoplastie', '.']
+
+
+['Werden', 'der', 'Vaginoplastik', 'separat', 'machen', '?']
+
+
+['genau', '.']
+
+
+['Das', 'werden', 'einzeln', 'machen', '.']
+
+
+['Ich', 'möchten', 'nicht', 'mehr', 'als', 'nötig', 'unter', 'Narkose', 'setzen', 'werden', '.']
+
+
+['Ich', 'bekommen', 'ein', 'Narkose', ',', 'und', 'dann', 'noch', 'ein', '?']
+
+
+['Es', 'sein', 'ein', 'schwer', 'Eingriff', 'mit', 'einer', 'lang', 'Rekonvaleszenz', '.']
+
+
+Außerdem | brauchen | wir | dafür | ein | Spezialist | .
+
+
+['Aufregend', '.'] --> ['aufregend', '.']
+
+
+['ja', ',', 'das', 'sein', 'es', 'in', 'der', 'Tat', '.']
+
+
+['-', 'oh', 'Gott', '.']
+
+
+['das', 'reichen', ',', 'Vater', '!']
+
+
+['weiß', 'du', ',', 'wovon', 'ich', 'reden', '?']
+
+
+['-', 'Verstehen', 'du', 'ich', '?']
+
+
+('-', 'Dad', ',', 'das', 'reichen', '!')
+
+
+['Ich', 'gehen', ',', 'ok', '.']
+
+
+[Ok, .]
+
+
+['gut', '.']
+
+
+['Warten', '...']
+
+
+[Ja, ,, die, DVD, .]
+
+
+okay , sehe mal nach , ob wir noch gefroren soja-pizza haben .
+
+
+['Ausweis', '.']
+
+
+['-', 'Hi', '.']
+
+
+Tokenliste: ['echt', 'jetzt', '?']
+
+
+['Ja', ',', 'Baby', ',', 'mann', 'können', 'euer', 'Alters', 'kaum', 'noch', 'schätzen', ',', 'wissen', 'ihr', '.']
+
+
+['Ja', ',', 'bitten', '.']
+
+
+['-', 'Der', 'Abend', 'gefallen', 'ich', 'jetzt', 'schon', '.']
+
+
+Rachel?
+
+
+['-', 'Ja', ',', 'der', 'sein', 'ich', '.']
+
+
+['-', 'viel', 'danken', '.']
+
+
+['Es', 'gefallen', 'ich', 'viel', 'besser', ',', 'wenn', 'wir', 'ein', 'Meinung', 'sein', '.']
+
+
+[ihn, nicht, ?]
+
+
+['Der', 'Text', 'des', 'Kosst', 'Amojan', ',', 'wie', 'sie', 'wünschen', '.']
+
+
+['Sehr', 'gut', '.'] 
+=> ['sehr', 'gut', '.']
+
+
+['Also', '?'] -> ['Also', '?']
+
+
+Legen|sie|er|auf|mein|Schreibtisch|.
+
+
+['-', 'Eminenz', ',', 'darf', 'ich', 'offen', 'sprechen', '?']
+→['-', 'Eminenz', ',', 'dürfen', 'ich', 'offen', 'sprechen', '?']
+
+['-', 'Wenn', 'es', 'sein', 'müssen', '.']
+
+
+['diese', 'Buch', 'werden', 'seit', '700', 'Jahr', 'nicht', 'mehr', 'aus', 'der', 'Archiv', 'holen', '.']
+
+
+
+['Was', 'wollen', 'Sie', 'dammt', 'sagen', '?']
+
+
+Er haben dich gebrauchen, und du haben ihn im Stich lassen.
+
+
+['-', 'Mom', ',', 'Dad', ',', 'helfen', 'ich', '!']
+
+
+['-', 'Schatz', '.'] --> ['-', 'Schatz', '.']
+
+
+['Eddie', 'wollen', 'der', 'Brand', 'in', 'sich', 'löschen', ',', 'indem', 'er', 'in', 'der', 'Fluss', 'springen', '.']
+
+
+sie sehen
+
+
+Es sein das Beste, wenn wir uns in diese Sache nicht einmischen.
+
+
+['Aber', 'er', 'können', 'nicht', 'schwimmen', '.']
+
+
+['Du', 'haben', 'es', 'ihm', 'niemals', 'beibringen', '.']
+
+
+Lass | ihn | das | lernen | , | wie | ich | es | tue | : | auf | der | Straße | .
+
+
+['Nächster', 'Woche', 'bei', 'Völlig', 'ineffektiv', 'Vater', 'die', 'urkomisch', 'Beerdigungsfolge', '.']
+
+
+['Ich', 'finden', ',', 'Mann', 'können', 'über', 'so', 'persönlich', 'Ding', 'nur', 'sprechen', ',', 'wenn', 'der', 'anderer', 'das', 'Verständnis', 'haben', '.']
+
+
+['deshalb', 'schämen', 'ich', 'mich', 'überhaupt', 'nicht', ',', 'Ihnen', 'zu', 'sagen', ':', 'ohne', 'Bab', 'werden', 'ich', 'verlieren', '.']
+
+
+['Das', 'sein', 'mir', 'ganz', 'klar', 'werden', ',', 'schon', 'bei', 'diese', 'kurz', 'Trennung', '.']
+
+
+['Ich', 'glauben', ',', 'das', 'werden', 'ein', 'schlecht', 'Land', ',', 'um', 'Kinder', 'aufziehen', '.']
+
+
+['Ich','wissen','nicht','.']
+
+
+['-', 'Wissen', 'sie', '?']
+
+
+['Babs', 'und', 'ich', ',', 'werden', 'wollen', 'am', 'liebst', 'gleich', 'Kind', 'haben', '.']
+
+
+Doch | dann | kommen | ich | zu | dies | Job | .
+
+
+['Kind', '...']
+
+
+['Zuerst', 'denken', 'wir', 'an', '2', 'Junge', 'und', 'dann', 'vielleicht', 'ein', 'Mädchen', '.']
+
+
+['Auf', 'der', 'Flucht', 'vor', 'die', 'Steuerfaschistin', 'können', 'ich', 'Pluspunkt', 'bei', 'Sam', 'und', 'Kind', 'sammeln', '.']
+
+
+['wer', 'halten', 'ich', 'für', 'der', 'gut', 'Daddy', 'der', 'Welt', '?']
+
+
+['-', 'wer', 'wollen', 'heute', 'Schule', 'schwänzen', '?']
+
+
+['-', 'ja', '.']
+
+
+['Schon', 'gut', '.']
+
+
+Tokenliste: [Okay, Standpunkt]
+Lemma-Liste: [Okay, Punkt]
+
+
+Die Swan mache ein Familienausflug.
+
+
+Die | finden | Weg | , | die | Seite | drei | jetzt | sogar | noch | gruselig | sein | machen | .
+
+
+['"', 'der', 'süß', 'Karen', 'Clarke', 'sein', 'schon', 'in', 'jung', 'Jahr', 'ein', 'Oben-ohne-Schönheit', '.']
+
+
+Was sein mit Cassie und Ramse?
+
+
+['Ich', 'denken', ',', 'du', 'wollen', 'sie', 'zuletzt', 'rauslassen', 'wollen', ',', 'für', 'der', 'Fall', ',', 'dass', 'sie', 'etwas', 'versuchen', '.']
+
+
+['-', 'Ja', '.'] --> ['-', 'Ja', '.']
+
+
+['-', 'das', 'haben', 'ich', 'mir', 'gedächten', '.']
+
+
+['Was', 'zur', 'Hölle', 'sein', 'das', '?']
+
+
+['-', 'Was', 'zu', 'Hölle', 'sein', 'passieren', '?']
+
+
+['-', 'Der', 'Blitz', 'treffen', 'ein', 'der', 'Transformer', '.']
+
+
+['Wir', 'dürfen', 'der', 'Evakuierung', 'nicht', 'verzögern', '.']
+
+
+['Leiten', 'all', 'über', 'den', 'westlich', 'Gang', 'zu', 'Fahrzeughalle', '.']
+
+
+['-', 'Wie', 'viel', 'sein', 'verwundet', '?']
+
+
+['Obwohl', ',', 'er', 'haben', 'schön', 'Reifen', 'haben', '...', 'für', 'ein', 'Verrückten', '.']
+
+
+Tokenliste: [halten, der, Mund, !]
+
+
+['-', 'zu', 'Haus', '!']
+
+
+['-', 'Dies', 'Ort', 'sein', 'verdammt', 'geil', '.']
+
+
+['Wie', 'im', 'Schlaraffenland', '.']  -> ['Wie', 'in', 'Schlaraffenland', '.']
+
+
+['Hier', 'kommen', 'die', 'reich', 'Kinder', 'zum', 'sterben', 'hin', '.']
+
+
+['Willkommen', 'in', 'mein', 'Welt', '.']
+
+
+['Ich', 'sein', 'ein', 'wenig', 'schlecht', '!']
+
+
+Tokenliste: Kevin, ich, glauben, ,, du, sollen, Julie, in, Badezimmer, bringen, .
+
+
+['Kommen', 'schon', '.']
+
+Nein, Ärzt sein sehr zufrieden, er sein der tapferste.
+
+
+['Haben', 'Sie', 'der', 'Körper', '?']
+
+
+['Fragen', 'dein', 'Vater', '!']
+
+
+sagen, 's, ihr, !
+
+
+['Ich', 'haben', 'die', 'Tüte', 'damit', 'vorbereiten', 'und', 'er', 'lassen', 'sie', 'stehen', '!']
+
+
+schade, ich haben nicht mehr viel.
+
+
+['Sieh', 'du', ',', 'sie', 'sein', 'sehr', 'enttäuschen', '!']
+
+
+['Gut', ',', 'ich', 'haben', 'sie', 'vergessen', '!']
+
+
+['Machen', 'nicht', 'so', 'ein', 'Theater', '!']
+
+
+[typisch, !]
+
+['-', 'Mit', 'der', 'Mund', '.']
+
+
+['Mein', 'Autoreife', 'sein', 'platzen', '.']
+
+
+['Mein', 'Allianz', 'sein', 'vorbei', '.']
+
+
+['viel', 'Glück', '.']
+
+
+Tokenliste: ['was', 'sein']
+
+
+Dad!
+
+
+['Das', 'gut', 'daran', 'sein', ',', 'dass', 'ich', 'mein', 'Fisch', 'wiedersehen', '.']
+
+
+['Hey', ',', 'wa', 'sein', 'los', '?']
+
+
+Es spülen nicht runter.
+
+
+['Wir', 'brauchen', 'ein', 'groß', 'Klo', '.']
+
+
+['Führen', 'ich', 'zu', 'der', 'Mann', ',', 'der', 'dich', 'schicken', '.']
+
+
+Er erwarten dich.
+
+
+['-', 'wo', '?']
+
+
+['Das', 'werden', 'du', 'sehen', ',', 'wenn', 'wir', 'nicht', 'verhaften', 'werden', '.']
+
+
+[Also, los, .]
+
+
+['Du', 'gehen', 'vor', 'ich', '.']
+
+
+['Ich', 'kommen', 'nach', '.']
+
+
+['Das', 'sein', 'ein', 'Test', '.']
+
+
+Du können spion sein.
+
+
+['Das', 'Waffe', 'sein', 'ungeladen', '.']
+
+
+['-', 'Kommen', 'sie', '.']
+
+
+Sein, Sie, außergewöhnlich, .
+
+
+['oh', ',', 'sie', '...']
+
+
+['Okay', '.'] → ['Okay', '.']
+
+
+['Um', 'der', 'Sache', 'zu', 'ordnen', ':']
+
+
+Das erste Treffen von Vertreter der menschlich Spezies und Homo Reptilien werden jetzt abgehalten.
+
+
+['Das', 'haben', 'ich', 'noch', 'nie', 'sagen', ',', 'das', 'sein', 'toll', '!']
+
+
+[machen, ich, weiter, !]
+
+
+['Nun', ',', 'Mo', ',', 'gehen', 'werden', 'Ihr', 'Sohn', 'holen', '.']
+
+
+Ach, wissen, Mensch, und, ihr, Vorgänger, unterhalten, sich, ganz, gemütlich, .
+
+
+[niemand, .]
+
+
+['Wenn', 'er', 'lügen', ',', 'haben', 'du', 'nichts', 'zu', 'befürchte', '.']
+
+
+['Kahless', 'sein', 'seit', '1.000', 'Jahr', 'tot', '.']
+
+
+['aber', 'sein', 'Geist', 'sein', 'noch', 'lebendig', '.']
+
+
+['Haben', 'Sie', 'jährig', 'ein', 'Geist', 'bekämpfen', '?']
+
+
+Kein Waffe können ihn vernichten.
+
+
+['Der', 'Geist', 'von', 'Kahless', 'müssen', 'aber', 'sofort', 'ausmerzen', 'werden', ',', 'oder', 'er', 'werden', 'sich', 'wie', 'eine', 'Welle', 'im', 'Reich', 'verbreiten', ',', 'und', 'bleiben', 'werden', 'nichts', 'als', 'eine', 'öde', 'Wüste', '.']
+
+
+Gowron       sein    also    an   Bord    kommen     ,     um    Ihr       Anspruch    prüfen     .
+
+
+['Gowron', 'wissen', ',', 'sein', 'Tag', 'sein', 'zählen', '.']
+
+
+['also', 'kommen', 'er', 'mit', 'ein', 'läppisch', 'Test', 'daher', '.']
+
+
+[Das, haben, sein, .]
+
+
+['aber', 'denken', 'dran', 'du', 'sein', 'nicht', 'wirklich', 'sauer', 'wegen', 'die', 'schnurrbarthaar', '.']
+
+
+['Du', 'sein', 'sauer', 'weil', 'ich', 'dir', 'nicht', 'zuhören', ',', 'dein', 'Freund', 'nicht', 'mögen', 'und', 'über', 'dein', 'Mutter', 'lästern', '.']

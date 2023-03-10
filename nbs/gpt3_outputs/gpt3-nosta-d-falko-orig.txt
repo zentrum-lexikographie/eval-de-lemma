@@ -1,0 +1,201 @@
+
+
+['_', 'um', 'sich', 'zu', 'dies', 'Behauptung', 'überhaupt', 'zu', 'verhalten', ',', 'muss', 'man', 'sich', 'erst', 'überlegen', ':']
+
+
+['_', '_', 'haben', 'Frau', 'andere', 'Interesse', 'als', 'Mann', '?']
+
+
+['_', '_', 'sein', 'dies', 'nicht', 'der', 'Fall', ',', 'entfallen', 'die', 'Legitimität', 'der', 'Frage', '(', 'und', 'des', 'Begriff', 'Feminismus', ')', '.']
+
+
+['_', 'finden', 'mann', ',', 'dass', 'Interesse', 'der', 'Frau', 'sich', 'von', 'Interesse', 'der', 'Mann', 'unterscheiden', 'lassen', ',', 'können', 'mann', 'mit', 'der', 'Frage', 'weitergehen', ':']
+
+
+['_', 'welch', 'sein', 'die', 'Interesse', 'der', 'Frau', '?']
+
+
+[ '_', '_', 'das', 'müssen', 'abklären', 'werden', ',', 'bevor', 'man', 'dazu', 'Stellung', 'nehmen', 'können', ',', 'ob', 'Interesse', 'schaden', 'oder', '_', 'nutzen', 'sein', '.' ]
+
+
+['_', 'Erster', '_', 'als', ':']
+
+
+['_', 'haben', 'Frau', 'ander', 'Interesse', 'als', 'Mann', '?']
+
+
+['_', 'ich', 'gehen', 'von', 'die', 'Vorstellung', 'aus', ',', 'dass', 'Interesse', 'von', 'Wert', 'abhängig', 'sein', '.']
+
+
+['_', 'so', 'sein', 'die', 'Interesse', 'der', 'Frau', 'eine', 'Abspiegelung', 'der', 'Wert', 'der', 'Frau', '.']
+
+
+['_', 'Welch', 'sich', 'von', 'männlich', 'Wert', 'unterscheiden', 'Wert', 'können', 'Frau', 'haben', '?']
+
+
+['_', 'überzeugen', 'davon', ',', 'dass', 'es', 'etwas', 'wie', 'universiell', ',', 'grundlegend', 'Wert', 'geben', '(', 'z.', 'B.', 'gehen', 'es', 'drum', '_', 'nicht', 'aussterben', ',', 'und', 'dazu', 'sein', 'ja', 'von', 'einander', 'abhängig', ')', ',', 'behaupten', 'ich', 'gleichzeitig', ',', 'dass', 'Mensch', 'gemein', ',', 'grundlegend', 'Interesse', 'haben', '.']
+
+
+['_', 'daraus', 'folgen', ',', 'dass', 'Frau', 'und', 'Mann', 'grundsätzlich', 'gleich', 'Interesse', 'haben', '.']
+
+
+['_', 'Wie', 'können', 'ein', 'Frau', 'dann', '-', 'in', 'der', 'Längen', '-', 'Interesse', 'verfolgen', ',', 'die', 'gegen', 'die', 'Interesse', 'sein', 'Mann', 'sein', 'können', '?']
+
+
+['_', 'verlangen', '-', 'oder', 'verfolgen', '-', 'sie', 'etwas', 'exorbitant', '-', 'werden', 'der', 'Mann', 'das', 'Verhältnis', 'aufgeben', '.']
+
+
+['_', 'beharr', 'sie', '_', ',', 'bleib', 'sie', 'single', ',', 'und', '_', 'stirb', 'aus', '.']
+
+
+['_', 'das', 'umkehren', 'gelten', 'für', 'Mann', ':']
+
+
+['_', 'sie', 'werden', 'verlassen', '_', 'wenn', 'sie', 'unerträglich', 'sein', '.']
+
+
+['_', 'in', 'der', 'Länge', 'können', 'man', 'Egoismus', 'nicht', 'übertreiben', '.']
+
+
+['_', 'sonnst', 'sinken', 'die', 'Geburtsrate', '.']
+
+
+['_', 'so', 'einfach', 'sein', 'es', '.']
+
+
+['_', 'sehen', 'nur', 'Russland', ',', 'Italien', ',', 'Spanien', ',', 'Deutschland', '.']
+
+
+['_', 'das', 'ich', 'also', 'der', 'Auffassung', 'sein', ',', 'dass', 'Frauen', 'und', 'Männer', 'Interesse', 'teilen', '(', 'damit', 'teilen', 'ich', '_', 'Auffassung', 'mit', 'dem', 'Altpremierminister', 'in', 'Schweden', ',', 'Göran', 'Persson', ',', 'der', 'sich', 'als', 'Feminist', 'bezeichnen', 'haben', ')', ',', 'muss', 'ich', 'zurückweisen', '_', 'dass', 'es', 'Interesse', 'geben', '_', '(', 'die', 'man', 'ernstnehmen', 'können', ')', '_', 'die', 'Frauen', 'und', 'Männer', 'nicht', 'teilen', 'können', '.']
+
+
+['_', 'daraus', 'folgen', ',', 'dass', 'der', 'Feminismus', 'den', 'Interesse', 'sowohl', '_', 'Mann', 'als', '_', '_', 'Frau', 'dienen', '.']
+
+
+['_', 'deshalb', 'haben', 'der', 'Frage', 'kein', 'Legitimität', '.']
+
+
+['_', '_', '_', '_', 'schön', 'Wochenende', '.']
+
+
+['_', 'die', 'Behauptung', ',', 'dass', 'Universitätsabschluss', 'wening', 'Praxisorientierung', 'sein', ',', 'ist', 'sowohl', 'richtig', 'als', 'auch', 'falsch', '.']
+
+
+['_', 'die', 'Uni', 'sein', 'seit', 'der', 'Antik', 'eine', 'Institution', 'gewesen', ',', 'an', 'der', 'studieren', 'und', 'nachdenken', 'worden', 'sein', '.']
+
+
+['_', 'seit', 'der', 'Universität', 'existieren', 'haben', ',', 'gelten', 'sie', 'als', 'Ort', ',', 'der', 'Ausgangspunkt', 'für', 'die', 'akademisch', 'Entwicklung', 'einer', 'Gesellschaft', 'ausmachen', '.']
+
+
+['Universität', 'sein', 'sogenannt', 'wissenschaftlich', 'Institution', '.']
+
+
+['_', 'sein', 'bedeuten', ',', 'dass', 'sie', 'auch', 'ein', 'wissenschaftlich', 'Tradition', 'repräsentieren', ',', 'und', 'dies', 'Tradition', 'sein', 'von', 'ein', 'Akademiker', 'Generation', 'auf', 'der', 'andere', 'weiterführen', 'werden', '.']
+
+
+['_', 'die', 'wissenschaftlich', 'Tradition', 'sein', 'dadurch', 'gekennzeichnen', ',', 'dass', 'sie', 'mit', 'wissenschaftlich', 'Methode', 'hervorgehen', '.']
+
+
+['_', 'der', 'Untersuchungsgegenstand', 'werden', 'somit', 'nach', 'ein', 'besondere', 'und', 'festlegen', 'Vorgangsweise', 'untersuchen', '.']
+
+
+['_', 'Die', 'Vorgang', 'bzw.', 'Methode', 'sein', 'sehr', 'unterschiedlich', '.']
+
+
+['_', 'sie', 'hängen', ',', 'kurz', 'und', 'vereinfachen', 'ausgesprochen', ',', 'von', 'der', 'Untersuchungsgegenstand', 'und', 'vom', 'wissenschaftlich', 'Disziplin', 'ab', '.']
+
+
+['_', 'Z.', 'b.', 'werden', 'oft', 'in', 'naturwissenschaftlich', 'Untersuchungsfeld', 'ein', 'positivistisch', 'und', 'nicht-relativistisch', 'Vorgangsweise', 'verwenden', '.']
+
+
+['_', 'In', 'Sprachwissenschaft', 'Feld', 'verhalten', 'es', 'sich', 'ein', 'bisschen', 'andere', '.']
+
+
+['_', 'der', 'methodisch', 'Ausgangspunkt', 'sein', 'nicht', 'der', 'Positivismus', ',', 'sondern', 'die', 'Hermaneutik', 'und', 'der', 'gehen', 'Führen', 'Relativismus', '.']
+
+
+['_', 'aus', 'werden', 'innerhalb', 'der', 'beide', 'wissenschaftlich', 'Auffassung', 'entweder', 'induktiv', 'oder', 'deduktiv', 'Methode', 'verwenden', '.']
+
+
+['_', 'der', 'ganz', 'Feld', 'Wissenschaft', 'gründen', 'sich', 'somit', 'auf', 'besondere', 'Struktur', 'Merkmal', ',', 'die', 'eben', 'der', 'Feld', 'Wissenschaft', 'kennzeichnen', '.']
+
+
+['_', 'dies', 'strukturell', 'Bedingung', 'zeigen', 'sich', 'immer', 'in', 'ein', 'Wissenschaft', 'Arbeit', '(', 'Universitätsabschluss', ')', '.']
+
+
+['_', 'sein', 'üblich', '_', 'in', 'ein', 'Arbeit', 'zunächst', 'feststellen', ',', 'welch', 'Vorgangsweise', 'verwenden', 'sollen', ',', 'um', 'ein', 'Problem', 'des', 'Untersuchungsgegenstandes', 'zu', 'erläutern', 'bzw.', 'zu', 'erläutern', '/', '_', 'beleuchten', '.']
+
+
+['_', 'Wissenschaft', 'Arbeit', 'bauen', 'also', 'auf', 'ein', 'Methodisch', '/', 'Theoretisch', 'Fundament', '_', '.']
+
+
+['_', 'ein', 'solch', 'müssen', ',', 'in', 'irgend', 'Form', ',', 'in', 'ein', 'wissenschaftlich', 'Arbeit', 'existieren', '.']
+
+
+['_', 'sein', 'dies', 'nicht', 'der', 'Fall', ',', 'werden', 'es', 'halten', 'schwierig', '_', 'die', 'Arbeit', 'als', 'wissenschaftlich', 'zu', 'bezeichnen', ',', 'obwohl', 'die', 'Arbeit', 'sonst', 'schön', 'und', 'mit', 'viele', 'Überlegung', 'schreiben', 'sein', '.']
+
+
+['_', 'weg', 'der', 'methodisch', '/', 'theoretisch', 'vorgangsweise', 'kriegen', 'ein', 'wissenschaftlich', 'arbeit', 'auch', 'ein', 'besonders', 'form', '.']
+
+
+_ z. b. werden | verschieden Methode | Theorie beschreiben | Problem erläutern | erlärten | und der Forscher zeigen in sein Arbeit ein Ergebnis , das er durch die Anwendung von sein Theorie und Methode erreichen haben .
+
+
+['_', 'Das', 'neu', 'Wissen', 'sein', '...']
+
+
+['ja', '...']
+
+
+['Wissen', '.'] → ['Wissen', '.']
+
+
+['_', 'Das', 'Wissen', 'selbst', 'haben', 'kein', '(', 'wirtschaftlich', ')', 'Wert', 'selbst', '.']
+
+
+['_', 'Mann', 'müssen', 'etwas', 'mit', 'der', 'Wissen', 'tun', '.']
+
+
+['_', 'Z.', 'B.', 'haben', 'Albert', 'Einstein', 'Relativitätstheorie', 'kein', 'unmittelbar', 'Wert', 'im', '_', 'Praxis', '.']
+
+
+['_', 'sie', 'sein', 'sehr', 'abstrakt', 'und', '_', 'lassen', 'sich', 'nicht', 'einfach', 'konkretisieren', '.']
+
+
+['_', 'trotzdem', 'sein', 'dies', 'Theorie', 'unvermeidbar', ',', 'auch', 'wenn', 'eher', 'praxisorientiert', 'Überlegung', 'stattfinden', '.']
+
+
+['_', 'Einstein', 'haben', 'der', 'Naturwissenschaft', 'ein', 'Theoretisch', 'Fundament', 'geben', ',', 'das', 'der', 'wissenschaftlich', 'Feld', 'anwenden', 'können', ',', 'wenn', 'die', 'Naturwissenschaftler', 'z.B.' , 'Berechnungen', 'im', 'industriell', 'Bereich', 'vornehmen', '.']
+
+
+['_', 'somit', 'werden', 'Teil', 'Einstein', 'sonst', 'abstrakt', 'Gedanke', 'praktisch', 'umsetzen', '.']
+
+
+['_', 'ZB', 'sein', 'es', 'denkbar', ',', 'dass', 'die', 'Wissenschaftler', 'teilweise', 'sein', 'Theorie', 'durch', 'Berechnung', 'in', 'eigentlich', 'Produkt', 'umsetzen', 'können', '.']
+
+
+['_', 'so', '.']
+
+
+['_', 'ja', '...'] => ['_', 'ja', '...']
+
+
+['_', 'der', 'Universitätsabschluss', '(', 'die', 'Unis', 'im', 'allgemeinen', ')', 'können', '_', 'komisch', ',', 'strukturiert', 'und', 'abstrakt', 'vorkommen', '.']
+
+
+['_', 'die', 'sogennant', '"', 'wirklich', 'Welt', '"', 'brauchen', 'aber', 'neu', 'abstrakt', 'Gedanken', ',', 'um', 'sich', 'entwickeln', 'zu', 'können', '.']
+
+
+['_', 'natürlich', 'müssen', 'die', 'Student', 'wissen', ',', 'was', 'sie', 'untersuchen', ',', 'und', 'ob', 'die', 'Untersuchung', 'Sinn', 'machen', '.']
+
+
+['_', 'sie', 'müssen', 'wissen', ',', 'dass', 'sie', 'Problem', 'in', '"', 'der', 'wirklich', 'Welt', '"', 'untersuchen', ',', 'und', 'dass', 'die', 'Untersuchung', 'nur', 'ein', 'Teil', 'der', 'Welt', 'darstellen', '.']
+
+
+['_', 'Praxisorientiert', 'Uniabschlussarbeit', 'sein', 'aber', 'nicht', 'nur', 'einfach', 'vorzuziehen', '.']
+
+
+['_' , 'Ohne' , 'abstrakt' , 'Gedanke' , ',' , 'ohne' , 'komisch' , 'Überlegung' , ',' , 'ohne' , 'produzieren' , 'des' , '(' , 'auch' , '"', 'unnütze' , '"', ')' , 'Wissen' , ',' , 'komm' , 'die' , 'Welt' , 'nicht' , 'weiter' , '.']
+
+
+['_', 'Wissenschaft', 'überhaupt', '(', 'und', 'dadurch', 'auch', 'ihr', 'besondere', '_', 'nicht|', 'prakxis-orientiert', 'Vorgangsweise', ')', 'sein', 'ein', 'Voraussetzung', 'für', 'ein', 'weiter', 'und', 'breit', 'Wissensstand', ',', 'der', 'sich', 'Letztendlich', 'oft', 'in', 'ein', 'Produktion', '"', 'Wertvoll', 'Gegenstand', '"', 'umsetzen', '.']

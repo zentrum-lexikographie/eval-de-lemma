@@ -1,13 +1,22 @@
-import stanza
-import sys
-import itertools
 import json
-import time
-import tracemalloc
+import logging
+import sys
+
+import stanza
 
 sys.path.append("../..")
 from src.loader import load_data
-from src.metrics import metrics_by_pos
+from src.run import run_algorithm
+
+
+# logging settings
+logger = logging.getLogger(__name__)
+logging.basicConfig(
+    filename="../../logs.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(name)s: %(message)s",
+    datefmt="%y-%m-%d %H:%M:%S"
+)
 
 DATASETSPATH = "../../datasets"
 
@@ -15,52 +24,65 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
-# (A) Load stanza model
+# load stanza model
 model = stanza.Pipeline(
     lang='de', processors='tokenize,pos,lemma',
     tokenize_pretokenized=True)
 
 
-# (B) Run all benchmarks
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
+    """Performs lemmatization on a nested list of tokens using Stanza."""
+    docs = model(x_test)
+    return [[t.lemma for t in sent.words] for sent in docs.sentences]
+
+
+# run all benchmarks
 results = []
 
-for x_test, y_test, z_test, dname in load_data(DATASETSPATH):
+for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
-        # (B.1 encode labels and flatten sequences
-        y_test = list(itertools.chain(*y_test))
-        z_test = list(itertools.chain(*z_test))
-        # (B.2) predict labels
-        tracemalloc.start()
-        t = time.time()
-        docs = model(x_test)
-        y_pred = [[t.lemma for t in sent.words] for sent in docs.sentences]
-        elapsed = time.time() - t
-        current, peak = tracemalloc.get_traced_memory()
-        tracemalloc.stop()
-        y_pred = list(itertools.chain(*y_pred))
-        x_test = list(itertools.chain(*x_test))
-        # store and output different lemmatizations of first 5000 tokens
-        df = []
-        j = 5000
-        if len(y_test) < j:
-            j = len(y_test)
-        for i in range(j):
-            if y_test[i] != y_pred[i]:
-                df.append([x_test[i], y_test[i], y_pred[i]])
-        with open(f"../../nbs/lemmata-stanza-{dname}.json", "w") as fp:
-            json.dump(df, fp, indent=4, ensure_ascii=False)
-        # (B.3) Compute metrics
-        metrics = metrics_by_pos(y_test, y_pred, z_test)
-        # Save results
-        results.append({
-            'dataset': dname, 'sample-size': len(y_test),
-            'lemmatizer': 'stanza', 'metrics': metrics,
-            'elapsed': elapsed, 'memory_current': current,
-            'memory_peak': peak})
+        results.append(run_algorithm(predict, x_test, y_test, z_test,
+                                     z_test_xpos, dname, 'stanza'))
     except Exception as err:
-        print(err)
+        logger.error(err)
 
 
 # store results
 with open("../../nbs/results-stanza.json", "w") as fp:
+    json.dump(results, fp, indent=4)
+
+
+# run with PoS tags in input
+# load stanza model
+model = stanza.Pipeline(
+    lang='de', processors='tokenize,lemma',
+    lemma_pretagged=True, tokenize_pretokenized=True)
+
+
+def predict(x_test, y_test, z_test, z_test_xpos):
+    """Performs lemmatization on a PoS-tagged list of tokens using Stanza."""
+    lemmata = []
+    for j, sent in enumerate(x_test):  # lemmatize by sentence
+        doc = stanza.models.common.doc.Document([[{'id': i, 'text': token,
+                                                   'upos': z_test[j][i]} for i,
+                                                  token in enumerate(sent)]])
+        doc_lemmatised = model(doc)
+        lemmata += [[t.lemma for t in sent.words]
+                    for sent in doc_lemmatised.sentences]
+    return lemmata
+
+
+# run all benchmarks
+results = []
+
+for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
+    try:
+        results.append(run_algorithm(predict, x_test, y_test, z_test,
+                                     z_test_xpos, dname, 'stanza'))
+    except Exception as err:
+        logger.error(err)
+
+
+# store results
+with open("../../nbs/results-stanza-pretagged.json", "w") as fp:
     json.dump(results, fp, indent=4)

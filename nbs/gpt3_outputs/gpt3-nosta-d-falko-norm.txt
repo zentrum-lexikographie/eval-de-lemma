@@ -1,0 +1,463 @@
+
+
+['_', 'um', 'sich', 'zu', 'dies', 'Behauptung', 'überhaupt', 'zu', 'verhalten', ',', 'muss', 'man', 'sich', 'erst', 'überlegen', ':']
+
+
+['_', '"', 'haben', 'Frau', 'anderes', 'Interesse', 'als', 'Mann', '?']
+
+
+['"', '_', 'sein', 'dies', 'nicht', 'der', 'Fall', ',', 'entfallen', 'die', 'Legitimität', 'der', 'Frage', '(', 'und', 'des', 'Begriff', 'Feminismus', ')', '.']
+
+
+['_', 'finden', 'mann', ',', 'dass', 'Interesse', 'der', 'Frau', 'sich', 'von', 'Interesse', 'der', 'Mann', 'unterscheiden', 'lassen', ',', 'können', 'mann', 'mit', 'der', 'Frage', 'weitergehen', ':']
+
+
+['"', 'welch', 'sein', 'die', 'Interesse', 'der', 'Frau', '?']
+
+
+['"', '_', 'das', 'müssen', 'abklären', 'werden', ',', 'vor', 'man', 'dazu', 'Stellung', 'nehmen', 'können', ',', 'ob', 'Interesse', 'schaden', 'oder', 'diese', 'nutzen', 'sein', '.']
+
+
+['_', 'Erster', 'kommen', 'also', ':']
+
+
+['_', 'haben', 'Frau', 'andere', 'Interessen', 'als', 'Mann', '?']
+
+
+['_', 'Ich', 'gehen', 'von', 'der', 'Vorstellung', 'aus', ',', 'dass', 'Interesse', 'von', 'Wert', 'abhängig', 'sein', '.']
+
+
+['_', 'sein', 'der', 'Interesse', 'die', 'Frau', 'ein', 'Widerspiegelung', 'der', 'Wert', 'die', 'Frau', '.']
+
+
+['_', 'welch', 'sich', 'von', 'männlich', 'wert', 'unterscheiden', 'wert', 'können', 'Frauen', 'haben', '?']
+
+
+['_', 'Überzeugen', 'davon', ',', 'dass', 'es', 'etwas', 'wie', 'universal', ',', 'grundlegend', 'Wert', 'geben', '(', 'z.', 'B.', 'gehen', 'es', 'darum', 'nicht', 'aussterben', ',', 'und', 'dabei', 'sein', 'ja', 'von|', 'einander', 'abhängig', ')', ',', 'behaupten', 'ich', 'gleichzeitig', ',', 'dass', 'Mensch', 'gemeinsam', ',', 'grundlegend', 'Interesse', 'haben', '.']
+
+
+['_', 'daraus', 'folgen', ',', 'dass', 'Frau', 'und', 'Mann', 'grundsätzlich', 'gleich', 'Interesse', 'haben', '.']
+
+ ['_', 'Wie', 'können', 'eine', 'Frau', 'dann', '-', 'in', 'der', 'Länge', '-', 'Interesse', 'verfolgen', ',', 'die', 'gegen', 'die', 'Interesse', 'ihr', 'Mann', 'sein', 'können', '?']
+
+
+['_', 'verlangen', '-', 'oder', 'verfolgen', '-', 'sie', 'etwas', 'exorbitant', ',', 'werden', 'der', 'Mann', 'das', 'Verhältnis', 'aufgeben', '.']
+
+
+['_', 'Beharrung', 'sie', 'darin', ',', 'bleiben', 'sie', 'Single', ',', 'und', 'sie', 'sterben', 'aus', '.']
+
+
+['_', 'Das', 'umkehren', 'gilt', 'für', 'Mann', ':']
+
+
+['_', 'sie', 'werden', 'verlassen', ',', 'wenn', 'sie', 'unerträglich', 'sein', '.']
+
+
+['_', 'in', 'der', 'Länge', 'können', 'man', 'Egoismus', 'nicht', 'übertreiben', '.']
+
+
+['_', 'sonst', 'sinken', 'die', 'Geburt', 'rate', '.']
+
+
+['_', 'so', 'einfach', 'sein', 'es', '.']
+
+
+['_', 'sehen', 'nur', 'Russland', ',', 'Italien', ',', 'Spanien', 'und', 'Deutschland', '.']
+
+
+['_', 'Da', 'ich', 'also', 'der', 'Auffassung', 'sein', ',', 'dass', 'Frau', 'und', 'Mann', 'Interesse', 'teilen', '(', 'damit', 'teilen', 'ich', 'die', 'Auffassung', 'mit', 'dem', 'Altpremierminister', 'in', 'Schweden', ',', 'Göran', 'Persson', ',', 'der', 'sich', 'als', 'Feminist', 'bezeichnen', 'haben', ')', ',', 'müssen', 'ich', 'zurückweisen', ',', 'dass', 'es', 'Interesse', 'geben', ',', '(', 'die', 'man', 'ernstnehmen', 'können', ')', ',', 'die', 'Frau', 'und', 'Mann', 'nicht', 'teilen', 'können', '.']
+
+
+['_', 'daraus', 'folgen', ',', 'dass', 'der', 'Feminismus', 'dienen', 'Interesse', 'sowohl', 'der', 'Mann', 'auch', 'der', 'Frau', '.']
+
+
+['_', 'Deshalb', 'haben', 'der', 'Frage', 'kein', 'Legitimität', '.']
+
+
+['_', 'ich', 'wünschen', 'ein', 'schön', 'Wochenende', '.']
+
+
+['_', 'Heutzutage', 'viel', 'beklagen', 'sich', ',', 'dass', 'das', 'Wissen', ',', 'das', 'in', 'Universität', 'beibringen', 'werden', ',', 'nichts', 'zu', 'tun', 'haben', 'mit', 'der', 'sogenannt', 'wirklich', 'Welt', 'haben', '.']
+
+
+['_', 'viel', 'Leute', ',', 'von', 'Wissenschaftler', ',', 'über', 'Journalist', ',', 'bis', 'zu', 'Student', 'sein', 'also', 'nicht', 'sicher', ',', 'ob', 'es', 'wirklich', 'sich', 'lohnen', ',', 'sich', 'auf', 'ein', 'Studienplatz', 'zu', 'bewerben', '.']
+
+
+['_', 'mein', 'Meinung', 'nach', 'es', 'sein', 'nicht', 'ein', 'Problem', 'der', 'Qualität', 'von', 'Universitätsausbildung', '.']
+
+
+['_', 'Ich', 'sein', 'der', 'Meinung', ',', 'dass', 'die', 'Frage', 'selbst', 'falsch', 'sein', ',', 'denn', 'woher', 'können', 'man', 'wissen', ',', 'dass', 'Universität', 'auf', 'Herausforderung', 'dieser', 'Welt', 'Student', 'nicht', 'vorbereitet', '?']
+
+
+['_', 'ums', 'dies', 'Frage', 'zu', 'beantworten', ',', 'muss', 'zuerst', 'eine', 'ander', 'Frage', 'beantworten', 'werden', ',', 'nämlich', ':']
+
+
+['Was', 'sein', 'die', 'Rolle', 'der', 'Universität', '?']
+
+
+['_', 'ich', 'glauben', ',', 'dass', 'die', 'Rolle', 'des', 'Wissen', 'werden', 'oftmals', 'überschätzen', '.']
+
+
+['_', 'vor', 'ein', 'Monat', 'haben', 'ich', 'ein', 'Interview', 'machen', 'mit', 'ein', 'französisch', 'Manager', 'lesen', '.']
+
+
+['_', 'sagen', ',', 'dass', 'schwach', 'Englischkenntnis', 'ihm', 'helfen', 'haben', ',', 'erfolgreich', 'zu', 'sein', '.']
+
+
+_ | Außen | der | englischsprachig | Region | nicht | viel | Manager | sprechen | Englisch | auf | ein | sehr | hoch | Niveau | und | die | , | dessen | Englisch | " | zu | gut | " | sein | , | haben | oft | ein | Niederlage | erleiden | .
+
+
+['_', 'natürlich', 'wollen', 'ich', 'nicht', 'sagen', 'dass', 'faulenzen', 'gut', 'als', 'studieren', 'sein', 'sondern', 'dass', 'wissen', 'nicht', 'immer', 'der', 'wichtig', 'faktor', 'sein', '.']
+
+
+['_', 'ich', 'sein', 'davon', 'überzeugt', ',', 'dass', 'wichtig', 'sein', ',', 'flexibel', 'und', 'offen', 'sein', 'zu', 'sein', '.']
+
+
+['_', 'der', 'Pessimist', ',', 'der', 'glauben', ',', 'dass', 'die', 'meiste', 'Universitätsabschluss', 'nicht', 'praxisorientiert', 'sein', ',', 'würden', 'mit', 'mir', 'nicht', 'einverstanden', 'sein', ',', 'aber', 'ich', 'sein', 'der', 'Meinung', ',', 'dass', 'Universität', 'auch', 'die', 'Möglichkeit', 'geben', ',', 'Flexibilität', 'zu', 'lernen', '.']
+
+
+['_', 'zum', 'Beispiel', 'passieren', 'das', 'durch', 'Gruppenarbeit', 'oder', 'Kooperation', '.']
+
+
+['_', 'Es', 'hängen', 'nur', 'von', 'der', 'Person', 'ab', ',', 'ob', 'sie', 'diese', 'Möglichkeit', 'wahrnehmen', '.']
+
+
+['_', 'um', 'all', 'zusammenfassen', ',', 'zum', 'schluss', 'möchte', 'ich', 'hinzufügen', ',', 'dass', 'es', 'geben', 'ein', 'tendenz', ',', 'die', 'rolle', 'der', 'universität', 'zu', 'überschätzen', '.']
+
+
+['_', 'Mann', 'sollen', 'nicht', 'vergessen', ',', 'dass', 'so', 'etwas', 'wie', '"', 'die', 'wirklich', 'Welt', '"', 'existieren', 'nicht', ',', 'beziehen', 'man', 'können', 'nicht', 'dortauf', 'vorbereiten', 'werden', '.']
+
+
+['_', 'Die', 'Bewegung', 'des', 'Feminismus', 'und', 'sein', 'Nutzen', 'in', 'unser', 'Gesellschaft', 'sein', 'aber', 'nicht', 'zu', 'vergessen', '.']
+
+
+['_', 'die', 'Recht', 'der', 'Frau', ',', 'um', 'ziehen', 'arbeiten', ',', 'um', 'ein', 'soziale', 'Leben', 'wie', 'Mann', 'haben', ',', 'um', 'eine', 'gewählt', '(', 'nicht', 'gelitten', ')', 'Sexualität', 'dank', 'der', 'Kontrazeptionsmittel', 'zum', 'Beispiel', 'haben', ',', 'sein', 'heutig', 'für', 'uns', 'natürlich', ',', 'was', 'vor', 'fünfzig', 'Jahr', 'nicht', 'der', 'Fall', 'sein', '.']
+
+
+['_', 'bevor', 'die', 'negativ', 'Folge', 'dies', 'Bewegung', 'zu', 'schildern', ',', 'soll', 'wir', 'uns', 'ganz', 'gut', 'danach', 'erinnern', ',', 'dass', 'ein', 'sozusagen', '"', 'frei', '"', 'Frau', ',', 'die', 'ihr', 'Arbeit', ',', 'ihr', 'Mann', ',', 'ihr', 'Wohnung', 'und', 'ihr', 'Leben', 'wählen', 'können', ',', 'für', 'unser', 'Vorfahr', 'unvorstellbar', 'sein', '.']
+
+
+['_', 'aber', 'wer', 'sein', 'die', 'letzt', 'berühmt', 'Frau', ',', 'die', 'als', 'echt', 'Feministin', 'gelten', '?']
+
+
+_ man können sich vielleicht an Billie Jean King erinnern , die eine Tennisspielerin in den Achtzigern war , und die für eine freie Homosexualität kämpfen haben .
+
+
+['_', 'das', 'sein', 'ein', 'richtig', 'Kampf', 'auf', 'jedwed', 'Fall', ',', 'aber', 'es', 'erlauben', 'auch', ',', 'ein', 'ander', ',', 'wenig', 'idyllisch', 'Bild', 'des', 'Feminismus', 'zu', 'entwerfen', '.']
+
+
+['_', 'denn', 'es', 'wiederholen', 'die', 'Geschichte', ':']
+
+
+['_', 'die', 'öffentlich', 'Frau', 'sprechen', 'nur', 'über', 'Sexuelle', ',', 'sie', 'scheinen', 'seit', 'dem', 'Sechzig', 'kein', 'Schritt', 'machen', 'zu', 'haben', '.']
+
+
+['_', 'Was', 'sein', 'das', 'Fazit', '?']
+
+
+['_', 'der', 'Recht', 'haben', 'ungeheuer', 'Fortschritt', 'selbstverständlich', 'machen', ',', 'aber', 'die', 'Absicht', ',', 'die', 'für', 'ein', 'Frau', 'möglich', 'sein', ',', 'werden', 'wahrscheinlich', 'reduzieren', '(', 'oder', 'sie', 'werden', 'mindestens', 'begrenzen', ')', '.']
+
+
+_ Der Feminismus haben beschranken Frage und Problem Frau sowie reduzieren möglich Absicht, zumal es sein ein Bewegung, der so verbinden mit revolutionär Bewegung, zum Beispiel 1968, dass nachher verschweigen und betrachten als unseriös Strömung, der sich nur beschäftigen mit sexual Thema.
+
+
+['_', 'was', 'sein', 'die', 'Feministin', '?']
+
+
+['_', 'sie', 'sein', 'nur', 'Hippie', 'mit', 'schneid', 'Jeans', 'und', 'Blume', 'in', 'ihr', 'lang', 'Haar', '!']
+
+
+['_', 'was', 'sein', 'euer', 'Recht', '?']
+
+
+['_', 'gut', ',', 'wenn', 'ihr', 'es', 'wollen', ',', 'aber', 'bleiben', 'in', 'harmlos', 'Kreis', ',', 'bitte', '!']
+
+
+['_', 'Dies', 'Feministin', 'haben', 'der', 'Feminismus', 'manchmal', 'zu', 'dieser', 'Karikatur', 'bringen', '.']
+
+
+['_', 'ein', 'slogan', 'einer', 'Bewegung', 'in', 'Frankreich', 'heute', ',', 'der', 'sich', 'besonders', 'für', 'die', 'Frau', 'der', 'sogenannte', 'Ghetto', 'interessieren', ',', 'sein', '"', 'ni', 'put', 'ni', 'soumise', '"', ',', 'was', 'bedeuten', '"', 'weder', 'Schlampe', 'noch', 'Sklavin', '"', '.']
+
+
+['_', 'VERBt', 'kein', 'Karikatur', ',', 'bitten', ',', 'sagen', 'ich', 'werden', '.']
+
+
+['_', 'dies', 'Geschmack', 'am', 'Skandal', 'und', 'zur', 'Provokation', 'scheinen', 'ein', 'Kennzeichen', 'des', 'Feminismus', 'bis', 'heute', 'zu', 'sein', ',', 'der', 'nicht', 'heutig', 'in', 'die', 'richtig', 'Richtung', 'gehen', 'mögen', '.']
+
+
+['_', 'was', 'sein', 'mit', 'der', 'normal', 'Frau', ',', 'die', 'nur', 'der|', 'gleich', 'Lohn', 'wie', 'Mann', 'haben', 'möchten', '(', 'was', 'sogar', 'in', 'Europa', 'selten', 'sein', ')', ',', 'oder', '_', 'diese', 'doppelt', 'Aktivität', '(', 'Arbeit', 'im', 'Büro', 'und', 'Hausarbeit', ')', 'vermeiden', 'möchten', '?']
+
+
+['_', 'all', 'sein', 'kompliziert', ',', 'und', 'all', 'sein', 'immer', 'mehrdeutig', ':']
+
+
+['_', 'in', 'der', 'ddr', 'und', 'in', 'allen', 'sozialistisch', 'Land', 'sein', 'der', 'Lohn', 'für', 'Frau', 'und', 'für', 'Mann', 'die|', 'selb', ',', 'selbst', 'wenn', 'es', 'gar', 'kein', 'echt', 'frei', 'Feministin', '(', 'die', 'Kollontai', ',', 'die', 'in', 'Russland', 'in', 'den', 'Zwanziger', 'tätig', 'sein', ',', 'sein', 'ein', 'bedeutend', 'Ausnahme', ')', 'geben', '.']
+
+
+['_', 'aber', 'der', 'doppelte', 'Aktivität', 'sein', ',', 'sagen', 'heute', 'der', 'Historiker', ',', 'ein', 'echt', 'Qual', 'für', 'sie', '.']
+
+
+['_', 'und', 'sein', 'der', 'politisch', 'welt', 'betreffen', ',', 'der', 'erste', 'berühmt', 'öffentlich', 'frau', 'sein', 'feministin', '(', 'olympe', 'de', 'gouge', 'in', 'der', 'französisch', 'revolution', 'z.b', ')', ',', 'so', 'dass', 'heute', 'ein', 'frau', ',', 'der', 'der', 'politisch', 'welt', 'betreten', ',', 'zuerst', 'als', 'ein', 'feministin', 'anschauen', 'werden', ',', 'der', 'sich', 'nur', 'für', 'der', 'frauenrecht', 'interessieren', ',', 'und', 'der', 'nicht', 'geeignet', 'dazu', 'sein', ',', 'ein', 'regierung', 'oder', 'ein', 'aussenministerium', ',', 'oder', 'noch', 'ein', 'wirtschaftsministerium', 'zu', 'führen', '.']
+
+
+['_', 'deswegen', 'können', 'man', 'verstehen', ',', 'warum', 'man', 'in', 'Deutschland', '2005', 'darauf', 'warten', ',', 'eine', 'Frau', 'als', 'Bundeskanzlerin', 'auswählen', ';']
+
+und, warum, man, Segolene Royal, ,, die aber, scheinen, ,, die Wahlen, des, französisch, Präsident, gewinnen, zu, können, ,, in, der, Zeitung, nicht, aufhören, ,, sie, als, ein, rein, Feminist, ,, die, außerhalb, dies, Gebiet, kein, politisch, Idee, haben, ,, immer, zu, karikieren, .
+und, warum, man, Segolene Royal, ,, die, aber, scheinen, ,, die Wahlen, des, französisch, Präsident, gewinnen, zu, können, ,, in, die, Zeitung, nicht, aufhören, ,, sie, als, ein, rein, Feminist, ,, die, außerhalb, dies, Gebiet, kein, politisch, Idee, haben, ,, immer, zu, karikieren, . 
+und, warum, man, Segolene Royal, ,, die, aber, scheinen, ,, die Wahl, des, französisch, Präsident, gewinnen, zu, können, ,, in, die, Zeitung, nicht, aufhören, ,, sie, als, ein, rein, Feminist, ,, die, außerhalb, dies, Gebiet, kein, politisch, Idee, haben, ,, immer, zu, karikieren, . 
+und, warum, man, Segolene Royal, ,, die, aber, scheinen, ,, die Wahl,
+
+
+['_', 'angela', 'merckel', 'werden', 'selbst', ',', 'in', 'der', 'zeit', 'der', 'resultat', ',', 'als', 'man', 'nicht', 'wissen', ',', 'was', 'für', 'ein', 'regierung', 'die', 'deutsch', 'haben', 'wollen', ',', 'als', 'ein', 'schwach', ',', 'arm', 'und', 'müde', 'frau', 'beschreiben', ',', 'die', 'vor', 'schröder', 'und', 'der', 'spd', 'auf', 'viele', 'sachen', 'verzichten', 'haben', '.']
+
+
+['_', 'sollen', 'Europa', 'ein', 'Gesetz', 'vorschlagen', ',', 'das', 'die', 'Staat', 'unbedingt', 'zwingen', ',', 'eine', 'Frau', 'als', 'Chef', 'auswählen', '?']
+
+
+['_', 'verben', 'kein', 'Karikatur', ',', 'bitten', '!']
+
+
+['_', 'die', 'behaupten', ',', 'dass', 'Universitätsabschluss', 'wenig', 'praxisorientiert', 'sein', ',', 'ist', 'sowohl', 'richtig', 'als', 'auch', 'falsch', '.']
+
+
+['_', 'Die', 'Uni', 'sein', 'seit', 'der', 'Antike', 'eine', 'Institution', 'gewesen', ',', 'an', 'der', 'studieren', 'und', 'nachdenken', 'werden', 'sein', '.']
+
+
+['_', 'seit', 'der', 'Universität', 'existieren', 'haben', ',', 'gelten', 'sie', 'als', 'Ort', ',', 'der', 'Ausgang', 'für', 'die', 'akademisch', 'Entwicklung', 'einer', 'Gesellschaft', 'ausmachen', '.']
+
+
+['_', 'Universität', 'sein', 'sogenannt', 'wissenschaftlich', 'Institution', '.']
+
+
+['_', 'es', 'bedeuten', ',', 'dass', 'sie', 'auch', 'ein', 'wissenschaftlich', 'Tradition', 'repräsentieren', ',', 'und', 'diese', 'Tradition', 'sein', 'von', 'eine', 'Akademiker', 'Generation', 'über', 'der', 'andere', 'weiterführen', 'werden', '.']
+
+
+['_', 'die', 'wissenschaftlich', 'Tradition', 'sein', 'dadurch', 'gekennzeichnen', ',', 'dass', 'sie', 'aus', 'wissenschaftlich', 'Methode', 'hervorgehen', '.']
+
+
+['_', 'der', 'Untersuchungsgegenstand', 'werden', 'somit', 'nach', 'ein', 'besondere', 'und', 'festlegen', 'Vorgangsweise', 'untersuchen', '.']
+
+
+['_', 'die', 'Vorgangweise', 'bzw.', 'Methode', 'sein', 'sehr', 'unterschiedlich', '.']
+
+
+['_', 'sie', 'hängen', ',', 'kurz', 'und', 'vereinfachen', 'ausgesprochen', ',', 'von', 'der', 'Untersuchungsgegenstand', 'und', 'von', 'die', 'wissenschaftlich', 'Disziplin', 'ab', '.']
+
+
+['_', 'Z.', 'B.', 'werden', 'oft', 'in', 'naturwissenschaftlich', 'Untersuchungsfeld', 'ein', 'positivistisch', 'und', 'nicht-relativistisch', 'Vorgangsweise', 'verwenden', '.']
+
+
+['_', 'Ich', 'sprachwissenschaftlich', 'Feld', 'verhalten', 'es', 'sich', 'ein', 'bisschen', 'anders', '.']
+
+
+['_', 'der', 'methodisch', 'Ausgangspunkt', 'sein', 'nicht', 'der', 'Positivismus', ',', 'sondern', 'die', 'Hermeneutik', 'und', 'der', 'dazu', 'führen', 'Relativismus', '.']
+
+
+['_', 'Außerdem', 'werden', 'innerhalb', 'der', 'beide', 'wissenschaftlich', 'Auffassung', 'entweder', 'induktiv', 'oder', 'deduktiv', 'Methode', 'verwenden', '.']
+
+
+['_', 'Das', 'ganz', 'Feld', 'Wissenschaft', 'gründen', 'sich', 'somit', 'auf', 'besonders', 'strukturell', 'Merkmal', ',', 'der', 'eben', 'das', 'Feld', 'Wissenschaft', 'kennzeichnen', '.']
+
+
+['_', 'dies', 'strukturell', 'Bedingung', 'zeig', 'sich', 'auch', 'immer', 'in', 'ein', 'wissenschaftlich', 'Arbeit', '(', 'Universitätsabschluss', ')', '.']
+
+
+['_', 'sein', 'üblich', ',', 'in', 'ein', 'Arbeit', 'zunächst', 'feststellen', ',', 'welch', 'Vorgangsweise', 'verwenden', 'sollen', ',', 'um', 'ein', 'Problem', 'des', 'Untersuchungsgegensand', 'zu', 'erklären', 'bzw.', 'zu', 'erläutern', 'oder', 'zu', 'beleuchten', '.']
+
+
+['_', 'Wissenschaft', 'Arbeit', 'bauen', 'also', 'auf', 'ein', 'methodisch', 'bzw.', 'theoretisch', 'Fundament', 'auf', '.']
+
+
+['_', 'ein', 'solch', 'müssen', ',', 'in', 'irgendein', 'Form', ',', 'in', 'ein', 'wissenschaftlich', 'Arbeit', 'existieren', '.']
+
+
+['_', 'sein', 'dies', 'nicht', 'der', 'Fall', ',', 'werden', 'es', 'halten', 'schwierig', ',', 'die', 'Arbeit', 'als', 'wissenschaftlich', 'zu', 'bezeichnen', ',', 'obgleich', 'die', 'Arbeit', 'sonst', 'schön', 'und', 'mit', 'viel', 'Überlegungen', 'schreiben', 'sein', '.']
+
+
+['_', 'Weg', 'sein', 'methodisch', 'bzw.', 'theoretisch', 'Vorgangsweise', 'kriegen', 'ein', 'wissenschaftlich', 'Arbeit', 'auch', 'ein', 'besondere', 'Form', '.']
+
+
+['_', 'z.', 'b.', 'werden', 'verschieden', 'Methode', 'bzw.', 'Theorie', 'beschreiben', ',', 'Problem', 'erläutern', 'oder', 'erklären', ',', 'und', 'der', 'Forscher', 'zeigen', 'in', 'sein', 'Arbeit', 'ein', 'Ergebnis', ',', 'das', 'er', 'durch', 'die', 'Anwendung', 'von', 'sein', 'Theorie', 'und', 'Methode', 'erreichen', 'haben', '.']
+
+
+['_', 'der', 'neu', 'Wissen', 'sein', ',', 'ja', ',', 'Wissen', '.']
+
+
+['_', 'das', 'wissen', 'selbst', 'haben', 'kein', '(', 'wirtschaftlich', ')', 'wert', 'selbst', '.']
+
+
+['_', 'Mann', 'müssen', 'etwas', 'mit', 'der', 'Wissen', 'tun', '.']
+
+
+['_', 'Z.', 'B.', 'haben', 'Albert', 'Einstein', 'Relativitätstheorie', 'kein', 'unmittelbar', 'Wert', 'in', 'der', 'Praxis', '.']
+
+
+['_', 'sie', 'sein', 'sehr', 'abstrakt', 'und', 'sie', 'lassen', 'sich', 'nicht', 'einfach', 'konkretisieren', '.']
+
+
+['_', 'trotzdem', 'sein', 'dies', 'Theorie', 'unvermeidbar', ',', 'auch', 'wenn', 'eher', 'praxisorientiert', 'Überlegung', 'stattfinden', '.']
+
+
+['_', 'Einstein', 'haben', 'der', 'Naturwissenschaft', 'ein', 'theoretisch', 'Fundament', 'gegeben', ',', 'das', 'das', 'wissenschaftlich', 'Feld', 'anwenden', 'können', ',', 'wenn', 'die', 'Naturwissenschaftler', 'z.', 'B.', 'Berechnung', 'im', 'industriell', 'Bereich', 'vornehmen', '.']
+
+
+['_', 'So', 'werden', 'Teil', 'Einstein', 'sonst', 'abstrakt', 'Gedanke', 'praktisch', 'umsetzen', '.']
+
+
+['_', 'ZB', 'sein', 'es', 'denkbar', ',', 'dass', 'die', 'Wissenschaftler', 'teilweise', 'seine', 'Theorie', 'durch', 'Berechnung', 'in', 'eigentlich', 'Produkt', 'umsetzen', 'können', '.']
+
+
+['_', 'So', '.'] → ['_', 'so', '.']
+
+
+['_', 'Ja', '!'] => ['_', 'ja', '!']
+
+
+['_', 'die', 'Universitätsabschluss', '(', 'die', 'Uni', 'im', 'allgemein', ')', 'können', 'ein', 'komisch', ',', 'strukturieren', 'und', 'abstrakt', 'vorkommen', '.']
+
+
+['_', 'der', 'sogenannt', '"', 'wirklich', 'Welt', '"', 'brauchen', 'aber', 'neu', 'abstrakt', 'Gedanke', ',', 'um', 'sich', 'entwickeln', 'zu', 'können', '.']
+
+
+['_', 'natürlich', 'müssen', 'der', 'Student', 'wissen', ',', 'was', 'er', 'untersuchen', ',', 'und', 'ob', 'die', 'Untersuchung', 'Sinn', 'machen', '.']
+
+
+['_', 'Sie', 'müssen', 'wissen', ',', 'dass', 'sie', 'Problem', 'in', '"', 'der', 'wirklich', 'Welt', '"', 'untersuchen', ',', 'und', 'dass', 'der', 'Untersuchung', 'nur', 'ein', 'Teil', 'der', 'Welt', 'darstellen', '.']
+
+
+['_', 'Praxisorientierung', 'Uniabschlussarbeit', 'sein', 'aber', 'nicht', 'nur', 'einfach', 'vorziehen', '.']
+
+
+['_', 'ohne', 'abstrakt', 'gedanken', ',', 'ohne', 'komisch', 'überlegung', ',', 'ohne', 'produzieren', 'der', '(', 'auch', '"', 'unnützen', '"', ')', 'wissen', ',', 'kommen', 'die', 'welt', 'nicht', 'weit', '.']
+
+
+['_', 'Wissenschaft', 'überhaupt', '(', 'und', 'dadurch', 'auch', 'ihr', 'besonders', ',', 'nicht', 'praxisorientiert', 'Vorgang', ')', 'sein', 'ein', 'Voraussetzung', 'für', 'ein', 'weiter', 'und', 'breit', 'Wissenstand', ',', 'der', 'sich', 'letztendlich', 'oft', 'in', 'eine', 'Produktion', '"', 'wertvoll', 'Gegenstand', '"', 'umsetzt', '.']
+
+
+['_', 'ob', 'Kriminalität', 'sich', 'auszahlen', 'oder', 'nicht', 'auszahlen', ',', 'sein', 'ein', 'moralisch', 'Frage', '.']
+
+
+['_', 'Wie', 'sein', 'es', 'meinen', '?']
+
+
+['_', 'fragen', 'sich', ',', 'ob', 'sie', 'sich', 'ethisch', 'und', 'moralisch', 'nicht', 'auszahlen', ',', 'oder', 'ob', 'sie', 'materiell', 'keinen', 'Gewinn', 'zufügen', '?']
+
+
+['_', 'und', 'machen', 'sie', 'das', 'dann', 'kurz-', 'oder', 'langfristig', '?']
+
+
+['_', 'Wenn', 'sein', 'sich', 'mit', 'dieser', 'Frage', 'in', 'Rahmen', 'der', 'Ethik', 'beschäftigen', ',', 'werden', 'man', 'fast', 'auf', 'jeder', 'Fall', 'sagen', ',', 'dass', 'Kriminalität', 'sich', 'nicht', 'auszahlen', '.']
+
+
+['_', 'natürlich', ',', 'sie', 'sein', 'etwas', ',', 'das', 'mit', 'all', 'Kraft', 'vermeiden', 'werden', 'sollen', ',', 'aber', 'dann', 'werden', 'man', 'weiter', 'denken', 'und', 'Ausnahme', 'machen', '.']
+
+
+['_', 'und', 'dies', 'Ausnahme', 'können', 'uns', 'zu', 'weit', ',', 'ohne', 'Ziel', 'führen', '.']
+
+
+['_', 'Also', ',', 'werden', 'sollen', 'diese', 'Frage', 'entweder', 'moralisch', 'oder', 'in', 'einem', 'materiellen', 'Kontext', 'betrachten', '.']
+
+
+['_', 'Wenn', 'wir', 'als', 'Verbrechen', 'ein', 'Aktion', 'wahrnehmen', ',', 'der', 'im', 'Rahmen', 'der', 'Gesellschaft', 'unrecht', 'und', 'antisozial', 'sein', ',', 'den', 'Schaden', 'zufügen', ',', 'dann', 'sollte', 'wir', 'auch', 'nach', 'der', 'Grund', 'suchen', ',', 'der', 'diese', 'Aktion', 'verursachen', '.']
+
+
+['_', 'Mein', 'Meinung', 'nach', 'sollen', 'werden', 'versuchen', ',', 'auf', 'die', 'Frage', 'aus', 'ein', 'materiell', 'Standpunkt', 'zu', 'antworten', '.']
+
+
+['_', 'die', 'Verbrechen', 'haben', 'mit', 'materiell', 'Nöt', 'und', 'Macht', 'zu', 'tun', 'und', 'dies', 'Sache', 'sein', 'von', 'der', 'gesellschaftlich', 'Bedingung', 'abhängig', '.']
+
+
+['_', 'Verbrechen', 'passieren', 'in', 'Rahmen', 'der', 'Gesellschaft', 'und', 'die', 'Gesellschaft', 'selbst', 'bekommen', 'sie', 'zurück', ',', 'als', 'Resultat', 'ein', 'Prozess', '.']
+
+
+['_', 'ob', 'sein', 'lohnen', 'oder', 'nicht', 'lohnen', ',', 'sein', 'in', 'jedem', 'einzelne', 'Fall', 'zu', 'sehen', '.']
+
+
+['_', 'ein', 'illegal', 'Migrant', ',', 'der', 'wegen', 'ein', 'Krieg', 'sein', 'Land', 'verlassen', 'haben', ',', 'und', 'der', 'kein', 'Mittel', 'zum', 'Leben', 'haben', ',', 'fragen', 'sich', 'nicht', ',', 'ob', 'es', 'sich', 'lohnen', 'oder', 'nicht', 'lohnen', ',', 'ein', 'Stück', 'Brot', 'stehlen', '.']
+
+
+- _
+- er
+- haben
+- nichts
+- zu
+- verlieren
+- und
+- er
+- können
+- sich
+- nicht
+- mit
+- moralisch
+- Frage
+- beschäftigen
+- .
+
+
+['_', 'Wenn', 'all', 'haben', 'Geld', 'zu', 'tun', 'haben', ',', 'versuchen', 'man', 'all', ',', 'was', 'nötig', 'zum', 'Leben', 'sein', ',', 'durch', 'die', 'Arbeit', 'zumal', 'verdienen', ',', 'oder', 'mit', 'andere', 'Mittel', '.']
+
+
+['_', 'Ein', 'Bankraub', 'sein', 'immer', 'ein', 'Weg', 'und', 'wer', 'haben', 'das', 'nicht', ',', 'zumindest', 'einmal', ',', 'denken', '?']
+
+
+['_', 'ob', 'sein', 'lohnen', 'oder', 'nicht', 'lohnen', ',', 'das', 'hängen', 'von', 'die', 'Polizei', 'und', 'die', 'Kooperation', 'die', 'Räuber', 'ab', '.']
+
+
+[ '_', 'Die', 'Mafia', 'fragen', 'sich', 'nicht', ',', 'ob', 'es', 'sich', 'moralisch', 'lohnen', 'oder', 'nicht', 'lohnen', ',', 'ein', 'Verbrecher', 'machen', 'das', 'auf', 'kein', 'Fall', '.']
+
+
+['_', 'aber', 'soweit', 'es', 'viel', 'als', 'genug', 'Geld', 'und', 'Macht', 'geben', ',', 'und', 'es', 'kein', 'Richter', 'mit', 'ein', 'stark', 'Pflichtgefühl', 'geben', ',', 'geben', 'es', 'auch', 'kein', 'moralisch', 'Frage', '.']
+
+
+['_', 'Verbrechen', ',', 'geben', 'mit', 'psychologisch', 'Krankheit', 'zu', 'tun', 'haben', ',', 'geben', 'sein', 'immer', 'und', 'es', 'werden', 'sie', 'immer', 'geben', '.']
+
+
+['_', 'Wie', 'reagieren', 'aber', 'die', 'Gesellschaft', 'darauf', 'und', 'sein', 'sie', 'unschuldig', 'an', 'den', 'Bedingung', ',', 'unter', 'denen', 'Geisteskranker', 'Verbrecher', 'werden', '?']
+
+
+['_', 'aber', 'wer', 'haben', 'in', 'unser', 'fortgeschrittlich', 'Gesellschaft', 'der', 'Migrant', ',', 'der', 'Bankräuber', ',', 'die', 'Mafia', 'und', 'jeder', 'Verbrecher', 'zu', 'bestrafen', '?']
+
+
+['_', 'Polizei', 'und', 'Gericht', 'schützen', 'die', 'Gesellschaft', 'vor', 'unsozialen', 'Aktion', 'und', 'Schaden', '.']
+
+
+['_', 'wer', 'werden', 'sie', 'bestrafen', ',', 'wie', 'ein', 'Arzt', 'der', 'Krebs', 'von', 'dem', 'Körper', 'entfernen', ',', 'aber', 'der', 'Patient', 'sterben', ',', 'weil', 'er', 'nach', 'wenig', 'Monat', 'noch', 'einmal', 'an', 'Krebs', 'leiden', '.']
+
+
+['_', 'sein', 'die', 'staatlich', 'Gefängnis', 'und', 'die', 'Bedingung', ',', 'die', 'dort', 'herrschen', ',', 'kein', 'Verbrechen', '?']
+
+
+['_', 'sein', 'Todesstrafe', 'kein', 'Verbrechen', '?']
+
+
+['_', 'wie', 'sein', 'es', 'mit', 'illegal', 'ab-', 'und', 'Verhör', ',', 'Überwachung', 'und', 'Lügen', ',', 'im', 'Name', 'der', 'Gesellschaft', 'und', 'ihr', 'Sicherheit', '?']
+
+
+['_', 'sein', 'Krieg', 'kein', 'Verbrechen', 'oder', 'gehen', 'es', 'nur', 'um', 'Sieger', 'und', 'Besiegte', 'und', 'gehen', 'es', 'dann', 'natürlich', 'um', 'Kriegsverbrecher', '?']
+
+
+['_', 'führen', 'ein', 'Krieg', 'nicht', 'zur', 'Kriminalität', 'in', 'dem', 'Mikrokosmos', 'der', 'Person', '?']
+
+
+['_', 'die', 'Frage', 'sein', 'nicht', 'auf', 'ein', 'moralisch', 'Weise', 'stellen', ',', 'es', 'geben', 'viel', 'Migrant', 'ausser', 'der', 'letzte', 'Paragraph', '.']
+
+
+['_', 'Wenn', 'der', 'Staat', 'als', 'Schützer', 'der', 'Gesellschaft', 'gegen', 'Kriminalität', 'auch', 'Verbrechen', 'begehen', ',', 'sollen', 'wir', 'die', 'Frage', 'noch', 'moralisch', 'betrachten', '?']
+
+
+['_', 'Kriminalität', 'haben', 'mit', 'die', 'Sphäre', 'der', 'materiell', 'Not', 'zu', 'tun', ',', 'also', 'ob', 'es', 'sich', 'auszahlen', 'oder', 'nicht', 'auszahlen', ',', 'sein', 'im', 'materiell', 'Sinn', 'nur', 'ein', 'Rechnung', 'jeder', 'einzelne', 'Fall', '.']
+
+
+_ Wenn man etwas gegen die Kriminalität machen wollen, sollte man die gesellschaftliche Bedingungen ändern, sodass sie keine Verbrecher mehr hervorbringen.
+
+
+['_', 'kein', 'begehen', 'das', 'Risiko', 'der', 'Kriminalität', 'nur', 'für', 'den', 'Genuss', ',', 'der', 'ein', 'verbrecherisch', 'Aktion', 'anbieten', 'können', '.']
+
+
+['_', 'Mann', 'soll', 'nicht', 'viel', 'zu', 'verlieren', 'haben', 'und', 'auch', 'der', 'Erwartung', 'haben', ',', 'das', 'Mann', 'etwas', 'zu', 'gewinnen', 'haben', ',', 'wenn', 'Mann', 'ein', 'Verbrechen', 'begehen', '.']
+
+
+['_', 'wir', 'sollen', 'also', 'die', 'Bedingung', 'verändern', ',', 'so|', 'dass', 'jeder', 'Person', 'alles', 'notwendig', 'haben', ',', 'also', 'viel', 'durch', 'eine', 'solch', 'Aktion', 'verlieren', 'und', 'auch', 'nicht', 'viel', 'mehr', 'gewinnen', '.']
+
+
+['_', 'dann', 'würden', 'wir', 'uns', 'nicht', 'solch', 'Frage', 'stellen', ',', 'weil', 'es', 'kein', 'Kriminalität', 'mehr', 'geben', 'würde', '.']
