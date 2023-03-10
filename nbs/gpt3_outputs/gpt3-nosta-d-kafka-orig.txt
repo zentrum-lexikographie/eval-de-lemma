@@ -1,0 +1,711 @@
+
+
+['_', 'verhaften', '–', '_', 'gespräch', 'mit', 'Frau', 'Grubach', '–', '_', 'dann', '_', 'Fräulein', 'Bürstner', '_', 'jemand', 'müssen', 'Josef', 'K.', 'verleumden', 'haben', ',', 'denn', 'ohne', 'dass', 'er', 'etwas', 'böse', 'tun', 'haben', ',', 'werden', 'er', 'ein', 'morgen', 'verhaften', '.']
+
+
+['_', 'die', 'Köchin', 'der', 'Frau', 'Grubach', ',', 'sein', 'Zimmervermieterin', ',', 'die', 'ihm', 'jeden', 'Tag', 'gegen', 'acht', 'Uhr', 'früh', 'das', 'Frühstück', 'bringen', ',', 'kommen', 'diesmal', 'nicht', '.']
+
+
+['_', 'Das', 'sein', 'noch', 'niemals', 'geschehen', '.']
+
+
+['_', 'K.', 'warten', 'noch', 'ein', 'Weilchen', ',', '_', 'sehen', 'von', 'sein', 'Kopfkissen', 'aus', 'die', 'alt', 'Frau', ',', 'die', 'ihm', 'gegenüber', 'wohnen', 'und', 'die', 'ihn', 'mit', 'ein', 'an', 'ihr', 'ganz', 'ungewöhnlich', 'Neugier', 'beobachten', ',', 'dann', 'aber', ',', 'gleichzeitig', 'befremden', 'und', 'hungrig', ',', 'läuten', 'er', '.']
+
+
+['_', 'sofort', 'klopfen', 'es', 'und', 'ein', 'Mann', ',', 'den', 'er', 'in', 'diese', 'Wohnung', 'noch', 'niemals', 'sehen', 'haben', ',', 'treten', 'ein', '.']
+
+
+['_', 'er', 'sei', 'schlank', 'und', 'doch', '_', '_', 'fest', 'bauen', ',', 'er', 'tragen', 'ein', 'anliegend', 'schwarz', 'Kleid', ',', 'das', ',', 'ähnlich', 'der', 'Reiseanzug', ',', 'mit', 'verschieden', 'Falte', ',', 'Tasche', ',', 'Schnalle', ',', 'Knopf', 'und', 'ein', 'Gürtel', 'versehen', 'sein', 'und', '_', 'infolgedessen', ',', 'ohne', 'dass', 'man', 'sich', 'darüber', 'klar', 'werden', ',', 'wozu', 'es', 'dienen', 'sollen', ',', 'besonders', 'praktisch', 'erscheinen', '.']
+
+
+['_', '"', 'Wer', 'sein', 'Sie', '?']
+
+
+['„', 'fragen', 'K.', 'und', 'sitzen', 'gleich', 'halb', 'aufrecht', 'im', 'Bett', '.']
+
+
+['_', 'der', 'Mann', 'aber', 'gehen', 'über', 'die', 'Frage', 'hinweg', ',', 'als', 'müssen', 'man', 'sein', 'Erscheinung', 'hinnehmen', ',', 'und', '_', 'sagen', 'bloß', 'seinerseits', ':']
+
+
+['"', 'sie', 'haben', 'läuten', '?']
+
+
+'"', '_', '"', 'Anna', 'sollen', 'ich', 'der', 'Frühstück', 'bringen', '"', ',', 'sagen', 'K.', 'und', '_', 'versuchen', ',', 'zunächst', 'stillschweigend', ',', 'durch', 'Aufmerksamkeit', 'und', 'Überlegung', 'feststellen', ',', 'wer', 'der', 'Mann', 'eigentlich', 'sein', '.'
+
+
+['_', 'aber', 'dies', 'setzen', 'sich', 'nicht', 'allzu|', 'lang', 'sein', 'Blick', 'aus', ',', 'sondern', 'er', 'wenden', 'sich', 'zur', 'Tür', ',', 'der', 'er', 'ein', 'wenig', 'öffnen', ',', 'um', 'jemand', ',', 'der', 'offenbar', 'knapp', 'hinter', 'der', 'Tür', 'stehen', ',', 'zu', 'sagen', ':']
+
+
+['"', 'er', 'wollen', ',', 'daß', 'Anna', 'ihm', 'der', 'Frühstück', 'bringen', '.']
+
+
+['"', '_', 'Ein', 'klein', 'Gelächter', 'im', 'Nebenzimmer', 'folgen', ',', 'es', 'sein', 'nach', 'dem', 'Klang', 'nicht', 'sicher', ',', 'ob', 'nicht', 'mehrere', 'Person', 'daran', 'beteiligen', 'sein', '.']
+
+
+['_', 'obwohl', 'der', 'fremd', 'Mann', 'dadurch', 'nichts', 'erfahren', 'haben', 'können', ',', 'was', 'er', 'nicht', 'schon', 'früher', 'gewußt', 'haben', ',', 'sagen', 'er', 'nun', 'doch', 'zu', 'K.', 'im', 'Ton', 'einer', 'Meldung', ':']
+
+
+['"', 'sein', 'sein', 'unmöglich', '.']
+
+
+['"', '_', '"', 'Das', 'wären', 'neu', '"', ',', 'sagen', 'K.', ',', 'springen', 'aus', 'der', 'Bett', 'und', 'ziehen', 'rasch', 'sein', 'Hose', 'an', '.']
+
+
+['_', '"', 'Ich', 'wollen', 'doch', 'sehen', ',', 'was', 'für', 'Person', 'im', 'Nebenzimmer', 'sein', 'und', 'wie', 'Frau', 'Grubach', 'diese', 'Störung', 'mir', 'gegenüber', 'verantworten', 'werden', '.']
+
+
+['"', '_', 'Es', 'fallen', 'ihm', 'zwar', 'gleich', 'ein', ',', 'daß', 'er', 'das', 'nicht', 'haben', 'laut', 'sagen', 'müssen', 'und', 'daß', 'er', 'dadurch', 'gewissermaßen', 'ein', 'Beaufsichtigungsrecht', 'des', 'Fremde', 'anerkennen', ',', 'aber', 'es', 'scheinen', 'ihm', 'jetzt', 'nicht', 'wichtig', '.']
+
+
+['_', 'immerhin', 'fassen', 'es', 'der', 'fremd', 'so', 'auf', ',', 'denn', 'er', 'sagen', ':']
+
+
+['\"', 'wollen', 'sie', 'nicht', 'lieber', 'hierbleiben', '?']
+
+
+['"', '_', '"', 'ich', 'wollen', 'weder', 'hierbleiben', ',', 'noch', '_', '_', 'von', 'sie', 'angesprochen', 'werden', ',', 'solang', 'sie', 'sich', 'mir', 'nicht', 'vorstellen', '.']
+
+
+['"', '_', '"', 'Es', 'sein', 'gut', 'gemeint', '"', ',', 'sagen', 'der', 'Fremd', 'und', '_', 'öffnen', 'jetzt', 'freiwillig', 'die', 'Tür', '.']
+
+
+['_', 'im', 'Nebenzimmer', ',', 'in', 'der', 'K.', 'langsam', 'eintreten', ',', 'als', 'er', 'wollen', ',', 'sehen', 'es', 'auf', 'den', 'erst', 'Blick', 'fast', 'genau', 'so', 'aus', 'wie', 'am', 'Abend', 'vor', '.']
+
+
+_ | sein | war | das | Wohnzimmer | von | die | Frau | Grubach | , | vielleicht | sein | in | diesem | mit | Möbeln | , | Decke | , | Porzellan | und | Photographie | überfüllen | Zimmer | heute | ein | wenig | mehr | Raum | als | sonst | , | man | erkennen | das | nicht | gleich | , | um | so | wenig | , | als | die | Hauptveränderung | in | der | Anwesenheit | ein | Mann | bestehen | , | der | bei | offen | Fenster | mit | ein | Buch | sitzen | , | von | dem | er | jetzt | aufblicken | .
+
+
+['_', '"', 'sie', 'haben', 'in', 'ihr', 'Zimmer', 'bleiben', 'sollen', '!']
+
+
+['_', 'haben', 'es', 'Dir', 'dann', 'Franz', 'nicht', 'sagen', '?']
+
+
+['"', '_', '"', 'Ja', ',', 'wollen', 'Sie', 'denn', '?']
+
+
+\"sagen, K., und _ sehen von der neu Bekanntschaft zu dem mit Franz Benennen, der in der Tür stehen bleiben sein, und dann _ _ wieder zurück.\"
+
+
+['_', 'durch', 'das', 'offen', 'Fenster', 'erblicken', 'mann', 'wieder', 'alt', 'Frau', ',', 'der', 'mit', 'wahrhaft', 'greisenhaft', 'Neugier', 'zu', 'dem', 'jetzt', 'gegenüberliegen', 'Fenster', 'treten', 'sein', ',', 'um', 'auch', 'weiterhin', 'alles', 'zu', 'sehnen', '.']
+
+
+['_', '"', 'ich', 'wollen', 'doch', 'Frau', 'Grubach', '"', ',', 'sagen', 'K.', ',', '_', 'machen', 'ein', 'Bewegung', ',', 'als', 'reißen', 'er', 'sich', 'von', 'der', 'zwei', 'Mann', 'los', ',', 'die', 'aber', 'weit', 'von', 'ihm', 'entfernt', 'stehen', ',', 'und', '_', 'wollen', 'weitergehen', '.']
+
+
+['_', '"', 'nein', '"', ',', 'sagen', 'der', 'Mann', 'bei', 'Fenster', ',', '_', 'werfen', 'das', 'Buch', 'auf', 'ein', 'Tischchen', 'und', '_', 'stehen', 'auf', '.']
+
+
+['_', '"', 'sie', 'dürf', 'nicht', 'weggehen', ',', 'sie', 'sein', 'ja', 'verhaften', '.']
+
+
+['"', '_', '"', 'Es', 'sehen', 'so', 'aus', '"', ',', 'sagen', 'K.', '_', '"', 'Und', 'warum', 'denn', '?']
+
+
+['"', '_', 'fragen', 'er', 'dann', '.']
+
+
+['_', '"', 'Wir', 'sein', 'nicht', 'dazu', 'bestellen', ',', 'Ihnen', 'das', 'zu', 'sagen', '.']
+
+
+['_', 'gehen', 'sie', 'in', 'ihr', 'Zimmer', 'und', 'warten', 'sie', '.']
+
+
+['_', 'Das', 'Verfahren', 'sein', 'nun', 'einmal', 'einleiten', ',', 'und', 'Sie', 'werden', 'alles', 'zu', 'richtig', 'Zeit', 'erfahren', '.']
+
+
+['_', 'ich', 'gehen', 'über', 'mein', 'Auftrag', 'hinweg', ',', 'wenn', 'ich', 'du', 'so', 'freundlich', 'zureden', '.']
+
+
+['_', 'aber', 'ich', 'hoffen', ',', 'es', 'hören', 'es', 'niemand', 'sonst', 'als', 'Franz', ',', 'und', 'der', 'sein', 'selbst', 'gegen', 'all', 'Vorschrift', 'freundlich', 'zu', 'Sie', '.']
+
+
+['_', 'Wenn', 'Sie', 'auch', 'weiterhin', 'so', 'viel', 'Glück', 'haben', 'wie', 'bei', 'der', 'Bestimmung', 'Ihr', 'Wächter', ',', 'dann', 'können', 'Sie', 'zuversichtlich', 'sein', '.']
+
+['_', 'Wenn', 'sie', 'auch', 'weiterhin', 'so', 'viel', 'Glück', 'haben', 'wie', 'bei', 'der', 'Bestimmung', 'Ihr', 'Wächter', ',', 'dann', 'können', 'Sie', 'zuversichtlich', 'sein', '.']
+
+
+['"', '_', 'K.', 'wollen', 'sich', 'setzen', ',', 'aber', 'nun', 'sehen', 'er', ',', ',', 'dass', 'in', 'ganz', 'Zimmer', 'kein', 'Sitzgelegenheit', 'sein', ',', 'ausser', 'dem', 'Sessel', 'beim', 'Fenster', '.']
+
+
+['_', '"', 'sie', 'werden', 'noch', 'einsehen', ',', 'wie', 'wahr', 'das', 'alles', 'sein', '"', ',', 'sagen', 'Franz', 'und', '_', 'gehen', 'gleichzeitig', 'mit', 'der', 'andern', 'Mann', 'auf', 'ihm', 'zu', '.']
+
+
+['_', 'Besonder', 'der', 'letzte', 'überragen', 'K.', 'bedeutend', 'und', '_', 'klopfen', 'ihm', 'öfter', 'auf', 'die', 'Schulter', '.']
+
+
+['_', 'beiten', 'prüfen', 'k.s', 'Nachthemd', 'und', '_', 'sagen', ',', 'dass', 'er', 'jetzt', 'ein', 'viel', 'schlechter', 'Hemd', 'werden', 'anziehen', 'müssen', ',', 'dass', 'sie', 'aber', 'dieses', 'Hemd', 'wie', 'auch', 'seiner', 'übrig', 'Wäsche', 'aufbewahren', 'und', ',', 'wenn', 'seinen', 'Sache', 'günstig', 'ausfallen', 'sollte', ',', '_', '_', 'ihm', 'wieder', 'zurückgeben', 'würden', '.']
+
+
+['_', '"', 'es', 'sein', 'besser', ',', 'sie', 'geben', 'der', 'Sachen', 'uns', 'als', 'in', 'Depot', '"', ',', 'sagen', 'sie', ',', '"', 'denn', 'in', 'Depot', 'kommen', 'öfters', 'Unterschleife', 'vor', 'und', 'außerdem', 'verkaufen', 'man', 'dort', 'alle', 'Sachen', 'nach', 'ein', 'gewissen', 'Zeit', ',', 'ohne', 'Rücksicht', ',', 'ob', 'der', 'betreffende', 'Verfahren', 'zum', 'Ende', 'sein', 'oder', 'nicht', '.']
+
+
+['_', 'und', 'wie', 'lang', 'dauern', 'doch', 'derartig', 'Prozess', ',', 'besonders', 'in', 'letzt', 'Zeit', '!']
+
+
+'_', 'sie', 'bekommen', 'dann', 'schließlich', 'allerdings', 'vom', 'Depot', 'den', 'Erlös', ',', 'aber', 'dieser', 'Erlös', 'sein', 'erstens', 'an', 'sich', 'schon', 'gering', ',', 'denn', 'bei', 'Verkauf', 'entscheiden', 'nicht', 'die', 'Höhe', 'des', 'Angebot', ',', 'sondern', 'die', 'Höhe', 'der', 'Bestechung', ',', 'und', 'weiter', 'verringern', 'sich', 'solch', 'Erlös', 'erfahrungsgemäß', ',', 'wenn', 'sie', 'von', 'Hand', 'zu', 'Hand', 'und', 'von', 'Jahr', 'zu', 'Jahr','weitergeben','werden','.'
+
+
+'"' - '
+_ - _
+K. - K.
+achtete - achten
+auf - auf
+diese - dies
+Reden - Rede
+kaum - kaum
+, - ,
+das - das
+Verfügungsrecht - Verfügungsrecht
+über - über
+seine - sein
+Sachen - Sache
+, - ,
+er - er
+vielleicht - vielleicht
+noch - noch
+besaß - besitzen
+, - ,
+schätzte - schätzen
+er - er
+nicht - nicht
+hoch - hoch
+ein - ein
+, - ,
+viel - viel
+wichtiger - wichtig
+war - sein
+es - es
+ihm - ihm
+, - ,
+Klarheit - Klarheit
+über - über
+seine - sein
+Lage - Lage
+zu - zu
+bekommen - bekommen
+; - ;
+
+in Gegenwart dieser Leute können er aber nicht einmal nachdenken, immer wieder stossen der Bauch des zweiten Wächters – es können ja nur Wächter sein – förmlich freundschaftlich an ihn, sehend er aber auf, dann erblicken er ein zu diesem dicke Körper gar nicht passendes trocken, knochiges Gesicht mit starker, seitlich gedrehter Nase, das sich über ihn hinweg mit dem andere Wächter verständigen.
+
+
+['_', 'sein', 'sein', 'denn', 'das', 'für', 'Mensch', '?']
+
+
+['_', 'wovon', 'sprechen', 'sie', '?']
+
+
+['_', 'Welch', 'Behörde', 'gehören', 'sie', 'an', '?']
+
+
+['_', 'K.', 'leben', 'doch', 'in', 'ein', 'Rechtsstaat', ',', 'überall', 'herrschen', 'Frieden', ',', 'all', 'Gesetz', 'bestehen', 'aufrecht', ',', 'wer', 'wagen', ',', 'er', 'in', 'sein', 'Wohnung', 'zu', 'überfallen', '?']
+
+
+['_', 'er', 'neigen', 'stets', 'dazu', ',', 'alles', 'möglich', 'leicht', 'zu', 'nehmen', ',', 'das', 'schlimm', 'erst', 'beim', 'eintritt', 'des', 'schlimm', 'zu', 'glauben', ',', 'kein', 'vorsorge', 'für', 'die', 'zukunft', 'zu', 'treffen', ',', 'selbst', 'wenn', 'alles', 'drohen', '.']
+
+
+['_', 'hier', 'scheinen', 'ihm', 'das', 'aber', 'nicht', 'richtig', ',', 'man', 'können', 'zwar', 'das', 'ganz', 'als', 'Spaß', 'anschauen', ',', 'als', 'ein', 'grob', 'Spaß', ',', 'den', 'ihm', 'aus', 'unbekannte', 'Grund', ',', 'vielleicht', 'weil', 'heute', 'sein', 'dreißig', 'Geburtstag', 'sein', ',', 'die', 'Kollege', 'in', 'der', 'Bank', 'veranstalten', 'haben', ',', 'es', 'sein', 'natürlich', 'möglich', ',', 'vielleicht', 'brauchen', 'er', 'nur', 'auf', 'irgendein', 'Weise', 'den', 'Wächter', 'in', 'Gesicht', 'zu', 'lachen', ',', 'und', 'sie', 'werden', 'mitlachen', ',', 'vielleicht', 'sein', 'es', 'Dienstmann', 'von', 'der', 'Straßenecke', ',', 'sie', 'sehen', 'ihnen', 'nicht', 'ähnlich', '–', 'trotzdem', 'sein', 'er', 'diesmal', ',', 'förmlich', 'schon', 'seit', 'der', 'erste', 'Anblick', 'des', 'Wächter', 'Franz', ',', 'entschließen', ',', 'nicht', 'der', 'gering', 'Vorteil', ',', 'den', 'er', 'vielleicht', 'gegenüber', 'diese', 'Leute', 'besitzen', ',', 'aus', 'der', 'Hand', 'zu', 'geben', '.']
+
+
+['_', 'Darin', ',', 'dass', 'man', 'später', 'sagen', 'würde', ',', 'er', 'haben', 'kein', 'Spaß', 'verstehen', ',', 'sehen', 'K.', 'ein', 'ganz', 'gering', 'Gefahr', ',', 'wohl', 'aber', 'erinnern', 'er', 'sich', '–', 'ohne', 'dass', 'es', 'sonst', 'sein', 'Gewohnheit', 'gewesen', 'sein', ',', 'aus', 'Erfahrung', 'zu', 'lernen', '–', 'an', 'einige', ',', 'an', 'sich', 'unbedeutend', 'Fall', ',', 'in', 'denen', 'er', 'zum', 'Unterschied', 'von', 'sein', 'Freund', 'mit', 'Bewusstsein', ',', 'ohne', 'das', 'geringste', 'Gefühl', 'für', 'die', 'möglich', 'Folge', ',', 'sich', 'unvorsichtig', 'benehmen', 'haben', 'und', 'dafür', 'durch', 'das', 'Ergebnis', 'strafen', 'werden', 'sein', '.']
+
+
+['_', 'sein', 'sollen', 'nicht', 'wieder', 'geschehen', ',', 'zumindest', 'nicht', 'diesmal', ';']
+
+
+Tokenliste: war, sein, ein, Komödie, ,, so, wollen, er, mitspielen, .
+
+
+['_', 'Noch', 'sein', 'er', 'frei', '.']
+
+
+['_', '"', 'erlauben', 'sie', '"', ',', 'sagen', 'er', 'und', '_', 'gehen', 'eilig', 'zwischen', 'der', 'Wächter', 'durch', 'in', 'sein', 'Zimmer', '.']
+
+
+['_', '"', 'er', 'scheinen', 'vernünftig', 'zu', 'sein', '"', ',', 'hören', 'er', 'hinter', 'sich', 'sagen', '.']
+ 
+
+['_', 'in', 'sein', 'Zimmer', 'reißen', 'er', 'gleich', 'die', 'Schublade', 'des', 'Schreibtisch', 'auf', ',', 'es', 'liegen', 'dort', 'alles', 'in', 'groß', 'Ordnung', ',', 'aber', 'gerade', 'die', 'Legitimationspapier', ',', 'die', 'er', 'suchen', ',', 'können', 'er', 'in', 'der', 'Aufregung', 'nicht', 'gleich', 'finden', '.']
+
+
+['_', 'schließen', 'finden', 'er', 'sein', 'Radfahrlegitimation', 'und', '_', 'wollen', 'schon', 'mit', 'ihr', 'zu', 'der', 'Wächter', 'gehen', ',', 'dann', 'aber', 'scheinen', 'ihm', 'das', 'Papier', 'zu', 'geringfügig', 'und', 'er', 'suchen', 'weiter', ',', 'bis', 'er', 'der', 'Geburtsschein', 'finden', '.']
+
+
+['_', 'al', 'er', 'wieder', 'in', 'der', 'Nebenzimmer', 'zurückkommen', ',', 'öffnen', 'sich', 'gerade', 'die', 'gegenüberliegend', 'Tür', 'und', 'Frau', 'Grubach', 'wollen', 'dort', 'eintreten', '.']
+
+['_', 'Mann', 'sehen', 'sie', 'nur', 'ein', 'Augenblick', ',', 'denn', 'kaum', 'haben', 'sie', 'K.', 'erkennen', ',', 'als', 'sie', 'offensichtlich', 'verlegen', 'werden', ',', '_', 'um', 'Verzeihung', 'bitten', ',', '_', 'verschwinden', 'und', '_', 'äußerst', 'vorsichtig', 'der', 'Tür', 'schließen', '.']
+
+
+['_', '"', kommen, sein, doch, herein, "', ',', haben, K., gerade, noch, sagen, können, .]
+
+
+['_', 'nun', 'aber', 'stehen', 'er', 'mit', 'sein', 'Papier', 'in', 'der', 'Mitte', 'des', 'Zimmer', ',', '_', 'sehen', 'noch', 'auf', 'die', 'Tür', 'hin', ',', 'die', 'sich', 'nicht', 'wieder', 'öffnen', ',', 'und', '_', 'werden', 'erst', 'durch', 'ein', 'Anruf', 'der', 'Wächter', 'aufschrecken', ',', 'die', 'bei', 'dem', 'Tischchen', 'am', 'offen', 'Fenster', 'sitzen', 'und', ',', 'wie', 'K.', 'jetzt', 'erkennen', ',', '_', 'sein', 'Frühstück', 'verzehren', '.']
+
+
+['_', '"', 'Warum', 'sein', 'sie', 'nicht', 'eintreten', '?']
+
+
+['"', 'fragen', 'er', '.']
+
+
+['_', '"', 'sie', 'dürfen', '_', 'nicht', '"', ',', 'sagen', 'der', 'groß', 'Wächter', '.']
+
+
+['_', '"', 'sie', 'sein', 'doch', 'verhaften', '.']
+
+
+['"', '_', '"', 'Wie', 'können', 'ich', 'dann', 'verhaften', 'sein', '?']
+
+
+['_', 'und', 'gehen', 'auf', 'dies', 'Weise', '_', '_', '?']
+
+
+['"', '_', '"', 'nun', 'fangen', 'sie', 'also', 'wieder', 'an', '"', ',', 'sagen', 'der', 'Wächter', 'und', '_', 'tauchen', 'ein', 'Butterbrot', 'in', 'Honigfässchen', '.']
+
+
+[_, "" , Solch, Frage, beantworten, wir, nicht, .]
+
+
+'" _ "' sein werden beantworten müssen ", sagte K. "_ "' haben sein mein Legitimationspapier , zeigen sein mir jetzt die Ihr und _ _ _ vor allem haben Verhaftbefehl ."
+
+
+['"', '_', '"', 'Du', 'lieb', 'Himmel', '!']
+
+
+['"', 'sagen', 'der', 'Wächter', '.']
+
+
+['_', '"', 'dass', 'sie', 'sich', 'in', 'ihr', 'Lage', 'nicht', 'fügen', 'können', 'und', 'dass', 'sie', 'es', 'darauf', 'anlegen', 'zu', 'haben', 'scheinen', ',', 'wir', ',', 'der', 'wir', 'ihnen', 'jetzt', 'wahrscheinlich', 'von', 'allen', 'ihr', 'Mitmenschen', 'am', 'nächsten', 'stehen', ',', 'nutzlos', 'zu', 'reizen', '!']
+
+
+'"'  _  '"  sein  ist  so  ,  glauben  Sie  es  doch  "  ,  sagen  Franz  ,  _  führen  die  Kaffeetasse  ,  die  er  halten  in  der  Hand  ,  nicht  zu  Mund  ,  sondern  _  sehen  K.  mit  ein  lang  ,  wahrscheinlich  bedeutungsvoll  ,  aber  unverständlich  Blick  an  .
+
+-> [ '_', 'K.', 'lassen', 'sich', ',', 'ohne', 'es', 'zu', 'wollen', ',', 'in', 'ein', 'Zwiegespräch', 'der', 'Blick', 'mit', 'Franz', 'ein', ',', '_', 'schlagen', 'dann', 'aber', 'doch', 'auf', 'seine', 'Papier', 'und', '_', 'sagen', ':']
+
+
+["'", 'Hier', 'sein', 'mein', 'Legitimationspapier', '.']
+
+
+['"', '_', '"', 'Wahr', 'kümmern', 'wir', 'denn', 'der', '?']
+
+
+["'", 'rief', 'nun', 'schon', 'der', 'groß', 'Wächter', '.']
+
+
+['_', '"', 'sie', 'führen', 'sich', 'ärgern', 'auf', 'als', 'ein', 'Kind', '.']
+
+
+['_', 'Wollen', 'Sie', 'denn', '?']
+
+
+['_', 'wollen', 'sie', 'ihr', 'groß', ',', 'verfluchen', 'Prozeß', 'dadurch', 'zu', 'ein', 'rasch', 'Ende', 'bringen', ',', 'daß', 'sie', 'mit', 'wir', ',', 'der', 'Wächter', ',', 'über', 'Legitimation', 'und', 'Verhaftbefehl', 'diskutieren', '?']
+
+
+['_', 'wir', 'sein', 'niedrig', 'Angestellter', ',', 'der', 'sich', 'in', 'ein', 'Legitimationspapier', 'kaum', 'auskenne', 'und', 'mit', 'Ihr', 'Sache', 'nichts', 'anderes', 'zu', 'tun', 'haben', ',', 'als', 'dass', 'sie', 'zehn', 'Stunde', 'täglich', 'bei', 'Ihr', 'Wache', 'halten', 'und', 'dafür', 'bezahlen', 'werden', '.']
+
+
+['_', 'Das', 'sein', 'alles', ',', 'werden', 'wir', 'sein', ',', 'trotzdem', 'aber', 'sein', 'wir', 'fähig', ',', 'einsehen', ',', 'da', 'die', 'hohen', 'Behörde', ',', 'in', 'deren', 'Dienst', 'wir', 'stehen', ',', 'ehe', 'sie', 'eine', 'solchen', 'Verhaftung', 'verfügen', ',', 'sich', 'sehr', 'genau', 'über', 'die', 'Grund', 'des', 'Verhaftung', 'und', 'die', 'Person', 'des', 'Verhafteten', 'unterrichten', '.']
+
+
+['_', 'sein', 'geben', 'darin', 'kein', 'Irrtum', '.']
+
+
+['_', 'unser', 'Behörde', ',', 'so weit', 'ich', 'sie', 'kennen', ',', 'und', 'ich', 'kennen', 'nur', 'die', 'niedrig', 'Grad', ',', 'suche', 'doch', 'nicht', 'etwa', 'die', 'Schuld', 'in', 'der', 'Bevölkerung', ',', 'sondern', '_', 'werde', ',', 'wie', 'es', 'im', 'Gesetz', 'heißen', ',', 'von', 'der', 'Schuld', 'anziehen', 'und', '_', 'müssen', 'uns', 'Wächter', 'aussenden', '.']
+
+
+['_', 'Das', 'sein', 'Gesetz', '.']
+
+
+['_', 'Werden', 'geben', 'sein', 'dort', 'ein', 'Irrtum', '?']
+
+
+ '"', '_', '"', 'dies', 'Gesetz', 'kennen', 'ich', 'nicht', '"', ',', 'sagen', 'K.', '"', '_', '_', '_', 'desto', 'schlimm', 'für', 'Sie', '"', ',', 'sagen', 'der', 'Wächter', '.'
+
+
+['_', '"', 'Es', 'bestehen', 'wohl', 'auch', 'nur', 'in', 'Ihr', 'Kopf', '"', ',', 'sagen', 'K.', ',', 'er', 'wollen', 'sich', 'irgendwie', 'in', 'die', 'Gedanke', 'der', 'Wächter', 'einschleichen', ',', 'sie', 'zu', 'sein', 'Gunst', 'wenden', 'oder', 'sich', 'dort', 'einbürgern', '.']
+
+
+['_', 'aber', 'der', 'Wächter', 'sagen', 'nur', 'abweisend', ':']
+
+
+['\"', 'sie', 'werden', 'es', 'zu', 'fühlen', 'bekommen', '.']
+
+
+['"', '_', 'Franz', 'mischen', 'sich', 'ein', 'und', '_', 'sagen', ':']
+
+
+['"', 'sehen', ',', 'Willem', ',', 'er', 'geben', 'zu', ',', 'er', 'kennen', 'das', 'Gesetz', 'nicht', ',', 'und', '_', 'behaupten', 'gleichzeitig', ',', 'schuldlos', 'zu', 'sein', '.']
+
+
+['"', '_', '"', 'du', 'haben', 'ganz', 'recht', ',', 'aber', 'er', 'können', 'man', 'nichts', 'begreiflich', 'machen', '"', ',', 'sagen', 'der', 'anderes', '.']
+
+
+['_', 'K.', 'antworten', 'nichts', 'mehr', ';']
+
+
+muß, ich, ,, dachte, er, ,, durch, das, Geschwätz, dieser, niedrigsten, Organ, –, sie, geben, selbst, zu, ,, es, zu, sein, –, mich, noch, mehr, verwirren, lassen, ?
+
+
+['_', 'sie', 'reden', 'doch', 'jedenfalls', 'von', 'ding', ',', 'die', 'sie', 'gar', 'nicht', 'verstehen', '.']
+
+
+['_', 'Ihr', 'Sicherheit', 'sein', 'nur', 'durch', 'Ihr', 'Dummheit', 'möglich', '.']
+
+
+['_', 'ein', 'paar', 'Wort', ',', 'der', 'ich', 'mit', 'ein', 'mir', 'ebenbürtig', 'Mensch', 'sprechen', 'werden', ',', 'werden', 'alles', 'unvergleichlich', 'klar', 'machen', 'als', 'der', 'längste', 'Rede', 'mit', 'diese', '.']
+
+
+['_', 'er', 'gehen', 'mehrere', 'Mal', 'in', 'der', 'freien', 'Raum', 'von', 'Zimmer', 'auf', 'und', 'ab', ',', 'jenseits', 'sehen', 'er', 'die', 'alt', 'Frau', ',', 'die', 'eine', 'noch', 'viel', 'älter', 'Greis', 'zum', 'Fenster', 'ziehen', 'haben', ',', 'den', 'sie', 'umhalst', 'halten', '.']
+
+
+['_', 'K.', 'müssen', 'dies', 'Schaustellung', 'ein', 'Ende', 'machen', ':']
+
+
+['"', 'führen', 'sie', 'ich', 'zu', 'ihr', 'Vorgesetzter', '"', ',', 'sagen', 'er', '.']
+
+
+['_', '"', 'Wenn', 'er', 'es', 'wünschen', ';']
+
+
+['nicht', 'früh', '"', ',', 'sagen', 'der', 'Wächter', ',', 'der', 'Willem', 'nennen', 'werden', 'sein', '.']
+
+
+['_', '"', 'und', 'nun', 'raten', 'ich', 'Ihnen', '"', ',', 'fügen', 'er', 'hinzu', ',', '"', 'in', 'Ihr', 'Zimmer', 'gehen', ',', 'sich', 'ruhig', 'halten', 'und', 'darauf', 'warten', ',', 'was', 'über', 'Sie', 'verfügen', 'werden', '.']
+
+
+['_', 'Wir', 'raten', 'Ihnen', ',', 'zerstreuen', 'Sie', 'sich', 'nicht', 'durch', 'nutzlos', 'Gedanke', ',', 'sondern', 'sammeln', 'Sie', 'sich', ',', 'es', 'werden', 'groß', 'Anforderung', 'an', 'Sie', 'stellen', 'werden', '.']
+
+
+['_', 'sie', 'haben', 'uns', 'nicht', 'so', 'behandeln', ',', 'wie', 'es', 'unser', 'entgegenkommen', 'verdienen', 'haben', ',', 'sie', 'vergessen', ',', 'dass', 'wir', ',', 'möge', 'wir', 'auch', 'sein', '_', 'was', 'immer', '_', '_', ',', 'zumindest', 'jetzt', 'ihnen', 'gegenüber', 'frei', 'Mann', 'sein', ',', 'das', 'sein', 'kein', 'klein', 'übergewicht', '.']
+
+
+['_', 'Trotz', 'sein', 'wir', 'bereit', ',', 'fall', 'Sie', 'Geld', 'haben', ',', 'Ihnen', 'ein', 'klein', 'Frühstück', 'aus', 'dem', 'Kaffeehaus', 'drüben', 'zu', 'bringen', '.']
+
+
+['"', '_', 'ohne', 'auf', 'diese', 'Angebot', 'zu', 'antworten', ',', 'stehen', 'K.', 'ein', 'Weilchen', 'lang', 'stills', '.']
+
+
+['_', 'Vielleicht', 'würden', 'ihn', 'die', 'zwei', ',', 'wenn', 'er', 'die', 'Tür', 'des', 'folgend', 'Zimmer', 'oder', 'gar', 'die', 'Tür', 'des', 'Vorzimmer', 'öffnen', ',', 'gar', 'nicht', 'zu', 'hindern', 'wag', ',', 'vielleicht', 'werden', 'es', 'die', 'einfach', 'Lösung', 'des', 'Ganze', ',', 'dass', 'er', 'es', 'auf', 'die', 'Spitze', 'treiben', '.']
+
+
+['_', 'aber', 'vielleicht', 'würden', 'sie', 'ihn', 'doch', 'packen', 'und', ',', 'sein', 'einmal', 'niederwerfen', ',', 'so', 'sein', 'auch', 'all', 'Überlegenheit', 'verlieren', ',', 'der', 'er', 'jetzt', 'ihnen', 'gegenüber', 'in', 'gewisser', 'Hinsicht', 'doch', 'wahren', '.']
+
+
+['_', 'deshalb', 'ziehen', 'er', 'die', 'Sicherheit', 'der', 'Lösung', 'vor', ',', 'wie', 'sie', 'der', 'natürlich', 'Verlauf', 'bringen', 'müssen', ',', 'und', '_', 'gehen', 'in', 'sein', 'Zimmer', 'zurück', ',', 'ohne', 'dass', 'von', 'sein', 'Seite', 'oder', 'von', 'Seite', 'der', 'Wächter', 'ein', 'weitere', 'Wort', 'fallen', 'werden', '.']
+
+
+['_', 'werfen', 'sich', 'auf', 'sein', 'Bett', 'und', '_', 'nehmen', 'vom', 'Waschtisch', 'ein', 'schön', 'Apfel', ',', 'der', 'er', 'gestern', 'Abend', 'für', 'das', 'Frühstück', 'vorbereiten', 'haben', '.']
+
+
+['_', 'jetzt', 'sein', 'einzig', 'Frühstück', 'und', 'jedenfalls', ',', 'wie', 'er', 'sich', 'beim', 'erst', 'groß', 'Biss', 'versichern', ',', 'viel', 'besser', ',', 'als', 'das', 'Frühstück', 'aus', 'der', 'schmutzig', 'Nachtcafé', 'sein', 'wäre', ',', 'das', 'er', 'durch', 'die', 'Gnade', 'der', 'Wächter', 'haben', 'bekommen', 'können', '.']
+
+
+['_', 'er', 'fühlen', 'sich', 'wohl', 'und', 'zuversichtig', ',', 'in', 'der', 'bank', 'versäumen', 'er', 'zwar', 'heute', 'vormittag', 'sein', 'dienst', ',', 'aber', 'das', 'sein', 'bei', 'der', 'verhältnismäßig', 'hoch', 'stellung', ',', 'die', 'er', 'dort', 'einnehmen', ',', 'leicht', 'entschuldigen', '.']
+
+
+['_', 'sollen', 'er', 'die', 'wirklich', 'Entschuldigung', 'anführen', '?']
+
+
+['_', 'er', 'gedenken', '_', 'es', 'zu', 'tun', ',', 'würde', 'mann', 'ihm', 'nicht', 'glauben', ',', 'was', 'in', 'diesem', 'Fall', 'begreiflich', 'sein', ',', 'so', 'können', 'er', 'Frau', 'Grubach', 'als', 'Zeuge', 'führen', 'oder', 'auch', 'die', 'beide', 'Alt', 'von', 'drüben', ',', 'die', 'wohl', 'jetzt', 'auf', 'dem', 'Marsch', 'zum', 'gegenüberliegend', 'Fenster', 'sein', '.']
+
+
+['_', 'er', 'wunder', 'K.', ',', 'wenigst', 'aus', 'der', 'Gedankengang', 'der', 'Wächter', 'wunder', 'es', 'ihm', ',', 'daß', 'sie', 'ihm', 'in', 'das', 'Zimmer', 'treiben', 'und', '_', 'ihm', 'hier', 'allein', 'lassen', 'haben', ',', 'wo', 'er', 'doch', 'zehnfach', 'Möglichkeit', 'haben', ',', 'sich', 'umbringen', '.']
+
+
+['_', 'Gleichzeitig', 'allerdings', 'fragen', 'er', 'sich', ',', 'diesmal', 'aus', 'sein', 'Gedankengang', ',', 'was', 'für', 'eine', 'Grund', 'er', 'haben', 'können', ',', 'es', 'zu', 'tun', '.']
+
+
+['_', 'etwa', 'weil', 'der', 'zwei', 'nebenan', 'sitzen', 'und', '_', 'seine', 'frühstück', 'abfangen', 'haben', '?']
+
+
+_ | sein | werden | so | sinnlos | geben | , | sich | umbringen | , | dass | er | , | selbst | wenn | er | es | haben | tun | wollen | , | infolge | der | Sinnlosigkeit | dazu | nicht | imstande | sein | werden | .
+
+
+['_', 'Wär', 'die', 'geistig', 'Beschränktheit', 'der', 'Wächter', 'nicht', 'so', 'auffallend', 'gewesen', ',', 'so', 'hätt', 'man', 'annehmen', 'können', ',', 'daß', 'auch', 'sie', ',', 'infolg', 'der', 'gleich', 'Überzeugung', ',', 'kein', 'Gefahr', 'darin', 'sehen', 'hätt', ',', 'ihn', 'allein', 'zu', 'lassen', '.']
+
+
+['_', 'sie', 'mögen', 'jetzt', ',', 'wenn', 'sie', 'wollen', ',', 'zusehen', ',', 'wie', 'er', 'zu', 'ein', 'Wandschrank', 'gehen', ',', 'in', 'der', 'er', 'ein', 'gut', 'Schnaps', 'aufbewahren', ',', 'wie', 'er', 'ein', 'Glas', 'zuerst', 'zum', 'Ersatz', 'des', 'Frühstück', 'leeren', 'und', 'wie', 'er', 'ein', 'zweit', 'Glas', 'dazu', 'bestimmen', ',', 'sich', 'Mut', 'zu', 'machen', ',', 'das', 'letzte', 'nur', 'aus', 'Vorsicht', 'für', 'den', 'unwahrscheinlich', 'Fall', ',', 'dass', 'es', 'nötig', 'sein', 'sollen', '.']
+
+
+['_', 'Da', 'erschrecken', 'ihn', 'ein', 'Zuruf', 'aus', 'dem', 'Nebenzimmer', 'derartig', ',', 'daß', 'er', 'mit', 'die', 'Zahn', 'an', 'Glas', 'schlagen', '.']
+
+
+['_', '"', 'der', 'Aufseher', 'rufen', 'Sie', '!']
+
+
+['"', 'heißen', 'es', '.']
+
+['_', 'sein', 'sein', 'nur', 'das', 'Schrei', ',', 'das', 'er', 'erschrecken', ',', 'diese', 'kurz', ',', 'abgehackt', ',', 'militärisch', 'Schrei', ',', 'das', 'er', 'dem', 'Wächter', 'Franz', 'ganz', 'nicht', 'zutrauen', 'haben', '.']
+
+
+['_', 'Der', 'Befehl', 'selbst', 'sein', 'ihm', 'sehr', 'willkommen', '.']
+
+
+['_', '"', 'endlich', '!']
+
+
+['"', 'rufen', 'er', 'zurück', ',', 'versperren', 'der', 'Wandschrank', 'und', '_', 'eilen', 'sofort', 'in', 'Nebenzimmer', '.']
+
+
+['_', 'dort', 'stehen', 'der', 'zwei', 'Wächter', 'und', '_', 'jagen', 'er', ',', 'als', 'sein', 'selbstverständlich', ',', 'wieder', 'in', 'sein', 'Zimmer', 'zurück', '.']
+
+
+['_', '"', 'Fallen', 'Euch', 'sein', '?']
+
+
+['"', 'riefen', 'sie', '.'] --> ['"', 'riefen', 'sie', '.']
+
+
+['_', '"', 'Ich', 'Hemd', 'wollen', 'Du', 'vor', 'den', 'Aufseher', '?']
+
+
+['_', 'er', 'lassen', 'du', 'durchprügeln', 'und', 'wir', '_', '_', 'mit', '!']
+
+
+['"', '_', '"', 'lassen', 'ich', ',', 'zu', 'Teufel', '!']
+
+
+['"', 'rief', 'K.', ',', 'der', 'schon', 'bis', 'zu', 'sein', 'Kleiderkasten', 'zurückdrängen', 'sein', ',', '"', 'wenn', 'man', 'mich', 'im', 'Bett', 'überfallen', ',', 'können', 'nicht', 'erwarten', ',', 'mich', 'im', 'Festanzug', 'finden', '.']
+
+
+``'"``, ``_``, ``"``, ``es``, ``helfen``, ``nichts``, ``"``, ``,``, ``sagen``, ``die``, ``Wächter``, ``,``, ``die``, ``immer``, ``,``, ``wenn``, ``K.``, ``schreien``, ``,``, ``ganz``, ``ruhig``, ``,``, ``ja``, ``fast``, ``traurig``, ``werden``, ``und``, ``_``, ``ihm``, ``dabei``, ``verwirren``, ``oder``, ``_``, ``_``, ``gewissermaßen``, ``zu``, ``Besinnung``, ``brechen``, ``.``
+
+
+['_', '"', '_', '_', 'lächerlich', 'Zeremonie', '!']
+
+
+'\"' brummen er noch, _ heben aber schon ein Rock vom Stuhl und _ halten ihn ein Weile mit beide Hand, als unterbreiten er ihm das Urteil der Wächter.
+
+
+['_', 'sie', 'schütteln', 'die', 'Kopf', '.']
+
+
+['_', '"', 'Es', 'müssen', 'ein', 'schwarz', 'Rock', 'sein', '"', ',', 'sagen', 'sie', '.']
+
+
+['_', 'K.', 'werfen', 'daraufhin', 'der', 'Rock', 'zu', 'Boden', 'und', '_', 'sagen', '–', 'er', 'wissen', 'selbst', 'nicht', ',', 'in', 'welchem', 'Sinn', 'er', 'es', 'sagen', '–', ':']
+
+
+['"', 'sein', 'sein', 'doch', 'noch', 'nicht', 'die', 'Hauptverhandlung', '.']
+
+
+['"', '_', 'die', 'Wächter', 'lächeln', ',', '_', 'bleiben', 'aber', 'bei', 'sein', ':']
+
+
+['"', 'Es', 'müssen', 'ein', 'schwarz', 'Rock', 'sein', '.']
+
+
+'"' '_' '"' 'Wenn' 'ich' 'dadurch' 'die' 'Sache' 'beschleunigen' ',' 'soll' 'es' 'mir' 'recht' 'sein' '"' ',' 'sagen' 'K.' ',' '_' 'öffnen' 'selbst' 'den' 'Kleiderkasten' ',' '_' 'suchen' 'lang' 'unter' 'den' 'viel' 'Kleid' ', ' '_' 'wählen' 'sein' 'beste' 'schwarz' 'Kleid' ',' 'ein' 'Jackettkleid' ',' 'der' 'durch' 'seine' 'Taille' 'unter' 'den' 'bekannt' 'fast' 'Aufsehen' 'machen' 'haben' ',' '_' 'ziehen' 'nun' 'auch' 'ein' 'andere' 'Hemd' 'hervor' 'und' '_' 'beginnen' ',' 'sich' 'sorgfältig' 'anzuziehen' '.'
+
+
+['_', 'Ich', 'geheim', 'glauben', 'er', ',', 'einer', 'Beschleunigung', 'der', 'Ganze', 'damit', 'erreichen', 'zu', 'haben', ',', 'dass', 'die', 'Wächter', 'vergessen', 'haben', ',', 'ihn', 'zu', 'Bad', 'zu', 'zwingen', '.']
+
+
+_ er beobachtete sie , ob sie sich vielleicht daran doch erinnern würde , aber das fallen ihnen natürlich gar nicht ein , dagegen vergessen Willem nicht , Franz mit der Meldung , daß sich K. anziehen , zum Aufseher zu schicken .
+
+
+'_', 'sein', 'vollständig', 'anziehen', 'müssen', 'knapp', 'vor', 'Willem', 'durch', 'leer', 'Nebenzimmer', 'in', 'folgend', 'Zimmer', 'gehen', ',', 'dessen', 'Tür', 'mit', 'beide', 'Flügel', 'bereits', 'öffnen', 'sein', '.'
+
+
+['_', 'dies', 'zimmer', 'werden', ',', 'wie', 'K.', 'genau', 'wissen', ',', 'seit', 'kurz', 'zeit', 'von', 'ein', 'fräulein', 'bürstner', ',', 'ein', 'schreibmaschinistin', ',', 'bewohnen', ',', 'die', 'sehr', 'früh', 'in', 'die', 'arbeit', 'zu', 'gehen', 'pflegen', ',', '_', 'spät', 'nach', 'haus', 'kommen', 'und', 'mit', 'der', 'K.', 'nicht', 'viel', 'mehr', 'als', 'die', 'grußwort', 'wechseln', 'haben', '.']
+
+
+['_', 'jetzt', 'sein', 'das', 'Nachttischchen', 'von', 'ihr', 'Bett', 'als', 'Verhandlungstisch', 'in', 'die', 'Mitte', 'des', 'Zimmer', 'rücken', ',', 'und', 'der', 'Aufseher', 'sitzen', 'hinter', 'ihm', '.']
+
+
+['_', 'er', 'haben', 'die', 'Bein', 'übereinandergeschlagen', 'und', 'ein', 'Arm', 'auf', 'die', 'Rückenlehne', 'des', 'Stuhl', 'legen', '.']
+
+
+['_', 'in', 'Ecke', 'Zimmer', 'stehen', 'drei', 'jung', 'Leute', 'und', '_', 'sehen', 'Photographie', 'Fräulein', 'Bürstner', 'an', ',', 'in', 'an', 'Wand', 'aufhängen', 'Matt', 'stecken', '.']
+
+
+['_', 'an', 'der', 'Klinke', 'des', 'offen', 'Fenster', 'hängen', 'ein', 'weiß', 'Bluse', '.']
+
+
+['_', 'im', 'gegenüberliegen', 'Fenster', 'legen', 'wieder', 'die', 'zwei', 'Alt', ',', 'doch', 'haben', 'sich', 'sein', 'Gesellschaft', 'vergrößern', ',', 'denn', 'hinter', 'ihnen', ',', 'sie', 'weit', 'überragen', ',', 'stehen', 'ein', 'Mann', 'mit', 'ein', 'auf', 'der', 'Brust', 'offen', 'Hemd', ',', 'der', 'sein', 'rötlichen', 'Spitzbart', 'mit', 'die', 'Finger', 'drücken', 'und', '_', '_', 'drehen', '.']
+
+
+['_', '"', '_', '_', 'Josef', 'K', '?']
+
+
+['"', 'fragen', 'der', 'Aufseher', ',', 'vielleicht', 'nur', 'um', 'K.s', 'zerstreut', 'Blick', 'auf', 'sich', 'zu', 'lenken', '.']
+
+
+['_', 'K.', 'nicken', '.']
+
+
+['_', '"', 'sie', 'sein', 'durch', 'die', 'Vorgang', 'des', 'heutig', 'Morgen', 'wohl', 'sehr', 'überrascht', '?']
+
+
+'"__fragen', 'der', 'Aufseher', 'und', '__verschob', 'dabei', 'mit', 'beiden', 'Hand', 'die', 'wenig', 'Gegenstand', ',', 'die', 'auf', 'dem', 'Nachttischchen', 'liegen', ',', 'die', 'Kerze', 'mit', 'Zündholzchen', ',', 'ein', 'Buch', 'und', 'ein', 'Nadelkissen', ',', 'als', 'sein', 'es', 'Gegenstand', ',', 'die', 'er', 'zur', 'Verhandlung', 'benötigen', '.'
+
+
+['_', '"', 'gewiss', '"', ',', 'sagen', 'K.', ',', 'und', 'das', 'Wohlgefühl', ',', 'endlich', 'ein', 'vernünftig', 'Mensch', 'gegenüberstellen', 'und', 'über', 'sein', 'Angelegenheit', 'mit', 'ihm', 'sprechen', 'zu', 'können', ',', 'erfassen', 'ihn', '.']
+
+
+['_', '"', 'gewiss', ',', 'ich', 'sein', 'überrascht', ',', 'aber', 'ich', 'sein', 'keineswegs', 'sehr', 'überrascht', '.']
+
+
+['"', '_', '"', '_', '_', 'Nicht', 'sei', 'überraschen', '?']
+
+
+'"', '_', 'fragen', 'der', 'Aufseher', 'und', '_', 'stellen', 'nun', 'die', 'Kerze', 'in', 'die', 'Mitte', 'des', 'Tischchen', ',', 'während', 'er', 'die', 'andere', 'Sache', 'um', 'sie', 'gruppieren', '.'
+
+
+['_', '"', 'sie', 'mißverstehen', 'ich', 'vielleicht', '"', ',', 'beeilen', 'sich', 'K.', 'zu', 'bemerk', '.']
+
+
+['_', '"', 'ich', 'mein', '"', '–', 'hier', 'unterbrechen', 'sich', 'K.', 'und', '_', 'sehen', 'sich', 'nach', 'ein', 'Sessel', 'um', '.']
+
+
+['_', '"', 'Ich', 'können', 'mich', 'dock', 'setzen', '?']
+
+
+['"', 'fragen', 'er', '.']
+
+
+['_', '"', 'sein', 'sein', 'nicht', 'üblich', '"', ',', 'antworten', 'der', 'Aufseher', '.']
+
+
+tokenlist_lemmatized = ['_', '"', 'ich', 'meinen', '"', ',', 'sagen', 'nun', 'K.', 'ohne', 'weit', 'Pause', ',', '"', 'ich', 'sein', 'allerdings', 'sehr', 'überrascht', ',', 'aber', 'man', 'sein', ',', 'wenn', 'man', 'dreißig', 'Jahr', 'auf', 'der', 'Welt', 'sein', 'und', '_', '_', 'sich', 'allein', 'haben', 'durchschlagen', 'müssen', ',', 'wie', 'es', 'mir', 'bescheiden', 'sein', ',', 'gegen', 'Überraschung', 'abgehärtet', 'und', '_', 'nehmen', 'sie', 'nicht', 'zu', 'schwer', '.']
+
+
+['_', 'besonders', 'die', 'heutig', '_', '_', 'nicht', '.']
+
+
+['"', '_', '"', 'Warum', '_', '_', 'besonders', 'der', 'heutige', 'nicht', '?']
+
+
+'"', '_', '"', 'ich', 'wollen', 'nicht', 'sagen', ',', 'daß', 'ich', 'das', 'ganz', 'für', 'ein', 'Spaß', 'ansehen', ',', 'dafür', 'scheinen', 'mir', 'die', 'Veranstaltung', ',', 'machen', ',', 'doch', 'zu', 'umfangreich', '.'
+
+
+['_', 'es', 'müssen', 'all', 'Mitglied', 'der', 'Pension', 'daran', 'beteiligen', 'sein', 'und', 'auch', 'du', 'all', ',', 'das', 'gehen', 'über', 'die', 'Grenze', 'ein', 'Spaß', '.']
+
+
+['_', 'ich', 'wollen', 'also', 'nicht', 'sagen', ',', 'daß', 'es', 'ein', 'Spaß', 'sein', '.']
+
+
+['"', '_', '"', '_', '_', 'ganz', 'richtig', '"', ',', 'sagen', 'der', 'Aufseher', 'und', '_', 'sehen', 'nach', ',', 'wie|', 'viel', 'Zündholz', 'in', 'der', 'Zündholzschachtel', 'sein', '.']
+
+
+['_', '"', 'andererseits', 'aber', '"', ',', 'fahren', 'K.', 'fort', 'und', '_', 'wenden', 'sich', 'hierbei', 'an', 'alle', 'und', '_', 'haben', 'gern', 'sogar', 'der', 'Drei', 'bei', 'dem', 'Photographie', 'sich', 'zuwenden', ',', '"', 'andererseits', 'aber', 'können', 'die', 'Sache', 'auch', 'nicht', 'viel', 'Wichtigkeit', 'haben', '.']
+
+
+['_', 'ich', 'folgern', 'das', 'daraus', ',', 'daß', 'ich', 'anklagen', 'sein', ',', 'aber', '_', '_', 'nicht', 'die', 'gering', 'Schuld', 'auffinden', 'können', ',', 'wegen', 'deren', 'man', 'ich', 'anklagen', 'können', '.']
+
+
+['_', 'aber', 'auch', 'das', 'sein', 'nebensächlich', ',', 'die', 'Hauptfrage', 'sein', ',', 'von', 'wer', 'sein', 'ich', 'anklagen', '?']
+
+
+['_', 'welch', 'Behörde', 'führen', 'das', 'Verfahren', '?']
+
+
+['_', 'sein', 'du', 'Beamter', '?']
+
+
+['_', 'keiner', 'haben', 'ein', 'Uniform', ',', 'wenn', 'man', 'nicht', 'Ihr', 'Kleid', '"', '–', 'hier', 'wenden', 'er', 'sich', 'an', 'Franz', '–', '"', 'ein', 'Uniform', 'nennen', 'wollen', ',', 'aber', 'es', 'sein', 'doch', 'eher', 'ein', 'Reiseanzug', '.']
+
+
+['_', 'in', 'dieser', 'Frage', 'verlangen', 'ich', 'Klarheit', ',', 'und', 'ich', 'sein', 'überzeugen', ',', 'daß', 'wir', 'nach', 'dieser', 'Klarstellung', 'voneinander', 'der', 'herzlichste', 'Abschied', 'werden', 'nehmen', 'können', '.']
+
+
+['"', '_', 'der', 'Aufseher', 'schlagen', 'die', 'Zündhölzchenschachtel', 'auf', 'den', 'Tisch', 'nieder', '.']
+
+
+['_', '"', 'sie', 'befinden', 'sich', 'in', 'ein', 'groß', 'Irrtum', '"', ',', 'sagen', 'er', '.']
+
+
+['_', '"', 'dies', 'herr', 'hier', 'und', 'ich', 'sein', 'für', 'ihr', 'angelegenheit', 'vollständig', 'nebensächlich', ',', 'ja', 'wir', 'wissen', 'sogar', 'von', 'ihr', 'fast', 'nichts', '.']
+
+
+['_', 'Wir', 'können', 'der', 'regelrechtesten', 'Uniform', 'tragen', ',', 'und', 'Ihr', 'Sache', 'werden', 'um', 'nichts', 'schlecht', 'stehen', '.']
+
+
+['_', 'ich', 'können', 'Ihnen', 'auch', 'durchaus', 'nicht', 'sagen', ',', 'daß', 'Sie', 'anklagen', 'sein', 'oder', 'vielmehr', ',', 'ich', 'wissen', 'nicht', ',', 'ob', 'Sie', 'es', 'sein', '.']
+
+
+['_', 'sie', 'sein', 'verhaften', ',', 'das', 'sein', 'richtig', ',', 'mehr', 'wissen', 'ich', 'nicht', '.']
+
+
+['_', 'Vielleicht', 'haben', 'der', 'Wächter', 'etwas', 'anders', 'schwätzen', ',', 'dann', 'sein', 'es', 'eben', 'nur', 'Geschwätz', 'sein', '.']
+
+
+['_', 'Wenn', 'ich', 'nun', 'aber', 'auch', 'Ihr', 'Frage', 'nicht', 'beantworten', ',', 'so', 'können', 'ich', 'Ihnen', 'doch', 'raten', ',', 'denken', 'Sie', 'wenig', 'an', 'uns', 'und', 'an', 'das', ',', 'was', 'mit', 'Ihnen', 'geschehen', 'werden', ',', 'denken', 'Sie', 'lieber', 'mehr', 'an', 'sich', '.']
+
+
+['_', 'und', 'machen', 'sie', 'kein', 'solch', 'Lärm', 'mit', 'dem', 'Gefühl', 'ihr', 'Unschuld', ',', 'es', 'stören', 'der', 'nicht', 'gut', 'schlecht', 'Eindruck', ',', 'der', 'sie', 'im', 'übrig', 'machen', '.']
+ 
+
+['_', 'auch', 'sollen', 'sie', 'überhaupt', 'im', 'reden', 'zurückhaltend', 'sein', ',', 'fast', 'alles', ',', 'was', 'sie', 'vorhin', 'sagen', 'haben', ',', 'können', 'man', ',', 'wenn', 'sie', 'nur', 'ein', 'paar', 'wort', 'sagen', 'haben', ',', 'ihr', 'verhalten', 'entnehmen', ',', 'außerdem', 'sein', 'es', 'nichts', 'für', 'sie', 'übermäßig', 'günstig', '.']
+
+
+['"', '_', 'K.', 'starren', 'der', 'Aufseher', 'an', '.']
+
+
+['_', 'Schule', 'Lehre', 'bekommen', 'er', 'hier', 'von', 'ein', 'vielleicht', 'jung', 'Mensch', '?']
+
+
+['_', 'Für', 'sein', 'Offenheit', 'werden', 'er', 'mit', 'ein', 'Rüge', 'bestrafen', '?']
+
+
+['_', 'und', 'über', 'der', 'Grund', 'sein', 'Verhaftung', 'und', 'über', 'denen', 'Auftraggeber', 'erfahren', 'er', 'nichts', '?']
+
+
+['_', 'er', 'geraten', 'in', 'eine', 'gewiss', 'Aufregung', ',', '_', 'gehen', 'auf', 'und', 'ab', ',', 'woran', 'er', 'niemand', 'hindern', ',', '_', 'schieben', 'sein', 'Manschette', 'zurück', ',', '_', 'befühlen', 'die', 'Brust', ',', '_', 'streichen', 'sein', 'Haar', 'zurecht', ',', '_', 'kommen', 'an', 'den', 'drei', 'Herrn', 'vorüber', ',', '_', 'sagen', ':']
+
+
+['"', 'sein', 'sein', 'ja', 'sinnlos', '"', ',', 'worauf', 'sich', 'dies', 'zu', 'er', 'umdrehen', 'und', '_', 'er', 'entgegenkommend', ',', 'aber', 'ernst', 'ansehen', 'und', '_', 'machen', 'endlich', 'wieder', 'vor', 'dem', 'Tisch', 'des', 'Aufseher', 'halten', '.']
+
+
+token_list_lemma  = ['_', '"', 'der', 'staatsanwalt', 'hasterer', 'sein', 'mein', 'genießen', 'freund', '"', ',', 'sagen', 'er', ',', '"', 'können', 'ich', '_', 'ihm', 'telephonieren', '?']
+
+
+'"', '_', '"', 'gewiss', '"', ',', 'sagen', 'der', 'aufseher', ',', '"', 'aber', 'ich', 'wissen', 'nicht', ',', 'welchen', 'sinn', 'das', 'haben', 'soll', ',', 'es', 'müssen', 'denn', 'sein', ',', 'dass', 'sie', 'irgendein', 'privat', 'angelegenheit', 'mit', 'ihm', 'zu', 'besprechen', 'haben', '.'
+
+
+['"', '_', '"', 'welch', 'Sinn', '_', '_', '?']
+
+
+['"', 'rief', 'K', ',', 'mehr', 'bestürzen', 'als', 'ärgern', '.']
+
+
+['_', '"', 'Wer', 'sein', 'Sie', 'denn', '?']
+
+
+['_', 'sie', 'wollen', 'ein', 'Sinn', 'und', '_', 'führen', 'dies', 'sinnlos', 'auf', ',', 'das', 'es', 'geben', '?']
+
+
+['_', 'sein', 'seine', 'nicht', 'zum', 'Steinerweichen', '?']
+
+
+['_', 'der', 'Herr', 'haben', 'ich', 'zuerst', 'überfallen', ',', 'und', 'jetzt', 'sitzen', '_', 'oder', 'stehen', 'sie', 'hier', 'herum', 'und', '_', 'lassen', 'ich', 'vor', 'Ihn', 'die', 'hoch', 'Schule', 'reiten', '.']
+
+
+['_', 'welch', 'Sinn', 'es', 'haben', ',', 'an', 'ein', 'Staatsanwalt', 'zu', 'telephonieren', ',', 'wenn', 'ich', 'angeblich', 'verhaften', 'sein', '?']
+
+
+['_', 'gut', ',', 'ich', 'werden', 'nicht', 'telephonieren', '.']
+
+
+'"' , '_' , '"' , 'Aber' , 'doch' , '"' , ',', 'sagen' , 'der' , 'Aufseher' , 'und' , '_' , 'strecken' , 'die' , 'Hand' , 'zum' , 'Vorzimmer' , 'aus' , ',', 'wo' , 'das' , 'Telephon' , 'sein' , ',', '"' , 'bitten' , ',', 'telephonieren' , 'Sie' , 'doch' , '.'
+
+
+['"', '_', '"', 'Nein', ',', 'ich', 'wollen', 'nicht', 'mehr', '"', ',', 'sagen', 'K.', 'und', '_', 'gehen', 'zum', 'Fenster', '.']
+
+
+['_', 'drüben', 'sein', 'noch', 'der', 'Gesellschaft', 'bei', 'Fenster', 'und', '_', 'scheinen', 'nur', 'jetzt', 'dadurch', ',', 'dass', 'K.', 'an', 'Fenster', 'herankommen', 'sein', ',', 'in', 'der', 'Ruhe', 'des', 'Zuschauen', 'ein', 'wenig', 'stören', '.']
+
+
+['_', 'die', 'alt', 'wollen', 'sich', 'erheben', ',', 'aber', 'der', 'Mann', 'hinter', 'ihn', 'beruhigen', 'sie', '.']
+
+
+['_', '"', 'dort', 'sein', 'auch', 'solch', 'Zuschauer', '"', ',', 'rief', 'K.', 'ganz', 'laut', 'der', 'Aufseher', 'zu', 'und', '_', 'zeigen', 'mit', 'der', 'Zeigefinger', 'hinaus', '.']
+
+
+['_', '"', '_', '_', 'Weg', 'von', 'dort', '"', ',', 'riefen', 'er', 'dann', 'hinüber', '.']
+
+
+['_', 'die', 'drei', 'wochen', 'auch', 'sofort', 'ein', 'paar', 'Schritt', 'zurück', ',', 'die', 'beiden', 'alt', '_', 'sogar', 'noch', 'hinter', 'der', 'Mann', ',', 'der', 'sie', 'mit', 'sein', 'breit', 'Körper', 'decken', 'und', ',', '_', 'nach', 'sein', 'Mundbewegung', 'zu', 'schließen', ',', 'irgend', 'etwas', 'auf', 'die', 'Entfernung', 'hin', 'unverständlich', 'sagen', '.']
+
+
+['_', 'ganz', 'aber', 'verschwinden', 'sie', 'nicht', ',', 'sondern', '_', 'scheinen', 'auf', 'der', 'Augenblick', 'zu', 'warten', ',', 'in', 'dem', 'sie', 'sich', 'unbemerkt', 'wieder', 'das', 'Fenster', 'nähern', 'können', '.']

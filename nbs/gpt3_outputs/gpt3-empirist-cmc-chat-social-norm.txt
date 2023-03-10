@@ -1,0 +1,706 @@
+
+
+tokenliste: ['was', 'wirklich', 'Zori', '?']
+
+
+['das', 'Kuss', '??']
+
+
+['na', 'gut', 'Marc', '.', 'kein', 'Servicepaket', 'Nr.', '1', 'für', 'du', ':)']
+
+
+[was, ?]
+
+
+[Hi]
+
+
+['danken', 'Pharao', '*', 'erleichtern', 'gucken', '*']
+
+
+['juhu', 'Tom', 'sein', 'da']
+
+
+['echt', '?'] --> ['echt', '?']
+
+
+['hi', 'quack']
+
+
+['heyho', 'Tom'] --> ['heyho', 'Tom']
+
+
+['re', 'Tom'] -> ['re', 'Tom']
+
+
+['hi', 'marc']
+
+
+[Hi, Tom]
+
+
+['hi', 'Faryen'] -> ['hi', 'Faryen']
+
+
+['hi', 'Zora'] --> ['hi', 'Zor']
+
+
+['huhu', 'Tom', ':)'] --> ['huhu', 'Tom', ':)']
+
+
+['all', 'Konfett', 'bei', 'du', '?']
+
+
+['Ich', 'nochmal', 'zu', 'hin', 'sein', 'hinstellen']
+
+[':)']
+
+:-)
+
+
+Lantonie
+
+
+['hallo', '.', ':)'] → ['hallo', '.', ':)']
+
+
+['Lantonie', ':)))'] --> ['Lantonie', ':)' ]
+
+
+['*', 'mal', 'gucken', 'wo', 'Quak', 'sich', 'nun', 'hinstellen', '*', 'gehen', '*']
+
+
+Freuen
+
+
+['juhu']
+
+
+[Hallo, Quak, .]
+
+
+['Lantonie', ':o)'] -> ['Lantonie', ':o)']
+
+
+['Hi', 'Lanto']
+
+
+['huhu', 'zora', '.', ':)))'] → ['huhu', 'zora', '.', ':)))']
+
+
+[re, Tomcat, .]
+
+
+['re', 'marc', '.', '.)))']
+
+
+['up', 'sein', 'das', 'das', 'falsch', 'Eck', '??']
+
+
+['hi', 'Lantonie'] -> ['hi', 'lantonie']
+
+quak|krabbl|aus|dem|Eck|rau
+
+
+
+['Hallo', 'Faryen', '.']
+
+
+:)
+
+
+['ich', 'finden', 'der', 'quaki', 'klasse', ',', 'ein', 'toll', 'Neuzugang', ',', 'der', 'sich', 'echt', 'bewähren', '.']
+
+
+[':)))']
+
+
+['na', ',', 'Zor', '?', ':))']
+
+
+[den, ?]
+
+
+['*', 'gehen', '*']
+
+
+['danken','Lantonie']
+
+
+['ich', 'haben', 'heute', 'ein', 'SMS', 'von', 'Tigaaaaelse', 'bekommen', '.']
+
+
+['*', 'erzählen', '*']
+
+
+['Lanto', 'reden', 'wie', 'ein', 'Bewährungshelfer']
+
+
+['Zora', 'freuen', 'sich', 'über', 'ihr', 'Zeugnis', ':)))']
+
+
+['*', 'aufplustern', '*']
+
+
+['ich', 'machen', 'wieder', 'nicht', '...']
+
+
+was haben denn Zori ??
+
+
+erzählen
+
+
+[das, haben, du, sich, verdienen, , Zori, ?]
+
+
+['Oh', 'Mann', 'sein', 'für', 'Krawall', 'hier', 'draußen', '...', '*', 'gucken', '*']
+
+
+['nur', 'Eins', '*', 'brustschwellen', '*']
+
+
+re: :-)
+
+
+re
+
+
+['r', 'emon']
+
+
+['und', 'ein', 'Ein', 'Minus', 'in', 'Benehmen', '*', 'ggg', '*']
+
+
+['*','njamnjamnajm','*'] → ['*','njamnjamnajm','*']
+
+
+re, stoep, .
+
+
+['oh', 'der', 'Geist', 'kommen', 'auch', '*', 'freuen', '*']
+
+
+Re - Re
+Stoeps - Stoep
+:o) - :o)
+
+
+['+', 's'] --> ['+', 'be']
+
+
+['hallo', 'emon', '.']
+
+
+re, stoep
+
+
+['hi', 'emon']
+
+
+['tag', 'quak', ':)']
+
+
+['das', 'sein', 'schätzungsweise', '200', 'Krähe', 'oder', 'so', 'in', 'ein', 'Baum', 'der', 'etwa', '100', 'm', 'weg', 'sein', '...']
+
+
+quaki
+
+
+['und', 'Lanto', ':)'] -> ['und', 'Lanto', ':)']
+
+
+['hi', 'Thor'] -> ['hi', 'Thor']
+
+
+['hi', 'stoop']
+
+
+['und', 'Tom', ':('] → ['und', 'Tom', ':(']
+
+
+['*', 'gehen', '*']
+
+
+['über', 'mein', 'Benehmen', 'reden', 'wir', 'lieb', 'nicht']
+
+
+['hi', 'emon']
+
+
+['200', 'Krähe', '?']
+
+
+['jo', '..'] -> ['jo', '..']
+
+
+[die, Ein, Minus, habe, du, bekommen, ,, weil, du, ein, Zeitlang, häufen, sagen, haben, .]
+
+
+['was', 'sein', 'Benehmen', '?']
+
+
+['der', 'Vogel']
+
+
+[Hi, Quaki, ,, Lantonie]
+
+
+['*', 'hehe', '*']
+
+
+['Stoep', 'geben', 'Thor', 'ein', '6']
+
+
+Stimmen ?
+
+
+stoep
+
+
+[':)))'] : lächeln
+
+
+['*', 'lol', '*'] → ['*', 'laugh', '*']
+
+
+Tokenliste: [Zorius, Fragezeichen]
+
+
+re
+
+
+['*', 'lachen', '*']
+
+
+['Tach', 'Erdbeere$']
+
+
+['hallo', 'Erdbeere', '.']
+
+
+['hallo', 'Erdbeer', ':)']
+
+
+['Lantonie', 'können', 'sein', 'Note', 'begründen', '.']
+
+
+['Mann', ',', 'haben', 'tatsächlich', 'werden', 'verdaulich', 'essen', '...', ':)']
+
+
+[das, sein, so, etwa, 25, m, hoch, Pappel, wo, die, darin, sitzen, und, rumnölen, *, g, *]
+
+
+['Hallo', 'Lantus']
+
+
+['die', 'Viech', 'reißen', 'immer', 'die', 'Müllsack', 'auf', 'hm']
+
+
+['stoep', 'auch']
+
+
+['*', 'gehen', '*']
+
+
+['re', 'Erdbeere']
+
+
+und, ,, ausserdem, sein, Zora, ja, mein, Lieblingsschülerin, hier, .
+
+
+:))
+
+
+['oh', 'Stoep', 'haben', 'ich', 'dir', 'was', 'tun', '?']
+
+
+[hello, Pharaoh]
+
+
+😊
+
+
+['Weißpappel', 'oder', 'Schwarzpappel', '?'] → ['Weißpappel', 'oder', 'Schwarzpappel', '?']
+
+
+['süß', 'klein', 'Zora', '.']
+
+
+Hello, Marcie.
+
+
+':)': ':)'
+
+
+['*', 'hach', '*']
+
+
+['Zora', 'bringen', 'Lanto', 'ein', 'Apfel', 'mit']
+
+
+['kein', 'Ahnung', ',', 'ein', 'der', 'zur', 'Blütezeit', 'wohl', 'immer', 'dieser', 'Berg', 'weiß', 'Flock', 'von', 'sich', 'werfen', '...']
+
+
+und | wo | sein | ein | Apfel | für | mich | ??
+
+
+['ah', ',', 'sehr', 'gesund', '.'] → ['ah', ',', 'sehr', 'gesund', '.']
+
+
+['*', 'freuen', '*']
+
+
+['Tom', 'sein', 'ja', 'immer', 'noch', 'da']
+
+
+['*', 'Wilhelm', 'Busch', 'zitieren', '*', 'und', 'vom', 'ganz', 'Hühnerschmaus', 'schauen', 'nur', 'noch', 'ein', 'Bein', 'heraus', '...']
+
+
+['dann', 'sein', 'ein', 'hm']
+
+
+[sie, ziehen, nach, Hannover, ,, nicht, nach, Wien]
+
+
+['sein', 'du', 'von', 'Zeugnis', 'überrascht']
+
+
+['das', 'kommen', 'auf', 'die', 'Rinde', 'drauf', 'an']
+
+
+?
+
+
+['auf', 'Jedenfall', 'mit', 'ein', 'Wolke', 'schwarz', 'Vogel', 'daruber', 'und', 'drin', ':-)']
+
+
+:)
+
+
+['wie', 'der', 'aussehen']
+
+
+['ja', 'wollen', 'ich', 'doch', 'kaum', 'was', 'dafür', 'tun', 'haben', '+', 's', '*']
+
+
+['sein', 'so', 'ein', 'groß', 'Rind', '..']
+
+
+['warum', 'werden', 'Tom', 'nicht', 'aus', 'der', 'Chat', 'entfernen', '?', '*', 'g', '*']
+
+
+['Zora', 'bewirben', 'sich', 'damit', 'mal', 'um', 'Stipendium', 'an', 'den', 'Uni', '*', 's', '*']
+
+
+['kriegen', 'ich', 'auch', 'ein', 'Zeugnis', '?']
+
+
+['die', 'haben', 'aber', 'so', 'schön', 'Gefieder', 'und', 'sein', 'nicht', 'dumm']
+
+
+['*', 'lachen', '*']
+
+
+['weil', 'ich', 'hartnäckig', 'sein', 'stoeps', ':-)']
+
+
+['stoep', 'auch']
+
+
+['*', 'gehen', '*']
+
+quak, binden, Tom, am, Chat, fest
+
+
+['*', 'knüpfen', '*']
+
+
+['Zora', 'bewerben', 'sich', 'womit', 'um', 'Stipendium', '?', 'ein', 'Apfel', '?']
+
+
+['Stoep', 'schreiben', 'ein', 'Beschwerde', 'an', 'Unicum']
+
+
+['nein', 'mit', 'mein', 'Zeugnis', ',', 'ich', 'sein', 'ja', 'nicht', 'dumm', '!']
+
+
+['eh', '!', '*', 'rupfen', ',', 'zerren', ',', 'reißen', ',', 'mich', 'losmachen', '*']
+
+
+['hm', 'der', 'Paris', 'sein', 'ein', 'ganz', 'schön', 'Dämlicher']
+
+
+[ 'ah', 'so' ] -> [ 'ah', 'so' ]
+
+
+['*', 'nicht', 'festbinden', 'sein', 'können', '*']
+
+
+['Welch', 'Zeugnis', '?', 'klären', 'ich', 'mal', 'jemand', 'über', 'den', 'Sachverhalt', 'auf', '?']
+
+
+['*', 'nagut50cm laufen laufen leine', '*']
+
+
+Thor
+
+
+['tache', 'Erdbeere']
+
+
+[Hello]
+
+
+['wie', 'großzügig', 'quak', 'manchmal', 'sein', '...']
+
+
+['*', 'warten', '*']
+
+
+['kommen', 'du', 'zum', 'Ct', '?']
+
+
+['*', '51', 'cm', '*']
+
+
+['51', '?'] → ['51', '?']
+
+
+['*', 'Leine', 'durchbeißen', '*']
+
+
+['wenn', 'Zora', 'und', 'Lantonie', 'absagen', 'ja', '*', 'g', '*'] -> ['wenn', 'Zora', 'und', 'Lantonie', 'absagen', 'ja', '*', 'gehen', '*']
+
+
+[ui]
+
+
+['danke', '!', '*', 'brummel', '*']
+
+
+['*', 'neuesuchen', '*']
+
+
+die | haben | doch | noch | gar | nicht | zusagen | , | oder | ?
+
+
+re: re
+shad: shad
+
+
+re: re
+sahd: sahd
+
+
+['*', 'gehen', '*']
+
+
+['Gnu', 'stoop', ',', 'Emon']
+
+
+['holl', 'Shaddy', ':)']
+
+
+['Emon', ':', 'http', 'mitglied.lycos.de', 'achtpfennig', 'zeugnis.jpg']
+
+
+['warum', 'das', 'dann', '?']
+
+
+['*', 'sein', '*']
+
+
+['hey', 'Marc30', ';o)']
+
+
+['rea', 'Baby']
+
+
+['hi', 'shadok']
+
+
+['*', 'auf', 'Baum', 'raufklettern', 'um', 'nicht', 'angeleint', 'zu', 'werden', '*']
+
+
+[Http://www.cu-here.de/showchat.php3?id=69&offset=159]
+
+
+Tokenliste Lemma: [Tag, Quak]
+
+
+[Er', '!', ':)']
+
+
+['hm', 'quaki', 'suchen', 'ein', 'M']
+
+
+['*', 'gehen', '*', 'Baum', '=', 'Baums']
+
+
+["*", "ts", "*"] -> ["*", "t", "*"]
+
+
+['*', 'fleißsternchen', 'aufkleben', '*']
+
+
+['Leinbaum' : 'Leinbaum']
+
+
+Shadok schenken quaki ein M.
+
+
+['hallo', 'Shadok', '.'] → ['hallo', 'Shadok', '.']
+
+
+['weiß', 'jetzt', 'jemand', 'was', 'Umzugsunternehmen', 'so', 'kosten', '?'] -> ['weiß', 'jetzt', 'jemand', 'was', 'Umzugsunternehmen', 'so', 'kosten', '?']
+
+
+['danken', 'Shadok']
+ 
+
+['bitte', 'schön', '.'] --> ['bitten', 'schön', '.']
+
+
+['hey', 'Lanto', ';o)']
+
+
+[;o)]: ;o)
+
+
+Geld: Geld 
+Zora: Zora
+
+
+['*', 'Zora', 'lemmatize']
+
+
+teuer . gehen nicht selbst machen mit Mietwagen ?
+
+
+['meisten', 'Euro']
+
+
+';o)': ';o)';
+
+
+['verdammt', ',', 'das', 'haben', 'ich', 'befürchten', 'Shaddy', ':P']
+
+
+['ich', 'haben', 'erst', 'Zweifel', ',', 'ob', 'du', 'überhaupt', 'ein', 'Zeugnis', 'wollen', '.']
+
+
+[immer, bewerten, ich, du, dann, ja, .]
+
+[':O)']
+
+Lass/lassen es/sein lieber/gut Zor/Zor.
+
+
+['k.A', 'werden', 'das', 'kosten']
+
+
+['aber', ',', 'ich', 'denken', ',', 'du', 'halten', 'das', 'schon', 'aus', '.']
+
+
+['*', 'tapfer', 'klein', 'zora', '*']
+
+
+['quaken', 'wissen', 'nicht', 'wo', 'sie', 'ziehen', 'sollen']
+
+
+['Unternehmen', '???', 'eigentlich', 'kosten', 'so', 'der', 'Miete', 'für', 'ein', 'Lkw', 'für', 'ein', 'Tag', 'und', 'Verköstigung', 'für', 'ein', 'Haufen', 'helfender', 'Freund', '@zora']
+
+
+['Bochum', '-', 'Münster', 'ohne', 'Küche', '3500', 'Euro', '..']
+→['Bochum', '-', 'Münster', 'ohne', 'Küche', '3500', 'Euro', '..']
+
+
+['der', 'Mietwagen', 'kosten', 'auf', 'die', 'Entfernung', 'schon', 'ein', 'Vermögen']
+
+
+['UFFZ', 'Bochum']
+
+
+['am', 'gut', 'nach', 'Deutschland', 'quaken']
+
+
+['sein', 'nicht', 'so', 'weit']
+
+
+['aber', 'sicher', 'billig', 'als', 'ein', 'Firma']
+
+
+['ja', ',', 'auf', 'Jedenfall', '!'] -> ['ja', ',', 'auf', 'Jedenfall', '!']
+
+
+so etwas
+
+
+['wb', 'stoop']
+
+
+Wagen InterRent und ein paar Leute zum Anpacken
+
+
+['*', 'brimeln', '*']
+
+
+['ja', 'pharao']
+
+
+['Zora', 'sein', 'hoch', 'kreativ', '!']
+
+
+re, stoep, ...
+
+
+was \ ihr \ all \ so \ einfallen \ , \ da \ kommen \ kein \ Mensch \ drauf \ .
+
+
+['hi', 'Asja'] → ['hi', 'Asja']
+
+
+['quak', 'fragen', 'sich', 'wie', 'sie', 'mit', 'Augenschade', 'der', 'Nachmittag', 'überstehen', 'sollen']
+
+
+['re', 'stoop', '.']
+
+
+['heyho', 'Asja'] → ['heyho', 'Asja']
+
+
+['hello', 'Asja'] → ['hello', 'Asja']
+
+
+['ich', 'wollen', 'ja', 'vergleichen', 'Tom', 'weil', 'eh', 'so', 'teuer', 'sein', 'wenn', 'das', 'kein', 'so', 'groß', 'Unterschied', 'machen', 'sein', 'ja', 'mal', 'drin']
+
+
+['am', 'gut', 'welch', 'was', 'Handwerklich', 'machen']
+
+
+['Hallo', 'Tom', ':)']
+
+
+re
+
+
+['hi', 'Marc', ':)'] --> ['hi', 'Marc', ':)']
+
+
+['huhu', 'Frau', 'Erdbeere', 'drücken', '*']
+
+
+['und', 'nehmen', 'nicht', 'der', 'billigste']
+
+
+['nicht', 'chatten', 'quak', '?', ';o)']
+
+
+['Bochum', 'in', 'der', 'Kleiderkasten', 'schicken', 'zum', 'Umziehen']
+
+
+['*', 'mitdrücken', '*']
+
+
+naja, auf das, was, ich, so, einfallen, kommen, auch, meist, kein, Sau, drauf, *, g, *

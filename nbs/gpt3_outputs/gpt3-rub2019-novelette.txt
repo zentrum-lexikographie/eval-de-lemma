@@ -1,0 +1,282 @@
+
+
+Nun nehmen der junger Graf wieder das Wort.
+
+
+['»', 'die', 'Sache', 'haben', 'sich', 'ja', 'für', 'Sie', 'durchaus', 'befriedigend', 'aufklären', ',', 'Herr', 'Bilsfeld', ',', '«', 'sagen', 'er', '.']
+
+
+['»', 'sein', 'die', 'Richtigkeit', 'die', 'Erzählung', 'sein', 'nicht', 'zu', 'zweifeln', '.']
+
+
+die | falsch | Eintragung | in | Kirchenbuch | sein | freilich | nun | einmal | erfolgen | , | der | Taufschein | müssen | vorlegen | werden | , | wenn | das | Aufgebot | für | Paula | erfolgen | sollen | , | und | die | Einwilligung | der | Mutter | lassen | sich | dann | nicht | entbehren | .
+
+
+['Das', 'einfach', 'scheinen', 'doch', ',', 'wir', 'rühren', 'an', 'der', 'alt', 'Geschichte', 'gar', 'nicht', 'und', 'lassen', 'der', 'Taufschein', 'gelten', ',', 'soviel', 'er', 'gelten', '.']
+
+
+['Ihre','Frau','erfüllen','die','Form','und','geben','der','Konsens','.']
+
+
+mehr | verlangen | die | Behörde | nicht | , | als | daß | der | Form | genügen | werden | .
+
+
+die Papier kommen in den Akt und kein Mensch frag weiter dannach.
+
+
+['So', 'ruhig', 'aber', 'die', 'Tochter', 'bleiben', ',', 'so', 'bewegen', 'gebärden', 'sich', 'der', 'Vater', '.']
+
+
+aus
+der
+selig
+lachen
+in
+das
+laut
+schluchzen
+der
+rühren
+überspringen
+,
+streifen
+er
+mehr
+als
+einmal
+an
+lächerlich
+und
+machen
+endlich
+nach
+vollziehend
+feierlichkeit
+sein
+entzücken
+mit
+wiederholen
+ausruf
+:
+"""
+sie
+sein
+versorgen
+,
+sie
+sein
+versorgen
+!
+"""
+in
+verschwenden
+kuss
+und
+umarmung
+luft
+.
+
+
+['Plötzlich', 'nehmen', 'aber', 'all', 'dies', 'Verhältnis', 'ein', 'neu', 'Gestalt', 'an', '.']
+
+
+['Einig', 'Wort', ',', 'welch', 'Uriel', 'ein', 'Abend', 'im', 'Mondschein', 'mit', 'Judith', 'wechseln', ',', 'geb', 'dazu', 'die', 'Ursach', 'her', '.']
+
+
+sie haben fragen ihm ob er in wahrheit der name ein sadducäers verdienen , den man ihm allgemein geben .
+
+
+['Wir', 'durchziehen', 'das', 'südlich', 'Deutschland', '.']
+
+
+['In', 'eine', 'klein', 'Stadt', 'treffen', 'wir', 'auf', 'ein', 'italienisch', 'Tenor', ',', 'der', 'von', 'Mailand', 'nach', 'Berlin', 'wollen', '.']
+
+
+mein Dame sein erzücken über der Landsmann ; er trennen sich nicht von ihnen , vorzüglich halten er sich an Teresina , und zu mein nicht gering Ärger spielen ich ein ziemlich untergeordnet Rolle .
+
+
+ein | wollen | ich | mit | ein | Partitur | unter | der | Arm | gerade | in | Zimmer | treten | , | als | ich | drinnen | ein | lebhaft | Gespräch | zwischen | mein | Dame | und | der | Tenor | vernahmen | .
+
+
+['Mein', 'Name', 'werden', 'nennen', '–', 'ich', 'stutze', ',', 'ich', 'horchen', '.']
+
+
+Das Italienisch verstehen ich jetzt so gut, dass mir kein Wort entgehen.
+
+
+Lauretta erzählen gerade tragisch Vorfälle im Konzert, wie ich ihr durch unzeitig Niederschlag den Triller abschneiden.
+
+
+› Asino tedesco ‹, rief der Tenor – es war mir zumut , als müssen ich hinein und den luftigen Theaterhelden zum Fenster hinauswerfen – ich hielt an mich .
+
+
+Lauretta || sprechen || weiter || , || dass || sie || ich || gleich || fortjagen || wollen || , || indessen || sein || sie || durch || mein || flehentlich || Bitten || bewegen || werden || , || ich || noch || ferner || um || sich || dulden || aus || Mitleid || , || da || ich || bei || sie || der || Gesang || studieren || wollen || .
+
+
+Teresina bestätigen dies zu mein nicht gering Erstaunen .
+
+
+['›', 'es', 'sein', 'gut', 'Kind', '‹', ',', 'fügen', 'sie', 'hinzufügen', ',', '›', 'jetzt', 'sein', 'er', 'in', 'mich', 'verlieben', 'und', 'setzen', 'alles', 'für', 'der', 'Alt', '.']
+
+
+['Einig', 'Talent', 'sein', 'in', 'er', ',', 'aber', 'er', 'müssen', 'sich', 'aus', 'der', 'Steif', 'und', 'Ungelenk', 'herausarbeiten', ',', 'das', 'der', 'Deutsch', 'eigen', '.']
+
+
+['Ich', 'hoffen', 'ich', 'aus', 'er', 'ein', 'Compositore', 'zu', 'bilden', ',', 'der', 'ich', ',', 'da', 'wenig', 'für', 'den', 'Alt', 'schreiben', 'werden', ',', 'einige', 'tüchtig', 'Sache', 'setzen', ',', 'nachher', 'lassen', 'ich', 'er', 'laufen', '.']
+
+
+['–', 'Nun', 'fangen', 'Lauretta', 'ein', 'Duett', 'an', ',', 'das', 'ich', 'komponieren', 'und', 'das', 'sie', 'sonst', 'hoch', 'rühmen', 'haben', '.']
+
+
+Teresina | nehmen | die | zweit | Stimme | auf | , | und | beide | parodieren | in | Stimme | und | Vortrag | ich | auf | das | grausam | .
+
+
+['Der', 'Tenor', 'lachen', ',', 'dass', 'es', 'im', 'Zimmer', 'schallen', ',', 'ein', 'Eisstrom', 'gießen', 'sich', 'durch', 'mein', 'Glied', '–', 'mein', 'Entschluss', 'sein', 'fassen', 'unwiderruflich', '.']
+
+
+leise schleichen ich mich fort von der Tür in mein Zimmer zurück , dessen Fenster in die Seitenstraße gehen.
+
+
+Gegenübersehen | war | die | Post | liegen | , | eben | fahren | der | Bamberg | Postwagen | vor | , | der | packen | werden | müssen | .
+
+
+['Die', 'Passagier', 'stehen', 'schon', 'vor', 'dem', 'Torweg', ',', 'doch', 'haben', 'ich', 'noch', 'eine', 'Stunde', 'Zeit', '.']
+
+
+['Schnell', 'raffen', 'ich', 'mein', 'Sache', 'zusammen', ',', 'bezahlen', 'großmütig', 'die', 'ganz', 'Rechnung', 'im', 'Gasthof', 'und', 'eilen', 'nach', 'der', 'Post', '.']
+
+
+['Als', 'ich', 'durch', 'die', 'breit', 'Straße', 'fahren', ',', 'sehen', 'ich', 'mein', 'Damen', ',', 'die', 'mit', 'dem', 'Tenor', 'noch', 'am', 'Fenster', 'stehen', 'und', 'sich', 'auf', 'den', 'Schall', 'des', 'Posthorn', 'herausbücken', '.']
+
+
+['An', 'der', 'Spitze', 'die', 'drei', 'Tarockbruder', 'mit', 'erschüttern', 'Miene', '.']
+
+
+», Ach, wie, grausam, hart, erbarmungslos, ich, sein, !
+
+
+['Du', 'haben', 'meinetwegen', 'so', 'leiden', 'müssen', '!']
+
+
+['Du', 'mein', 'liebling', ',', 'ich', 'wissen', 'nicht', ',', 'wie', 'ich', 'mich', 'für', 'so', 'viel', 'Bosheit', 'bestrafen', 'können', '.']
+
+
+['Du', 'lieben', 'Bacchus', ',', 'und', 'du', 'haben', 'richtig', ',', 'denn', 'sie', 'sein', 'besser', 'als', 'ich', '.']
+
+
+['was', 'sie', 'tun', 'haben', ',', 'das', 'werden', 'ich', 'nie', 'imstande', 'sein', '.']
+
+
+Sie sein ein groß Seele , ein edel Seele in ein schön Körper !
+
+
+Und: und
+eine: ein
+leichte: leicht
+Röte: Rot
+,: ,
+die: der
+letzte: leiten
+Spur: Spur 
+der: der
+erlöschenden: erlöschen
+Eifersucht: Eifersucht
+,: ,
+überzog: überziehen
+Plangos: Plango
+Antlitz: Antlitz
+.: .
+
+
+Sie haben ich oft gehören.
+
+
+['sie', 'kommen', 'ja', 'so', 'lang', 'schon', 'fast', 'alljährlich', 'nach', 'Wien', '.']
+
+
+['Ich', 'kennen', 'alle', 'Ihr', 'groß', 'Rolle', ',', 'sein', 'in', 'die', 'meist', 'Ihrer', 'Konzert', ',', 'sagen', 'wie', 'die', 'anderer', 'auch', ':', '»', 'eine', 'genial', 'Künstlerin', '«', '.']
+
+
+Aber | dann | kommen | einmal | ein | Tag | , | wo | die | Seele | offen | , | warm | , | empfindsam | sein | scheinen | als | sonst | , | wo | man | lange | bekannt | Ding | anders | sehen | und | plötzlich | wissen | : | diesem | Mensch | können | ich | Ding | sagen | , | die| nie | , | nie | einer | früher | von | mir | hören | haben | .
+
+
+['auf', 'solch', 'ein', 'Mensch', 'haben', 'ich', 'mein', 'Leben', 'warten', ',', 'und', 'es', 'sein', 'ein', 'unbeschreiblich', 'Glück', ',', 'daß', 'ich', 'nicht', 'umsön', 'warten', 'haben', '.']
+
+
+['Der', 'Politiker', 'bleiben', 'zerstreut', 'stehen', '.']
+
+
+['er', 'suchen', 'in', 'sein', 'Tasche', 'nach', 'etwas', 'Kleingeld', ',', 'aber', 'da', 'treten', 'ihm', 'Lehgarbe', 'schon', 'eilig', 'entgegen', '.']
+
+
+['sie', 'sehen', 'er', 'so', 'verzückt', 'an', ',', 'daß', 'er', 'der', 'Satz', 'nicht', 'beenden', ',', 'sondern', 'ihr', 'die', 'Hand', 'küssen', '.']
+
+
+Ich
+haben
+,
+Herr
+Pfarrer
+«
+,
+so
+nehmen
+sie
+nach
+ein
+gegenseitig
+Stille
+ihr
+Mitteilung
+wieder
+auf
+,
+»
+ich
+haben
+ein
+lang
+Weile
+nur
+von
+mir
+verhandeln
+,
+und
+es
+sein
+ein
+andern
+Schicksal
+,
+das
+Sie
+zu
+wissen
+begehren
+.
+
+
+die Wahrheit sein , daß ich den Simon während seine Soldatenzeit nur selten und im Flug sehen , da bald nach sein Eintritt das Regiment in eine entlegene Gegend Quartier beziehen , und daß es mir lieb sein , mein Anfechtung ohne sein Zeugenschaft durchstreiten .
+
+
+['Allezeit', 'aber', 'haben', 'er', 'in', 'Hintergrund', 'mein', 'Gedanke', 'stehen', '.']
+
+
+Ich sputten mich darum Nacht wie Tag , um all rein und ehrbar herstellen zu sehen , wenn er als Herr einziehen werden in mein Vater Hof , haben auch niemals ein Arg , dass er sein Leib anders als rein und ehrbar erhalten haben werden nach sein Schwur .
+
+
+Es sein eine Zeit der Probe für ihm wie für mich; vielleicht aber, dass sie nicht ein so grausam Ende nehmen, wenn ich schon damals wie später einsehen, dass seine Aufgabe die schwerer sein.
+
+
+Ich streiten wider die Unart der anderen und schaffen für mich selbst nach eigener Art.
+
+
+Tokenliste: ['er', 'haben', 'andere', 'stillhalten', 'gegen', 'sein', 'Art', 'und', 'zu', 'streiten', 'wider', 'eigen', 'Unart', '.']
+
+
+['Ich', 'können', 'mich', 'behaupten', ',', 'denn', 'ich', 'sein', 'richtig', 'stellen', ',', 'aber', 'mein', 'hart', 'Sinn', 'am', 'wenig', 'würde', 'ein', 'Probe', 'wie', 'der', 'sein', 'bestehen', 'haben', '.']
+
+
+– Und weil ich denn nicht aus Erfahrung ein Urteil über seine Verfassung in jenen Jahren abgeben, nicht beweisen kann, ob das Laster des Trunks zu einer ständigen Gewöhnung in ihm ausgeartet oder nur in gelegentlichem Ausbruch mir vor Augen getreten ist, – wiewohl ich das letztere glauben, Herr Pfarrer, – so will ich mich nun nicht länger sträuben, Ihnen die Begegnung vorzuführen, die mich und ihn auseinander bringen und von welcher ich nimmer geglaubt, dass meine Lippen sie gegen eines Menschen Ohr berühren würden.
+- und weil ich nicht aus Erfahrung ein Urteil über seine Verfassung in jenen Jahren geben können, nicht beweisen kann, ob die Laster des Trunks zu einer ständigen Gewohnheit in ihm ausarteten oder nur in gelegentlichen Ausbrüchen vor mir auftreten, – wobei ich glaube, das letztere, Herr Pfarrer, – so will ich mich nicht länger wehren, Ihnen die Begegnung zu zeigen, die mich und ihn trennte und von der ich nie geglaubt hatte, dass meine Lippen sie gegen das Ohr eines Menschen berühren würden.

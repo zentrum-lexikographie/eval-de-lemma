@@ -1,0 +1,2269 @@
+
+
+['_', 'na', '_', '_', 'sein', 'doch', 'voll', 'egal', '_', '_', 'darauf', 'kommen', 'es', 'doch', 'gar', 'nicht', 'an', '_', '_', 'nein', '_', '_', 'er', 'haben', 'es', 'halten', 'falsch', 'beschreiben', '_', '_', '_', '_', '_', 'mit', 'Handbreit', 'und', 'Zentimeter', '_', '_', '_', 'hallo', '_', '_', 'ich', 'sein', 'anwesend', '_', '_', 'man', 'reden', 'nicht', 'von', 'anwesenden', 'Person', '_', '_', 'wir', 'haben', 'alles', 'total', '_', '_', 'okay', '_', 'danken', '_']
+
+
+['Hallo', '_', 'Therese', '_']
+
+
+['hallo', '_', 'Alexander', '_']
+
+
+['sein', 'selbst', 'schon', 'wieder', '_']
+
+
+['nehmen', '_', 'Mensch', '_']
+
+
+['so', '_']
+
+
+['jetzt', 'beschreiben', 'ich', 'dir', 'mal', 'ein', 'Weg', '_']
+
+
+['tuer', 'dire', '_']
+
+
+['so', '_']
+
+
+['haben', 'Sie', 'untere', 'Links', 'solcher', 'eine', 'Startpunkt', '_']
+
+
+[No, _]
+
+
+['nein', '_']
+
+
+doch, _
+
+
+['_', '_', '_', 'auf', 'jeden', 'Fall', '_'] -> ['_', '_', '_', 'auf', 'jeder', 'Fall', '_']
+
+
+['_', 'sein', 'doch', 'immer', 'gleich', '_']
+
+
+ja, _
+
+
+['wer', 'wissen', '_', '_']
+
+
+weiß du _ irgendwie verarschen die einen ja doch hier so ein bisschen _
+
+
+['also', '_']
+
+
+von | dies | Startpunkt | gehen | du | recht | _
+
+
+['aber', 'warten', '_']
+
+
+['_', 'ich', 'wollen', 'es', 'dir', 'erst', 'zu', 'Ende', 'erklären', '_', 'okay', '_']
+
+
+['okay', '_']
+
+
+['Ich', 'sein', 'nicht', '_']
+
+
+du gehen so bis zu Hälfte des Bild parallel nach rechts _
+
+
+['also', '_', 'machen', 'einfach', 'ein', 'senkrechter', 'Linie', '_']
+
+
+['Boah', '_']
+
+
+['fick', 'du', '_']
+
+
+['Mann', '_']
+
+
+['ich', 'wollen', 'jetzt', 'nach', 'recht', 'gehen', '_']
+
+
+[ja, _]
+
+
+du machen es jetzt so _
+
+
+OK, _
+
+
+['da', 'sein', 'ein', 'Bild', '_']
+
+
+['_', 'oder', 'sein', 'da', 'ein', 'Bild', '_', '_', '_', '_', 'Käsebild', 'so', '_']
+
+
+['genau', '_']
+
+
+[du, gehen, so, _]
+
+
+['_', '_', 'ein', 'Gouda', '_'] → ['_', '_', 'ein', 'Gouda', '_']
+
+
+oder, sein, was, _, _
+
+
+['_', '_', 'so', 'unten', 'rechte', 'vom', 'Käse', 'praktisch', '_', '_']
+
+
+[ja, _]
+
+
+_, so, dass, _, _, _, so, ein, halb, Zentimeter, rechten, neben, der, Käse, _, dass, du, da, sein, aber, unten, bleiben, _
+
+
+['du', '_']
+
+
+ja, _
+
+
+['parallel', 'also', 'bleib', 'du', 'auf', 'der', 'Startebene', '_']
+
+
+['ja', '_'] --> ['ja', '_']
+
+
+[okay, _]
+
+
+['das', 'haben', 'ich', '_']
+
+
+['ja', '_']
+
+
+["ja", "_"]
+
+
+['will', '_']
+
+
+['_', 'ich', 'können', 'nicht', 'mehr', 'so', 'gerade', 'zeichnen', '_', 'aber', 'das', 'sein', 'okay', '_']
+
+
+Das, gehen, klar, _
+
+
+ja, _
+
+
+['_', 'du', 'haben', 'mein', 'sehen', '_', 'bitten', '_', 'Zeichnung', 'können', 'ja', '_', '_']
+
+
+[okay, _]
+
+
+['du', 'haben', 'wunderbar', 'gerade', 'Linie', 'ziehen', '_']
+
+
+['also', '_']
+
+
+['ich', 'glauben', '_', 'du', 'sein', 'ziemlich', 'talentiert', '_']
+
+
+du | schmeicheln | mir | _
+
+
+_
+
+
+Jetzt gehen du von dieser Punkt _
+
+
+da sein du haben du in der Mitte des in der Mitte des Blattes dies Äpfel _
+
+
+ja,
+
+
+['so', '_']
+
+
+['und', 'dann', 'gehen', 'du', 'von', 'der', 'Punkt', '_', 'auf', 'der', 'du', 'da', 'sein', '_', 'gehen', 'du', 'zu', 'der', 'Apfel', 'hoch', '_']
+
+
+['also', '_']
+
+
+['du', 'müssen', 'jetzt', 'eigentlich', 'mit', 'dein', 'Linie', '_']
+
+
+['wie', 'weit', 'hinter', 'der', 'Apfel', 'gehen', 'sein', 'können'].
+
+
+['hören', 'erstmal', 'auf', '_']
+
+
+['ich', 'wollen', 'dir', 'erstmal', '_']
+ 
+
+['_', 'ich', 'wollen', 'es', 'dir', 'erstmal', 'erzählen', '_', 'du', 'müssen', 'jetzt', 'eigentlich', 'so', 'auf', 'der', 'Mitte', 'der', 'Apfel', 'sein', '_']
+
+
+['_', '_', 'praktisch', 'haben', '_', '_', 'wo', 'du', 'graduieren', 'sein', '_']
+
+
+['der', 'der', 'der', 'der', 'der', 'mittel', 'Apfel', 'werden', '_', '_']
+
+
+[und, du, _]
+
+
+Genau.
+
+
+['_', '_', 'genau', 'schneiden', '_']
+
+
+und du gehen jetzt einfach hoch bis du so bei mir ein Zeigefinger unter die Apfel unter den mittleren Apfel __
+
+
+['all', '_', 'klar', '_']
+
+
+['ja', '_']
+
+
+['auch', 'dies', 'Linie', 'sein', 'nicht', 'gerade', 'gerade', 'werden', '_']
+
+
+['okay', '_']
+
+
+['dann', 'gehen', 'du', 'jetzt', 'ein', 'bisschen', 'nach', 'link', '_']
+
+
+['vielleicht', '_', 'sein', 'so', 'fünf', 'Zentimeter', 'haben', '_', '_']
+
+
+['und', 'dann', 'verharren', 'du', 'erstmal', 'an', 'dieser', 'Punkt', '_']
+
+
+['ne', '_']
+
+
+['dann', '_']
+
+
+['ja', '_']
+
+
+['do', '_']
+
+
+du verharren erstmal an dem _
+
+
+['okay', '_']
+
+
+['und', 'dann', 'führen', 'du', 'jetzt', 'die', 'Linie', 'weiter', '_']
+
+
+['und', 'machen', 'aber', 'ein', 'Kreis', '_']
+
+['haben', 'Sie', 'da', 'so', 'ein', 'Mann', '_']
+
+
+['_', '_', 'ein', 'klein', 'Chirurg', 'mit', '_']
+
+
+[genau, _]
+
+
+['ach', '_', 'du', 'Scheiss', '_']
+
+
+['_', '_', 'so', 'ein', 'gescheitert', 'Metzgergeselle', '_']
+
+
+['ey', '_', 'Verdammung', '_']
+
+
+du machen ein Kreis um dies Chirurg _
+
+
+['_', '_', 'wirklich', 'ein', 'Kreis', 'so', 'vom', 'von', 'der', 'Arzt', '_']
+
+
+['ja', '_']
+
+
+['schon', '_']
+
+
+["_", "_", "ein", "groß", "_"]
+
+
+['also', '_']
+
+
+['du', 'ziehen', 'die', 'Linie', 'einfach', 'weiter', '_', 'die', 'du', 'gerade', 'führen', 'haben', '_']
+
+
+['also', '_', 'sein', 'machen', 'so', 'laufen', 'dass', 'du', 'erstmal', 'nach', 'link', 'gehen', '_']
+
+
+['und', 'dann', 'sein', 'laufen', 'herum', 'spielen']
+
+
+['und', 'dann', '_'] => ['und', 'dann', '_']
+
+
+[so, _]
+
+
+['und', '_', '_', 'als', 'quasi', 'gegen', 'der', 'Uhrzeigersinn', 'um', 'der', '_']
+
+
+['genau', '_'].
+
+
+[Ok, _]
+
+
+['Du', 'machen', 'die', 'Linie', 'weiter', '_']
+
+
+['echt', '_']
+
+
+['_', '_', 'so', 'ein', 'Kreis', '_'] --> ['_', '_', 'so', 'eine', 'Kreis', '_']
+
+
+['ja', '_']
+
+['ja', '_']
+
+
+['_', '_', 'ein', 'Kreis', '_'] → ['_', '_', 'ein', 'Kreis', '_']
+
+
+['Scheiß', '_']
+
+
+['_', 'sein', 'ja', 'richtig', 'komplex', '_']
+
+
+['und', 'du', 'bleiben', 'an', 'der', 'Punkt', '_']
+
+
+['wo', 'sich', 'die', 'Linie', 'dann', 'schneiden', '_', 'bleiben', 'du', 'erstmal', 'stehen', '_']
+
+
+['_', '_', 'geil', '_'] -> ['_', '_', 'geil', '_']
+
+
+hast - haben
+du - du
+dann - dann
+da - da
+oben - oben
+so - so
+ein - ein
+Brot - Brot
+_ - _
+
+
+[ '_', '_', '_', 'Brot', '_' ] --> ['_', '_', '_', 'Brot', '_']
+
+
+['ja', '_']
+
+
+ja, _
+
+
+['_', '_', 'so', 'ein', 'so', 'ein', 'Milchbrötchen', '_']
+=> ['_', '_', 'so', 'ein', 'so', 'ein', 'Milchbrötchen', '_']
+
+
+dann ziehen du der Kreis so ein bisschen weiter _ sodass es dann eine Diagonale zu der Kante unten links von dem Brot werden _
+
+
+[wie, weit, unter, der, Brot, _, _, _]
+
+
+['na', '_', '_', '_', 'auch', 'wieder', 'so', 'ein', 'Zentimeter', '_'] -> ['na', '_', '_', '_', 'auch', 'wieder', 'so', 'ein', 'Zentimeter', '_']
+
+
+nein, _
+
+
+[also, _]
+
+
+['_', '_', 'mehr', 'so', 'link', 'neben', 'der', 'Brot', '_']
+
+
+['ach', '_', 'so', '_'] → ['ach', '_', 'sowie', '_']
+
+
+['j', '_']
+
+
+["OK", "_"]
+
+
+nein
+
+
+['_', '_', '_', 'Kante', 'link', 'unt', '_']
+
+
+['ja', '_']
+
+
+['okay', '_']
+
+
+ja, _
+
+
+['_', '_', 'geil', '_', 'wie', 'du', 'der', 'erklären', '_', 'Mann', '_']
+
+
+['das', 'gehen', 'ich', 'richtig', 'ab', '_']
+
+
+['ich', 'haben', 'das', 'Gefühl', '_', 'dass', 'ich', 'etwas', 'richtig', 'machen', '_']
+
+
+['wir', 'haben', 'ja', 'schon', 'ein', 'bisschen', 'dazulernen', '_']
+
+
+['jetzt', 'gehen', 'du', 'link', 'an', 'der', 'Brot', 'vorbei', '_']
+
+
+['also', '_']
+
+
+['_', 'machen', 'einfach', 'ein', 'senkrecht', 'Strich', 'hoch', '_']
+
+
+['wie', 'lang', 'sein', 'haben', 'werden', 'seien']
+
+
+['_', '_', 'so', 'bis', 'zur', 'oben', 'Kante', 'praktisch', 'ein', 'bisschen', 'darüber', 'ein', 'halb', 'Zentimeter', 'darüber', '_', '_']
+
+
+['ach', '_']
+
+
+so sein sein mal wieder dieses Brot _
+
+
+['genau', '_']
+
+
+habe, du, auf, der, recht, Seite, ein, Sanduhr, _
+
+
+['nein', '_']
+Nein, _
+
+
+ja,_
+
+
+['_', '_', 'neben', 'so', 'ein', 'Zahnbürste', '_']
+
+
+['ja', '_']
+
+
+['ja', '_']
+
+
+['dann', 'gehen', 'du', 'jetzt', 'nach', 'rechts', '_']
+
+
+['_', '_', sein, mir, gerade, das, Wort, Zahnbürste, nicht, einfallen, '_', '_', ja, '_', der, Bild, sein, doch, verpixeln, '_']
+
+
+['ich', 'glauben', 'schon', '_', 'du', 'gehen', 'nach', 'recht', '_']
+
+
+['warten', '_']
+
+
+['und', 'zwar', '_', '_', 'so', '_', 'dass', 'du', 'ein', 'Zentimeter', 'neben', 'der', 'Sanduhr', 'sein', '_']
+
+
+['aber', '_', 'immernoch', 'so', '_', '_']
+
+
+du müssen eigentlich so zwei Zentimeter unter die Sanduhr sein _
+
+
+['ja', '_']
+
+
+['das', 'kommen', 'ziemlich', 'gut', 'hin', '_']
+
+
+ja, _
+
+
+['und', 'dann', 'machen', 'du', 'das', 'jetzt', 'link', 'unten', '_']
+
+['und', 'dann', 'sein', 'link', 'unten', '_']
+
+
+ ['_', '_', '_', 'nach', 'link', 'unten', '_']
+
+
+['Ach', '_', 'Scheiß', '_']
+
+
+["ja", "_"]
+
+
+["okay", "_"]
+
+
+['_', '_', 'von', 'der', 'Sanduhr', '_', '_'] → ['_', '_', 'von', 'der', 'Sanduhr', '_', '_']
+
+
+['Entschuldigung', '_']
+
+
+das | haben | ich | nicht | sagen | _
+
+
+['oh', '_', 'ja', '_'] → ['oh', '_', 'ja', '_']
+
+
+sie sehen du _
+
+
+['so', 'schnell', 'können', 'etwas', 'schiefgehen', '_']
+
+
+[so, _]
+
+
+['jetzt', 'sein', 'du', 'praktisch', 'auf', 'der', 'Höhe', 'von', 'also', 'zwischen', 'Zahnbürste', 'und', 'Sanduhr', '_']
+
+
+['ja', '_']
+
+
+['aber', '_', '_', 'ein', 'bisschen', 'mehr', 'bei', 'der', 'Sanduhr', '_']
+
+['aber', '_', '_', 'ein', 'bisschen', 'mehr', 'bei', 'der', 'Sanduhr', '_']
+
+['aber', '_', '_', 'ein', 'bisschen', 'mehr', 'be
+
+
+nein, _
+
+
+['ach', '_', 'Scheiß', '_']
+
+
+['du', 'müssen', 'eigentlich', 'schon', 'so', 'dazwischen', 'sein', '_']
+
+
+[ja, _]
+
+
+['okay', '_']
+
+
+[ja, _]
+
+
+['_', 'sein', 'ja', 'gut', '_']
+
+
+Ok  _
+
+
+ja, _
+
+
+du | gehen | jetzt | jedenfalls | hoch | _
+
+
+['das', 'trifft', 'sein', '_']
+
+
+[Okay, _]
+
+
+['sodass', 'du', 'sein', 'haben']
+
+
+['der', 'Hamburger', 'sein', 'haben']
+
+
+[sagen, _, _, der, Hamburger, _, _]
+
+
+['_', 'Hamburger', '_', '_', '_'] → ['_', 'Hamburger', '_', '_', '_']
+
+
+['ich', 'haben', 'da', 'kein', 'Hamburger', '_']
+
+
+[Also, _]
+
+
+[Recht, oben, sein, kein, Hamburger, bei, du, _]
+
+
+da sein sein bei mir Getreide _
+
+
+['okay', '_']
+
+
+['dann', 'sein', 'da', 'eben', 'Getreide', '_']
+
+
+Tokenliste: ['okay', '_']
+Lemma-Liste: ['okay', '_']
+
+
+['oder', '_', '_', 'der', 'Hamburger', '_'] → ['oder', '_', '_', 'der', 'Hamburger', '_']
+
+
+['ja', '_']
+
+
+[daraus, _]
+
+
+['du', 'gehen', 'jetzt', 'aber', 'nicht', 'so', 'hoch', '_']
+
+
+['du', 'müssen', 'jetzt', 'zwischen', 'Zahnbürste', 'und', 'Sanduhr', 'sein', '_']
+
+
+['der', 'Zahnbürste', 'sein', 'link', '_']
+
+
+['die', 'Sanduhr', 'rechten', '_']
+
+
+['_', '_', 'haargenau', 'haar', 'genau']
+
+
+['gut', '_']
+
+
+du gehen jetzt hoch _ sodass du anderthalb Zentimeter über diese Ding sein _ also über der Sanduhr _
+
+
+['ja', '_'] -> ['ja', '_']
+
+
+und|jetzt|gehen|du|link|über|der|über|die|Zahnbürste|hinüber|praktisch|also|bei|dies|Bild|_
+
+
+['ja', '_']
+
+
+['_', '_', 'bis', 'zu', 'der', 'Buch', '_']
+
+
+Nein, _.
+
+
+['ah', '_', 'okay', '_'] → ['ah', '_', 'okay', '_']
+
+
+['_', '_', 'in', 'die', 'Mitte', '_']
+
+
+['_', '_', 'nicht', '_', '_', 'sodass', 'du', 'so', 'ein', 'Daumenlänge', 'neben', 'der', 'Zahnbürste', 'sein', 'nur', 'link', 'oben', 'halten', 'also', '_']
+
+
+['der', 'Entfernung', 'sein', 'ja', 'immer', 'noch', 'so', 'zwei', 'Zentimeter', 'über', 'der', '_']
+
+
+['ja', '_']
+
+
+['ja', '_']
+
+
+[ja, _]
+
+
+tokenliste: so, _
+
+
+['und', 'jetzt', 'gehen', 'du', 'auf', 'der', 'Höhe', 'von', 'die', 'auf', 'die', 'auf', 'die', 'Höhe', 'von', 'der', 'Zahnpasta', 'praktisch', '_']
+
+
+['du', 'gehen', 'nach', 'unt', 'noch', 'ein', 'bisschen', 'weit', 'herunter', '_']
+
+
+['weiß', 'du', '_', 'wissen', 'ich', 'meinen', '_']
+
+
+['_', '_', 'ein', 'bisschen', 'weiter', 'so', 'links', 'unter', 'die', 'Zahnbürste', 'quasi', '_'] 
+
+-> ['_', '_', 'ein', 'bisschen', 'weiter', 'so', 'link', 'unter', 'die', 'Zahnbürste', 'quasi', '_']
+
+
+['nein', '_'] 
+=> ['nein', '_']
+
+
+['du', 'gehen', '_']
+
+
+['du', 'sein', 'gerade', 'oben', 'links', 'bei', 'der', 'Zahnbürste', '_']
+
+
+['ja', '_']
+
+
+['und', 'jetzt', 'ziehen', 'ich', 'einfach', 'nur', 'bis', 'hier', 'runter', '_']
+
+
+[ja, _]
+
+
+['genau', '_']
+
+
+['_', '_', 'so', 'bis', 'auf', 'der', 'Höhe', 'von', 'der', 'Zahnpasta', 'vielleicht', '_']
+
+
+[okay, _]
+ 
+
+[ein, der, die, das]
+
+
+['ach', '_', 'so', '_'] → ['Ach', '_', 'so', '_']
+
+
+['_', '_', 'bis', 'zur', 'Zahnpasta', '_'] => ['_', '_', 'bis', 'zur', 'Zahnpasta', '_']
+
+
+Tokenliste: ["okay", "_"]
+Lemmatisierung: ["okay", "_"]
+
+
+['so', '_']
+
+
+all klar
+
+
+['und', 'jetzt', 'ziehen', 'du', 'ein', 'Diagonale', '_']
+
+
+['aber', 'ich', 'erklären', 'dir', 'erst', 'wohin', '_', '_', '_'].
+
+
+was, sein, haben, sein.
+
+
+['und', 'zwar', '', '', '']
+
+
+du zieh \\ ein Diagon \\ nach links \\ oben _
+
+
+aber | _ | _ | so | sein | _ | _ | dass | du | am | Ende | recht | unten | bei | der | Buch | sein | _
+
+
+['aber', 'warten', 'noch', 'so', 'drei', 'Zentimeter', 'vielleicht', 'zwei', 'Zentimeter', 'unter', 'der', 'Buch', '_']
+
+
+all, klar
+
+
+['und', 'unten', '_', '_', 'recht', '_']
+
+
+ja, _
+
+
+['haben', 'du', 'es', 'machen', '_']
+
+
+['ja', '_']
+
+
+['okay', '_']
+
+
+['dann', 'gehen', 'du', 'jetzt', '_']
+
+
+[jetzt, machen, du, wieder, eine, waagerecht, einfach, nach, links, bis, so, ein, Zentimeter, neben, das, Buch, _]
+
+
+[jetzt, gehen, du, nach, oben, so, ein, Zentimeter, über, die, Buch, _]
+
+
+ja, _
+
+
+['jetzt', 'gehen', 'du', 'nach', 'recht', '_']
+
+
+und_, runden, die, Ecke, bei, deinem, Hamburger, der, da, sein, so, ein, bisschen, ab_
+
+
+Also, _.
+
+
+du gehen oben rechte an dem Hamburger vorbei _
+
+
+['okay', '_']
+
+
+so, ein, lang, Linie, ziehen, ich, jetzt, _
+
+
+['und', '_', 'machen', 'so', 'also', '_']
+
+
+['du', 'umrunden', 'die', 'Ecke', 'so', 'ein', 'bisschen', 'ab', '_']
+
+
+['_', '_', 'solch', 'ein', 'Runde', 'davon', '_']
+
+
+Tokenliste: okay, _
+
+
+['okay', '_']
+
+
+['und', 'dann', 'bleiben', 'du', 'erstmal', 'stehen', '_']
+
+
+['genau', '_']
+
+
+['all','klar']
+
+
+['werden', 'sein', 'du', 'jetzt', '_']
+
+
+['_', '_', 'recht', 'vor', 'dem', 'Hamburger', '_']
+
+
+['und', 'da', 'sein', 'es', 'etwas', 'rund', '_']
+
+
+['_', '_', 'runden', '_']
+
+
+['okay', '_']
+
+
+['gut', '_']
+
+
+['haben', 'Sie', 'ganz', 'unten', 'rechts', 'ein', 'König', '_']
+
+
+['ja', '_']
+
+
+['okay', '_']
+
+
+['müssen', 'man', 'aber', 'wieder', 'an', 'dies', 'Sanduhr', 'vorbei', '_', '_']
+
+
+['und', 'dann', 'werden', 'abermals', 'wiederholen', 'machen', 'gestalten']
+
+
+['ja', '_']
+
+
+['ja', '_']
+
+
+du gehen jetzt nach unten bis so _
+
+
+['also', '_']
+
+
+['du', 'sein', 'ja', 'eigentlich', 'ein', 'bisschen', 'weiter', 'recht', 'als', 'das', 'Königbild', '_', 'oder', '_']
+
+
+['nein', '_', 'jah', '_']
+
+
+['_', '_', 'so', '_', 'bisschen', '_', '_', '_']
+ ['_', '_', 'so', '_', 'bisschen', '_', '_', '_']
+
+
+['okay', '_']
+
+
+['du', 'gehen', 'jetzt', 'runter', 'zu', 'König', '_']
+
+
+['aber', 'bleiben', 'dann', 'so', 'vier', 'Zentimeter', 'über', 'dem', 'König', 'stehen', 'praktisch']
+
+
+['du', 'sein', 'ein', 'bisschen', 'weit', 'rechts', '_']
+
+['ja', '_']
+
+
+['da', 'bleiben', 'du', 'stehen', '_']
+
+
+['okay', '_']
+
+
+['na', '_', 'jah', '_']
+
+
+ja, _
+
+
+['ach', '_', 'wenn', 'es', 'nicht', '_', '_']
+-> ['ach', '_', 'wenn', 'sein', 'nicht', '_', '_']
+
+
+['ja', '_']
+
+
+['_', 'sein', 'doch', 'Schmarrn', '_']
+
+
+['_', 'sein', 'ja', 'kein', 'Perfektionist', '_']
+
+
+['_', 'müssen', 'jetzt', 'hier', 'auch', 'nichts', 'krass', '_', '_']
+
+
+dan| machen | _ | ein | Diagonale | nach | link | und | zwar | so | _ | dass | du | so | anderthalb | Zentimeter | über | der | Kante | oben | link | von | dem | König | sein | und | ein | bisschen | und | anderthalb | Zentimeter | weiter | link | _
+
+
+['ja', '_']
+
+
+jetzt | gehen | du | parallel | runter | _ | sodass | du | _ | _
+
+
+['_', '_', 'zum', 'Bildrand', '_'] -> ['_', '_', 'zum', 'Bildrand', '_']
+
+
+['genau', '_']
+
+
+['sodass', 'du', 'ungefähr', 'auf', 'der', 'gleich', 'Höhe', 'sein', '_']
+
+
+['_', '_', 'vielleicht', 'ein', 'bisschen', 'weit', 'darunter', '_']
+
+
+also, _
+
+
+Sodass, es, eher, symmetrisch, sein, praktisch, _, was, du, da, zeichnen, haben, _
+
+
+ja, _
+
+
+['und', 'jetzt', '_', '_', 'also', 'machen', 'erst', 'wieder', 'runter', '_']
+
+
+['und', 'dann', '_', '_', 'nach', 'recht', '_']
+
+
+nein, _
+
+
+du gehen jetzt so _ dass du vielleich zwei Zentimeter unter dem Bild sein und unten link _
+
+
+['und', '_', '_', 'immer', 'noch', 'anderthalb', 'Zentimeter', '_', '_']
+→ ['und', '_', '_', 'immer', 'noch', 'anderthalb', 'Zentimeter', '_', '_']
+
+
+['_', '_', 'beneath', 'lower', 'left', 'beneath', 'the', 'king', '_']
+
+
+['_', 'Hallo', '_', '_', 'okay', '_', 'also', '_'] --> ['_', 'Hallo', '_', '_', 'okay', '_', 'also', '_']
+
+
+['du', 'suchen', 'der', 'Weg', 'zu', 'Bonnemannstraße', '_']
+
+
+['ich', 'suchen', 'der', 'Weg', 'zu', 'welcher', 'Straße', '_']
+
+
+['_', '_', '_', '_', '_', 'Bonnemannstraße', '_']
+→ ['_', '_', '_', '_', '_', 'Bonnemannstraße', '_']
+
+
+['_', '_', '_', '_', '_', 'Bonnemannstraße', '_'] → ['_', '_', '_', '_', '_', 'Bonnemannstraße', '_']
+
+
+okay, _
+
+
+['_', 'sagen', 'du', '_']
+
+
+und | zwar | dreh | dich | mal | so | _ | dass | du | das | Hafen | die | Hafenbar | sehen | am | Ende | der | Straße | _
+
+
+[das, haben, so, ein, groß, Steuerrad, vorn, _]
+
+
+okay, _
+
+
+['genau', '_']
+
+
+['als', '_']
+
+
+['da', 'gehen', 'du', 'erst', 'mal', 'gerade', 'gerade', 'auf', 'zu', '_']
+
+
+['okay', '_']
+
+
+['_', '_', 'bis', 'dorthin', 'komplett', '_', 'oder', '_']
+ → ['_', '_', 'bis', 'dorthin', 'komplett', '_', 'oder', '_']
+
+
+['kurz', 'vorher', 'gehen', 'die', 'Straße', 'rechts', 'rein', '_']
+
+
+die sein relativ kurz _
+
+
+['_', '_', '_', 'recht', '_', '_']
+
+
+['_', '_', 'sicher', '_'] → ['_', '_', 'sicher', '_']
+
+
+['recht', 'gehen', 'bei', 'ich', 'gar', 'nichts', 'weiter', '_']
+
+
+[Nein, _]
+
+
+[erst, _, _, gerade, und, dann, so, ein, bisschen, recht, _]
+
+
+['und', 'der', 'gehen', 'einfach', 'nur', 'um', 'die', 'Hafenbar', 'drumherum', '_']
+
+
+['okay', '_']
+
+
+['also', '_']
+
+
+man | können | auch | quasi | durch | die | Hafenbar | durchgehen | _
+
+
+['all', '_', 'klar', '_']
+
+
+['und', 'ja', '_'] => ['und', 'ja', '_']
+
+
+['dann', 'halten']
+
+
+['_', '_', 'über', 'der', 'Hafenbar', 'hinaus', '_']
+
+
+['und', 'dann', '_']
+
+
+['genau', '_']
+
+
+['und', '_', '_', 'quasi', 'einmal', 'um', 'die', 'Hafenbar', 'herum', '_']
+→ ['und', '_', '_', 'quasi', 'einmal', 'um', 'der', 'Hafenbar', 'herum', '_']
+
+
+['und', 'dann', '_', '_', 'wieder', 'gerade', '_'] 
+=> ['und', 'dann', '_', '_', 'wieder', 'gerade', '_']
+
+
+['also', 'nach', '_']
+
+
+['_', '_', 'nach', 'links', 'link']
+
+
+['_', '_', 'nach', 'link', 'hoch', '_']
+
+
+['genau', '_']
+
+
+['wie', 'weit', 'gehen', 'sein', 'machen']
+
+
+['da', 'sein', 'so', 'ein', 'so', 'ein', 'so', 'ein', 'Haushaltsmittelgeschäft', '_']
+
+
+['_', 'verkaufen', 'sie', 'Toaster', 'und', 'so', 'und', 'Waschmaschine', '_']
+
+
+['okay', '_']
+
+
+sie sehen Du das _
+
+
+[das, sehen, ich, _]
+
+
+['_', 'das', 'sein', 'genau', 'vor', 'mir', '_', 'genau', '_']
+
+
+['müssen', 'ich', 'darauf', 'zu', '_', '_']
+
+
+['ja', '_'] ---> ['ja', '_']
+
+
+[und, hinter, das, gehen, du, wieder, link, _]
+
+
+['also', '_']
+
+
+['an', 'der', 'vorbei']
+
+
+['und', 'dann', '_', '_', 'link', '_']
+
+
+['_', 'genau', '_', 'und', 'dann', 'müssen', 'du', 'wieder', 'link', 'gehen', '_']
+
+
+['da', 'sein', 'jetzt', 'gar', 'kein', 'Geschäft', 'an', 'der', 'Ecke', '_']
+
+
+aber | wenn | du | dann | link | einbiegen | in | die | Straße | _ | kommen | du | zu | so | ein | Motorradladen | _
+
+
+okay, _
+
+
+sie sehen den _
+
+
+['ja', '_']
+
+
+['müssen', 'ich', 'auf', 'der', 'zugehen', '_']
+
+
+ja, _
+
+
+und du gehen dann um den rum _
+
+
+und, also, biegen, du, recht, ab, bei, der, Motorradladen, _
+
+
+['ich', 'biegen', 'rechts', 'ab', '_']
+
+
+['nein', '_']
+
+
+['warten', 'mögen', '_']
+
+
+[also, du, _]
+
+
+['Ich', 'sein', 'jetzt', 'auf', 'der', 'zugehen', '_']
+
+
+['ich', 'sein', 'um', 'die', 'Hafenbar', 'rum', '_', '_']
+
+
+nein, _
+
+
+['_', '_', 'um', 'der', 'Toasterladen', '_', '_']
+
+
+['_', '_', 'um', 'der', 'Toasterladen', 'rum', '_']
+
+
+['und', 'dann', 'gehen', 'du', 'link', '_']
+
+
+und | dann | müssen | du | quasi | vor | der | Eingangstür | von | dem | Motorradladen | stehen | _
+
+
+['okay', '_']
+
+
+['und', 'um', 'der', 'gehen', 'du', 'auch', 'wieder', 'rum', '_']
+
+
+1. auch
+2. müssen
+3. dann
+4. rechts
+5. abbiegen
+6. _
+
+
+[um, der, gehen, ich, aussen, herum, _]
+
+
+['Genau', '_']
+
+
+['okay', '_']
+
+
+['dann', 'dann', '_', '_', 'wieder', 'recht', '_']
+
+
+['OK', '_']
+
+
+Genau.
+
+
+und | wenn | du | da | abbiegen | sein | _ | dann | _ | _ | erst | mal | ein | ganz | Strecke | geradeaus | _
+
+
+['und', 'dann', '_', '_', 'schräg', 'recht', 'also', 'diagonal', '_']
+
+
+['_', 'so', 'ein', 'Stück', 'zurück', 'laufen', 'du', 'wieder', '_', 'bis', '_', 'zu', 'zu', 'so', 'ein', 'Reparaturladen', 'kommen', '_', '_', '_', '_', '_', 'Reparaturladen', '_']
+
+
+ja, _
+
+
+['_', '_', 'so', 'ein', 'Werkstatt', 'oder', 'so', '_']
+
+
+['haben', 'der', 'haben', 'mit', 'Wohnwagen', 'zu', 'tun', '_']
+
+
+['ja', '_']
+
+
+['wenn', 'du', 'da', 'schon', 'sein', '_', 'dann', '_', '_', 'umso', 'gut', '_']
+
+
+['okay', '_']
+
+
+['um', 'der', 'Wohnwagen', 'müssen', 'du', 'nämlich', 'auch', 'wieder', 'rumlaufen', '_']
+
+
+['_', '_', 'link', 'oder', 'recht', '_', '_']
+
+
+['also', '_']
+
+
+['_', '_', 'um', 'der', 'Wohnwagen', 'rumschlendern', '_']
+
+
+['und', '_', '_', 'weiter', 'geradeaus', 'sozusagen', '_'] → ['und', '_', '_', 'weiter', 'geradeaus', 'sozusagen', '_']
+
+
+[genau, hinter, der, Wohnwagen, müssen, du, irgendwie, das, link, abbiegen, _]
+
+
+['also', '_']
+
+
+['du', 'sein', 'jetzt', 'quasi', 'so', 'ein', 'Viereck', 'von', 'Motorradladen', 'zu', 'der', 'Wohnwagen', 'laufen', '_']
+
+
+['_', '_', 'ungefähr', 'gehen', 'sich', '_']
+
+
+ja, _
+
+
+['genau', '_']
+
+
+[also, _, _, wieder, so, diagonal, _, _, bis, du, zum, Steakhaus, kommen, am, Ende, der, Straße, _, das, mit, der, groß, rot, Laterne, _]
+
+
+['da', 'rennen', 'halten', 'auch', 'drumherum', '_']
+
+
+['_', '_', 'recht', 'oder', 'link', 'herum', '_']
+
+
+[_, _, recht, drumherum, _]
+
+
+['_', '_', 'recht', 'drumherum', '_']
+
+
+['_', '_', 'recht', 'um', 'das', 'Steakhaus', '_']
+
+
+[okay, _]
+
+
+['und', '_', 'laufen', 'auf', 'dieser', 'Pharmakonzern', 'auf', 'dieses', 'Chemieding', 'geradeaus', 'zu', '_']
+
+
+['um', 'den', 'müssen', 'du', 'auch', 'wieder', 'herum', '_', '_']
+
+
+['also', '_']
+
+
+['du', 'biegen', 'dann', 'nach', 'link', 'ab', '_']
+
+
+['und', '_', '_', 'dann', 'gleich', 'wieder', 'nach', 'rechts', '_']
+→  ['und', '_', '_', 'dann', 'gleich', 'wieder', 'nach', 'recht', '_']
+
+
+['also', '_', '_', 'einfach', 'nur', 'um', 'dies', 'Chemie', 'ding', 'drumherum', '_']
+
+
+['direkt', 'hinter', 'dem', 'Chemieding', 'biegen', 'du', 'wieder', 'recht', 'ab', '_']
+
+
+['und', 'laufen', 'auf', 'das', 'Brathendlgeschäft', 'zu', '_']
+
+
+['ja', '_']
+
+
+['da', 'gehen', 'es', 'nicht', 'direkt', 'entlang', '_']
+
+
+['da', 'müssen', 'du', 'halten', 'auch', 'einmal', 'komplett', 'drumherum', 'laufen', '_']
+
+
+['und', 'dann', '_', '_', 'wieder', 'ein', 'Stück', 'des', 'Weg', 'zurück', 'wieder', 'auf', 'Höhe', 'des', 'Chemielabor', '_']
+
+
+['nur', 'jetzt', '_', '_', 'auf', 'der', 'andere', 'Straßenseite', '_']
+
+['ja', '_']
+
+
+['auf', 'Höhe', 'des', 'Chemielabor', 'biegen', 'du', 'jetzt', 'recht', 'ab', 'bis', 'zu', 'diese', 'Umzugsfirma', 'mit', 'der', 'Kasten', '_']
+
+
+['da', 'biegen', 'du', 'auch', 'wieder', 'recht', 'ab', '_']
+
+
+['dann', '_', '_', 'der', 'nächste', 'Straße', 'links', 'rein', '_']
+
+
+und | dann | _ | _ | gleich | wieder | _ | _ | sein | nur | ein | kurz | Stück | _ | der | nächste | Straße | rechts | rein | _
+
+
+['wenn', 'du', 'dann', 'geradeaus', 'gehen', '_', 'dann', 'kommen', 'du', 'zurück', 'direkt', 'zu', 'der', 'Straße', '_', 'wo', 'du', 'wollen', '_']
+
+
+Tokenliste: okay, _
+
+
+['ja', '_']
+
+
+['ja', '_']
+
+
+['Ich', 'glauben', '_', 'das', 'sein', 'kein', 'Karte', '_']
+
+
+soll ich dann mal klopfen _
+
+
+['ja', '_']
+
+
+['dann', '_']
+
+
+['jetzt', 'sein', 'man', 'ja', 'über', 'der', 'Buch', 'drüber', 'fast', 'am', 'Blattend', '_', '_']
+
+
+['dann', '_']
+
+
+['jetzt', '_', '_', 'ein', 'langer', 'Strecke', 'bis', 'waagerecht', 'bis', 'dahin', '_', 'wo', 'dies', 'Kornähre', 'anfangen', '_']
+
+
+['okay', '_']
+
+
+['_', '_', 'ganz', 'oben', 'recht', '_']
+
+
+_, so, _, _, machen, wir, das, mal, wie, vorhin, _, _, also, _, _, ja, _, _, unten, links, sein, _, Start, _, _, und, unten, rechts, sein, bei, mir, _, Ziel, _,_, ungefähr, in, der, Mitte, sein, der, Käse, _, _, über, dem, Ziel, _, der, König, _, _, über, dem, Start, _, der, Chirurg, _, _, oder, ganz, in, der, Mitte, sein, die, Äpfel, _, _, und, links, von, den, Äpfeln, _, das, Brötchen, _, _, ganz, ganz, oben, links, sein, die, Buch, _, _, ganz, oben, rechts, _, so, eine, Ähre, _, _, oh, _, _, da, sein, bei, mir, ein, Burger, _, _, okay, _, _, _, _, gut, _, _, dann, unter, dein, Burger, müssen, eine, Sanduhr, sein, _, _, daneben, _, ein, Zahnbürste,_, _, _, okay, _, _, dann, sein, der, Burger, also, der, Unterschied, _, _, ja, _, _, okay, _, _, dann, schnappen, dir, der, Stift, _, _, und, dann, gehen, es, vom, Start, aus, nach, rechts, bis, ungefähr, ein, halb, Zentimeter, rechts, vom, Käse,_, _, jetzt, gehen, du, von, dort, aus, nach, oben, bis, zu, den, Äpfel, _, _,_, _, ungefähr, also, in, die, Mitte, der, Äpfel, _, dass, so, ein, rechte, Winkel,_, sein, _, _, ungefähr, ein, Zentimeter, darunter, hören, du, auf, _, _, ja,_, _, und, dann, gehen, du, von, dort, aus, ungefähr, nach, links, _, ungefähr, so, weit,_, wie, die, recht, Ecke, von, dem, Brötchen, sein, _, _, aber, du, bleiben, über, dem, über, dem, Chirurgen, _, _, so, _, _, du, bleiben, sozusagen, parallel, mit, dein, Linie, zu, untere, Blattkante, _, _, so, _, _, wenn, du, dort, ankommen, sein,_, machen, du, ein, Kreis, um, diese, Chirurgen, herum, _, so, dass, der, Kreis, sich, quasi, wieder, schließen, an, dem, Punkt, _, wo, du, jetzt, gewesen, sein,_, _, Kreis, oder, viereckig, _, _, _, _, ein, Kreis,_, _, _, _, so, eierig, hier, auf, dem, Bild, _, _, also, _, _, _, _,_, richtigen, schließen,_, oder, _, _, ein, bisschen, Lücke, _.
+
+
+[ja, _]
+
+
+['_', '_', '_', 'richtig', 'schließen', '_', 'so', 'dass', 'sich', 'die', 'Linie', 'kreuzen', '_']
+
+
+[okay, _]
+
+
+[so, _]
+
+
+['jetzt', 'sein', 'du', 'da', '_', 'wo', 'sich', 'die', 'Linie', 'kreuzen', '_']
+
+
+['und', 'dann', 'gehen', 'du', 'nach', 'links', 'oben', '_']
+
+
+['_', '_', 'ungefähr', 'ja', 'ein', 'Zentimeter', 'oder', 'ein', 'halb', 'dreiviertel', 'irgendwie', '_', 'so', 'link', 'von', 'dem', 'Brötchen', 'an', 'die', 'untere', 'Kante', 'link', 'an', 'die', 'untere', 'Ecke', '_']
+
+
+['also', '_']
+
+
+[parallel, zu, unten, Kante, kommen, ich, an, ein, halb, Zentimeter, link, davon, _]
+
+
+['genau', '_']
+
+
+['genau', '_'] -> ['genau', '_']
+
+
+['also', '_']
+
+
+['_', '_', 'so', 'ein', 'klein', 'wenig', 'unter', 'der', 'Kante', '_', '_']
+
+['_', '_', 'so', 'ein', 'klein', 'wenig', 'unter', 'der', 'Kante', '_', '_'] -> ['_', '_', 'so', 'ein', 'klein', 'wenig', 'unter
+
+
+['_', '_', 'die', 'Strich', 'gerade', 'hinkriegen', 'hier', '_']
+
+
+['ja', '_']
+
+
+['so', '_']
+
+
+['jetzt', 'also', '_'] -> ['jetzt', 'also', '_']
+
+
+['jetzt', 'sein', 'du', 'ja', 'unter', 'der', 'Brötchen', 'link', '_']
+
+
+und, _, gehen, jetzt, einfach, geradeaus, hoch, bis, zu, oben, link, Eck, _
+
+
+['_', '_', '_', 'von', 'Brötchen', '_']
+
+
+['genau', '_']
+
+
+['so', '_']
+
+
+['und', 'jetzt', 'machen', 'du', 'ein', 'ganz', 'lang', 'Linie', 'nach', 'recht', 'bis', 'in', 'der', 'Mitte', 'von', 'der', 'Zahnbürste', 'und', 'der', 'Sanduhr', '_']
+
+
+['also', '_', '_', 'quasi', 'einmal', 'über', 'der', 'ganz', 'Blatt', 'rüber', '_']
+
+
+[also, _]
+
+
+['zwischen', 'der', 'beide', 'kommen', 'ich', 'an', '_']
+
+
+genau, _
+
+
+'und', 'ich', 'streifen', 'das', 'Brötchen', 'so', 'fast', 'also', 'ganz', '_'
+
+
+Tokenliste: ['oder', '_']
+Lemma: [| od, _ |]
+
+
+nein, _
+
+
+['bei', 'der', 'Brötchen', 'bleiben', 'noch', 'ein', 'bisschen', 'ungefähr', 'ein', 'halb', 'Zentimeter', '_']
+
+
+all klar
+
+
+['_', '_', 'bis', 'zur', 'Mitte', 'von', 'Sanduhr', 'und', 'Dings', '_'] --> ['_', '_', 'bis', 'zur', 'Mitte', 'von', 'Sanduhr', 'und', 'Ding', '_']
+
+
+['genau', '_']
+
+
+['_', '_', 'genau', 'dazwischen', '_'] -> ['_', '_', 'genau', 'dazwischen', '_']
+
+
+['der', 'Punkt', '_', 'sollen', '_'].
+
+
+['und', 'aber', 'waagerecht', 'zur', 'unten', 'Kante', '_']
+
+
+['ja', '_']
+
+
+Ja, _.
+
+
+['genau', '_']
+
+
+['genau', '_']
+
+
+[ja, _]
+
+
+['und', 'dann', 'gehen', 'du', 'nach', 'oben', 'ungefähr', 'anderthalb', 'Zentimeter', 'über', 'der', 'Sanduhr', '_']
+
+
+Halt, _.
+
+
+['_', '_', 'zwischen', 'der', 'Sanduhr', 'und', '_', 'Zahnbürste', 'hindurch', '_'] 
+--> ['_', '_', 'zwischen', 'der', 'Sanduhr', 'und', '_', 'Zahnbürste', 'hindurchgehen', '_']
+
+
+['so', '_']
+
+
+['jetzt', 'gehen', 'du', 'waagerecht', 'wieder', 'nach', 'links', 'über', 'der', 'Zahnbürste', 'lang', '_']
+
+
+['und', 'dort', 'ungefähr', 'ein', 'Zentimeter', 'neben', 'der', 'Zahnbürste', 'bleiben', 'du', 'stehen', '_']
+
+
+['_', 'bleiben', 'aber', 'waagerecht', '_']
+
+
+['so', '_']
+
+
+und|jetzt|gehen|du|von|da|aus|nach|unten|ungefähr|bis|zu|also|gerade|bis|zu|der|Punkt|_|wo|ja|auf|der|Hälfte|der|Borsten|sozusagen|von|der|Zahnbürste|_
+
+
+Tokenliste: [so, _]
+Lemmatisierung: [so, _]
+
+
+und | jetzt | gehen | du | schräg | nach | links | oben | _
+
+
+['allerdings', '_', '_', 'genau', 'bis', 'zur', 'Kante', 'der', 'Buch', '_']
+
+
+Und  | der | Punkt | _ | auf | dem | du | dann | enden | _ | sein | parallel | zu | der | vorletzten | Linie | _ | die | also | die | parallel | zu | untere | Blattkante | sein | gewesen | sein | _
+
+
+['als', '_']
+
+
+['_', '_', 'der', 'überhalb', 'die', 'Zahnbürste', '_']
+
+
+['_', '_', 'genau', 'der', '_', 'weil', '_', 'Zahnbürste', '_', '_']
+
+
+['_', '_', 'genau', 'dasein', '_'].
+
+
+['das', 'landen', 'ich', 'also', 'irgendwo', 'auf', 'der', 'Höhe', '_']
+
+
+['ja', '_']
+
+
+[genau, _]
+
+
+['_', '_', 'auf', 'der', 'gleich', 'Höhe', '_']
+
+
+['aber', '_'] -> ['aber', '_']
+
+
+['ja', '_']
+
+
+['und', '_', 'enden', 'dazu', 'auf', 'der', 'Kante', 'auf', 'der', 'recht', 'Kante', 'das', 'Buch', 'sozusagen', '_']
+
+
+['_', 'bleiben', 'aber', 'noch', 'anderthalb', 'oder', 'zwei', 'Zentimeter', 'unter', 'der', 'Buch', '_']
+
+
+['so', '_']
+
+
+jetzen gehen du nach link waagerecht bis ungefähr ein Zentimeter neben den Buch link _
+
+
+[ja, _]
+
+
+dann gehen du nach oben ungefähr ja auch ein Komma fünf oder zwei Zentimeter über die Buch rüber _
+
+
+['_', 'bleiben', 'aber', 'halten', 'auch', 'gerade', '_']
+
+
+[so, _]
+
+
+['und', 'jetzt', 'gehen', 'du', 'mit', 'der', 'Stift', 'nach', 'recht', 'bis', 'an', 'das', 'andere', 'Ende', 'des', 'Blatt', '_']
+
+
+['und', '_', 'umrunden', 'sozusagen', 'einmal', 'dein', 'Burger', '_']
+
+
+['ich', 'können', 'das', 'jetzt', 'schlecht', 'erklären', '_', 'weil', 'ich', 'ja', 'ein', 'anderer', 'Abbildung', 'dort', 'haben', '_']
+
+
+und, es, werden, sozusagen, ein, rund, ein, rund, Ecke, _
+
+
+['dativ', 'laufen', 'ich', 'ja', 'in', 'Kreis', 'um', 'den', 'Burger', 'rum', '_']
+
+
+['oder', '_']
+
+
+nein, _
+
+
+['aber', '_', '_', 'so', 'so', 'halbrund', '_', '_'] --> ['aber', '_', '_', 'so', 'so', 'halbrund', '_', '_']
+
+
+[ja,_] -> [ja, _]
+
+
+['genau', '_']
+
+
+['nur', '_', 'haben', 'sein', 'abgerundet', 'Ecke', '_']
+
+
+['also', '_', '_', 'diesmal', 'kein', 'Kreis', '_'] -> ['also', '_', '_', 'diesmal', 'kein', 'Kreis', '_']
+
+
+['und', 'wo', 'landen', 'ich', 'dann', 'zum', 'Schluss', 'danach', '_']
+
+
+und: und
+zum: zu
+Schluss: Schluss
+landest: landen
+du: du
+_: _
+
+
+['also', '_']
+
+
+['ganz', 'am', 'Ende', 'landen', 'du', 'fast', 'unten', 'bei', 'dem', 'König', 'und', '_']
+
+
+['also', '_']
+
+
+['ich', 'machen', 'quasi', '_']
+
+
+['_', 'gehen', 'quasi', 'über', '_']
+
+
+['_', 'machen', 'ein', 'abgerundet', 'Ecke', '_']
+
+
+['und', '_', 'laufen', 'dann', 'erstmal', 'ein', 'ganz', 'Weil', 'herum', '_']
+
+
+['genau', '_']
+
+
+['genau', '_']
+
+
+['_', '_', 'ungefähr', '_', '_'] --> ['_', '_', 'ungefähr', '_', '_']
+
+
+_, _, wie, wie, weit, recht, vom, _
+
+
+wie,sich,fühlen,bitte,selbst
+
+
+['nein', '_', 'ja', '_']
+
+
+['das', 'sein', 'schräg', 'rechten', 'über', 'dem', 'König', '_']
+ 
+
+aber | der | Punkt | sein | ungefähr | der | gleich | wie | der | _ | der | unten | der | Apfel | und | vor | dieser | Kreis | um | den | Chirurg | herum | sein | _
+
+
+['also', '_']
+
+
+[das, sein, die, gleich, Höhe, _]
+
+
+['also', '_']
+
+
+ja, _
+
+
+['das', 'sein', 'ein', 'sehr', 'lang', 'Linie', '_', 'die', 'du', 'jetzt', 'ziehen', 'müssen', '_']
+
+
+['und', 'viel', 'weit', 'recht', 'vom', 'König', '_', '_', '_']
+
+
+['_', '_', 'ungefähr', 'anderthalb', 'Zentimeter', 'ein', 'Zentimeter', '_', '_'] => ['_', '_', 'ungefähr', 'anderthalb', 'Zentimetern', 'ein', 'Zentimeter', '_', '_']
+
+
+['ja', '_']
+
+
+['so', '_']
+
+
+[und, jetzt, such, du, dir, ein, ander, Punkt, _]
+
+
+['_', 'suchen', 'du', 'dir', 'der', 'Punkt', '_', 'der', 'sozusagen', 'ein', 'Zentimeter', 'neben', 'und', 'über', 'dem', 'König', 'also', 'von', 'von', 'link', 'sein', '_']
+
+
+['so', '_']
+
+
+und | dies | beide | Punkt | verbinden | du | jetzt | sozusagen | _ | _ | Line | _
+
+
+'_', '_', '_', 'einfach', 'gerade', 'rüber', 'sozusagen', '_' -> '_', '_', '_', 'einfach', 'gerade', 'rüber', 'sozusagen', '_'
+
+
+['ja', '_']
+
+
+['also', '_']
+
+
+'_', '_', '_', 'so', 'schräg', 'dann', '_' -> '_', '_', '_', 'so', 'schräg', 'dann', '_'
+
+
+['ach', '_', 'so', '_'] -> ['ach', '_', 'so', '_']
+
+
+['okay', '_']
+
+
+exact, _
+
+
+['so', '_']
+
+
+['_', 'gut', '_', '_', '_', 'gleich', 'Prinzip', '_', '_', '_', '_', 'du', 'sein', 'am', 'Start', '_', '_', '_', '_', 'normal', '_', '_', 'und', '_', 'gehen', 'jetzt', 'nach', '_', '_', 'warten', 'mal', '_', '_', '_', 'Tür', 'sein', 'noch', 'nicht', 'ganz', 'zu', '_', '_', 'ach', '_', 'so', '_', '_', '_', '_', 'die', 'Tür', 'hier', '_', '_', 'okay', '_', '_', 'und', '_', 'gehen', 'in', 'gerade', 'Linie', 'nach', 'recht', '_', '_', 'ja', '_', '_', '_', '_', 'bis', 'zum', 'Käse', '_', '_', 'ja', '_', '_', 'und', '_', 'gehen', 'dann', 'in', 'gerade', 'Linie', 'hinter', 'dem', 'Käse', 'nach', 'oben', 'bis', 'zu', 'die', 'Äpfel', '_', '_', 'also', '_', '_', 'du', 'machen', 'ein', 'recht', 'Winkel', 'sozusagen', '_', '_', 'okay', '_', '_', '_', '_', '_', 'vom', 'Start', 'bis', 'zu', 'die', 'Äpfel', '_', '_', 'und', 'der', 'Käse', 'sein', 'im', 'Winkel', '_', '_', 'okay', '_', '_', 'ja', '_', '_', 'dann', 'gehen', 'du', 'nach', 'links', '_', '_', 'ja', '_', '_', 'da', 'sein', 'ein', '_', '_', 'ach', '_', 'nein', '_', '_', 'das', 'sein', 'kein', 'doch', 'ein', 'Zahnarzt', 'mit', 'Säge', '_', 'oder', '_', '_', 'ja', '_', '_', '_', '_', 'irgendwie', 'so', 'etwas', '_', '_', '_', '_', 'ein', 'Arzt', 'mit', 'Säge', '_', '_', 'ja', '_', '_', 'du', 'gehen', 'sozusagen', 'nach', 'links', 'über', 'dem', 'Zahnarzt', 'hinweg', '_', '_', 'also', '_', '_', 'in', 'ein', 'gerade', 'Linie', '_', 'bis', 'du', 'knapp', 'hinter', 'dem', 'Zahnarzt', 'sein', '_', '_', 'ja', '_', '_', 'und', 'dann', 'ziehen', 'du', 'ein', 'Kreis', 'einmal', 'um', 'den', 'Zahnarzt', 'herum', '_', '_', '_', '_', 'wirklich', 'ein', 'Kreis', '_', 'bis', 'du', 'dein', 'Linie', 'wiedertreffen', '_', '_', '_', '_', 'ein', 'Kreis', '_']
+
+
+['_', 'hallo', '_', 'Elena', '_', '_', 'hallo', '_', '_', 'okay', '_', '_', 'also', '_', '_', 'ich', 'erzählen', 'dir', 'heute', '_', '_', 'ich', 'erklären', 'dir', 'ein', 'Weg', '_', '_', 'okay', '_', '_', '_', 'zwar', 'an', 'der', 'Stelle', '_', 'an', 'der', 'du', 'jetzt', 'stehen', '_', 'gehen', 'du', 'ein', 'gut', 'Stückchen', 'geradeaus', '_', '_', 'ich', 'würden', 'mal', 'sagen', '_', '_', '_', 'ungefähr', 'zwei', 'Drittel', 'geradeaus', 'in', '_', '_', 'wie', 'machen', 'wir', 'das', 'am', 'besten', '_', '_', '_', 'scheinen', 'Norden', 'Süden', 'in', 'in', 'östlicher', 'in', 'östlicher', 'Richtung', '_', '_', '_', '_', '_', 'haben', 'schon', 'zeichnen', '_', '_', 'ja', '_', '_', 'ja', '_', '_', 'doch', '_', '_', '_', 'stimmen', '_', '_', 'ja', '_', '_', '_', '_', 'sogar', 'alles', 'klar', '_', '_', 'dann', '_', '_', 'ein', 'klein', 'Stückchen', 'Richtung', 'Süden', 'und', '_', 'weiter', 'in', 'östlicher', 'Richtung', '_', '_', 'dann', 'bekommen', 'du', '_', '_', 'oberhalb', 'quasi', 'von', 'dir', 'sein', 'sein', 'ein', 'Bild', 'mit', 'ein', 'Rad', '_', 'ja', '_']
+
+
+[du, meinen, ein, Roller, _]
+
+
+Tokenliste: ja, _
+
+
+['oder', '_', '_', '_', 'Rolle', 'oder', 'wie', 'auch', 'immer', 'genau', '_', '_', '_']
+→ ['oder', '_', '_', '_', 'Rolle', 'oder', 'werden', 'auch', 'immer', 'genau', '_', '_', '_']
+
+
+okay, _
+
+
+an der Rolle gehen du vorbeigehen und _ laufen dann nach Norden an dem Toaster vorbeigehen _
+
+
+['der', 'müssen', 'dann', 'auf', 'dein', 'links', 'Seite', 'liegen', '_']
+
+
+[ja, _]
+
+
+[aha, _]
+
+
+['_', 'wir', 'fangen', 'jetzt', 'einfach', 'an', 'ganz', '_', '_', 'ja', '_', '_', 'okay', '_', '_', 'so', '_', '_', 'du', 'du', 'haben', 'so', 'komisch', 'Symbol', 'hier', '_', '_', 'nicht', '_', '_', 'ja', '_', '_', 'so', '_', '_', 'dann', 'pass', 'mal', 'auf', '_', '_', 'du', '_', '_', '_', 'also', '_', 'die', 'Routen', 'gehen', 'so', '_']
+
+
+['aha', '_']
+
+
+['du', 'fangen', 'an', 'ganz', 'unten', 'links', '_']
+
+
+['aha', '_']
+
+
+['das', 'sein', 'der', 'Start', '_', 'quasi', '_']
+
+
+ja, _
+
+
+dann gehen du nach rechts _ bis du zu Rad kommen _
+
+
+['ja', '_']
+
+
+['dann', '_', 'gehen', 'nach', 'unten', 'ab']
+
+
+[ja, _]
+
+
+['aber', '_', '_', 'nur', 'ein', 'klein', 'Stück', '_', 'quasi', 'ein', 'Halbkreis', '_', 'um', 'der', 'Rad', 'rum', '_']
+
+
+['_', 'und', 'dann', '_', '_', 'nach', 'oben', 'bis', 'zum', 'Toaster', '_', 'und', 'oben', 'beim', 'Toaster', 'gehen', 'du', 'dann', 'oben', 'links', 'rüber', 'über', 'der', 'Toaster', 'also', 'bis', 'zu', 'bis', 'zu', 'obere', 'rechte', 'Ecke', 'des', 'Toaster', '_']
+
+
+['und', 'dann', '_', '_', 'nach', 'link', '_', 'bis', 'du', 'zum', 'Motorrad', 'kommen', '_']
+
+
+da: da
+gehst: gehen
+du: du
+nach: nach
+unten: unten
+_: _
+
+
+['und', '_', '_', 'unten', 'der', 'beide', 'Rad', 'des', 'Motorrad', 'quasi', 'weiter', 'nach', 'links', '_']
+
+
+['dann', '_', '_', 'so', 'fünfundvierzig', 'Grad', 'hoch', '_', 'bis', 'du', 'zur', 'Ecke', 'kommen', '_']
+
+
+['_', '_', 'von', 'der', 'Nagel', 'also', 'nach', 'recht', 'hoch', '_']
+
+
+['_', '_', 'recht', 'fünfundvierzig', 'Grad', 'nach', 'oben', '_', 'bis', 'du', 'zu', 'Ecke', 'kommen', '_']
+
+
+['und', 'dann', '_', '_', 'weiter', 'hoch', '_'] -> ['und', 'dann', '_', '_', 'weiter', 'hoch', '_']
+
+
+und  |   dann  |   _ | _ |  recht | nach  | recht  |  zu | der  | _
+
+
+['wie', 'heiß', 'das', 'da', '_']
+
+
+['_', '_', 'zuhause', 'der', 'Wohnwagen', '_']
+
+
+['_', 'aha', '_', '_', 'und', 'recht', 'hinter', 'den', 'Wohnwagen', '_', '_', 'hoch', '_', 'aber', '_', '_', 'nur', 'ein', 'klein', 'Stück', '_']
+
+
+und | dann | _ | _ | fünfundvierzig | Grad | ungefähr | nach | links | oben | _ | bis | du | zu | diese | komisch | _ | nicht | _ | was | sein | das | _ | Fleischer | kommen | da | _
+
+
+und | dann | ja | _ | _ | link | vorbei | am | Fleischer | nur | ein | ganz | kurz | Stück | _
+
+
+['und', 'dann', 'gehen', 'steigen', 'hoch', 'aufsteigen']
+
+
+[und, dann, _, _, nach, recht, _]
+
+
+['dann', '_', '_', 'einmal', 'in', 'Halbkreis', 'um', 'der', 'um', 'die', 'komisch', 'Laborfrau', 'herum', '_']
+
+
+['und', 'dann', 'einmal', 'ein', 'runter', 'zum', 'Hühnchen']
+
+
+['und', '_', '_', 'einmal', 'herumgehen', '_']
+
+
+['und', '_', '_', 'komplett', 'hoch', '_'] -> ['und', '_', '_', 'komplett', 'hoch', '_']
+
+
+[also, _]
+
+
+
+['_', '_', 'komplett', 'wieder', 'hoch', 'zurück', 'zu', 'dem', 'zum', 'Tisch', '_']
+
+
+['aber', 'dann', 'halten', 'nach', 'nach', 'recht', 'zum', 'Paket', '_']
+
+
+['und', 'dann', '_', '_', '_', 'kurz', 'Stück', 'runter', '_']
+
+
+['und', 'dann', '_', '_', 'wieder', 'recht', '_']
+
+
+['_', 'und', 'dann', '_', '_', 'nach', 'unten', 'ungefähr', 'so', 'bis', 'zur', 'Hälfte', 'des', 'Blatt', '_', 'da', 'sein', 'das', 'Ziel', '_']
+
+
+['jawohl', '_']
+
+
+['okay', '_']
+
+
+['_', 'jetzt', 'sein', 'ich', 'fertig', '_', 'sollen', 'ich', 'jetzt', 'an', 'die', 'Scheibe', 'klopfen', '_']
+
+
+nein, _
+
+
+['ich', 'glauben', '_', 'jetzt', 'müssen', 'ich', 'erst', '_']
+
+
+['oder', '_']
+
+
+nein, _
+
+
+['_', 'dannen', 'können', 'wir', 'einfach', 'loslegen', '_', '_', 'ja', '_', '_', 'ja', '_', '_', 'müssen', 'man', '_', '_', 'okay', '_', '_', '_', '_', 'gut', '_', '_', '_', '_', 'in', 'Ordnung', '_', '_', 'okay', '_', '_', 'haben', 'du', 'da', 'drüben', 'Start', 'und', 'Ziel', 'eingezeichnet', '_', '_', 'ja', '_', 'okay', '_']
+
+
+['_', 'kennen', 'der', 'Start', 'ja', 'döch', '_']
+
+
+['und', 'der', 'Ziel', 'hier', 'oben', '_', '_', 'auch', '_']
+
+
+['also', '_']
+
+
+ja, _
+
+
+ja, _
+
+
+['unten', 'unten', 'links', '_', '_', 'start', '_']
+
+
+['okay', '_']
+
+
+['_', '_', 'gut', '_'] -> ['_', '_', 'gut', '_']
+
+
+['man','müssen','von','Start','aus','geradeaus','weitergehen','bis','zum','Rad','_']
+
+
+das Rad müssen dann rechtsherum sozusagen umkreisen werden _
+
+
+[also, _]
+
+
+['_', '_', 'rechtsherum', 'laufen', '_'] --> ['_', '_', 'rechtsherum', 'laufen', '_']
+
+
+(['und', 'dann', '_', '_', 'nach', 'oben', 'weiterlaufen', 'zu', 'dem', 'Toaster', '_'])
+
+['und', 'dann', '_', '_', 'nach', 'oben', 'weiterlaufen', 'zu', 'dem', 'Toaster', '_'] -> ['und', 'dann', '_', '_', 'nach', 'oben', 'weiterlau
+
+
+hinter | Toaster | müssen | rechts | entschuldigen | link | abbiegen | werden | _ | um | dann | unter | Motorrad | _ | also | _ | _ | nach | link | abbiegen | _ | vorbeigehen | _ | um | von | da | aus | nach | recht | weiterlaufen | _
+
+
+['_', 'der', 'Motorrad', '_', '_', 'link', '_']
+
+
+['und', 'dann', '_', '_', 'nach', 'recht','_']
+
+
+['okay', '_']
+
+
+['_', '_', 'von', 'der', 'Toaster', 'aus', '_']
+
+
+['also', '_']
+
+
+['ja', '_']
+
+
+['sein', 'Ich', 'jetzt', 'unter', 'der', 'Motorrad', 'lang', '_', '_']
+
+
+['genau', '_']
+
+
+['genau', 'unter', 'der', 'Motorrad', 'lang', '_', '_', 'weiter', '_']
+
+
+['aber', '_', '_', 'link', 'des', 'Motorrad', 'ankommen', '_']
+
+
+[genau, _]
+
+
+['und', 'jetzt', '_'] --> ['und', 'jetzt', '_']
+
+
+dann | _  | _  | über | das | Motorrad | rüber | _  | wenn | ich | wiederkommen | nach | rechts | _  | wollen | _
+
+
+[genau, _]
+
+
+['und', 'jetzt', '_', '_', 'mit', 'mein', '_']
+
+
+Tokenliste: [das, sein, es, dann, schon, von, an, dem, an, dem, Motorrad, vorbei, _]
+
+
+[exakt, _]
+
+
+ ja, _
+
+
+['und', 'jetzt', '_', '_', 'nach', 'oben', 'an', 'der', 'Nagel', 'vorbei', '_']
+
+
+ja, _
+
+
+['_', 'Nagel', '_', '_', '_']
+
+
+['da', 'sein', 'so', 'ein', 'Bild', 'mit', 'Nagel', 'bei', 'ich', '_']
+
+
+['ich', 'haben', 'kein', 'Nagel', '_']
+
+
+['ich', 'haben', 'Eisenbahnwaggon', '_']
+
+
+['_', '_', 'ganz', 'ganz', 'links', '_'] → ['_', '_', 'ganz', 'ganz', 'links', '_']
+
+
+Nein, _.
+
+
+['ich', 'haben', 'ein', 'Hähnchen', '_']
+
+
+['ich', 'haben', 'ein', 'Schornsteinfeger', '_']
+
+
+['ja', '_']
+
+
+['_', 'wo', 'sein', 'denn', 'der', 'Schornsteinfeger', '_', 'also', '_']
+
+
+['ein', 'Schornsteinfeger', 'haben', 'ich', 'noch', 'nicht', 'sehen', '_']
+
+
+['_', 'der', 'legen', 'wir', 'hier', 'rein', '_', 'also', '_']
+
+
+['ich', 'haben', 'ein', 'Schornsteinfeger', 'direkt', 'neben', 'der', 'Motorrad', '_']
+
+
+[und, dafür, haben, ich, kein, Nagel, _]
+
+
+['und', 'da', 'sein', 'bei', 'ich', 'Nagel', '_']
+
+
+[ na, _ ]
+
+
+['dann', 'gehen', 'werden', 'zu', 'der', 'Schornsteinfeger', '_']
+
+
+['Okay', '_']
+
+
+['genau', '_']
+
+
+[und, daran, _, _, vorbei, _] → [und, daran, _, _, vorbei, _]
+
+
+['und', 'dann', '_', '_', 'recht', 'laufen', '_', 'um', 'unter', 'dies', 'Wohnwagen', 'vorbeikommen', '_']
+
+
+['ja', '_']
+
+
+['ja', '_']
+
+
+an dem Wohnwagen _ _ dann links _
+
+
+['dann', '_']
+
+
+['müssen', 'ich', 'um', 'der', 'Wohnwagen', 'wieder', 'rum', '_', '_']
+
+
+['genau', '_']
+
+
+und|dann|_|_|schräg|schräg|nach|oben|zu|dem|Fleischer|_.
+
+
+ja, _
+
+
+['ja', '_']
+
+
+['jetzt', '_', '_', 'an', 'der', 'Fleischer', 'nach', 'link', 'vorbei', '_']
+
+
+['dann', '_', 'sein', 'nach', 'oben', 'gehen']
+
+
+[ja, _]
+
+
+['und', 'jetzt', '_', '_', 'an', 'der', 'Fleischer', 'recht', 'vorbei', '_']
+
+
+['Ja', '_']
+
+
+['_', '_', 'über', 'die', 'Chemiker', 'rüber', '_']
+
+
+[ja, _]
+
+
+['jetzt', '_', 'sein', 'nach', 'unten', 'gehen']
+
+
+['also', '_'] --> ['also', '_']
+
+
+['_', '_', 'sich', 'nach', 'recht', 'wenden', '_', 'um', 'das', 'Hühnchen', 'einmal', 'zu', 'umkreisen', '_', 'also', '_', 'wieder', 'oben', 'ankommen', '_']
+
+
+ja, _
+
+
+dann, _, _, vom, Hähnchen, aus, sozusagen, nach, oben, abbiegen, _.
+
+
+['ja', '_']
+
+
+['_', '_', 'wieder', 'reichen', '_']
+
+
+['_', 'Karton', '_', '_', '_', '_'] -->  ['_', 'Karton', '_', '_', '_', '_']
+
+
+['genau', '_']
+
+
+['dann', 'sein', 'wir', 'zum', 'Karton', 'grad', 'erstmal', '_', '_']
+
+
+['und', 'dann', '_', '_', 'nach', 'recht', 'zum', 'Karton', '_']
+
+
+[ja, _]
+
+
+['dann', '_', 'gehen', 'nach', 'unten', 'am', 'Karton', 'vorbei', '_']
+
+
+['also', '_']
+
+
+['_', '_', 'einmal', 'nach', 'unten', '_'] → ['_', '_', 'einmal', 'nach', 'unten', '_']
+
+
+['und', 'dann', '_', '_', 'sozusagen', 'nach', 'link', '_']
+
+
+['huch', '_']
+
+
+['ich', 'sein', '_']
+
+
+['wenn', 'ich', 'nach', 'unten', 'gehen', 'weg', 'vom', 'Karton', '_', 'müssen', 'ich', 'einmal', 'rum', 'um', 'den', 'Karton', '_', '_']
+
+
+ja, _
+
+
+['genau', '_']
