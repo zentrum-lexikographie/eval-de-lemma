@@ -283,9 +283,9 @@ der,DET,ART,der,der
 Lehrbuchsammlung,NOUN,NN,Lehrbuchsammlung,Lehrbuchsammlung
 handelt,VERB,VVFIN,handeln,handeln
 ?,PUNCT,$.,?,?
-Bücher,NOUN,NN,Buch,Buch
-aus,ADP,APPR,aus,aus
-der,DET,ART,der,der
+Bücher,NOUN,NN,Buch,bedeuten
+aus,ADP,APPR,aus,auch
+der,DET,ART,der,immer
 Lehrbuchsammlung,NOUN,NN,Lehrbuchsammlung,Lehrbuchsammlung
 haben,AUX,VAFIN,haben,haben
 ein,DET,ART,ein,ein

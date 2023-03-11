@@ -55,17 +55,17 @@ Urlaubs,NOUN,NN,Urlaub,Urlaub
 kaufen,VERB,VVINF,kaufen,kaufen
 .,PUNCT,$.,.,.
 dann,ADV,ADV,dann,dann
-weiß,VERB,VVFIN,wissen,wissen
+weiß,VERB,VVFIN,wissen,weiß
 man,PRON,PIS,man,man
 ",",PUNCT,"$,",",",","
 was,PRON,PRELS,wer,was
 typisch,ADJ,ADJD,typisch,typisch
 ist,AUX,VAFIN,sein,sein
 ",",PUNCT,"$,",",",","
-welcher,DET,PWAT,welcher,welcher
+welcher,DET,PWAT,welcher,welch
 Preis,NOUN,NN,Preis,Preis
 für,ADP,APPR,für,für
-welche,DET,PWAT,welcher,welche
+welche,DET,PWAT,welcher,welch
 Qualität,NOUN,NN,Qualität,Qualität
 passt,VERB,VVFIN,passen,passen
 [,PUNCT,$(,[,[
@@ -144,7 +144,7 @@ lange,ADJ,ADJD,lang,lang
 erinnern,VERB,VVINF,erinnern,erinnern
 (,PUNCT,$(,(,(
 z.B.,ADV,ADV,z.B.,z.B.
-funktionale,ADJ,ADJA,funktional,funktionaler
+funktionale,ADJ,ADJA,funktional,funktionale
 Einrichtungsgegenstände,NOUN,NN,Einrichtungsgegenstand,Einrichtungsgegenstand
 ),PUNCT,$(,),)
 .,PUNCT,$.,.,.
@@ -860,7 +860,7 @@ aussuchen,VERB,VVINF,aussuchen,aussuchen
 .,PUNCT,$.,.,.
 -12,NUM,CARD,-12,-12
 -12,NUM,CARD,-12,-12
-13.21.44,X,XY,13.21.44,13.21.44
+13.21.44,X,XY,13.21.44,13.21.40
 finden,VERB,VVFIN,finden,finden:finden
 wir,PRON,PPER,wir,wir:wir
 den,DET,ART,der,den:der
@@ -888,7 +888,7 @@ aufzuhängen,VERB,VVIZU,aufhängen,aufzuhängen:aufhängen
 .,PUNCT,$.,.,.:.
 -12,NUM,CARD,-12,-12
 -12,NUM,CARD,-12,-12
-13.21.40,X,XY,13.21.40,13.21.44
+13.21.40,X,XY,13.21.40,13.21.40
 mit,ADP,APPR,mit,mit
 Aussicht,NOUN,NN,Aussicht,Aussicht
 .,PUNCT,$.,.,.
