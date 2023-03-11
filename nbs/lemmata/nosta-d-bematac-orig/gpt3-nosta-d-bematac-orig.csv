@@ -369,7 +369,7 @@ ist,AUX,VAFIN,ist,sein
 links,ADV,ADV,links,link
 unten,ADV,ADV,unten,unten
 _,PUNCT,$.,.,_
-ach,INTJ,ITJ,Ach,ach
+ach,INTJ,ITJ,Ach,Ach
 _,PUNCT,"$,",",",_
 Scheiße,NOUN,NN,Scheiße,Scheiß
 _,PUNCT,$.,.,_
@@ -397,7 +397,7 @@ Zahnbürste,NOUN,NN,Zahnbürste,Zahnbürste
 und,CONJ,KON,und,und
 Sanduhr,NOUN,NN,Sanduhr,Sanduhr
 _,PUNCT,$.,.,_
-ach,INTJ,ITJ,Ach,ach
+ach,INTJ,ITJ,Ach,Ach
 _,PUNCT,"$,",",",_
 Scheiße,NOUN,NN,Scheiße,Scheiß
 _,PUNCT,$.,.,_

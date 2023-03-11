@@ -269,7 +269,7 @@ Urlaubs,NOUN,NN,Urlaub,Urlaub
 kaufen,VERB,VVINF,kaufen,kaufen
 .,PUNCT,$.,.,.
 Dann,ADV,ADV,dann,Dann
-weiß,VERB,VVFIN,wissen,weiß
+weiß,VERB,VVFIN,wissen,wissen
 man,PRON,PIS,man,man
 ",",PUNCT,"$,",",",","
 was,PRON,PRELS,wer,was
@@ -336,7 +336,7 @@ und,CONJ,KON,und,und
 zuhause,ADV,ADV,zuhause,zuhause
 nicht,PART,PTKNEG,nicht,nicht
 zu,PART,PTKZU,zu,zu
-bekommen,VERB,VVINF,bekommen,bekomme
+bekommen,VERB,VVINF,bekommen,bekommen
 ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 Je,ADV,ADV,je,Je
@@ -1126,7 +1126,7 @@ aussuchen,VERB,VVINF,aussuchen,aussuchen
 .,PUNCT,$.,.,.
 -12,NUM,CARD,-12,-12
 -12,NUM,CARD,-12,-12
-13.21.44,X,XY,13.21.44,13.21.40
+13.21.44,X,XY,13.21.44,13.21.44
 finden,VERB,VVFIN,finden,finden
 wir,PRON,PPER,wir,wir
 den,DET,ART,der,der
@@ -1154,7 +1154,7 @@ aufzuhängen,VERB,VVIZU,aufhängen,aufhängen
 .,PUNCT,$.,.,.
 -12,NUM,CARD,-12,-12
 -12,NUM,CARD,-12,-12
-13.21.40,X,XY,13.21.40,13.21.40
+13.21.40,X,XY,13.21.40,13.21.44
 ersten,ADJ,ADJA,erster,erster
 Nächte,NOUN,NN,Nacht,Nacht
 ist,AUX,VAFIN,sein,sein
@@ -1810,7 +1810,7 @@ Clerck,PROPN,NE,Clerck,Clerck
 1757,NUM,CARD,1757,1757
 Kreuzspinne,NOUN,NN,Kreuzspinne,Kreuzspinne
 Araneus,X,FM,Araneus,Araneus
-marmoreus,X,FM,marmoreus,angulatus
+marmoreus,X,FM,marmoreus,marmoreus
 –,PUNCT,$(,–,–
 Clerck,PROPN,NE,Clerck,Clerck
 ",",PUNCT,"$,",",",","
@@ -1827,7 +1827,7 @@ Clerck,PROPN,NE,Clerck,Clerck
 ",",PUNCT,"$,",",",","
 1757,NUM,CARD,1757,1757
 Araneus,X,FM,Araneus,Araneus
-sturmi,X,FM,sturmi,sturm
+sturmi,X,FM,sturmi,sturmi
 –,PUNCT,$(,–,–
 Hahn,PROPN,NE,Hahn,Hahn
 ",",PUNCT,"$,",",",","

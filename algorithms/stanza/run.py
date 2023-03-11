@@ -59,7 +59,7 @@ model = stanza.Pipeline(
     lemma_pretagged=True, tokenize_pretokenized=True)
 
 
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a PoS-tagged list of tokens using Stanza."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence

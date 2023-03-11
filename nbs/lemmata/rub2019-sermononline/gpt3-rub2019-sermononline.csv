@@ -238,7 +238,7 @@ auch,ADV,ADV,auch,auch
 Opfer,NOUN,NN,Opfer,Opfer
 bringen,VERB,VVINF,bringen,bringen
 ",",PUNCT,"$,",",",","
-die,PRON,PRELS,der,der
+die,PRON,PRELS,der,die
 uns,PRON,PPER,wir,uns
 etwas,PRON,PIS,etwas,etwas
 kosten,VERB,VVFIN,kosten,kosten
@@ -246,7 +246,7 @@ kosten,VERB,VVFIN,kosten,kosten
 z.B.,ADV,ADV,z.B.,z.B.
 die,DET,ART,der,die
 Kinder,NOUN,NN,Kind,Kinder
-während,ADP,APPR,während,währen
+während,ADP,APPR,während,während
 dem,DET,ART,der,dem
 Gottesdienst,NOUN,NN,Gottesdienst,Gottesdienst
 hüten,VERB,VVINF,hüten,hüten
@@ -493,11 +493,11 @@ er,PRON,PPER,er,er
 ist,AUX,VAFIN,sein,sein
 mächtig,ADJ,ADJD,mächtig,mächtig
 .,PUNCT,$.,.,.
-Abram,PROPN,NE,Abram,Abram
-heisst,VERB,VVFIN,heißen,heißen
-nun,ADV,ADV,nun,nun
+Abram,PROPN,NE,Abram,und
+heisst,VERB,VVFIN,heißen,Sarai
+nun,ADV,ADV,nun,heißen
 neu,ADJ,ADJD,neu,neu
-Abraham,PROPN,NE,Abraham,Abraham
+Abraham,PROPN,NE,Abraham,Sara
 :,PUNCT,$.,:,:
 Und,CONJ,KON,und,und
 Sarai,PROPN,NE,Sarai,Sarai

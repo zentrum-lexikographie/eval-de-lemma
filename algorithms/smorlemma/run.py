@@ -38,6 +38,7 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
     returned.
     """
     predicted = []
+    y_flat = list(itertools.chain(*y_test))
     for i, x in enumerate(list(itertools.chain(*x_test))):
         try:
             p = run(["fst-infl2", transducer], stdout=PIPE, input=x,
@@ -47,8 +48,8 @@ def predict(x_test, y_test, z_test, z_test_xpos, dname):
             # list of lemmata
             lemmata = [re.sub(r'<[-#\+~]*[1-3A-Za-z]*>', '', r)
                        for r in results]
-            if y_test[i] in lemmata:  # gold lemma in analyses
-                predicted.append(y_test[i])
+            if y_flat[i] in lemmata:  # gold lemma in analyses
+                predicted.append(y_flat[i])
             else:
                 predicted.append('')
         except Exception as err:

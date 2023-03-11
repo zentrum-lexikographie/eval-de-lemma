@@ -7631,10 +7631,10 @@ Staatsbildung,NOUN,NN,Staatsbildung,Staatsbildung
 in,ADP,APPR,in,in
 der,DET,ART,der,der
 Herzegowina,PROPN,NE,Herzegowina,Herzegowina
-zeigt,VERB,VVFIN,zeigen,zeigen
+zeigt,VERB,VVFIN,zeigen,zeig
 nur,ADV,ADV,nur,nur
 ",",PUNCT,"$,",",",","
-daß,SCONJ,KOUS,daß,dass
+daß,SCONJ,KOUS,daß,daß
 die,DET,ART,der,die
 Nichtakzeptanz,NOUN,NN,Nichtakzeptanz,Nichtakzeptanz
 eines,DET,ART,ein,ein
@@ -7642,7 +7642,7 @@ moslemischen,ADJ,ADJA,moslemisch,moslemisch
 Bosnien,PROPN,NE,Bosnien,Bosnien
 nicht,PART,PTKNEG,nicht,nicht
 allein,ADV,ADV,allein,allein
-eine,DET,ART,ein,eine
+eine,DET,ART,ein,ein
 serbische,ADJ,ADJA,serbisch,serbisch
 Angelegenheit,NOUN,NN,Angelegenheit,Angelegenheit
 ist,AUX,VAFIN,sein,sein
@@ -7659,7 +7659,7 @@ Zusammengehen,NOUN,NN,Zusammengehen,Zusammengehen
 gegen,ADP,APPR,gegen,gegen
 die,DET,ART,der,die
 Serben,PROPN,NN,Serbe,Serb
-eine,DET,ART,ein,eine
+eine,DET,ART,ein,ein
 Zeitlang,NOUN,NN,Zeitlang,Zeitlang
 auch,ADV,ADV,auch,auch
 so,ADV,ADV,so,so
@@ -8032,12 +8032,12 @@ als,SCONJ,KOUS,als,als
 er,PRON,PPER,er,er
 nach,ADP,APPR,nach,nach
 der,DET,ART,der,der
-größten,ADJ,ADJA,groß,größten
+größten,ADJ,ADJA,groß,größte
 Friedensdemonstration,NOUN,NN,Friedensdemonstration,Friedensdemonstration
 in,ADP,APPR,in,in
 der,DET,ART,der,der
 Geschichte,NOUN,NN,Geschichte,Geschichte
-Israels,PROPN,NE,Israel,Israels
+Israels,PROPN,NE,Israel,Israel
 in,ADP,APPR,in,in
 sein,DET,PPOSAT,sein,sein
 Auto,NOUN,NN,Auto,Auto

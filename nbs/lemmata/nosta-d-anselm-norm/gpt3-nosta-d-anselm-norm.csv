@@ -341,7 +341,7 @@ fragte,VERB,VVFIN,fragen,fragen
 Anselm,PROPN,NE,Anselm,Anselm
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Und,CONJ,KON,und,und
+Und,CONJ,KON,und,Und
 er,PRON,PPER,er,er
 sprach,VERB,VVFIN,sprechen,sprechen
 :,PUNCT,$.,:,:
@@ -717,7 +717,7 @@ Sankt,ADJ,ADJA,Sankt,Sankt
 Anselm,PROPN,NE,Anselm,Anselm
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Und,CONJ,KON,und,und
+Und,CONJ,KON,und,Und
 er,PRON,PPER,er,er
 sprach,VERB,VVFIN,sprechen,sprechen
 :,PUNCT,$.,:,:
@@ -816,7 +816,7 @@ jämmerlichen,ADJ,ADJD,jämmerlich,jämmerlich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
-sie,PRON,PPER,sie,sie
+sie,PRON,PPER,sie,er
 sprachen,VERB,VVFIN,sprechen,sprechen
 :,PUNCT,$.,:,:
 Oh-weh,INTJ,ITJ,oh-weh,Oh-weh
