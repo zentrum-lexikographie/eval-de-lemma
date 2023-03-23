@@ -78,7 +78,7 @@ results = []
 for x_test, y_test, z_test, z_test_xpos, dname in load_data(DATASETSPATH):
     try:
         results.append(run_algorithm(predict, x_test, y_test, z_test,
-                                     z_test_xpos, dname, 'stanza'))
+                                     z_test_xpos, dname, 'stanza-pretagged'))
     except Exception as err:
         logger.error(err)
 
