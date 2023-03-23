@@ -24,6 +24,11 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
+# check if Tagger has been installed to correct directory
+if os.path.isdir("../../RNNTagger"):
+    os.system("mv ../../RNNTagger RNNTagger/")
+
+
 def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using RNNTagger."""
     # write tokens to file

@@ -1,6 +1,7 @@
 import itertools
 import json
 import logging
+import os
 import re
 from subprocess import run, PIPE
 import sys
@@ -24,6 +25,12 @@ DATASETSPATH = "../../datasets"
 
 import warnings
 warnings.filterwarnings("ignore")
+
+# check if SMORLemma and files have been installed to correct directory
+if os.path.isdir("../../SMORLemma"):
+    os.system("mv ../../SMORLemma SMORLemma/")
+    os.system("mv ../../zmorge-20150315.xml zmorge-20150315.xml")
+    os.system("mv ../../zmorge-20150315-smor_newlemma.ca zmorge-20150315-smor_newlemma.ca")
 
 transducer = "zmorge-20150315-smor_newlemma.ca"
 

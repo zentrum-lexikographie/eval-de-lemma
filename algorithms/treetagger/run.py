@@ -23,6 +23,9 @@ DATASETSPATH = "../../datasets"
 import warnings
 warnings.filterwarnings("ignore")
 
+# check if Tagger has been installed to correct directory
+if os.path.isdir("../../tagger"):
+    os.system("mv ../../tagger tagger/")
 
 def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a nested list of tokens using TreeTagger."""
