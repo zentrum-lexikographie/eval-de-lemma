@@ -1,6 +1,6 @@
 token,tag,tag_STTS,lemma_gold,lemma_pred
 _,UNK,--,--,_
-Veruntreute,VERB,VVFIN,veruntreuen,veruntreuen
+Veruntreute,VERB,VVFIN,veruntreuen,Veruntreute
 die,DET,ART,d,der
 AWO,NOUN,NN,AWO,AWO
 Spendengeld,NOUN,NN,Spendengeld,Spendengeld
@@ -9,14 +9,14 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 Staatsanwaltschaft,NOUN,NN,Staatsanwaltschaft,Staatsanwaltschaft
 muß,VERB,VMFIN,müssen,müssen
-AWO-Konten,NOUN,NN,AWO-Konto,AWO-Konte
+AWO-Konten,NOUN,NN,AWO-Konto,AWO-Konten
 prüfen,VERB,VVINF,prüfen,prüfen
 /,PUNCT,$(,/,/
 _,UNK,--,--,_
 Flossen,VERB,VVFIN,fließen,Flosse
 165.000,NUM,CARD,165.000,165.000
 Mark,NOUN,NN,Mark,Mark
-Sammelgelder,NOUN,NN,Sammelgeld,Sammelgeld
+Sammelgelder,NOUN,NN,Sammelgeld,Sammelgelder
 für,ADP,APPR,für,für
 Flutopfer,NOUN,NN,Flutopfer,Flutopfer
 in,ADP,APPR,in,in
@@ -182,7 +182,7 @@ Tat,NOUN,NN,Tat,Tat
 sitzt,VERB,VVFIN,sitzen,sitzen
 Ute,PROPN,NE,Ute,Ute
 Wedemeier,PROPN,NE,Wedemeier,Wedemeier
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Kuratorium,NOUN,NN,Kuratorium,Kuratorium
 für,ADP,APPR,für,für
 das,DET,ART,d,der
@@ -441,7 +441,7 @@ Haushalt,NOUN,NN,Haushalt,Haushalt
 hat,AUX,VAFIN,haben,haben
 (,PUNCT,$(,(,(
 _,PRON,PDS,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 Wedemeier,PROPN,NE,Wedemeier,Wedemeier
 ),PUNCT,$(,),)
 ",",PUNCT,"$,",",",","
@@ -462,7 +462,7 @@ _,DET,ART,--,_
 Vorwurf,NOUN,NN,Vorwurf,Vorwurf
 Nummer,NOUN,NN,Nummer,Nummer
 3,NUM,CARD,3,3
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 :,PUNCT,$.,:,:
 Die,DET,ART,d,der
 Landesvorsitzende,NOUN,NN,Landesvorsitzende,Landesvorsitzende
@@ -614,7 +614,7 @@ Neubesetzung,NOUN,NN,Neubesetzung,Neubesetzung
 des,DET,ART,d,der
 ehrenamtlichen,ADJ,ADJA,ehrenamtlich,ehrenamtlich
 Geschäftsführer-Postens,NOUN,NN,Geschäftsführer-Posten,Geschäftsführer-Postens
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Landesverbandes,NOUN,NN,Landesverband,Landesverband
 ging,VERB,VVFIN,gehen,gehen
 ",",PUNCT,"$,",",",","
@@ -639,7 +639,7 @@ Geschäftsführer,NOUN,NN,Geschäftsführer,Geschäftsführer
 Volker,PROPN,NE,Volker,Volker
 Tegeler,PROPN,NE,Tegeler,Tegeler
 auch,ADV,ADV,auch,auch
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Landesverband,NOUN,NN,Landesverband,Landesverband
 zum,ADP,APPRART,zum,zum
 Geschäftsführer,NOUN,NN,Geschäftsführer,Geschäftsführer
@@ -690,7 +690,7 @@ er,PRON,PPER,er,er
 bei,ADP,APPR,bei,bei
 einer,DET,ART,ein,ein
 Prüfgesellschaft,NOUN,NN,Prüfgesellschaft,Prüfgesellschaft
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Vorstand,NOUN,NN,Vorstand,Vorstand
 war,AUX,VAFIN,sein,sein
 ",",PUNCT,"$,",",",","
@@ -718,10 +718,10 @@ niederlegen,VERB,VVINF,niederlegen,niederlegen
 ",",PUNCT,"$,",",",","
 den,DET,ART,d,der
 AWO-Posten,NOUN,NN,AWO-Posten,AWO-Posten
-_,VERB,VMFIN,--,seinken
+_,VERB,VMFIN,--,_
 _,PRON,PPER,--,_
 nicht,PART,PTKNEG,nicht,nicht
-_,VERB,VVINF,--,seinken
+_,VERB,VVINF,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 K.,PROPN,NE,K.,K.
@@ -732,7 +732,7 @@ SPD,PROPN,NE,SPD,SPD
 CDU,PROPN,NE,CDU,CDU
 /,PUNCT,$(,und,/
 AfB,PROPN,NE,AfB,AfB
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 für,ADP,APPR,für,für
 Daewoo-Millionen,NOUN,NN,Daewoo-Million,Daewoo-Million
 _,UNK,--,--,_
@@ -891,7 +891,7 @@ Ausschuß,NOUN,NN,Ausschuss,Ausschuß
 nur,ADV,ADV,nur,nur
 von,ADP,APPR,von,von
 den,DET,ART,d,der
-Grünen,NOUN,NN,Grüne,Grüne
+Grünen,NOUN,NN,Grüne,grüne
 ",",PUNCT,"$,",",",","
 die,PRON,PRELS,d,der
 darauf,ADV,PAV,darauf,darauf
@@ -939,9 +939,9 @@ statt,ADP,APPR,statt,statt
 Barrieren,NOUN,NN,Barriere,Barrieren
 """",PUNCT,$(,"""",""""
 _,UNK,--,--,_
-Behinderte,ADJ,ADJA,behindert,behindert
+Behinderte,ADJ,ADJA,behindert,Behinderte
 Menschen,NOUN,NN,Mensch,Mensch
-veranstalteten,VERB,VVFIN,veranstalten,veranstalten
+veranstalteten,VERB,VVFIN,veranstalten,veranstaltet
 _,DET,ART,--,_
 Protesttag,NOUN,NN,Protesttag,Protesttag
 in,ADP,APPR,in,in
@@ -1051,7 +1051,7 @@ Auch,ADV,ADV,auch,auch
 Busse,NOUN,NN,Bus,Bus
 und,CONJ,KON,und,und
 Bahnen,NOUN,NN,Bahn,Bahn
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 öffentlichen,ADJ,ADJA,öffentlich,öffentlich
 Nahverkehr,NOUN,NN,Nahverkehr,Nahverkehr
 seien,AUX,VAFIN,sein,sein
@@ -1104,7 +1104,7 @@ Sicht,NOUN,NN,Sicht,Sicht
 """",PUNCT,$(,"""",""""
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 die,DET,ART,d,der
 gestrige,ADJ,ADJA,gestrig,gestrig
 Manöverkritik,NOUN,NN,Manöverkritik,Manöverkritik
@@ -1121,7 +1121,7 @@ Markplatz,NOUN,NN,Markplatz,Markplatz
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
 Warum,ADV,PWAV,warum,warum
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 immer,ADV,ADV,immer,immer
 wir,PRON,PPER,wir,wir
 ?,PUNCT,$.,?,?
@@ -1552,7 +1552,7 @@ worden,AUX,VAPP,werden,werden
 sein,AUX,VAINF,sein,sein
 -,PUNCT,$(,-,-
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 _,DET,ART,--,_
 klarer,ADJ,ADJA,klar,klar
 Regelverstoß,NOUN,NN,Regelverstoß,Regelverstoß
@@ -1588,9 +1588,9 @@ Nacht,ADV,ADV,Nacht,Nacht
 """",PUNCT,$(,"""",""""
 _,UNK,--,--,_
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 _,DET,ART,--,_
-Queere,ADJ,ADJA,queer,huer
+Queere,ADJ,ADJA,queer,Queere
 Welt,NOUN,NN,Welt,Welt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -1598,7 +1598,7 @@ cd,X,XY,cd,cd
 _,UNK,--,--,_
 _,DET,ART,--,_
 Agenda-21-Bericht,NOUN,NN,Agenda-21-Bericht,Agenda-21-Bericht
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 vom,ADP,APPRART,vom,vom
 Tisch,NOUN,NN,Tisch,Tisch
 _,UNK,--,--,_
@@ -1658,7 +1658,7 @@ Kritik,NOUN,NN,Kritik,Kritik
 hingegen,ADV,ADV,hingegen,hingegen
 die,DET,ART,d,der
 Bremer,ADJ,ADJA,Bremer,Bremer
-Grünen,NOUN,NN,Grüne,Grüne
+Grünen,NOUN,NN,Grüne,grüne
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Fraktionssprecher,NOUN,NN,Fraktionssprecher,Fraktionssprecher
@@ -1685,7 +1685,7 @@ nicht,PART,PTKNEG,nicht,nicht
 -,PUNCT,$(,-,-
 wie,SCONJ,KOUS,wie,wie
 versprochen,VERB,VVPP,versprechen,versprechen
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 -,PUNCT,$(,-,-
 in,ADP,APPR,in,in
 die,DET,ART,d,der
@@ -1697,7 +1697,7 @@ sei,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Die,DET,ART,d,der
-Grünen,NOUN,NN,Grüne,Grüne
+Grünen,NOUN,NN,Grüne,grüne
 haben,AUX,VAFIN,haben,haben
 den,DET,ART,d,der
 Agenda-Bericht,NOUN,NN,Agenda-Bericht,Agenda-Bericht
@@ -1762,7 +1762,7 @@ Der,DET,ART,d,der
 Studienbetrieb,NOUN,NN,Studienbetrieb,Studienbetrieb
 soll,VERB,VMFIN,sollen,sollen
 bereits,ADV,ADV,bereits,bereits
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Herbst,NOUN,NN,Herbst,Herbst
 2000,NUM,CARD,2000,2000
 aufgenommen,VERB,VVPP,aufnehmen,aufnehmen
@@ -1795,7 +1795,7 @@ Vor,ADP,APPR,vor,vor
 der,DET,ART,d,der
 dritten,ADJ,ADJA,dritt,dritt
 Verhandlungsrunde,NOUN,NN,Verhandlungsrunde,Verhandlungsrunde
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Tarifstreit,NOUN,NN,Tarifstreit,Tarifstreit
 der,DET,ART,d,der
 Druckindustrie,NOUN,NN,Druckindustrie,Druckindustrie
@@ -1844,7 +1844,7 @@ _,UNK,--,--,_
 Die,DET,ART,d,der
 Gewerkschaft,NOUN,NN,Gewerkschaft,Gewerkschaft
 wollte,VERB,VMFIN,wollen,wollen
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 wesentlichen,NOUN,NN,Wesentliche,wesentlich
 die,DET,ART,d,der
 Tarifverhandlungen,NOUN,NN,Tarifverhandlung,Tarifverhandlung
@@ -1957,7 +1957,7 @@ Abstiegsschlager,NOUN,NN,Abstiegsschlager,Abstiegsschlager
 """",PUNCT,$(,"""",""""
 heute,ADV,ADV,heute,heute
 abend,NOUN,NN,Abend,Abend
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Weserstadion,PROPN,NE,Weserstadion,Weserstadion
 hat,AUX,VAFIN,haben,haben
 Manager,NOUN,NN,Manager,Manager
@@ -2015,7 +2015,7 @@ wollen,VERB,VMFIN,wollen,wollen
 auf,ADP,APPR,auf,auf
 einem,DET,ART,ein,ein
 Tandem,NOUN,NN,Tandem,Tand
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Stadion,NOUN,NN,Stadion,Stadion
 radeln,VERB,VVINF,radeln,radeln
 .,PUNCT,$.,.,.
@@ -2070,7 +2070,7 @@ kündigte,VERB,VVFIN,kündigen,kündigen
 einen,DET,ART,ein,ein
 außerplanmäßigen,ADJ,ADJA,außerplanmäßig,außerplanmäßig
 Besuch,NOUN,NN,Besuch,Besuch
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Trainingslager,NOUN,NN,Trainingslager,Trainingslager
 24,NUM,CARD,24,24
 Stunden,NOUN,NN,Stunde,Stunde|Stunden
@@ -2207,7 +2207,7 @@ Aktionsplans,NOUN,NN,Aktionsplan,Aktionsplan
 Alkohol,NOUN,NN,Alkohol,Alkohol
 """",PUNCT,$(,"""",""""
 fand,VERB,VVFIN,finden,finden
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Zentralkrankenhaus,NOUN,NN,Zentralkrankenhaus,Zentralkrankenhaus
 Ost,NOUN,NN,Ost,Ost
 eine,DET,ART,ein,ein
@@ -2269,7 +2269,7 @@ groß,ADJ,ADJD,groß,groß
 _,UNK,--,--,_
 Gestern,ADV,ADV,gestern,gestern
 fand,VERB,VVFIN,finden,finden
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Krankenhaus,NOUN,NN,Krankenhaus,Krankenhaus
 Ost,NOUN,NN,Ost,Ost
 eine,DET,ART,ein,ein
@@ -2324,7 +2324,7 @@ in,ADP,APPR,in,in
 Deutschland,PROPN,NE,Deutschland,Deutschland
 ",",PUNCT,"$,",",",","
 _,PRON,PPER,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 zwischen,ADP,APPR,zwischen,zwischen
 15.000,NUM,CARD,15.000,15.000
 und,CONJ,KON,und,und
@@ -2342,7 +2342,7 @@ Frauen,NOUN,NN,Frau,Frau
 _,UNK,--,--,_
 Das,DET,ART,d,der
 Problem,NOUN,NN,Problem,Problem
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 :,PUNCT,$.,:,:
 Frauen,NOUN,NN,Frau,Frau
 ",",PUNCT,"$,",",",","
@@ -2371,10 +2371,10 @@ erforscht,VERB,VVPP,erforschen,erforschen
 ",",PUNCT,"$,",",",","
 die,DET,ART,d,der
 Trinkerin,NOUN,NN,Trinkerin,Trinkerin
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 jedoch,ADV,ADV,jedoch,jedoch
 kaum,ADV,ADV,kaum,kaum
-_,VERB,VVPP,--,seinken
+_,VERB,VVPP,--,_
 ",",PUNCT,"$,",",",","
 obwohl,SCONJ,KOUS,obwohl,obwohl
 ihre,DET,PPOSAT,ihr,ihr
@@ -2393,7 +2393,7 @@ Alkoholabhängige,ADJ,ADJA,alkoholabhängig,alkoholababgig
 Frauen,NOUN,NN,Frau,Frau
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 Winkler,PROPN,NE,Winkler,Winkler
 ",",PUNCT,"$,",",",","
 seien,AUX,VAFIN,sein,sein
@@ -2517,7 +2517,7 @@ besser,ADJ,ADJD,gut,gut
 auszuhalten,VERB,VVIZU,aushalten,aushalten
 ",",PUNCT,"$,",",",","
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 eine,DET,ART,ein,ein
 unter,ADP,APPR,unter,unter
 Männern,NOUN,NN,Mann,Mann
@@ -2744,9 +2744,9 @@ Kinderbetreuung,NOUN,NN,Kinderbetreuung,Kinderbetreuung
 klären,VERB,VVINF,klären,klären
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Sondern,CONJ,KON,sondern,Sondern
+Sondern,CONJ,KON,sondern,sondern
 _,PRON,PPER,--,_
-_,VERB,VMFIN,--,seinken
+_,VERB,VMFIN,--,_
 auch,ADV,ADV,auch,auch
 auf,ADP,APPR,auf,auf
 erlittene,ADJ,ADJA,erlitten,erlitten
@@ -3016,7 +3016,7 @@ zu,PART,PTKZU,zu,zu
 bezweifeln,VERB,VVINF,bezweifeln,bezweifeln
 :,PUNCT,$.,:,:
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 Zwar,ADV,ADV,zwar,zwar
 nicht,PART,PTKNEG,nicht,nicht
 ganz,ADV,ADV,ganz,ganz
@@ -3037,7 +3037,7 @@ Zweifel,NOUN,NN,Zweifel,Zweifel
 ",",PUNCT,"$,",",",","
 aber,CONJ,KON,aber,aber
 _,PRON,PPER,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 doch,ADV,ADV,doch,doch
 nicht,PART,PTKNEG,nicht,nicht
 so,ADV,ADV,so,so
@@ -3083,7 +3083,7 @@ Ausgrenzung,NOUN,NN,Ausgrenzung,Ausgrenzung
 aktiv,ADJ,ADJD,aktiv,aktiv
 wird,AUX,VAFIN,werden,werden
 und,CONJ,KON,und,und
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 nächsten,ADJ,ADJA,nächst,nah
 Senat,NOUN,NN,Senat,Senat
 auch,ADV,ADV,auch,auch
@@ -3128,7 +3128,7 @@ dabei,ADV,PAV,dabei,dabei
 ist,AUX,VAFIN,sein,sein
 :,PUNCT,$.,:,:
 Dann,ADV,ADV,dann,dann
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PPER,--,_
 doch,ADV,ADV,doch,doch
 lieber,ADV,ADV,lieber,lieb
@@ -3172,7 +3172,7 @@ wo,ADV,PWAV,wo,wo
 ferienmachende,ADJ,ADJA,ferienmachend,ferienmachend
 Sittiche,NOUN,NN,Sittich,Sittiche
 gern,ADV,ADV,gern,gern
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 gerupften,ADJ,ADJA,gerupft,gerupft
 Dutzend,NOUN,NN,Dutzend,Dutzend
 frittiert,VERB,VVPP,frittieren,frittieren
@@ -3181,7 +3181,7 @@ und,CONJ,KON,und,und
 Möpse,NOUN,NN,Mops,Möpse
 als,ADP,APPR,als,als
 Carnigglio,X,FM,Carnigglio,Carnigglio
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 haschierten,ADJ,ADJA,haschiert,haschiert
 Zustand,NOUN,NN,Zustand,Zustand
 zu,ADP,APPR,zu,zu
@@ -3191,7 +3191,7 @@ finden,VERB,VVFIN,finden,finden
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,PRON,PPER,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 Kurz,ADJ,ADJD,kurz,kurz
 und,CONJ,KON,und,und
 gut,ADJ,ADJD,gut,gut
@@ -3335,7 +3335,7 @@ tun,VERB,VVINF,tun,tun
 dürfen,VERB,VMFIN,dürfen,dürfen
 -,PUNCT,$(,-,-
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 Ansichten,NOUN,NN,Ansicht,Ansicht
 eines,DET,ART,ein,ein
 naiven,ADJ,ADJA,naiv,naiv
@@ -3345,7 +3345,7 @@ gewiß,ADV,ADV,gewiss,gewiß
 ",",PUNCT,"$,",",",","
 und,CONJ,KON,und,und
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 nicht,PART,PTKNEG,nicht,nicht
 so,ADV,ADV,so,so
 ganz,ADV,ADV,ganz,ganz
@@ -3434,7 +3434,7 @@ sich,PRON,PRF,sich,er|es|sie
 gegen,ADP,APPR,gegen,gegen
 0.40,NUM,CARD,0.40,0.40
 Uhr,NOUN,NN,Uhr,Uhr
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 dritten,ADJ,ADJA,dritt,dritt
 Stock,NOUN,NN,Stock,Stock
 des,DET,ART,d,der
@@ -3469,7 +3469,7 @@ _,UNK,--,--,_
 dpa,PROPN,NE,dpa,dpa
 _,UNK,--,--,_
 Erneut,ADV,ADV,erneut,erneut
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 _,DET,ART,--,_
 ältere,ADJ,ADJA,alt,alt
 Frau,NOUN,NN,Frau,Frau
@@ -3540,7 +3540,7 @@ _,UNK,--,--,_
 Sie,PRON,PPER,sie,Sie|sie
 wurde,AUX,VAFIN,werden,werden
 anschließend,ADJ,ADJD,anschließend,anschließend
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Krankenhaus,NOUN,NN,Krankenhaus,Krankenhaus
 eingeliefert,VERB,VVPP,einliefern,einliefern
 .,PUNCT,$.,.,.
@@ -3548,7 +3548,7 @@ _,UNK,--,--,_
 Pol.Ber.,NOUN,NN,Pol.Ber.,Pol.Ber.
 _,UNK,--,--,_
 Nun,ADV,ADV,nun,nun
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PPER,--,_
 zum,ADP,APPRART,zum,zum
 Wetter,NOUN,NN,Wetter,Wetter
@@ -3572,7 +3572,7 @@ Seumeu,NOUN,NN,Saumai,Seumeu
 _,UNK,--,--,_
 Die,DET,ART,d,der
 sonst,ADV,ADV,sonst,sonst
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Meu,NOUN,NN,Mai,Meu
 lachende,ADJ,ADJA,lachend,lachend
 Sonne,NOUN,NN,Sonne,Sonne
@@ -3603,7 +3603,7 @@ kalt,ADJ,ADJD,kalt,kalt
 ",",PUNCT,"$,",",",","
 sondern,CONJ,KON,sondern,sondern
 _,PRON,PPER,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 bei,ADP,APPR,bei,bei
 20,NUM,CARD,20,20
 Grad,NOUN,NN,Grad,Grad
@@ -3657,7 +3657,7 @@ Worte,NOUN,NN,Wort,Wort
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,ADV,PAV,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 Zum,ADP,APPRART,zum,zum
 Beispiel,NOUN,NN,Beispiel,Beispiel
 :,PUNCT,$.,:,:
@@ -3813,7 +3813,7 @@ _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
 Warum,ADV,PWAV,warum,warum
 wohl,ADV,ADV,wohl,wohl
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PDS,--,_
 ?,PUNCT,$.,?,?
 """",PUNCT,$(,"""",""""
@@ -3932,7 +3932,7 @@ kontrollieren,VERB,VVINF,kontrollieren,kontrollieren
 """",PUNCT,$(,"""",""""
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 Kilian,PROPN,NE,Kilian,Kilian
 ",",PUNCT,"$,",",",","
 """",PUNCT,$(,"""",""""
@@ -3991,7 +3991,7 @@ Liane,PROPN,NE,Liane,Liane
 Aiwanger,PROPN,NE,Aiwanger,Aiwanger
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
-Liebe,ADJ,ADJA,lieb,lieb
+Liebe,ADJ,ADJA,lieb,Liebe
 taz,PROPN,NE,taz,taz
 ...,PUNCT,$(,...,...
 """",PUNCT,$(,"""",""""
@@ -4017,7 +4017,7 @@ vom,ADP,APPRART,vom,vom
 Mai,NOUN,NN,Mai,Mai
 1999,NUM,CARD,1999,1999
 _,UNK,--,--,_
-Liebe,ADJ,ADJA,lieb,lieb
+Liebe,ADJ,ADJA,lieb,Liebe
 tazzen,NOUN,NN,Tazze,tazzen
 ",",PUNCT,"$,",",",","
 versteht,VERB,VVFIN,verstehen,verstehen
@@ -4043,7 +4043,7 @@ SPDU,PROPN,NE,SPDU,SPDU
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 _,PRON,PPER,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 Immer,ADV,ADV,immer,immer
 zu,ADP,APPR,zu,zu
 Diensten,NOUN,NN,Dienst,Dienst
@@ -4101,7 +4101,7 @@ euphorisch,ADJ,ADJD,euphorisch,euphorisch
 klatschte,VERB,VVFIN,klatschen,klatschen
 :,PUNCT,$.,:,:
 Endlich,ADV,ADV,endlich,endlich
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 kein,DET,PIAT,kein,kein
 Kafka,PROPN,NE,Kafka,Kafka
 für,ADP,APPR,für,für
@@ -4114,7 +4114,7 @@ Kulisse,NOUN,NN,Kulisse,Kulisse
 ",",PUNCT,"$,",",",","
 sondern,CONJ,KON,sondern,sondern
 _,PRON,PPER,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 eine,DET,ART,ein,ein
 schauspielerisch,ADJ,ADJD,schauspielerisch,schauspielerisch
 fulminante,ADJ,ADJA,fulminant,fulminant
@@ -4127,7 +4127,7 @@ und,CONJ,KON,und,und
 feinsinniger,ADJ,ADJA,feinsinnig,feinsinnig
 Komik,NOUN,NN,Komik,Komik
 (,PUNCT,$(,(,(
-Jawohl,PART,PTKANT,jawohl,jawohl
+Jawohl,PART,PTKANT,jawohl,Jawohl
 :,PUNCT,$.,:,:
 Ihr,DET,PPOSAT,Ihr,Ihr|ihr
 Lexikon,NOUN,NN,Lexikon,Lexikon
@@ -4422,7 +4422,7 @@ Psychologie,NOUN,NN,Psychologie,Psychologie
 studiert,VERB,VVPP,studieren,studieren
 und,CONJ,KON,und,und
 dann,ADV,ADV,dann,dann
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 _,PRON,PPER,--,_
 Gesang,NOUN,NN,Gesang,Gesang
 an,ADP,APPR,an,an
@@ -4431,7 +4431,7 @@ Universität,NOUN,NN,Universität,Universität
 Uberlandia,PROPN,NE,Uberlandia,Uberlandia
 in,ADP,APPR,in,in
 Brasilien,PROPN,NE,Brasilien,Brasilien
-_,VERB,VVPP,--,seinken
+_,VERB,VVPP,--,_
 ",",PUNCT,"$,",",",","
 an,ADP,APPR,an,an
 der,PRON,PRELS,d,der
@@ -4493,13 +4493,13 @@ wollen,VERB,VMFIN,wollen,wollen
 sie,PRON,PPER,sie,sie
 das,PRON,PDS,d,der
 auch,ADV,ADV,auch,auch
-_,VERB,VVINF,--,seinken
+_,VERB,VVINF,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 usl,PROPN,NE,usl,usl
 _,UNK,--,--,_
 Heute,ADV,ADV,heute,heute
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 um,ADP,APPR,um,um
 20,NUM,CARD,20,20
 Uhr,NOUN,NN,Uhr,Uhr
@@ -4515,7 +4515,7 @@ Brasil,PROPN,NE,Brasil,Brasil
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,PRON,PIS,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 Von,ADP,APPR,von,von
 Klassik,NOUN,NN,Klassik,Klassik
 und,CONJ,KON,und,und
@@ -4551,7 +4551,7 @@ _,UNK,--,--,_
 Im,ADP,APPRART,im,im
 Reisebüro,NOUN,NN,Reisebüro,Reisebüro
 ",",PUNCT,"$,",",",","
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Supermarkt,NOUN,NN,Supermarkt,Supermarkt
 und,CONJ,KON,und,und
 in,ADP,APPR,in,in
@@ -4570,7 +4570,7 @@ noch,ADV,ADV,noch,noch
 neben,ADP,APPR,neben,neben
 Henning,PROPN,NE,Henning,Henning
 Scherf,PROPN,NE,Scherf,Scherf
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Rathaussaal,NOUN,NN,Rathaussaal,Rathaussaal
 ",",PUNCT,"$,",",",","
 wo,ADV,PWAV,wo,wo
@@ -4620,7 +4620,7 @@ Scherf,PROPN,NE,Scherf,Scherf
 läßt,VERB,VVFIN,lassen,lassen
 uns,PRON,PPER,uns,wir
 nicht,PART,PTKNEG,nicht,nicht
-_,VERB,VVINF,--,seinken
+_,VERB,VVINF,--,_
 ",",PUNCT,"$,",",",","
 sondern,CONJ,KON,sondern,sondern
 _,PRON,PPER,--,_
@@ -4703,7 +4703,7 @@ die,PRON,PRELS,d,der
 es,PRON,PPER,es,es
 lohnt,VERB,VVFIN,lohnen,lohnen
 ",",PUNCT,"$,",",",","
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Konzert,NOUN,NN,Konzert,Konzert
 zu,PART,PTKZU,zu,zu
 sehen,VERB,VVINF,sehen,sehen
@@ -4817,7 +4817,7 @@ zur,ADP,APPRART,zur,zur
 Popszene,NOUN,NN,Popszene,Popszene
 :,PUNCT,$.,:,:
 _,PRON,PPER,--,_
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 keine,DET,PIAT,kein,kein
 Drogengeschichten,NOUN,NN,Drogengeschichte,Drogengeschichte
 ",",PUNCT,"$,",",",","
@@ -5024,7 +5024,7 @@ freundlich,ADJ,ADJD,freundlich,freundlich
 ",",PUNCT,"$,",",",","
 um,ADP,APPR,um,um
 mehr,PRON,PIS,mehr,mehr
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PPER,--,_
 nicht,PART,PTKNEG,nicht,nicht
 .,PUNCT,$.,.,.
@@ -5260,7 +5260,7 @@ bestimmt,VERB,VVFIN,bestimmen,bestimmen
 sie,PRON,PPER,sie,sie
 -,PUNCT,$(,-,-
 _,PRON,PDS,--,_
-_,AUX,VAFIN,--,sein
+_,AUX,VAFIN,--,_
 keine,DET,PIAT,kein,kein
 Selbstverständlichkeit,NOUN,NN,Selbstverständlichkeit,Selbstverständlichkeit
 in,ADP,APPR,in,in
@@ -5270,7 +5270,7 @@ Popwelt,NOUN,NN,Popwelt,Popwelt
 schon,ADV,ADV,schon,schon
 gar,ADV,ADV,gar,gar
 nicht,PART,PTKNEG,nicht,nicht
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Macho-Wunderland,NOUN,NN,Macho-Wunderland,Macho-Wunderland
 Türkei,PROPN,NE,Türkei,Türkei
 .,PUNCT,$.,.,.
@@ -5338,7 +5338,7 @@ Capkin,PROPN,NE,Capkin,Capkin
 """",PUNCT,$(,"""",""""
 ist,AUX,VAFIN,sein,sein
 auch,ADV,ADV,auch,auch
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Originalmix,NOUN,NN,Originalmix,Originalmix
 ein,DET,ART,ein,ein
 solides,ADJ,ADJA,solide,solides
@@ -5371,7 +5371,7 @@ _,UNK,--,--,_
 Und,CONJ,KON,und,und
 das,DET,ART,d,der
 zweite,ADJ,ADJA,zweit,zweit
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PDS,--,_
 auch,ADV,ADV,auch,auch
 .,PUNCT,$.,.,.
@@ -5384,7 +5384,7 @@ das,ADJ,ADJA,d,der
 dritte,ADJ,ADJA,dritt,dritt
 ...,PUNCT,$.,...,...
 das,PRON,PDS,d,der
-_,VERB,VVFIN,--,seinken
+_,VERB,VVFIN,--,_
 _,PRON,PDS,--,_
 auch,ADV,ADV,auch,auch
 ",",PUNCT,"$,",",",","

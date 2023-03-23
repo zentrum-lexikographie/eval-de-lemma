@@ -1,6 +1,6 @@
 token,tag,tag_STTS,lemma_gold,lemma_pred
 Du,PRON,PPER,du,du
-willst,VERB,VMFIN,wollen,willen
+willst,VERB,VMFIN,wollen,wollen
 alles,PRON,PIS,alle,alle
 wissen,VERB,VVINF,wissen,wissen
 .,PUNCT,$.,.,.
@@ -76,7 +76,7 @@ sie,PRON,PPER,sie,sie
 befanden,VERB,VVFIN,befinden,befinden
 sich,PRON,PRF,sich,er|es|sie
 schon,ADV,ADV,schon,schon
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Krieg,NOUN,NN,Krieg,Krieg
 gegen,ADP,APPR,gegen,gegen
 uns,PRON,PPER,wir,wir
@@ -183,7 +183,7 @@ Pfadfinder,NOUN,NN,Pfadfinder,Pfadfinder
 .,PUNCT,$.,.,.
 -,PUNCT,$(,-,-
 Du,PRON,PPER,du,du
-warst,AUX,VAFIN,sein,wersen
+warst,AUX,VAFIN,sein,warsen
 nie,ADV,ADV,nie,nie
 ein,DET,ART,ein,ein
 Pfandfinder,NOUN,NN,Pfadfinder,Pfandfind
@@ -293,7 +293,7 @@ wie,SCONJ,KOUS,wie,wie
 zum,ADP,APPRART,zu,zum
 Direktor,NOUN,NN,Direktor,Direktor
 Reeve,PROPN,NE,Reeve,Reeve
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Büro,NOUN,NN,Büro,Büro
 gerufen,VERB,VVPP,rufen,rufen
 zu,PART,PTKZU,zu,zu
@@ -314,7 +314,7 @@ ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 Mach,VERB,VVIMP,machen,machen
 das,PRON,PDS,der,der
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 ",",PUNCT,"$,",",",","
 denn,CONJ,KON,denn,denn
 ich,PRON,PPER,ich,ich
@@ -511,7 +511,7 @@ der,DET,ART,der,der
 Tat,NOUN,NN,Tat,Tat
 .,PUNCT,$.,.,.
 -,PUNCT,$(,-,-
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 Gott,NOUN,NN,Gott,Gott
 .,PUNCT,$.,.,.
 Das,PRON,PDS,der,der
@@ -546,14 +546,14 @@ Ok,ADV,ADV,ok,Ok
 .,PUNCT,$.,.,.
 Gut,ADJ,ADJD,gut,gut
 .,PUNCT,$.,.,.
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 ...,PUNCT,$.,...,...
 Ja,PART,PTKANT,ja,Ja
 ",",PUNCT,"$,",",",","
 die,DET,ART,der,der
 DVD,NOUN,NN,DVD,DVD
 .,PUNCT,$.,.,.
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 ",",PUNCT,"$,",",",","
 ich,PRON,PPER,ich,ich
 sehe,VERB,VVFIN,sehen,sehen
@@ -592,7 +592,7 @@ ihr,PRON,PPER,ihr,ihr
 .,PUNCT,$.,.,.
 Ja,PART,PTKANT,ja,Ja
 ",",PUNCT,"$,",",",","
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 .,PUNCT,$.,.,.
 -,PUNCT,$(,-,-
 Der,DET,ART,der,der
@@ -694,7 +694,7 @@ und,CONJ,KON,und,und
 du,PRON,PPER,du,du
 hast,AUX,VAFIN,haben,haben
 ihn,PRON,PPER,er,er
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Stich,NOUN,NN,Stich,Stich
 gelassen,VERB,VVPP,lassen,lassen
 .,PUNCT,$.,.,.
@@ -809,7 +809,7 @@ zu,PART,PTKZU,zu,zu
 sagen,VERB,VVINF,sagen,sagen
 :,PUNCT,$.,:,:
 Ohne,ADP,APPR,ohne,ohne
-Babs,PROPN,NE,Babs,Babs
+Babs,PROPN,NE,Babs,Bab
 wäre,AUX,VAFIN,sein,sein
 ich,PRON,PPER,ich,ich
 verloren,ADJ,ADJD,verloren,verlieren
@@ -848,7 +848,7 @@ nicht,PART,PTKNEG,nicht,nicht
 Wissen,VERB,VVFIN,wissen,Wissen
 Sie,PRON,PPER,Sie,Sie|sie
 ?,PUNCT,$.,?,?
-Babs,PROPN,NE,Babs,Babs
+Babs,PROPN,NE,Babs,Bab
 und,CONJ,KON,und,und
 ich,PRON,PPER,ich,ich
 ",",PUNCT,"$,",",",","
@@ -921,7 +921,7 @@ Ja,PART,PTKANT,ja,Ja
 Schon,ADV,ADV,schon,schon
 besser,ADJ,ADJD,gut,gut
 .,PUNCT,$.,.,.
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 Die,DET,ART,der,der
 Swans,PROPN,NE,Swan,Swans
@@ -1020,7 +1020,7 @@ Evakuierung,NOUN,NN,Evakuierung,Evakuierung
 nicht,PART,PTKNEG,nicht,nicht
 verzögern,VERB,VVINF,verzögern,verzögern
 .,PUNCT,$.,.,.
-Leite,VERB,VVIMP,leiten,leien
+Leite,VERB,VVIMP,leiten,Leite
 alle,PRON,PIS,alle,alle
 über,ADP,APPR,über,über
 den,DET,ART,der,der
@@ -1063,7 +1063,7 @@ verdammt,ADV,ADV,verdammt,verdammen
 geil,ADJ,ADJD,geil,geil
 .,PUNCT,$.,.,.
 Wie,CONJ,KOKOM,wie,wie
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Schlaraffenland,NOUN,NN,Schlaraffenland,Schlaraffenland
 .,PUNCT,$.,.,.
 Hier,ADV,ADV,hier,hier
@@ -1092,9 +1092,9 @@ ich,PRON,PPER,ich,ich
 glaube,VERB,VVFIN,glauben,glauben
 ",",PUNCT,"$,",",",","
 du,PRON,PPER,du,du
-solltest,VERB,VMFIN,sollen,sollt
+solltest,VERB,VMFIN,sollen,sollesen
 Julie,PROPN,NE,Julie,Julie
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Badezimmer,NOUN,NN,Badezimmer,Badezimmer
 bringen,VERB,VVINF,bringen,bringen
 .,PUNCT,$.,.,.
@@ -1119,7 +1119,7 @@ du,PRON,PPER,du,du
 die,DET,ART,der,der
 Bodys,NOUN,NN,Body,Body
 ?,PUNCT,$.,?,?
-Frag,VERB,VVIMP,fragen,frag
+Frag,VERB,VVIMP,fragen,Frag
 deinen,DET,PPOSAT,dein,dein
 Vater,NOUN,NN,Vater,Vater
 !,PUNCT,$.,!,!
@@ -1155,7 +1155,7 @@ ist,AUX,VAFIN,sein,sein
 sehr,ADV,ADV,sehr,sehr
 enttäuscht,ADJ,ADJD,enttäuscht,enttäuscht
 !,PUNCT,$.,!,!
-Gut,ADV,ADV,gut,Gut
+Gut,ADV,ADV,gut,gut
 ",",PUNCT,"$,",",",","
 ich,PRON,PPER,ich,ich
 hab,AUX,VAFIN,haben,haben
@@ -1266,7 +1266,7 @@ ein,DET,ART,ein,ein
 Test,NOUN,NN,Test,Test
 .,PUNCT,$.,.,.
 Du,PRON,PPER,du,du
-konntest,VERB,VMFIN,können,konntesen
+konntest,VERB,VMFIN,können,könntesen
 ein,DET,ART,ein,ein
 Spion,NOUN,NN,Spion,Spion
 sein,AUX,VAINF,sein,sein
@@ -1288,7 +1288,7 @@ Oh,INTJ,ITJ,oh,oh
 ",",PUNCT,"$,",",",","
 Sie,PRON,PPER,Sie,Sie|sie
 ...,PUNCT,$.,...,...
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 Um,SCONJ,KOUI,um,um
 die,DET,ART,der,der
@@ -1406,7 +1406,7 @@ sich,PRON,PRF,sich,er|es|sie
 wie,CONJ,KOKOM,wie,wie
 eine,DET,ART,ein,ein
 Welle,NOUN,NN,Welle,Welle
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Reich,NOUN,NN,Reich,Reich
 verbreiten,VERB,VVINF,verbreiten,verbreiten
 ",",PUNCT,"$,",",",","

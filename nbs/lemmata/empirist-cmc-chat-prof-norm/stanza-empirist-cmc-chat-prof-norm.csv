@@ -11,7 +11,7 @@ nehmen,VERB,VVINF,nehmen,nehmen
 ",",PUNCT,"$,",",",","
 damit,SCONJ,KOUS,damit,damit
 ich,PRON,PPER,ich,ich
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Katalog,NOUN,NN,Katalog,Katalog
 nach,ADP,APPR,nach,nach
 Büchern,NOUN,NN,Buch,Buch
@@ -86,7 +86,7 @@ nochmals,ADV,ADV,nochmals,nochmals
 vielen,DET,PIAT,vieler,viel
 Dank,NOUN,NN,Dank,Dank
 !,PUNCT,$.,!,!
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 schön,ADJ,ADJD,schön,schön
 :),UNK,EMOASC,:),:)
 wie,ADV,PWAV,wie,wie
@@ -122,7 +122,7 @@ Katalog,NOUN,NN,Katalog,Katalog
 nach,ADP,APPR,nach,nach
 Zeitschriftentitel,NOUN,NN,Zeitschriftentitel,Zeitschriftentitel
 suchen,VERB,VVINF,suchen,suchen
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 schön,ADJ,ADJD,schön,schön
 !!,PUNCT,$.,!!,!!
 das,PRON,PDS,der,der
@@ -145,7 +145,7 @@ in,ADP,APPR,in,in
 Artikeln,NOUN,NN,Artikel,Artikel
 suchen,VERB,VVINF,suchen,suchen
 ?,PUNCT,$.,?,?
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 ?,PUNCT,$.,?,?
 entweder,CONJ,KON,entweder,entweder
 sie,PRON,PPER,sie,sie
@@ -187,7 +187,7 @@ gehört,VERB,VVPP,hören,gehören
 ",",PUNCT,"$,",",",","
 die,PRON,PRELS,der,der
 nur,UNK,PTKIFG,nur,nur
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Netz,NOUN,NN,Netz,Netz
 der,DET,ART,der,der
 Uni,NOUN,NN,Uni,Uni
@@ -289,7 +289,7 @@ werde,AUX,VAFIN,werden,werden
 ich,PRON,PPER,ich,ich
 machen,VERB,VVINF,machen,machen
 .,PUNCT,$.,.,.
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,danker
 für,ADP,APPR,für,für
 die,DET,ART,der,der
 schnelle,ADJ,ADJA,schnell,schnell
@@ -332,7 +332,7 @@ das,PRON,PDS,der,der
 schon,UNK,PTKIFG,schon,schon
 alles,PRON,PIS,alle,alle
 .,PUNCT,$.,.,.
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 nochmals,ADV,ADV,nochmals,nochmals
 ...,PUNCT,$.,...,...
 bittesehr,PART,PTKANT,bittesehr,bittesehr
@@ -455,7 +455,7 @@ Exemplar,NOUN,NN,Exemplar,Exemplar
 des,DET,ART,der,der
 gleichen,ADJ,ADJA,gleich,gleich
 Buches,NOUN,NN,Buch,Buch
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 normalen,ADJ,ADJA,normal,normal
 Bestand,NOUN,NN,Bestand,Bestand
 dass,SCONJ,KOUS,dass,dass
@@ -494,19 +494,19 @@ Sie,PRON,PPER,sie,Sie|sie
 das,DET,ART,der,der
 Chat-Fenster,NOUN,NN,Chat-Fenster,Chat-Fenster
 .,PUNCT,$.,.,.
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 !,PUNCT,$.,!,!
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Student5,PROPN,NE,Student5,Student5
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Student6,PROPN,NE,Student6,Student6
 !,PUNCT,$.,!,!
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 ebenso,ADV,ADV,ebenso,ebenso
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Student3,PROPN,NE,Student3,Student3
 !,PUNCT,$.,!,!
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Student5,PROPN,NE,Student5,Student5
 !,PUNCT,$.,!,!
 fördern,VERB,VVINF,fördern,fördern
@@ -534,7 +534,7 @@ ein,DET,ART,ein,ein
 etymologisches,ADJ,ADJA,etymologisch,etymologisch
 Wörterbuch,NOUN,NN,Wörterbuch,Wörterbuch
 ?,PUNCT,$.,?,?
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Internet,NOUN,NN,Internet,Internet
 finden,VERB,VVFIN,finden,finden
 wir,PRON,PPER,wir,wir
@@ -607,7 +607,7 @@ fördern,VERB,VVINF,fördern,fördern
 ",",PUNCT,"$,",",",","
 juvare,X,FM,juvare,juvar
 ",",PUNCT,"$,",",",","
-promovere,X,FM,promovere,promovere
+promovere,X,FM,promovere,promov
 ",",PUNCT,"$,",",",","
 provehere,X,FM,provehere,provehere
 ",",PUNCT,"$,",",",","
@@ -617,8 +617,8 @@ nicht,PART,PTKNEG,nicht,nicht
 aufschieben,VERB,VVINF,aufschieben,aufscheiben
 ",",PUNCT,"$,",",",","
 aus,ADP,APPR,aus,aus
-förder,X,FM,förder,förder
-gebildet,VERB,VVPP,bilden,bilden
+förder,X,FM,förder,ford
+gebildet,VERB,VVPP,bilden,gebildet
 ",",PUNCT,"$,",",",","
 wie,CONJ,KOKOM,wie,wie
 fürdern,VERB,VVINF,fürdern,fürdern
@@ -627,7 +627,7 @@ fürder,X,FM,fürder,fürder
 ",",PUNCT,"$,",",",","
 fordern,VERB,VVINF,fordern,fordern
 aus,ADP,APPR,aus,aus
-forder,X,FM,forder,forder
+forder,X,FM,forder,fordern
 .,PUNCT,$.,.,.
 fördern,VERB,VVINF,fördern,fördern
 der,DET,ART,der,der
@@ -735,7 +735,7 @@ in,ADP,APPR,in,in
 Förderanlagen,NOUN,NN,Förderanlage,Förderanlage
 (,PUNCT,$(,(,(
 hier,ADV,ADV,hier,hier
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Pott,NOUN,NN,Pott,Pott
 :-),UNK,EMOASC,:-),:-)
 ),PUNCT,$(,),)
@@ -905,7 +905,7 @@ oder,CONJ,KON,oder,oder
 nur,UNK,PTKIFG,nur,nur
 Synonymangaben,NOUN,NN,Synonymangabe,Synonymangabe
 ?,PUNCT,$.,?,?
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 zurück,PART,PTKVZ,zurück,zurück
 in,ADP,APPR,in,in
 den,DET,ART,der,der
@@ -948,7 +948,7 @@ ebenso,ADV,ADV,ebenso,ebenso
 Student5,PROPN,NE,Student5,Student5
 ",",PUNCT,"$,",",",","
 und,CONJ,KON,und,und
-dir,PRON,PPER,dir,du
+dir,PRON,PPER,dir,dir
 Student6,PROPN,NE,Student6,Student6
 wünsche,VERB,VVFIN,wünschen,wünschen
 ich,PRON,PPER,ich,ich
@@ -978,7 +978,7 @@ dann,ADV,ADV,dann,dann
 per,ADP,APPR,per,per
 Mail,NOUN,NN,Mail,Mail
 .,PUNCT,$.,.,.
-seid,AUX,VAFIN,sein,seid
+seid,AUX,VAFIN,sein,seiden
 ihr,PRON,PPER,ihr,ihr
 unter,ADP,APPR,unter,unter
 den,DET,ART,der,der

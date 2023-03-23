@@ -5,7 +5,7 @@ arbor,X,FM,arbor,arbor
 bona,X,FM,bona,bona
 facit,X,FM,facit,facit
 fructum,X,FM,fructum,fructum
-suum,X,FM,suum,suum
+suum,X,FM,suum,suumen
 bonum,X,FM,bonum,bonum
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -70,7 +70,7 @@ sät,VERB,VVFIN,säen,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
-willst,VERB,VMFIN,wollen,willen
+willst,VERB,VMFIN,wollen,wollen
 du,PRON,PPER,du,du
 eine,DET,ART,ein,ein
 gute,ADJ,ADJA,gut,gut
@@ -244,7 +244,7 @@ werden,AUX,VAINF,werden,werden
 _,UNK,--,--,_
 Darum,ADV,PAV,darum,darum
 so,ADV,ADV,so,so
-wil,VERB,VMFIN,wollen,wol
+wil,VERB,VMFIN,wollen,wil
 ich,PRON,PPER,ich,ich
 berichten,VERB,VVINF,berichten,berichten
 dir,PRON,PPER,du,du
@@ -455,7 +455,7 @@ als,SCONJ,KOUS,als,als
 das,PRON,PDS,d,der
 geschah,VERB,VVFIN,geschehen,geschehen
 ",",PUNCT,"$,",",",","
-warst,AUX,VAFIN,sein,wersen
+warst,AUX,VAFIN,sein,warsen
 du,PRON,PPER,du,du
 da,ADV,ADV,da,da
 bei,ADP,APPR,bei,bei
@@ -923,7 +923,7 @@ mein,DET,PPOSAT,mein,mein
 liebes,ADJ,ADJA,lieb,lieb
 Kind,PROPN,NE,Kind,Kind
 :,PUNCT,$.,:,:
-Oh-weh,INTJ,ITJ,oh-weh,Oh-weh
+Oh-weh,INTJ,ITJ,oh-weh,oh-weh
 Judas,PROPN,NE,Judas,Judas
 ",",PUNCT,"$,",",",","
 mit,ADP,APPR,mit,mit
@@ -1160,7 +1160,7 @@ Und,CONJ,KON,und,und
 sie,PRON,PPER,sie,sie
 sprachen,VERB,VVFIN,sprechen,sprechen
 :,PUNCT,$.,:,:
-Oh-weh,INTJ,ITJ,oh-weh,Oh-weh
+Oh-weh,INTJ,ITJ,oh-weh,oh-weh
 ",",PUNCT,"$,",",",","
 allerliebste,ADJ,ADJA,allerliebst,allerlieb
 Frau,PROPN,NE,Frau,Frau

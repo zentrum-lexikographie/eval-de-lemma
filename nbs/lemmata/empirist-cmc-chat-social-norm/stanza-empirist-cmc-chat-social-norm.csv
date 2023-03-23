@@ -20,7 +20,7 @@ dich,PRON,PPER,dich,du
 was,PRON,PWS,was,was
 ?,PUNCT,$.,?,?
 hi,INTJ,ITJ,hi,hi
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 Pharao,PROPN,NE,Pharao,Pharao
 *,PUNCT,$(,*,*
 erleichtertguck,UNK,AKW,erleichtertguck,erleichtertguck
@@ -61,14 +61,14 @@ n,X,XY,n,n
 hinstell,UNK,AKW,hinstell,hinstell
 :),UNK,EMOASC,:),:)
 Lantonie,PROPN,NE,Lantonie,Lantonie
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 .,PUNCT,$.,.,.
 :),UNK,EMOASC,:),:)
 Lantonie,PROPN,NE,Lantonie,Lantonie
 :))),UNK,EMOASC,:))),:)))
 *,PUNCT,$(,*,*
 mal,UNK,PTKMA,mal,mal
-guck,UNK,AKW,guck,guck
+guck,UNK,AKW,guck,gecen
 wo,ADV,PWAV,wo,wo
 quaki,PROPN,NE,quaki,quaki
 sich,PRON,PRF,sich,er|es|sie
@@ -79,7 +79,7 @@ g,UNK,AKW,g,g
 *,PUNCT,$(,*,*
 freu,UNK,AKW,freu,freu
 juhu,INTJ,ITJ,juhu,juhu
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 quaki,PROPN,NE,quaki,quaki
 .,PUNCT,$.,.,.
 Lantonie,PROPN,NE,Lantonie,Lantonie
@@ -112,7 +112,7 @@ aus,ADP,APPR,aus,aus
 dem,DET,ART,der,der
 Eck,NOUN,NN,Eck,Eck
 raus,PART,PTKVZ,raus,raus
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Faryen,PROPN,NE,Faryen,Faryen
 .,PUNCT,$.,.,.
 :),UNK,EMOASC,:),:)
@@ -142,7 +142,7 @@ den,PRON,PDS,der,der
 *,PUNCT,$(,*,*
 g,UNK,AKW,g,g
 *,PUNCT,$(,*,*
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 Lantonie,PROPN,NE,Lantonie,Lantonie
 ich,PRON,PPER,ich,ich
 habe,AUX,VAFIN,haben,haben
@@ -154,7 +154,7 @@ Tigaaaaelse,PROPN,NE,Tigaaaaelse,Tigaaaaelse
 bekommen,VERB,VVPP,bekommen,bekommen
 .,PUNCT,$.,.,.
 *,PUNCT,$(,*,*
-erzähl,UNK,AKW,erzähl,erzähl
+erzähl,UNK,AKW,erzähl,erzählen
 *,PUNCT,$(,*,*
 Lanto,PROPN,NE,Lanto,Lanto
 redet,VERB,VVFIN,reden,reden
@@ -239,7 +239,7 @@ stoeps,PROPN,NE,stoeps,stoeps
 :o),UNK,EMOASC,:o),:o)
 +,X,XY,+,+
 s,UNK,AKW,s,s
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Emon,PROPN,NE,Emon,Emon
 .,PUNCT,$.,.,.
 re,INTJ,ITJ,re,re
@@ -343,10 +343,10 @@ lach,UNK,AKW,lach,lach
 *,PUNCT,$(,*,*
 tach,INTJ,ITJ,tach,tach
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 .,PUNCT,$.,.,.
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 :),UNK,EMOASC,:),:)
 Lantonie,PROPN,NE,Lantonie,Lantonie
@@ -355,7 +355,7 @@ ihre,DET,PPOSAT,ihr,ihr
 Noten,NOUN,NN,Note,Note
 begründen,VERB,VVINF,begründen,begründen
 .,PUNCT,$.,.,.
-mann,INTJ,ITJ,mann,mann
+mann,INTJ,ITJ,mann,Mann
 ",",PUNCT,"$,",",",","
 habe,AUX,VAFIN,haben,haben
 tatsächlich,ADJ,ADJD,tatsächlich,tatsächlich
@@ -380,7 +380,7 @@ rumzetern,VERB,VVFIN,rumzetern,rumzetern
 *,PUNCT,$(,*,*
 g,UNK,AKW,g,g
 *,PUNCT,$(,*,*
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Lanto,PROPN,NE,Lanto,Lanto
 die,DET,ART,der,der
 Viecher,NOUN,NN,Viech,Viecher
@@ -416,7 +416,7 @@ dir,PRON,PPER,dir,du
 was,PRON,PIS,was,was
 getan,VERB,VVPP,tun,tun
 ?,PUNCT,$.,?,?
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Pharao,PROPN,NE,Pharao,Pharao
 :))),UNK,EMOASC,:))),:)))
 Weißpappel,NOUN,NN,Weißpappel,Weißpappel
@@ -481,7 +481,7 @@ da,ADV,ADV,da,da
 *,PUNCT,$(,*,*
 Wilhelm,PROPN,NE,Wilhelm,Wilhelm
 Busch,PROPN,NE,Busch,Busch
-zitier,UNK,AKW,zitier,zitier
+zitier,UNK,AKW,zitier,zitieren
 *,PUNCT,$(,*,*
 und,CONJ,KON,und,und
 vom,ADP,APPRART,von,vom
@@ -650,7 +650,7 @@ rupf,UNK,AKW,rupf,rupf
 ",",PUNCT,"$,",",",","
 zerr,UNK,AKW,zerr,zerr
 ",",PUNCT,"$,",",",","
-reiss,UNK,AKW,reiss,reiss
+reiss,UNK,AKW,reiss,reiß
 ",",PUNCT,"$,",",",","
 mich,PRON,PRF,sich,ich
 losmach,UNK,AKW,losmach,losmach
@@ -724,7 +724,7 @@ ja,PART,PTKANT,ja,ja
 g,UNK,AKW,g,g
 *,PUNCT,$(,*,*
 ui,INTJ,ITJ,ui,ui
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 !,PUNCT,$.,!,!
 *,PUNCT,$(,*,*
 brml,UNK,AKW,brml,brml
@@ -753,7 +753,7 @@ Gnu,PROPN,NE,Gnu,Gnu
 stoeps,PROPN,NE,stoeps,stoeps
 ",",PUNCT,"$,",",",","
 Emon,PROPN,NE,Emon,Emon
-holla,INTJ,ITJ,holla,holli
+holla,INTJ,ITJ,holla,holla
 Shaddy,PROPN,NE,Shaddy,Shaddy
 :),UNK,EMOASC,:),:)
 Emon,PROPN,NE,Emon,Emon
@@ -779,7 +779,7 @@ Baum,NOUN,NN,Baum,Baum
 raufkletter,UNK,AKW,raufkletter,raufklett
 um,SCONJ,KOUI,um,um
 nicht,PART,PTKNEG,nicht,nicht
-angeleint,VERB,VVPP,anleinen,anleinen
+angeleint,VERB,VVPP,anleinen,angeleint
 zu,PART,PTKZU,zu,zu
 werden,AUX,VAINF,werden,werden
 *,PUNCT,$(,*,*
@@ -813,7 +813,7 @@ schenkt,VERB,VVFIN,schenken,schenken
 quaki,PROPN,NE,quaki,quaki
 ein,DET,ART,ein,ein
 M,NOUN,NN,M,M
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Shadok,PROPN,NE,Shadok,Shadok
 .,PUNCT,$.,.,.
 weiß,VERB,VVFIN,wissen,wissen
@@ -824,9 +824,9 @@ Umzugsunternehmen,NOUN,NN,Umzugsunternehmen,Umzugsunternehmen
 so,UNK,PTKMA,so,so
 kosten,VERB,VVFIN,kosten,kosten
 ?,PUNCT,$.,?,?
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,denken
 Shadok,PROPN,NE,Shadok,Shadok
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 schön,ADJ,ADJD,schön,schön
 .,PUNCT,$.,.,.
 heya,INTJ,ITJ,heya,heya
@@ -1052,7 +1052,7 @@ welche,PRON,PDS,welcher,welch
 was,DET,PIAT,was,was
 Handwerkliches,NOUN,NN,handwerkliche,Handwerklich
 machen,VERB,VVFIN,machen,machen
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 Tom,PROPN,NE,Tom,Tom
 :),UNK,EMOASC,:),:)
 re,INTJ,ITJ,re,re

@@ -61,7 +61,7 @@ alles,PRON,PIS,alles,alle
 total,ADJ,ADJD,total,total
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Danke,PART,PTKANT,danke,Dank
@@ -189,10 +189,10 @@ Ende,NOUN,NN,Ende,Ende
 erklären,VERB,VVINF,erklären,erklären
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -250,7 +250,7 @@ jetzt,ADV,ADV,jetzt,jetzt
 so,ADV,ADV,so,so
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Da,ADV,ADV,da,da
@@ -349,7 +349,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -394,16 +394,16 @@ hast,AUX,VAFIN,haben,haben
 meines,PRON,PPOSS,mein,mein
 gesehen,VERB,VVPP,sehen,sehen
 ",",PUNCT,"$,",",",","
-bitte,PART,PTKANT,bitte,bitten
+bitte,PART,PTKANT,bitte,bitte
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Zeichnungen,NOUN,NN,Zeichnung,Zeichnung
 können,VERB,VMFIN,können,können
 ja,ADV,ADV,ja,ja
-VERBen,VERB,VVINF,VERBen,verben
+VERBen,VERB,VVINF,VERBen,VERBen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -478,7 +478,7 @@ auf,ADP,APPR,auf,auf
 dem,PRON,PRELS,d,der
 du,PRON,PPER,du,du
 da,ADV,ADV,da,da
-warst,AUX,VAFIN,sein,wersen
+warst,AUX,VAFIN,sein,warsen
 ",",PUNCT,"$,",",",","
 gehst,VERB,VVFIN,gehen,gehen
 du,PRON,PPER,du,du
@@ -490,7 +490,7 @@ hoch,PART,PTKVZ,hoch,hoch
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,seinken
 Du,PRON,PPER,du,du
 müsstest,VERB,VMFIN,müssen,müsstesen
 jetzt,ADV,ADV,jetzt,jetzt
@@ -509,7 +509,7 @@ muss,VERB,VMFIN,müssen,müssen
 ich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Hör,VERB,VVIMP,hören,hör
+Hör,VERB,VVIMP,hören,Hör
 erstmal,ADV,ADV,erstmal,erstmal
 auf,PART,PTKVZ,auf,auf
 .,PUNCT,$.,.,.
@@ -540,7 +540,7 @@ der,DET,ART,d,der
 Äpfel,NOUN,NN,Apfel,Apfel
 sein,AUX,VAINF,sein,sein
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,sein
 Du,PRON,PPER,du,du
 müsstest,VERB,VMFIN,müssen,müsstesen
 praktisch,ADV,ADV,praktisch,praktisch
@@ -619,7 +619,7 @@ gerader,ADJ,ADJD,gerade,gerader
 geworden,AUX,VAPP,werden,werden
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -671,7 +671,7 @@ an,ADP,APPR,an,an
 dem,PRON,PDS,d,der
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -828,7 +828,7 @@ _,UNK,--,--,_
 Genau,ADV,ADV,genau,genau
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -994,7 +994,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Nein,PART,PTKANT,nein,nein
@@ -1011,7 +1011,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -1188,7 +1188,7 @@ nach,ADP,APPR,nach,nach
 rechts,ADV,ADV,rechts,rechts
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -1215,7 +1215,7 @@ noch,ADV,ADV,noch,noch
 so,ADV,ADV,so,so
 bist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,sein
 Du,PRON,PPER,du,du
 müsstest,VERB,VMFIN,müssen,müsstesen
 eigentlich,ADV,ADV,eigentlich,eigentlich
@@ -1274,7 +1274,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -1295,7 +1295,7 @@ nicht,PART,PTKNEG,nicht,nicht
 gesagt,VERB,VVPP,sagen,sagen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 ",",PUNCT,"$,",",",","
 ja,ADV,ADV,ja,ja
 .,PUNCT,$.,.,.
@@ -1350,7 +1350,7 @@ Ach,INTJ,ITJ,ach,ach
 ",",PUNCT,"$,",",",","
 Scheiße,NOUN,NN,Scheiße,Scheiße
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,sein
 Du,PRON,PPER,du,du
 müsstest,VERB,VMFIN,müssen,müsstesen
 eigentlich,ADV,ADV,eigentlich,eigentlich
@@ -1363,7 +1363,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -1375,7 +1375,7 @@ ja,ADV,ADV,ja,ja
 gut,ADJ,ADJD,gut,gut
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -1393,28 +1393,28 @@ trifft,VERB,VVFIN,trefen,treffen
 es,PRON,PPER,es,es
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Sodass,SCONJ,KOUS,sodass,sodass
+Sodass,SCONJ,KOUS,sodass,Sodass
 du,PRON,PPER,du,du
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Der,DET,ART,d,der
 Hamburger,NOUN,NN,Hamburger,Hamburger
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Sag,VERB,VVIMP,sagen,Sagen
+Sag,VERB,VVIMP,sagen,Sag
 ",",PUNCT,"$,",",",","
 ob,SCONJ,KOUS,ob,ob
 der,DET,ART,d,der
 Hamburger,NOUN,NN,Hamburger,Hamburger
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Welchen,DET,PWAT,welch,welchen
+Welchen,DET,PWAT,welch,welch
 Hamburger,NOUN,NN,Hamburger,Hamburger
 meinst,VERB,VVFIN,meinen,meinen
 du,PRON,PPER,du,du
@@ -1446,7 +1446,7 @@ mir,PRON,PPER,ich,ich
 Getreide,NOUN,NN,Getreide,Getreide
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -1456,7 +1456,7 @@ eben,ADV,ADV,eben,eben
 Getreide,NOUN,NN,Getreide,Getreide
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Oder,CONJ,KON,oder,Oder
@@ -1480,7 +1480,7 @@ nicht,PART,PTKNEG,nicht,nicht
 so,ADV,ADV,so,so
 hoch,ADV,ADV,hoch,hoch
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,sein
 Du,PRON,PPER,du,du
 müsstest,VERB,VMFIN,müssen,müsstesen
 jetzt,ADV,ADV,jetzt,jetzt
@@ -1568,9 +1568,9 @@ _,UNK,--,--,_
 Nein,PART,PTKANT,nein,nein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 ",",PUNCT,"$,",",",","
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -1686,7 +1686,7 @@ gehst,VERB,VVFIN,gehen,gehen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
-warst,AUX,VAFIN,waren,wersen
+warst,AUX,VAFIN,waren,warsen
 gerade,ADV,ADV,gerade,gerade
 oben,ADV,ADV,oben,oben
 links,ADV,ADV,links,links
@@ -1728,12 +1728,12 @@ Zahnpasta,NOUN,NN,Zahnpasta,Zahnpasta
 vielleicht,ADV,ADV,vielleicht,vielleicht
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,--,.
 _,UNK,--,--,_
 Ein,DET,ART,ein,ein
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ach,INTJ,ITJ,ach,ach
@@ -1748,7 +1748,7 @@ zur,ADP,APPRART,zur,zur
 Zahnpasta,NOUN,NN,Zahnpasta,Zahnpasta
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -1784,7 +1784,7 @@ du,PRON,PPER,du,du
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
 zwar,ADV,ADV,zwar,zwar
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 Nomen,NOUN,NN,NOMEN,Nome
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -1854,7 +1854,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -1936,7 +1936,7 @@ Hamburger,NOUN,NN,Hamburger,Hamburger
 vorbei,PART,PTKVZ,vorbei,vorbei
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -1973,10 +1973,10 @@ Runde,NOUN,NN,Runde,Runde
 davon,ADV,PAV,davon,davon
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -2022,7 +2022,7 @@ ist,AUX,VAFIN,sein,sein
 rund,ADJ,ADJD,rund,rund
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Gut,ADJ,ADJD,gut,gut
@@ -2040,10 +2040,10 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Muss,VERB,VMFIN,müssen,aussen
+Muss,VERB,VMFIN,müssen,sessen
 man,PRON,PIS,man,man
 aber,ADV,ADV,aber,aber
 wieder,ADV,ADV,wieder,wieder
@@ -2059,7 +2059,7 @@ dann,ADV,ADV,dann,dann
 muss,VERB,VMFIN,müssen,müssen
 man,PRON,PIS,man,man
 wieder,ADV,ADV,wieder,wieder
-VERBen,VERB,VVINF,VERBen,verben
+VERBen,VERB,VVINF,VERBen,VERBen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -2109,7 +2109,7 @@ weiter,ADV,ADV,weiter,weiter
 rechts,ADV,ADV,rechts,rechts
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -2151,7 +2151,7 @@ du,PRON,PPER,du,du
 stehen,VERB,VVINF,stehen,stehen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Na,INTJ,ITJ,na,na
@@ -2167,7 +2167,7 @@ Ach,INTJ,ITJ,ach,ach
 wenn,SCONJ,KOUS,wenn,wenn
 es,PRON,PPER,es,es
 nicht,PART,PTKNEG,nicht,nicht
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -2242,7 +2242,7 @@ runter,PART,PTKVZ,runter,runter
 ",",PUNCT,"$,",",",","
 sodass,SCONJ,KOUS,sodass,sodass
 du,PRON,PPER,du,du
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -2372,7 +2372,7 @@ du,PRON,PPER,du,du
 einfach,ADV,ADV,einfach,einfach
 eine,DET,ART,ein,ein
 Diagonale,NOUN,NN,Diagonale,Diagonale
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Ziel,NOUN,NN,Ziel,Ziel
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2397,7 +2397,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Klopf,VERB,VVIMP,klopfen,klopf
+Klopf,VERB,VVIMP,klopfen,Klopf
 mal,ADV,ADV,mal,mal
 an,ADP,APPR,an,an
 die,DET,ART,d,der
@@ -2436,7 +2436,7 @@ wie,CONJ,KOKOM,wie,wie
 ich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Bloß,ADV,ADV,bloß,bloß
+Bloß,ADV,ADV,bloß,Bloß
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -2516,7 +2516,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -2587,7 +2587,7 @@ _,UNK,--,--,_
 Das,PRON,PDS,d,der
 tut,VERB,VVFIN,tun,tun
 mir,PRON,PPER,ich,ich
-Leid,PART,PTKVZ,leid,leid
+Leid,PART,PTKVZ,leid,Leid
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Genau,ADV,ADV,genau,genau
@@ -2603,8 +2603,8 @@ nicht,PART,PTKNEG,nicht,nicht
 ",",PUNCT,"$,",",",","
 bis,SCONJ,KOUS,bis,bis
 du,PRON,PPER,du,du
-NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBst,VERB,VVFIN,VERBen,vensen
+NOMEN,NOUN,NN,NOMEN,nomen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -2628,7 +2628,7 @@ du,PRON,PPER,du,du
 stoppen,VERB,VVINF,stoppen,stoppen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -2652,7 +2652,7 @@ Jetzt,ADV,ADV,jetzt,jetzt
 musst,VERB,VMFIN,müssen,müssen
 du,PRON,PPER,du,du
 dann,ADV,ADV,dann,dann
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 nach,ADP,APPR,nach,nach
@@ -2674,7 +2674,7 @@ nach,ADP,APPR,nach,nach
 unten,ADV,ADV,unten,unten
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -2750,13 +2750,13 @@ nach,ADP,APPR,nach,nach
 oben,ADV,ADV,oben,oben
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Geh,VERB,VVIMP,gehen,Geh
+Geh,VERB,VVIMP,gehen,geh
 einfach,ADV,ADV,einfach,einfach
 nach,ADP,APPR,nach,nach
 oben,ADV,ADV,oben,oben
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
-Geh,VERB,VVIMP,gehen,Geh
+Geh,VERB,VVIMP,gehen,geh
 gerade,ADJ,ADJD,gerade,gerade
 nach,ADP,APPR,nach,nach
 oben,ADV,ADV,oben,oben
@@ -2794,15 +2794,15 @@ vorbeigegangen,VERB,VVPP,vorbeigehen,vorbeizingen
 bin,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -2853,7 +2853,7 @@ gehen,VERB,VVINF,gehen,gehen
 _,UNK,--,--,_
 Bis,SCONJ,KOUS,bis,bis
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Bist,AUX,VAFIN,sein,sein
@@ -2926,7 +2926,7 @@ _,UNK,--,--,_
 Nein,PART,PTKANT,nein,nein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 mal,ADV,ADV,mal,mal
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
@@ -2961,7 +2961,7 @@ das,DET,ART,d,der
 Motorradbild,NOUN,NN,Motorradbild,Motorradbild
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -2970,7 +2970,7 @@ _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
 gehst,VERB,VVFIN,gehen,gehen
 du,PRON,PPER,du,du
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 nach,ADP,APPR,nach,nach
@@ -3021,7 +3021,7 @@ Startkreuz,NOUN,NN,Startkreuz,Startkreuz
 bist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -3083,7 +3083,7 @@ ist,AUX,VAFIN,sein,sein
 dass,SCONJ,KOUS,dass,dass
 du,PRON,PPER,du,du
 jetzt,ADV,ADV,jetzt,jetzt
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -3316,7 +3316,7 @@ _,UNK,--,--,_
 Genau,ADV,ADV,genau,genau
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -3419,7 +3419,7 @@ Na,INTJ,ITJ,na,na
 ja,ADV,ADV,ja,ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -3503,7 +3503,7 @@ dieser,DET,PDAT,dies,dies
 Karton,NOUN,NN,Karton,Karton
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -3636,7 +3636,7 @@ du,PRON,PPER,du,du
 gehst,VERB,VVFIN,gehen,gehen
 eben,ADV,ADV,eben,eben
 nicht,PART,PTKNEG,nicht,nicht
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 .,PUNCT,$.,.,.
@@ -3729,7 +3729,7 @@ _,UNK,--,--,_
 Nicht,PART,PTKNEG,nicht,nicht
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -3739,7 +3739,7 @@ Weil,SCONJ,KOUS,weil,weil
 ",",PUNCT,"$,",",",","
 wenn,SCONJ,KOUS,wenn,wenn
 ich,PRON,PPER,ich,ich
-VERBe,VERB,VVFIN,VERBen,vERBe
+VERBe,VERB,VVFIN,VERBen,VERBe
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -3763,7 +3763,7 @@ du,PRON,PPER,du,du
 das,PRON,PDS,d,der
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -3846,7 +3846,7 @@ _,UNK,--,--,_
 Kann,VERB,VMFIN,können,können
 man,PRON,PIS,man,man
 eigentlich,ADV,ADV,eigentlich,eigentlich
-NOMEN,NOUN,NN,NOMEN,NOMEN
+NOMEN,NOUN,NN,NOMEN,nomen
 korrigieren,VERB,VVINF,korrigieren,korrigieren
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
@@ -3904,7 +3904,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -3948,7 +3948,7 @@ ich,PRON,PPER,ich,ich
 entlang,PART,PTKVZ,entlang,entlang
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Bist,AUX,VAFIN,sein,sein
@@ -4034,7 +4034,7 @@ oberen,ADJ,ADJA,ober,ober
 Wohnwagen,NOUN,NN,Wohnwagen,Wohnwagen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -4113,7 +4113,7 @@ Mittelbein,NOUN,NN,Mittelbein,Mittelbein
 sozusagen,ADV,ADV,sozusagen,sozusagen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -4152,7 +4152,7 @@ ist,AUX,VAFIN,sein,sein
 egal,ADJ,ADJD,egal,egal
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -4166,7 +4166,7 @@ herüber,PART,PTKVZ,herüber,herüber
 nach,ADP,APPR,nach,nach
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Geh,VERB,VVIMP,gehen,Geh
@@ -4181,7 +4181,7 @@ denn,ADV,ADV,denn,denn
 links,ADV,ADV,links,links
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Geh,VERB,VVIMP,gehen,Geh
+Geh,VERB,VVIMP,gehen,geh
 bis,ADP,APPR,bis,bis
 irgendwo,ADV,ADV,irgendwo,irgendwo
 !,PUNCT,$.,!,!
@@ -4210,7 +4210,7 @@ _,UNK,--,--,_
 Also,ADV,ADV,also,also
 gehst,VERB,VVFIN,gehen,gehen
 du,PRON,PPER,du,du
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 ",",PUNCT,"$,",",",","
@@ -4224,7 +4224,7 @@ gegangen,VERB,VVPP,gehen,gehen
 bist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -4311,7 +4311,7 @@ des,DET,ART,d,der
 Hähnchens,NOUN,NN,Hähnchen,Hähnchen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -4335,7 +4335,7 @@ _,UNK,--,--,_
 Und,CONJ,KON,und,und
 diese,DET,PDAT,dies,dies
 Laborantin,NOUN,NN,Laborantin,Laborantin
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 NOMEN,NOUN,NN,NOMEN,NOMEN
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -4395,7 +4395,7 @@ für,ADP,APPR,für,für
 Hähnchen,NOUN,NN,Hähnchen,Hähnchen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Jetzt,ADV,ADV,jetzt,jetzt
@@ -4403,7 +4403,7 @@ musst,VERB,VMFIN,müssen,müssen
 du,PRON,PPER,du,du
 quasi,ADV,ADV,quasi,quasi
 immer,ADV,ADV,immer,immer
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 um,ADP,APPR,um,um
@@ -4414,7 +4414,7 @@ herum,PART,PTKVZ,herum,herum
 gehen,VERB,VVINF,gehen,gehen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -4467,13 +4467,13 @@ _,UNK,--,--,_
 Genau,ADV,ADV,genau,genau
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Von,ADP,APPR,von,von
 dir,PRON,PRF,du,du
 aus,ADP,APZR,aus,aus
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 NOMEN,NOUN,NN,NOMEN,NOMEN
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -4503,7 +4503,7 @@ _,UNK,--,--,_
 Du,PRON,PPER,du,du
 musst,VERB,VMFIN,müssen,müssen
 dann,ADV,ADV,dann,dann
-VERBen,VERB,VVINF,VERBen,verben
+VERBen,VERB,VVINF,VERBen,VERBen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -4590,7 +4590,7 @@ waagerechten,ADJ,ADJA,waagerecht,waagerecht
 Strichs,NOUN,NN,Strich,Strich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -4683,7 +4683,7 @@ zum,ADP,APPRART,zum,zum
 Ziel,NOUN,NN,Ziel,Ziel
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -4695,7 +4695,7 @@ wir,PRON,PPER,wir,wir
 da,ADV,ADV,da,da
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Komm,VERB,VVIMP,kommen,kommen
+Komm,VERB,VVIMP,kommen,Komm
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Wir,PRON,PPER,wir,wir
@@ -4712,7 +4712,7 @@ _,UNK,--,--,_
 Hallo,INTJ,ITJ,hallo,hallo
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -4751,7 +4751,7 @@ zur,ADP,APPRART,zur,zur
 Bonnemannstraße,PROPN,NE,Bonnemannstraße,Bonnemannstraße
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -4787,7 +4787,7 @@ großes,ADJ,ADJA,groß,groß
 Steuerrad,NOUN,NN,Steuerrad,Steuerrad
 vorne,ADV,ADV,vorne,vorne
 .,PUNCT,$.,.,.
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Genau,PART,PTKANT,genau,genau
 Also,ADV,ADV,also,also
 Da,ADV,ADV,da,da
@@ -4902,7 +4902,7 @@ und,CONJ,KON,und,und
 so,ADV,ADV,so,so
 und,CONJ,KON,und,und
 Waschmaschinen,NOUN,NN,Waschmaschinen,Waschmaschine
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Siehst,VERB,VVFIN,siehst,sehen
 du,PRON,PPER,du,du
 das,PRON,PDS,das,der
@@ -4970,12 +4970,12 @@ zu,PART,PTKA,zu,zu
 so,ADV,ADV,so,so
 einem,DET,ART,einem,ein
 Motorradladen,NOUN,NN,Motorradladen,Motorradladen
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Siehst,VERB,VVFIN,siehst,sehen
 du,PRON,PPER,du,du
 den,PRON,PDS,den,der
 Ja,PART,PTKANT,ja,Ja
-Muss,VERB,VMFIN,muss,aussen
+Muss,VERB,VMFIN,muss,sessen
 ich,PRON,PPER,ich,ich
 auf,ADP,APPR,auf,auf
 den,PRON,PDS,den,der
@@ -5002,7 +5002,7 @@ biege,VERB,VVFIN,biege,biegen
 rechts,ADV,ADV,rechts,rechts
 ab,PART,PTKVZ,ab,ab
 Nein,PART,PTKANT,nein,nein
-Warte,VERB,VVIMP,warte,waren
+Warte,VERB,VVIMP,warte,Warte
 mal,ADV,ADV,mal,mal
 Also,ADV,ADV,also,also
 du,PRON,PPER,du,du
@@ -5012,7 +5012,7 @@ bin,AUX,VAFIN,sein,sein
 jetzt,ADV,ADV,jetzt,jetzt
 auf,ADP,APPR,auf,auf
 den,PRON,PDS,d,der
-zugegangen,VERB,VVPP,zugehen,zugehen
+zugegangen,VERB,VVPP,zugehen,zugegehg
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -5069,12 +5069,12 @@ ich,PRON,PPER,ich,ich
 außen,ADV,ADV,außen,außen
 herum,PART,PTKVZ,herum,herum
 Genau,PART,PTKANT,genau,genau
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Dann,ADV,ADV,dann,dann
 dann,ADV,ADV,dann,dann
 wieder,ADV,ADV,wieder,wieder
 rechts,ADV,ADV,rechts,rechts
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Genau,PART,PTKANT,genau,genau
 Und,CONJ,KON,und,und
 wenn,SCONJ,KOUS,wenn,wenn
@@ -5136,7 +5136,7 @@ bist,AUX,VAFIN,bist,sein
 dann,ADV,ADV,dann,dann
 umso,ADV,ADV,umso,umso
 besser,ADJ,ADJD,besser,gut
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Um,ADP,APPR,um,um
 die,DET,ART,die,der
 Wohnwagen,NOUN,NN,Wohnwägen,Wohnwagen
@@ -5413,7 +5413,7 @@ wo,ADV,PWAV,wo,wo
 du,PRON,PPER,du,du
 hinwolltest,VERB,VVFIN,hinwollen,hinwolltesen
 .,PUNCT,$.,.,.
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Ja,PART,PTKANT,ja,Ja
 Ja,PART,PTKANT,ja,Ja
 Ich,PRON,PPER,ich,ich
@@ -5474,7 +5474,7 @@ vorbei,ADV,ADV,vorbei,vorbei
 ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -5490,7 +5490,7 @@ die,DET,ART,d,der
 Äpfel,NOUN,NN,Apfel,Apfel
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Jetzt,ADV,ADV,jetzt,jetzt
@@ -5640,7 +5640,7 @@ oben,ADV,ADV,oben,oben
 hocharbeiten,VERB,VVINF,hocharbeiten,hocharbeiten
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Dann,ADV,ADV,dann,dann
@@ -5723,7 +5723,7 @@ die,DET,ART,d,der
 Bücher,NOUN,NN,Buch,Buch
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 Dann,ADV,ADV,Dann,dann
 senkrecht,ADJ,ADJD,senkrecht,senkrecht
@@ -5758,7 +5758,7 @@ wo,ADV,PWAV,wo,wo
 diese,DET,PDAT,diese,dies
 Kornähren,NOUN,NN,Kornähren,Kornähren
 anfangen,VERB,VVFIN,anfangen,anfangen
-Okay,PART,PTKANT,Okay,Okay
+Okay,PART,PTKANT,Okay,okay
 ganz,ADV,ADV,ganz,ganz
 oben,ADV,ADV,oben,oben
 rechts,ADV,ADV,rechts,rechts
@@ -5785,7 +5785,7 @@ ja,ADV,ADV,ja,ja
 schon,ADV,ADV,schon,schon
 gewöhnt,VERB,VVPP,gewöhnt,wöhnen
 Also,ADV,ADV,Also,also
-Okay,PART,PTKANT,Okay,Okay
+Okay,PART,PTKANT,Okay,okay
 Dann,ADV,ADV,Denn,dann
 nehmen,VERB,VVFIN,nehmen,nehmen
 wir,PRON,PPER,wir,wir
@@ -5944,7 +5944,7 @@ Ziel,NOUN,NN,Ziel,Ziel
 trifft,VERB,VVFIN,treffen,treffen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -5975,7 +5975,7 @@ herausgekommen,VERB,VVPP,herauskommen,herauskommen
 ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -6001,7 +6001,7 @@ ich,PRON,PPER,ich,ich
 sowieso,ADV,ADV,sowieso,sowieso
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Den,PRON,PDS,d,der
@@ -6009,7 +6009,7 @@ siehst,VERB,VVFIN,sehen,sehen
 du,PRON,PPER,du,du
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -6074,7 +6074,7 @@ nach,ADV,ADV,nach,nach
 links,ADV,ADV,links,links
 und,CONJ,KON,und,und
 einmal,ADV,ADV,einmal,einmal
-ums,ADP,APPRART,ums,ums
+ums,ADP,APPRART,ums,wir
 grüne,ADJ,ADJA,grüne,grün
 Männchen,NOUN,NN,Männchen,Männchen
 herum,ADV,ADV,herum,herum
@@ -6173,7 +6173,7 @@ dann,ADV,ADV,dann,dann
 gehst,VERB,VVFIN,gehst,gehen
 du,PRON,PPER,du,du
 ungefähr,ADJ,ADJD,ungefähr,ungefähr
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Fünfundvierziggradwinkel,NOUN,NN,Fünfundvierziggradwinkel,Fünfundvierziggradwinkel
 nach,ADP,APPR,nach,nach
 links,ADV,ADV,links,links
@@ -6246,7 +6246,7 @@ Ich,PRON,PPER,ich,ich
 gehe,VERB,VVFIN,gehe,gehen
 da,ADV,ADV,da,da
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -6315,10 +6315,10 @@ Und,CONJ,KON,und,und
 dann,ADV,ADV,dann,dann
 gehst,VERB,VVFIN,gehst,gehen
 du,PRON,PPER,du,du
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Fünfundvierziggradwinkel,NOUN,NN,Fünfundvierziggrad,Fünfundvierziggradwinkel
 Wie,ADV,PWAV,wie,wie
-Warte,VERB,VVIMP,warte,waren
+Warte,VERB,VVIMP,warte,Warte
 mal,ADV,ADV,mal,mal
 das,DET,ART,das,der
 Grüne,NOUN,NN,grüne,Grüne
@@ -6340,20 +6340,20 @@ nicht,PART,PTKNEG,nicht,nicht
 zum,ADP,APPRART,zum,zum
 Männchen,NOUN,NN,Männchen,Männchen
 rüber,PART,PTKVZ,rüber,rüber
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 einfach,ADJ,ADJD,einfach,einfach
 runter,PART,PTKVZ,runter,runter
 Aber,CONJ,KON,aber,aber
 ganz,ADV,ADV,ganz,ganz
 Ja,PART,PTKANT,ja,Ja
 Genau,PART,PTKANT,genau,genau
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Und,CONJ,KON,und,und
 dann,ADV,ADV,dann,dann
 gehst,VERB,VVFIN,gehst,gehen
 du,PRON,PPER,du,du
 so,ADV,ADV,so,so
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Ja,PART,PTKANT,ja,Ja
 So,ADV,ADV,so,so
 etwas,PRON,PIS,was,etwas
@@ -6363,7 +6363,7 @@ das,PRON,PDS,das,der
 jetzt,ADV,ADV,jetzt,jetzt
 Ja,PART,PTKANT,ja,Ja
 so,ADV,ADV,so,so
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 größeren,ADJ,ADJA,größeren,groß
 Winkel,NOUN,NN,Winkel,Winkel
 nach,ADP,APPR,nach,nach
@@ -6384,7 +6384,7 @@ weiß,VERB,VVFIN,wissen,wissen
 ich,PRON,PPER,ich,ich
 nicht,PART,PTKNEG,nicht,nicht
 ",",PUNCT,"$,",",",","
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Siebziggradwinkel,NOUN,NN,Siebziggradwinkel,Siebziggradwinkel
 nach,ADP,APPR,nach,nach
 unten,ADV,ADV,unten,unten
@@ -6411,7 +6411,7 @@ unten,ADV,ADV,unten,unten
 vorbei,PART,PTKVZ,vorbei,vorbei
 Genau,PART,PTKANT,genau,genau
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -6457,7 +6457,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -6556,7 +6556,7 @@ mir,PRON,PPER,mir,ich
 ein,DET,ART,ein,ein
 Burger,NOUN,NN,Burger,Burger
 Okay,PART,PTKANT,okay,Okay
-Gut,ADJ,ADJD,gut,gut
+Gut,ADJ,ADJD,gut,Gut
 Dann,ADV,ADV,dann,dann
 unter,ADP,APPR,unter,unter
 deinem,DET,PPOSAT,deinem,dein
@@ -6581,7 +6581,7 @@ Unterschied,NOUN,NN,Unterschied,Unterschied
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Dann,ADV,ADV,dann,dann
 schnapp,VERB,VVIMP,schnapp,schnehen
 dir,PRON,PPER,dir,du
@@ -6734,7 +6734,7 @@ sich,PRON,PRF,sich,er|es|sie
 die,DET,ART,die,der
 Linien,NOUN,NN,Linien,Linie
 kreuzen,VERB,VVINF,kreuzen,kreuzen
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 So,ADV,ADV,so,so
 Jetzt,ADV,ADV,jetzt,jetzt
 bist,AUX,VAFIN,bist,sein
@@ -7012,7 +7012,7 @@ auf,ADP,APPR,auf,auf
 dem,PRON,PRELS,dem,der
 du,PRON,PPER,du,du
 dann,ADV,ADV,dann,dann
-endest,VERB,VVFIN,endest,endenen
+endest,VERB,VVFIN,endest,endest
 ist,AUX,VAFIN,ist,sein
 parallel,ADJ,ADJD,parallel,parallel
 zu,ADP,APPR,zu,zu
@@ -7056,7 +7056,7 @@ Höhe,NOUN,NN,Höhe,Höhe
 Aber,CONJ,KON,aber,aber
 Ja,PART,PTKANT,ja,Ja
 Und,CONJ,KON,und,und
-endest,VERB,VVFIN,endest,endenen
+endest,VERB,VVFIN,endest,endest
 da,ADV,ADV,da,da
 auf,ADP,APPR,auf,auf
 der,DET,ART,der,der
@@ -7167,7 +7167,7 @@ Da,ADV,ADV,da,da
 laufe,VERB,VVFIN,laufe,laufen
 ich,PRON,PPER,ich,ich
 ja,ADV,ADV,ja,ja
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Kreis,NOUN,NN,Kreis,Kreis
 um,ADP,APPR,um,um
 den,DET,ART,den,der
@@ -7241,7 +7241,7 @@ weit,ADJ,ADJD,weit,weit
 rechts,ADV,ADV,rechts,rechts
 vom,ADP,APPRART,vom,vom
 Wie,ADV,PWAV,wie,wie
-bitte,INTJ,ITJ,bitte,bitte
+bitte,INTJ,ITJ,bitte,bitten
 Na,INTJ,ITJ,na,na
 ja,ADV,ADV,ja,ja
 Das,PRON,PDS,das,der
@@ -7353,7 +7353,7 @@ schräg,ADJ,ADJD,schräg,schräg
 dann,ADV,ADV,dann,dann
 Ach,INTJ,ITJ,ach,ach
 so,ADV,ADV,so,so
-Okay,PART,PTKANT,okay,Okay
+Okay,PART,PTKANT,okay,okay
 Genau,PART,PTKANT,genau,genau
 So,ADV,ADV,so,so
 _,UNK,--,--,_
@@ -7427,7 +7427,7 @@ klar,ADJ,ADJD,klar,klar
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
 ist,AUX,VAFIN,sein,sein
-Gut,ADJ,ADJD,gut,gut
+Gut,ADJ,ADJD,gut,Gut
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Na,INTJ,ITJ,na,na
@@ -7438,7 +7438,7 @@ wir,PRON,PPER,wir,wir
 mal,ADV,ADV,mal,mal
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -7450,7 +7450,7 @@ einen,DET,ART,ein,ein
 Stift,NOUN,NN,Stift,Stift
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Danke,PART,PTKANT,danke,Dank
@@ -7459,7 +7459,7 @@ _,UNK,--,--,_
 Schön,ADJ,ADJD,schön,schön
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Genau,ADV,ADV,genau,genau
@@ -7890,7 +7890,7 @@ rechts,ADV,ADV,rechts,rechts
 unten,ADV,ADV,unten,unten
 Ja,PART,PTKANT,ja,Ja
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Wir,PRON,PPER,wir,wir
@@ -7963,7 +7963,7 @@ jetzt,ADV,ADV,jetzt,jetzt
 nach,ADP,APPR,nach,nach
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Warte,VERB,VVIMP,warten,waren
+Warte,VERB,VVIMP,warten,Warte
 mal,ADV,ADV,mal,mal
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
@@ -7988,7 +7988,7 @@ Tür,NOUN,NN,Tür,Tür
 hier,ADV,ADV,hier,hier
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -8043,7 +8043,7 @@ Winkel,NOUN,NN,Winkel,Winkel
 sozusagen,ADV,ADV,sozusagen,sozusagen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -8061,7 +8061,7 @@ Und,CONJ,KON,und,und
 der,DET,ART,d,der
 Käse,NOUN,NN,Käse,Käse
 ist,AUX,VAFIN,sein,sein
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Winkel,NOUN,NN,Winkel,Winkel
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -8190,7 +8190,7 @@ _,UNK,--,--,_
 Oder,CONJ,KON,oder,Oder
 gehe,VERB,VVFIN,gehen,gehen
 ich,PRON,PPER,ich,ich
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 rechten,ADJ,ADJA,recht,recht
 Winkel,NOUN,NN,Winkel,Winkel
 ?,PUNCT,$.,?,?
@@ -8205,7 +8205,7 @@ einem,DET,ART,ein,ein
 richtigen,ADJ,ADJA,richtig,richtig
 Kreis,NOUN,NN,Kreis,Kreis
 .,PUNCT,$.,.,.
-_,UNK,--,--,_
+_,UNK,--,--,seinken
 Du,PRON,PPER,du,du
 machst,VERB,VVFIN,machen,machen
 einen,DET,ART,ein,ein
@@ -8221,7 +8221,7 @@ herum,ADV,ADV,herum,herum
 bis,SCONJ,KOUS,bis,bis
 du,PRON,PPER,du,du
 dann,ADV,ADV,dann,dann
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Denn,CONJ,KON,denn,denn
@@ -8291,7 +8291,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -8569,7 +8569,7 @@ ist,AUX,VAFIN,sein,sein
 gut,ADJ,ADJD,gut,gut
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Flacher,ADJ,ADJD,flach,flacher
+Flacher,ADJ,ADJD,flach,Flacher
 kann,VERB,VMFIN,können,können
 ich,PRON,PPER,ich,ich
 es,PRON,PPER,es,es
@@ -8982,7 +8982,7 @@ Burger,NOUN,NN,Burger,Burger
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -9197,8 +9197,8 @@ in,ADP,APPR,in,in
 so,ADV,ADV,so,so
 einem,DET,ART,ein,ein
 knappen,ADJ,ADJA,knapp,knapp
-Dreißig-|,NUM,CARD,dreißig,dreißig-|
-Grad-|,NOUN,NN,Grad,Grad-|
+Dreißig-|,NUM,CARD,dreißig,Dreißig-|
+Grad-|,NOUN,NN,Grad,grad-|
 Winkel,NOUN,NN,Winkel,Winkel
 oder,CONJ,KON,oder,oder
 so,ADV,ADV,so,so
@@ -9284,7 +9284,7 @@ meine,VERB,VVFIN,meinen,mein
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 gehe,VERB,VVFIN,gehen,gehen
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 gleichen,ADJ,ADJA,gleich,gleich
 Winkel,NOUN,NN,Winkel,Winkel
 .,PUNCT,$.,.,.
@@ -9310,8 +9310,8 @@ von,ADP,APPR,von,von
 der,PRON,PRELS,d,der
 du,UNK,--,--,du
 nach,ADP,APPR,nach,nach
-NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBst,VERB,VVFIN,VERBen,vensen
+NOMEN,NOUN,NN,NOMEN,nomen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Nachdem,SCONJ,KOUS,nachdem,nachdem
@@ -9389,7 +9389,7 @@ hast,AUX,VAFIN,haben,haben
 ja,ADV,ADV,ja,ja
 nach,ADP,APPR,nach,nach
 unten,ADV,ADV,unten,unten
-geVERBt,VERB,VVPP,VERBen,VEVERt
+geVERBt,VERB,VVPP,VERBen,geVERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -9494,7 +9494,7 @@ des,DET,ART,d,der
 Königs,NOUN,NN,König,König
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -9528,7 +9528,7 @@ oberen,ADJ,ADJA,ober,ober
 Ecke,NOUN,NN,Ecke,Ecke
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -9565,7 +9565,7 @@ unteren,ADJ,ADJA,unter,unter
 Ecke,NOUN,NN,Ecke,Ecke
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -9595,7 +9595,7 @@ ein,DET,ART,ein,ein
 Trapez,NOUN,NN,Trapez,Trapez
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 ",",PUNCT,"$,",",",","
 ja,PART,PTKANT,ja,ja
 .,PUNCT,$.,.,.
@@ -9630,7 +9630,7 @@ wir,PRON,PPER,wir,wir
 es,PRON,PPER,es,es
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Hallo,INTJ,ITJ,hallo,hallo
@@ -9641,7 +9641,7 @@ _,UNK,--,--,_
 Hallo,INTJ,ITJ,hallo,hallo
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -9660,7 +9660,7 @@ einen,DET,ART,ein,ein
 Weg,NOUN,NN,Weg,Weg
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,UNK,--,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -9796,7 +9796,7 @@ Ja,PART,PTKANT,ja,Ja
 _,UNK,--,--,_
 Oder,CONJ,KON,oder,Oder
 du,PRON,PPER,du,du
-meinst,VERB,VVFIN,meinen,meinen
+meinst,VERB,VVFIN,meinen,meinst
 eine,DET,ART,ein,ein
 Rolle,NOUN,NN,Rolle,Rolle
 oder,CONJ,KON,oder,oder
@@ -9808,7 +9808,7 @@ das,PRON,PDS,d,der
 heißt,VERB,VVFIN,heißen,heißen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 An,ADP,APPR,an,an
@@ -9961,7 +9961,7 @@ Was,PRON,PWS,was,was
 auch,ADV,ADV,auch,auch
 immer,ADV,ADV,immer,immer
 _,UNK,--,--,_
-Gut,ADJ,ADJD,gut,gut
+Gut,ADJ,ADJD,gut,Gut
 .,PUNCT,$.,.,.
 Wir,PRON,PPER,wir,wir
 machen,VERB,VVFIN,machen,machen
@@ -9984,7 +9984,7 @@ an,ADP,APPR,an,an
 den,DET,ART,den,der
 Nägeln,NOUN,NN,Nägeln,Nagel
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -10201,7 +10201,7 @@ _,UNK,--,--,_
 Du,PRON,PPER,du,du
 läufst,VERB,VVFIN,laufen,laufen
 ein,DET,ART,ein,ein
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Kreis,NOUN,NN,Kreis,Kreis
 um,ADP,APPR,um,um
 das,DET,ART,d,der
@@ -10231,7 +10231,7 @@ der,DET,ART,der,der
 an,ADP,APPR,an,an
 der,DET,ART,der,der
 Frau,NOUN,NN,Frau,Frau
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Labor,NOUN,NN,Labor,Labor
 vorbei,PART,PTKVZ,vorbei,vorbei
 gehst,VERB,VVFIN,gehst,gehen
@@ -10286,7 +10286,7 @@ ist,AUX,VAFIN,sein,sein
 wunderbar,ADJ,ADJD,wunderbar,wunderbar
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Bist,AUX,VAFIN,sein,sein
@@ -10303,12 +10303,12 @@ sind,AUX,VAFIN,sein,sein
 fertig,ADJ,ADJD,fertig,fertig
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Diese,DET,PDAT,dies,dies
 Erkältung,NOUN,NN,Erkältung,Erkältung
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
@@ -10325,7 +10325,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 So,ADV,ADV,so,so
@@ -10356,7 +10356,7 @@ auf,PART,PTKVZ,auf,auf
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
-VERBst,VERB,VVFIN,VERBen,vensen
+VERBst,VERB,VVFIN,VERBen,VERBst
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Also,ADV,ADV,also,also
@@ -10663,7 +10663,7 @@ Dann,ADV,ADV,dann,dann
 gehst,VERB,VVFIN,gehen,gehen
 du,PRON,PPER,du,du
 einmal,ADV,ADV,einmal,einmal
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Halbkreis,NOUN,NN,Halbkreis,Halbkreis
 um,ADP,APPR,um,um
 das,DET,ART,d,der
@@ -10796,7 +10796,7 @@ _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 kann,VERB,VMFIN,können,können
 hier,ADV,ADV,hier,hier
-VERBen,VERB,VVINF,VERBen,verben
+VERBen,VERB,VVINF,VERBen,VERBen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -10810,12 +10810,12 @@ _,UNK,--,--,_
 Ach,INTJ,ITJ,ach,ach
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
-klopf,VERB,VVIMP,klopfen,klopen
+klopf,VERB,VVIMP,klopfen,klopf
 an,PART,PTKVZ,an,an
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
-VERBe,VERB,VVFIN,VERBen,vERBe
+VERBe,VERB,VVFIN,VERBen,VERBe
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -10847,12 +10847,12 @@ Muss,VERB,VMFIN,müssen,aussen
 man,PRON,PIS,man,man
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
 ist,AUX,VAFIN,sein,sein
-Gut,ADJ,ADJD,gut,gut
+Gut,ADJ,ADJD,gut,Gut
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -10861,7 +10861,7 @@ in,ADP,APPR,in,in
 Ordnung,NOUN,NN,Ordnung,Ordnung
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Hast,AUX,VAFIN,haben,haben
@@ -10877,7 +10877,7 @@ _,UNK,--,--,_
 Ja,PART,PTKANT,ja,Ja
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -10913,7 +10913,7 @@ der,DET,ART,d,der
 Start,NOUN,NN,Start,Start
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Das,PRON,PDS,d,der
@@ -11014,7 +11014,7 @@ nach,ADP,APPR,nach,nach
 rechts,ADV,ADV,rechts,rechts
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Okay,ADV,ADV,okay,okay
+Okay,ADV,ADV,okay,Okay
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du

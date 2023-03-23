@@ -1,6 +1,6 @@
 token,tag,tag_STTS,lemma_gold,lemma_pred
 Das,PRON,PDS,der,der
-wärs,UNK,VAPPER,sein,wärs
+wärs,UNK,VAPPER,sein,warsen
 ",",PUNCT,"$,",",",","
 allen,DET,PIAT,aller,alle
 Teilnehmern,NOUN,NN,Teilnehmer,Teilnehmer
@@ -70,7 +70,7 @@ Troll,NOUN,NN,Troll,Troll
 ",",PUNCT,"$,",",",","
 der,PRON,PRELS,der,der
 noch,ADV,ADV,noch,noch
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 @dwds_de,PROPN,NE,@dwds_de,@dwds_de
 fehlt,VERB,VVFIN,fehlen,fehlen
 :,PUNCT,$(,:,:
@@ -90,7 +90,7 @@ kommunizieren,VERB,VVINF,kommunizieren,kommunizieren
 ?,PUNCT,$.,?,?
 """",PUNCT,$(,"""",""""
 @berlinothar,UNK,ADR,@berlinothar,@berlinothar
-#ibk,UNK,HST,#ibk,#ibk
+#ibk,UNK,HST,#ibk,#ibken
 #cmc,UNK,HST,#cmc,#cmc
 #dtaclarin14,UNK,HST,#dtaclarin14,#dtaclarin14
 Erfurter,ADJ,ADJA,Erfurter,Erfurter
@@ -181,15 +181,15 @@ das,PRON,PDS,der,der
 #semibk,UNK,HST,#semibk,#semibk
 """",PUNCT,$(,"""",""""
 Zwitscher,UNK,AKW,zwitscher,Zwitscher
-zwitscher,UNK,AKW,zwitscher,zwitsch
-Geschafft,VERB,VVPP,schaffen,schaffen
+zwitscher,UNK,AKW,zwitscher,zwitscher
+Geschafft,VERB,VVPP,schaffen,Geschafft
 """",PUNCT,$(,"""",""""
 <-,X,XY,<-,<-
 Aha,INTJ,ITJ,aha,Aha
 !,PUNCT,$.,!,!
 Es,PRON,PPER,es,es
 zwitschert,VERB,VVFIN,zwitschern,zwitschern
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 virtuellen,ADJ,ADJA,virtuell,virtuell
 Geäst,NOUN,NN,Geäst,Geäst
 !,PUNCT,$.,!,!
@@ -292,7 +292,7 @@ nachlesen,VERB,VVINF,nachlesen,nachlesen
 <-,X,XY,<-,<-
 ja,PART,PTKANT,ja,ja
 ",",PUNCT,"$,",",",","
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Profil,NOUN,NN,Profil,Profil
 von,ADP,APPR,von,von
 Frau,NOUN,NN,Frau,Frau
@@ -427,7 +427,7 @@ haben,AUX,VAINF,haben,haben
 Die,DET,ART,der,der
 Tagebücher,NOUN,NN,Tagebuch,Tagebücher
 werden,AUX,VAFIN,werden,werden
-bestimmt,ADJ,ADJD,bestimmt,bestimmen
+bestimmt,ADJ,ADJD,bestimmt,bestimmt
 sehr,UNK,PTKIFG,sehr,sehr
 spannend,ADJ,ADJD,spannend,spannend
 """",PUNCT,$(,"""",""""
@@ -448,7 +448,7 @@ schreiben,VERB,VVINF,schreiben,schreiben
 """",PUNCT,$(,"""",""""
 <-,X,XY,<-,<-
 dacht,VERB,VVFIN,denken,denken
-ichs,UNK,PPERPPER,ich,ech
+ichs,UNK,PPERPPER,ich,erh
 mir,PRON,PRF,sich,ich
 doch,UNK,PTKMA,doch,doch
 ",",PUNCT,"$,",",",","
@@ -481,7 +481,7 @@ auf,ADP,APPR,auf,auf
 die,DET,ART,der,der
 Nutzungstagebücher,NOUN,NN,Nutzungstagebuch,Nutzungstagebücher
 !,PUNCT,$.,!,!
-:D,UNK,EMOASC,:D,:D
+:D,UNK,EMOASC,:D,"""D"
 @Biggi_1010,UNK,ADR,@biggi_1010,@Biggi_1010
 #semibk,UNK,HST,#semibk,#semibk
 Es,PRON,PPER,es,es
@@ -565,7 +565,7 @@ Ihrem,DET,PPOSAT,ihr,Ihr|ihr
 Twitternamen,NOUN,NN,Twittername,Twittername
 wäre,AUX,VAFIN,sein,sein
 übrigens,ADV,ADV,übrigens,übrigens
-AUCH,ADV,ADV,auch,auch
+AUCH,ADV,ADV,auch,AUCH
 reflexionswürdig,ADJ,ADJD,reflexionswürdig,reflexionswürdig
 ;),UNK,EMOASC,;),;)
 @Montaaag,UNK,ADR,@montaaag,@Montaaag
@@ -607,7 +607,7 @@ Mimik,NOUN,NN,Mimik,Mimik
 ...,PUNCT,$(,...,...
 es,PRON,PPER,es,es
 ist,AUX,VAFIN,sein,sein
-vllt,ADV,ADV,vielleicht,vllt
+vllt,ADV,ADV,vielleicht,vllen
 ein,DET,ART,ein,ein
 Versuch,NOUN,NN,Versuch,Versuch
 ",",PUNCT,"$,",",",","
@@ -705,7 +705,7 @@ Partner,NOUN,NN,Partner,Partner
 ?,PUNCT,$.,?,?
 Oder,CONJ,KON,oder,Oder
 woran,ADV,PWAV,woran,woran
-liegt's,UNK,VVPPER,liegen,liegt's
+liegt's,UNK,VVPPER,liegen,liegen
 ?,PUNCT,$.,?,?
 #semibk,UNK,HST,#semibk,#semibk
 """",PUNCT,$(,"""",""""
@@ -825,11 +825,11 @@ nicht,PART,PTKNEG,nicht,nicht
 Auf,ADP,APPR,auf,auf
 weitere,ADJ,ADJA,weit,weit
 Potenziale,NOUN,NN,Potenzial,Potenziale
-d.,DET,ART,der,der
+d.,DET,ART,der,d.
 Schrift,NOUN,NN,Schrift,Schrift
 kommen,VERB,VVFIN,kommen,kommen
 wir,PRON,PPER,wir,wir
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Seminar,NOUN,NN,Seminar,Seminar
 noch,ADV,ADV,noch,noch
 z.,PART,PTKZU,zu,z.
@@ -889,7 +889,7 @@ Sitzung,NOUN,NN,Sitzung,Sitzung
 ;),UNK,EMOASC,;),;)
 (,PUNCT,$(,(,(
 (,PUNCT,$(,(,(
-Allg.,ADJ,ADJA,allgemein,allg.
+Allg.,ADJ,ADJA,allgemein,Allg.
 Infos,NOUN,NN,Info,Info
 zu,ADP,APPR,zu,zu
 Twitterwalls,NOUN,NN,Twitterwall,Twitterwalls
@@ -1004,7 +1004,7 @@ intermezzo,NOUN,NN,Intermezzo,intermezzo
 <--,X,XY,<--,<--
 das,PRON,PDS,der,der
 hat,AUX,VAFIN,haben,haben
-bestimmt,ADJ,ADJD,bestimmt,bestimmen
+bestimmt,ADJ,ADJD,bestimmt,bestimmt
 einen,DET,ART,ein,ein
 dramaturgischen,ADJ,ADJA,dramaturgisch,dramaturgisch
 grund,NOUN,NN,Grund,grund
@@ -1134,7 +1134,7 @@ ich,PRON,PPER,ich,ich
 da,ADV,ADV,da,da
 nur,ADV,ADV,nur,nur
 !!,PUNCT,$.,!!,!!
-:D,UNK,EMOASC,:D,:D
+:D,UNK,EMOASC,:D,"""D"
 @RioTeam,UNK,ADR,@rioteam,@RioTeam
 #semibk,UNK,HST,#semibk,#semibk
 Die,DET,ART,der,der

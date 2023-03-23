@@ -87,7 +87,7 @@ Pharao,PROPN,NE,Pharao,Pharao
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,UNK,--,--,_
-Erleichtert,ADJ,ADJD,erleichtert,erleichtert
+Erleichtert,ADJ,ADJD,erleichtert,erleichtern
 gucke,VERB,VVFIN,gucken,gucken
 ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
@@ -305,7 +305,7 @@ Tigaaaaelse,PROPN,NE,Tigaaaaelse,Tigaaaaelse
 bekommen,VERB,VVPP,bekommen,bekommen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Erzähl,VERB,VVIMP,erzählen,erzählen
+Erzähl,VERB,VVIMP,erzählen,Erzähl
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Lantonie,PROPN,NE,Lantonie,Lantonie
@@ -325,8 +325,8 @@ Zeugnis,NOUN,NN,Zeugnis,Zeugnis
 _,UNK,--,--,_
 _,UNK,--,--,_
 Auf,PART,PTKVZ,auf,auf
-plustere,VERB,VVFIN,plustern,plusteren
-_,UNK,--,--,_
+plustere,VERB,VVFIN,plustern,plustere
+_,UNK,--,--,seinken
 ich,PRON,PPER,ich,ich
 mich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
@@ -371,7 +371,7 @@ verdient,VERB,VVPP,verdienen,verdienen
 Zora,PROPN,NE,Zora,Zora
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 ",",PUNCT,"$,",",",","
 Mann,NOUN,NN,Mann,Mann
 ",",PUNCT,"$,",",",","
@@ -386,7 +386,7 @@ draußen,ADV,ADV,draußen,draußen
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-gucke,VERB,VVFIN,gucken,gucken
+gucke,VERB,VVFIN,gucken,gucke
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -451,7 +451,7 @@ Re,INTJ,ITJ,re,Re
 Stoeps,PROPN,NE,stoeps,Stoep
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Die,DET,ART,d,der
@@ -566,7 +566,7 @@ Benehmen,NOUN,NN,Benehmen,Benehmen
 _,UNK,--,--,_
 Die,DET,ART,d,der
 Vögel,NOUN,NN,Vogel,Vogel
-VERBen,VERB,VVFIN,VERBen,verben
+VERBen,VERB,VVFIN,VERBen,VERBen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 B67,PROPN,NE,B67,B67
@@ -580,7 +580,7 @@ ist,AUX,VAFIN,sein,sein
 jetzt,ADV,ADV,jetzt,jetzt
 weg,ADV,ADV,weg,weg
 :,PUNCT,$.,:,:
-pissen,VERB,VVINF,pissen,pissen
+pissen,VERB,VVINF,pissen,piß
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Hi,INTJ,ITJ,hi,Hi
@@ -631,7 +631,7 @@ Zora,PROPN,NE,Zora,Zora
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-lache,VERB,VVFIN,lachen,lachen
+lache,VERB,VVFIN,lachen,lache
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -697,7 +697,7 @@ Müllsäcke,NOUN,NN,Müllsack,Müllsäcke
 auf,PART,PTKVZ,auf,auf
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Hm,INTJ,ITJ,hm,hm
+Hm,INTJ,ITJ,hm,Hm
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Stoeps,PROPN,NE,stoeps,Stoep
@@ -721,7 +721,7 @@ Lieblingsschülerin,NOUN,NN,Lieblingsschülerin,Lieblingsschülerin
 hier,ADV,ADV,hier,hier
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 ",",PUNCT,"$,",",",","
 Stoeps,PROPN,NE,stoeps,Stoep
 .,PUNCT,$.,.,.
@@ -804,7 +804,7 @@ für,ADP,APPR,für,für
 mich,PRON,PPER,ich,ich
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 ",",PUNCT,"$,",",",","
 das,PRON,PDS,d,der
 ist,AUX,VAFIN,sein,sein
@@ -1012,7 +1012,7 @@ um,ADP,APPR,um,um
 Stipendien,NOUN,NN,Stipendium,Stipendie
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Möchtest,VERB,VMFIN,mögen,möchten
+Möchtest,VERB,VMFIN,mögen,möghten
 du,PRON,PPER,du,du
 einen,DET,ART,ein,ein
 Apfel,NOUN,NN,Apfel,Apfel
@@ -1046,7 +1046,7 @@ _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 rupfe,VERB,VVFIN,rupfen,rupfen
 ",",PUNCT,"$,",",",","
-zerre,VERB,VVFIN,zerren,zerren
+zerre,VERB,VVFIN,zerren,zerre
 ",",PUNCT,"$,",",",","
 reiße,VERB,VVFIN,reißen,reißen
 ",",PUNCT,"$,",",",","
@@ -1064,7 +1064,7 @@ schön,ADJ,ADJD,schön,schön
 dämlicher,ADJ,ADJA,Dämliche,dämlich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ah,INTJ,ITJ,ah,ah
+Ah,INTJ,ITJ,ah,Ah
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,soo,so
 .,PUNCT,$.,.,.
@@ -1122,7 +1122,7 @@ ist,AUX,VAFIN,sein,sein
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-warte,VERB,VVFIN,warten,waren
+warte,VERB,VVFIN,warten,wart
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -1150,7 +1150,7 @@ _,UNK,--,--,_
 Die,DET,ART,d,der
 Leine,NOUN,NN,Leine,Leine
 durch,PART,PTKVZ,durch|,durch
-beiße,VERB,VVFIN,beißen,beißen
+beiße,VERB,VVFIN,beißen,beiß
 _,UNK,--,--,_
 ich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
@@ -1186,7 +1186,7 @@ herein,PART,PTKVZ,herein,herein
 _,UNK,--,--,_
 _,PUNCT,$(,--,_
 Neue,NOUN,NN,Neue,neu
-suche,VERB,VVFIN,suchen,suchen
+suche,VERB,VVFIN,suchen,suche
 _,PUNCT,$(,--,_
 ich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
@@ -1267,7 +1267,7 @@ bin,AUX,VAFIN,sein,sein
 Erste,PRON,PIS,Erste,erst
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
-Hm,INTJ,ITJ,hm,hm
+Hm,INTJ,ITJ,hm,Hm
 ",",PUNCT,"$,",",",","
 Quaki,PROPN,NE,Quaki,Quaki
 sucht,VERB,VVFIN,suchen,suchen
@@ -1324,7 +1324,7 @@ Danke,PART,PTKANT,danke,Dank
 Shadok,PROPN,NE,Shadok,Shadok
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Bitte,PART,PTKANT,bitte,Bitte
+Bitte,PART,PTKANT,bitte,bitten
 schön,ADJ,ADJD,schön,schön
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -1426,7 +1426,7 @@ schon,ADV,ADV,schon,schon
 aus,PART,PTKVZ,aus,aus
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Tapfere,ADJ,ADJA,tapfer,tapfer
+Tapfere,ADJ,ADJA,tapfer,Tapfere
 ",",PUNCT,"$,",",",","
 kleine,ADJ,ADJA,klein,klein
 Zora,PROPN,NE,Zora,Zora
@@ -1522,7 +1522,7 @@ eine,DET,ART,ein,ein
 Firma,NOUN,NN,Firma,Firma
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Hm,INTJ,ITJ,hm,hm
+Hm,INTJ,ITJ,hm,Hm
 ",",PUNCT,"$,",",",","
 in,ADP,APPR,in,in
 Kreativität,NOUN,NN,Kreativität,Kreativität
@@ -1729,7 +1729,7 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 Mit,PART,PTKVZ,mit,mit
 drücke,VERB,VVFIN,drücken,drücen
-_,UNK,--,--,_
+_,UNK,--,--,seinken
 ich,PRON,PPER,ich,ich
 dich,PRON,PPER,du,du
 .,PUNCT,$.,.,.
@@ -1851,7 +1851,7 @@ nachzufragen,VERB,VVIZU,nachfragen,nachfragen
 da,SCONJ,KOUS,da,da
 Umzugsformen,NOUN,NN,Umzugsfirma,Umzugsformen
 selten,ADV,ADV,selten,selten
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Internet,NOUN,NN,Internet,Internet
 stehen,VERB,VVFIN,stehen,stehen
 @,ADP,APPR,@,@
@@ -1920,7 +1920,7 @@ Re,INTJ,ITJ,re,Re
 ;-)),X,XY,;-)),;-))
 _,UNK,--,--,_
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 mit,ADP,APPR,mit,mit
 einer,DET,ART,ein,ein
 Leiter,NOUN,NN,Leiter,Leiter
@@ -2041,7 +2041,7 @@ _,UNK,--,--,_
 Den,DET,ART,d,der
 _,UNK,--,--,_
 Kopf,NOUN,NN,Kopf,Kopf
-kratze,VERB,VVFIN,kratzen,kraten
+kratze,VERB,VVFIN,kratzen,kratz
 _,UNK,--,--,_
 mir,PRON,PPER,ich,ich
 .,PUNCT,$.,--,.
@@ -2068,7 +2068,7 @@ Bierbauch,NOUN,NN,Bierbauch,Bierbauch
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-gähne,VERB,VVFIN,gähnen,gehnen
+gähne,VERB,VVFIN,gähnen,gahn
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2087,7 +2087,7 @@ ist,AUX,VAFIN,sein,sein
 sicher,ADV,ADV,sicher,sicher
 in,ADP,APPR,in,in
 der,DET,ART,d,der
-Mauser,NOUN,NN,Mauser,Maus
+Mauser,NOUN,NN,Mauser,Mauser
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,UNK,--,--,_
@@ -2109,7 +2109,7 @@ Vermutung,NOUN,NN,Vermutung,Vermutung
 ich,PRON,PPER,ich,ich
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Der,PRON,PDS,d,d
+Der,PRON,PDS,d,der
 _,UNK,--,--,_
 schwabbelt,VERB,VVFIN,schwabbeln,schwabbeln
 _,UNK,--,--,_
@@ -2118,7 +2118,7 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 Fest,PART,PTKVZ,fest,Fest
 binde,VERB,VVFIN,binden,binden
-_,UNK,--,--,_
+_,UNK,--,--,seinken
 ich,PRON,PPER,ich,ich
 ihn,PRON,PPER,er,er
 .,PUNCT,$.,.,.
@@ -2341,7 +2341,7 @@ Frechheit,NOUN,NN,Frechheit,Frechheit
 _,UNK,--,--,_
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 ",",PUNCT,"$,",",",","
 nein,PART,PTKANT,nein,nein
 ",",PUNCT,"$,",",",","
@@ -2381,7 +2381,7 @@ _,UNK,--,--,_
 Lantonie,PROPN,NE,Lantonie,Lantonie
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Kannst,VERB,VMFIN,können,kannen
+Kannst,VERB,VMFIN,können,können
 Du,PRON,PPER,du,du
 vor,ADP,APPR,vor,vor
 Wut,NOUN,NN,Wut,Wut
@@ -2397,7 +2397,7 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-schimpfe,VERB,VVFIN,schimpfen,schempen
+schimpfe,VERB,VVFIN,schimpfen,schimpf
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2410,7 +2410,7 @@ Katzenkörbchen,PROPN,NE,Katzenkörbchen,Katzenkörbchen
 herein,PART,PTKVZ,herein,herein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Rehi,INTJ,ITJ,rehi,rehi
+Rehi,INTJ,ITJ,rehi,Rehi
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
@@ -2543,7 +2543,7 @@ Mist,NOUN,NN,Mist,Mist
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-mutiere,VERB,VVFIN,mutieren,mutieren
+mutiere,VERB,VVFIN,mutieren,mutiere
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2636,7 +2636,7 @@ weg,ADV,ADV,weg,weg
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-winke,VERB,VVFIN,winken,winken
+winke,VERB,VVFIN,winken,winke
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2730,7 +2730,7 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-nicke,VERB,VVFIN,nicken,nicken
+nicke,VERB,VVFIN,nicken,nicke
 _,UNK,--,--,_
 ",",PUNCT,"$,",--,","
 Bochum,PROPN,NE,Bochum,Bochum
@@ -2860,12 +2860,12 @@ hast,AUX,VAFIN,haben,haben
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
-kauf,VERB,VVIMP,kaufen,koufen
+kauf,VERB,VVIMP,kaufen,kauf
 dafür,ADV,PAV,dafür,dafür
 Neues,NOUN,NN,Neue,Neu
 für,ADP,APPR,für,für
 deine,DET,PPOSAT,dein,dein
-Buzze,NOUN,NN,Buzze,Buzz
+Buzze,NOUN,NN,Buzze,Buzze
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Du,PRON,PPER,du,du
@@ -2887,7 +2887,7 @@ Stoeps,PROPN,NE,stoeps,Stoep
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-zwicke,VERB,VVINF,zwicken,zwicken
+zwicke,VERB,VVINF,zwicken,zwicke
 _,UNK,--,--,_
 dich,PRON,PPER,du,du
 .,PUNCT,$.,.,.
@@ -2920,7 +2920,7 @@ etwas,PRON,PIS,etwas,etwas
 für,ADP,APPR,für,für
 100,NUM,CARD,100,100
 Euro,NOUN,NN,Euro,Euro
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Parktiker,PROPN,NE,Praktiker,Parktiker
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
@@ -2952,7 +2952,7 @@ Mieze,PROPN,NE,mieze,Mieze
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-piekse,VERB,VVFIN,pieksen,pieken
+piekse,VERB,VVFIN,pieksen,piekse
 _,UNK,--,--,_
 dich,PRON,PPER,du,du
 .,PUNCT,$.,.,.
@@ -3008,7 +3008,7 @@ _,UNK,--,--,_
 Die,DET,ART,d,der
 _,UNK,--,--,_
 Augen,NOUN,NN,Auge,Auge
-reibe,VERB,VVFIN,reiben,reiben
+reibe,VERB,VVFIN,reiben,reibe
 _,UNK,--,--,_
 ich,PRON,PPER,ich,ich
 mir,PRON,PPER,ich,ich
@@ -3085,7 +3085,7 @@ echt,ADJ,ADJD,echt,echt
 Bochum,PROPN,NE,Bochum,Bochum
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Nudelsuppenstern,PROPN,NE,nudelsuppenstern,Nudelsuppenstern
+Nudelsuppenstern,PROPN,NE,nudelsuppenstern,Nudelsuppenster
 betritt,VERB,VVFIN,betreten,betreten
 den,DET,ART,d,der
 Raum,NOUN,NN,Raum,Raum
@@ -3096,11 +3096,11 @@ HSV,PROPN,NE,HSV,HSV
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-stochere,VERB,VVFIN,stochern,stochern
+stochere,VERB,VVFIN,stochern,stochere
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Hallöchen,INTJ,ITJ,hallöchen,Hallöche
+Hallöchen,INTJ,ITJ,hallöchen,Hallöchen
 ",",PUNCT,"$,",",",","
 Diddlchen,PROPN,NE,Diddlchen,Diddlchen
 .,PUNCT,$.,.,.
@@ -3117,14 +3117,14 @@ Quaki,PROPN,NE,Quaki,Quaki
 _,UNK,--,--,_
 Hey,INTJ,ITJ,hey,Hey
 ",",PUNCT,"$,",",",","
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 ",",PUNCT,"$,",",",","
 Sternchen,PROPN,NE,nudelsuppenstern,Sternchen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-lächele,VERB,VVFIN,lächeln,lächeln
+lächele,VERB,VVFIN,lächeln,lächele
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -3290,7 +3290,7 @@ Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
-tschüss,INTJ,ITJ,tschüss,tschaß
+tschüss,INTJ,ITJ,tschüss,tschüß
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Engelchen,PROPN,NE,engelchen,Engelchen
@@ -3428,7 +3428,7 @@ Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 ist,AUX,VAFIN,sein,sein
 ein,DET,ART,ein,ein
 Stern,NOUN,NN,Stern,Stern
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Erdbeerkosmos,PROPN,NE,Erdbeerkosmos,Erdbeerkosmos
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -3438,7 +3438,7 @@ Happo,PROPN,NE,Happy,Happo
 _,UNK,--,--,_
 *g+,INTJ,ITJ,*g+,*g+
 _,UNK,--,--,_
-Tschüss,INTJ,ITJ,tschüss,Tschaß
+Tschüss,INTJ,ITJ,tschüss,Tschuß
 ",",PUNCT,"$,",",",","
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 und,CONJ,KON,und,und
@@ -3476,7 +3476,7 @@ Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 ist,AUX,VAFIN,sein,sein
 eine,DET,ART,ein,ein
 Frucht,NOUN,NN,Frucht,Frucht
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Pudding,NOUN,NN,Pudding,Pudding
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -3607,7 +3607,7 @@ Ast,NOUN,NN,Ast,Ast
 in,ADP,APPR,in,in
 der,DET,ART,d,der
 Hand,NOUN,NN,Hand,Hand
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Teich,NOUN,NN,Teich,Teich
 am,ADP,APPRART,am,am
 Rumsitzen,NOUN,NN,Rumsitzen,Rumsitzen
@@ -3625,7 +3625,7 @@ Bochum,PROPN,NE,Bochum,Bochum
 ist,AUX,VAFIN,sein,sein
 eine,DET,ART,ein,ein
 Stadt,NOUN,NN,Stadt,Stadt
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Pott,NOUN,NN,Pott,Pott
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -3689,7 +3689,7 @@ Happy,PROPN,NE,Happy,Happy
 _,UNK,--,--,_
 Bochum,PROPN,NE,Bochum,Bochum
 ist,AUX,VAFIN,sein,sein
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 grauen,ADJ,ADJA,grau,grau
 Pott,NOUN,NN,Pott,Pott
 .,PUNCT,$.,.,.
@@ -3867,7 +3867,7 @@ ein,DET,ART,ein,ein
 Indianer,PROPN,NE,Indianer,Indianer
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Schicke,VERB,VVIMP,schicken,schicken
+Schicke,VERB,VVIMP,schicken,Schick
 von,ADP,APPR,von,von
 mir,PRON,PPER,ich,ich
 auch,ADV,ADV,auch,auch
@@ -3986,7 +3986,7 @@ ein,DET,ART,ein,ein
 Mädchen,NOUN,NN,Mädchen,Mädchen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 ",",PUNCT,"$,",",",","
 wie,ADV,PWAV,wie,wie
 nett,ADJ,ADJD,nett,nett
@@ -3994,7 +3994,7 @@ das,PRON,PDS,d,der
 ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Stoeps,PROPN,NE,stoeps,Stoep
+Stoeps,PROPN,NE,stoeps,stoeps
 ",",PUNCT,"$,",",",","
 bist,AUX,VAFIN,sein,sein
 du,PRON,PPER,du,du
@@ -4171,7 +4171,7 @@ Hilfe,NOUN,NN,Hilfe,Hilfe
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Ihr,PRON,PPER,ihr,Ihr|ihr
-seid,AUX,VAFIN,sein,seid
+seid,AUX,VAFIN,sein,seiden
 doch,ADV,ADV,doch,doch
 eh,ADV,ADV,eh,eh
 alle,PRON,PIS,alle,alle
@@ -4197,7 +4197,7 @@ Arg,INTJ,ITJ,arg,Arg
 _,UNK,--,--,_
 Dieses,DET,PDAT,dies,dies
 Grün,NOUN,NN,Grün,Grün
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,UNK,--,--,_
@@ -4227,7 +4227,7 @@ Sippe,NOUN,NN,Sippe,Sippe
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,UNK,--,--,_
-Empört,ADJ,ADJD,empört,empören
+Empört,ADJ,ADJD,empört,empört
 gucke,VERB,VVFIN,gucken,gucken
 _,UNK,--,--,_
 ich,PRON,PPER,ich,ich
@@ -4465,7 +4465,7 @@ Bochum,PROPN,NE,Bochum,Bochum
 leben,VERB,VVINF,leben,leben
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
-Willst,VERB,VVFIN,wollen,willst
+Willst,VERB,VVFIN,wollen,wollen
 Du,PRON,PPER,du,du
 uns,PRON,PPER,wir,wir
 blind,ADJ,ADJD,blind,blind
@@ -4509,7 +4509,7 @@ Stöpselung,NOUN,NN,Stöpselung,Stöpselung
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 _,UNK,--,--,_
-Oh,INTJ,ITJ,oh,oh
+Oh,INTJ,ITJ,oh,Oh
 _,UNK,--,--,_
 ",",PUNCT,"$,",",",","
 Danke,ADV,ADV,danke,Dank
@@ -4543,7 +4543,7 @@ Nein,PART,PTKANT,nein,nein
 Thor,PROPN,NE,Thor,Thor
 _,UNK,--,--,_
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 nie,ADV,ADV,nie,nie
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -4622,7 +4622,7 @@ auf,PART,PTKVZ,auf,auf
 _,UNK,--,--,_
 Kommt,VERB,VVFIN,kommen,kommen
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Eis,NOUN,NN,Eis,Eis
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
@@ -4663,7 +4663,7 @@ Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 mit,ADP,APPR,mit,mit
 Vanilleeis,NOUN,NN,Vanilleeis,Vanilleeis
 .,PUNCT,$.,.,.
@@ -4687,14 +4687,14 @@ www.Erdbeerkosmos.de,PROPN,NE,www.Erdbeerkosmos.de,www.Erdbeerkosmos.de
 _,UNK,--,--,_
 Oder,CONJ,KON,oder,Oder
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 mit,ADP,APPR,mit,mit
 Sekt,NOUN,NN,Sekt,Sekt
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Oder,CONJ,KON,oder,Oder
 NOMEN,NOUN,NN,NOMEN,NOMEN
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 auf,ADP,APPR,auf,auf
 einem,DET,ART,ein,ein
 Kuchen,NOUN,NN,Kuchen,Kuchen
@@ -4742,7 +4742,7 @@ ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-schlucke,VERB,VVFIN,schlucken,schlucken
+schlucke,VERB,VVFIN,schlucken,schluck
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -4894,7 +4894,7 @@ auch,ADV,ADV,auch,auch
 nur,ADV,ADV,nur,nur
 der,DET,ART,d,der
 Hamster,NOUN,NN,Hamster,Hamster
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Rechner,NOUN,NN,Rechner,Rechner
 ",",PUNCT,"$,",",",","
 Stoeps,PROPN,NE,stoeps,Stoep
@@ -5004,7 +5004,7 @@ ich,PRON,PPER,ich,ich
 sage,VERB,VVFIN,sagen,sagen
 :,PUNCT,$.,:,:
 """",PUNCT,$(,"""",""""
-Tschüss,INTJ,ITJ,tschüss,Tschaß
+Tschüss,INTJ,ITJ,tschüss,Tschuß
 """",PUNCT,$(,"""",""""
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -5057,7 +5057,7 @@ da,PART,PTKVZ,da,da
 Emon,PROPN,NE,Emon,Emon
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Hm,INTJ,ITJ,hm,hm
+Hm,INTJ,ITJ,hm,Hm
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 Und,CONJ,KON,und,und
@@ -5069,12 +5069,12 @@ der,DET,ART,d,der
 Sack,NOUN,NN,Sack,Sack
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Eieiei,INTJ,ITJ,eieiei,eieiei
+Eieiei,INTJ,ITJ,eieiei,Eieiei
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Ich,PRON,PPER,ich,ich
 _,UNK,--,--,_
-lausche,VERB,VVFIN,lauschen,lausche
+lausche,VERB,VVFIN,lauschen,lausch
 _,UNK,--,--,_
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -5161,7 +5161,7 @@ Oha,INTJ,ITJ,oha,Oha
 _,UNK,--,--,_
 Haha,INTJ,ITJ,haha,Haha
 _,UNK,--,--,_
-Singe,VERB,VVFIN,sing,singen
+Singe,VERB,VVFIN,sing,Singe
 !,PUNCT,$.,!,!
 _,UNK,--,--,_
 Den,DET,ART,d,der
@@ -5514,7 +5514,7 @@ _,UNK,--,--,_
 Was,PRON,PWS,was,was
 schmatzt,VERB,VVFIN,schmatzen,schmatzen
 da,ADV,ADV,da,da
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Hintergrund,NOUN,NN,Hintergrund,Hintergrund
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_

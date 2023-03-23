@@ -14,7 +14,7 @@ Liedschreiber,NOUN,NN,Liedschreiber,Liedschreiber
 .,PUNCT,$.,.,.
 Wieso,ADV,PWAV,wieso,wieso
 das,PRON,PDS,der,der
-weniger,DET,PIAT,weniger,wenig
+weniger,DET,PIAT,weniger,weniger
 deutsch,ADJ,ADJD,deutsch,deutsch
 sein,AUX,VAINF,sein,sein
 soll,VERB,VMFIN,sollen,sollen
@@ -47,7 +47,7 @@ Lied,NOUN,NN,Lied,Lied
 Ich,PRON,PPER,ich,ich
 hab,AUX,VAFIN,haben,haben
 mal,UNK,PTKMA,mal,mal
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Duden,PROPN,NE,Duden,Duden
 nachgesehen,VERB,VVPP,nachsehen,nachsehen
 (,PUNCT,$(,(,(
@@ -245,7 +245,7 @@ möchte,VERB,VMFIN,möchten,mögen
 Und,CONJ,KON,und,und
 PS.,ADV,ADV,PS,PS.
 :,PUNCT,$(,:,:
-Jetz,ADV,ADV,jetzt,jetz
+Jetz,ADV,ADV,jetzt,Jetz
 steht,VERB,VVFIN,stehen,stehen
 über,ADP,APPR,über,über
 diesem,DET,PDAT,dieser,dies
@@ -264,14 +264,14 @@ Eindeutschung,NOUN,NN,Eindeutschung,Eindeutschung
 und,CONJ,KON,und,und
 lässt,VERB,VVFIN,lassen,lassen
 sich,PRON,PRF,sich,er|es|sie
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Gegensatz,NOUN,NN,Gegensatz,Gegensatz
 zu,ADP,APPR,zu,zu
 Songwriter,NOUN,NN,Songwriter,Songwriter
 deswegen,ADV,PAV,deswegen,deswegen
 auch,ADV,ADV,auch,auch
 nicht,PART,PTKNEG,nicht,nicht
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Duden,PROPN,NE,Duden,Duden
 finden,VERB,VVINF,finden,finden
 .,PUNCT,$.,.,.
@@ -313,7 +313,7 @@ Singer-Songwriter,NOUN,NN,Singer-Songwriter,Singer-Songwriter
 ?,PUNCT,$.,?,?
 EOD,NOUN,NN,EOD,EOD
 .,PUNCT,$.,.,.
-Völlig,UNK,PTKIFG,völlig,Völlig
+Völlig,UNK,PTKIFG,völlig,völlig
 sinnlos,ADJ,ADJD,sinnlos,sinnlos
 -,PUNCT,$(,-,-
 schaut,VERB,VVIMP,schauen,schauen
@@ -500,7 +500,7 @@ nichts,PRON,PIS,nichts,nichts
 ein,PART,PTKVZ,ein,ein
 ),PUNCT,$(,),)
 .,PUNCT,$.,.,.
-Wobei,UNK,DM,wobei,Wobei
+Wobei,UNK,DM,wobei,wobei
 die,DET,ART,der,der
 Kürze,NOUN,NN,Kürze,Kurz
 sollte,VERB,VMFIN,sollen,sollen
@@ -760,7 +760,7 @@ nicht,PART,PTKNEG,nicht,nicht
 machen,VERB,VVINF,machen,machen
 .,PUNCT,$.,.,.
 Danke,PART,PTKANT,danke,Dank
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Vorraus,NOUN,NN,Voraus,Vorraus
 .,PUNCT,$.,.,.
 Sie,PRON,PPER,sie,Sie|sie
@@ -782,10 +782,10 @@ ich,PRON,PPER,ich,ich
 das,DET,ART,der,der
 nächste,ADJ,ADJA,nächster,nah
 Mal,NOUN,NN,Mal,Mal
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Dunkeln,NOUN,NN,Dunkel,Dunkeln
 so,ADV,ADV,so,so
-'nem,DET,ART,ein,'ner
+'nem,DET,ART,ein,'nem
 Riesenteil,NOUN,NN,Riesenteil,Riesenteil
 begegne,VERB,VVFIN,begegnen,begegnen
 .,PUNCT,$.,.,.
@@ -801,7 +801,7 @@ verlassen,VERB,VVINF,verlassen,verlassen
 Nur,ADV,ADV,nur,nur
 böse,ADJ,ADJA,böse,böse
 Gedanken,NOUN,NN,Gedanke,Gedanke
-darfst,VERB,VMFIN,dürfen,darfen
+darfst,VERB,VMFIN,dürfen,dürfen
 du,PRON,PPER,du,du
 ihnen,PRON,PPER,ihnen,sie
 gegenüber,ADP,APZR,gegenüber,gegenüber
@@ -842,7 +842,7 @@ gehört,VERB,VVPP,hören,gehören
 und,CONJ,KON,und,und
 das,PRON,PDS,der,der
 ging,VERB,VVFIN,gehen,gehen
-bestimmt,ADJ,ADJD,bestimmt,bestimmen
+bestimmt,ADJ,ADJD,bestimmt,bestimmt
 nicht,PART,PTKNEG,nicht,nicht
 nur,UNK,PTKMWL,nur,nur
 mir,PRON,PPER,mir,ich

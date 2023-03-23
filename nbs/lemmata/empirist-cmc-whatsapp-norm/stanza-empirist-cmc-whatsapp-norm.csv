@@ -95,7 +95,7 @@ aufgeregt,ADJ,ADJD,aufgeregt,aufgeregt
 emojiQflushedFace,UNK,EMOIMG,emojiQflushedFace,emojiQflushedFace
 ja,PART,PTKANT,ja,ja
 !,PUNCT,$.,!,!
-hehe,INTJ,ITJ,hehe,hehe
+hehe,INTJ,ITJ,hehe,hehen
 ich,PRON,PPER,ich,ich
 auch,ADV,ADV,auch,auch
 xD,UNK,EMOASC,xD,xD
@@ -120,7 +120,7 @@ wieder,ADV,ADV,wieder,wieder
 essen,VERB,VVINF,essen,essen
 gehen,VERB,VVINF,gehen,gehen
 .,PUNCT,$.,.,.
-hehe,INTJ,ITJ,hehe,hehe
+hehe,INTJ,ITJ,hehe,hehen
 :),UNK,EMOASC,:),:)
 das,PRON,PDS,der,der
 klingt,VERB,VVFIN,klingen,klingen
@@ -162,7 +162,7 @@ dich,PRON,PPER,dich,du
 dafür,ADV,PAV,dafür,dafür
 !,PUNCT,$.,!,!
 XD,UNK,EMOASC,XD,XD
-XD,UNK,EMOASC,XD,XD
+XD,UNK,EMOASC,XD,xd
 ooh,INTJ,ITJ,ooh,ooh
 Mann,NOUN,NN,Mann,Mann
 !,PUNCT,$.,!,!
@@ -171,7 +171,7 @@ oha,INTJ,ITJ,oha,oha
 Gryffindor,PROPN,NE,Gryffindor,Gryffindor
 ?,PUNCT,$.,?,?
 XD,UNK,EMOASC,XD,XD
-XD,UNK,EMOASC,XD,XD
+XD,UNK,EMOASC,XD,xd
 du,PRON,PPER,du,du
 killst,VERB,VVFIN,killen,kollen
 mich,PRON,PPER,mich,ich
@@ -263,7 +263,7 @@ ist,AUX,VAFIN,sein,sein
 am,ADP,APPRART,an,am
 31.,ADJ,ADJA,31.,31.
 :),UNK,EMOASC,:),:)
-haste,UNK,VAPPER,haben,hast
+haste,UNK,VAPPER,haben,haben
 Lust,NOUN,NN,Lust,Lust
 ?,PUNCT,$.,?,?
 :),UNK,EMOASC,:),:)
@@ -284,7 +284,7 @@ erfahre,VERB,VVFIN,erfahren,erfahren
 ich,PRON,PPER,ich,ich
 ",",PUNCT,"$,",",",","
 wie,ADV,PWAV,wie,wie
-lange,ADJ,ADJD,lang,lang
+lange,ADJ,ADJD,lang,lange
 sie,PRON,PPER,sie,sie
 bleibt,VERB,VVFIN,bleiben,bleiben
 .,PUNCT,$.,.,.
@@ -322,7 +322,7 @@ Uni,NOUN,NN,Uni,Uni
 emojiQkissingCatFaceWithClosedEyes,UNK,EMOIMG,emojiQkissingCatFaceWithClosedEyes,emojiQkissingCatFaceWithClosedEyes
 am,PART,PTKA,an,am
 besten,ADJ,ADJD,gut,gut
-wär's,UNK,VAPPER,sein,wär's
+wär's,UNK,VAPPER,sein,war'en
 Freitag,NOUN,NN,Freitag,Freitag
 ",",PUNCT,"$,",",",","
 aber,CONJ,KON,aber,aber
@@ -352,7 +352,7 @@ hm,INTJ,ITJ,hm,hm
 ...,PUNCT,$(,...,...
 und,CONJ,KON,und,und
 sonst,ADV,ADV,sonst,sonst
-gehts,UNK,VVPPER,gehen,gehts
+gehts,UNK,VVPPER,gehen,gehen
 gar,UNK,PTKIFG,gar,gar
 nicht,PART,PTKNEG,nicht,nicht
 ?,PUNCT,$.,?,?
@@ -379,7 +379,7 @@ will,VERB,VMFIN,wollen,wollen
 ich,PRON,PPER,ich,ich
 eben,UNK,PTKMA,eben,eben
 nicht,PART,PTKNEG,nicht,nicht
-xD,UNK,EMOASC,xD,xD
+xD,UNK,EMOASC,xD,xd
 ),PUNCT,$(,),)
 meinst,VERB,VVFIN,meinen,meinen
 du,PRON,PPER,du,du
@@ -418,7 +418,7 @@ ist,AUX,VAFIN,sein,sein
 Nadine,PROPN,NE,Nadine,Nadine
 nochmal,ADV,ADV,nochmal,nochmal
 ?,PUNCT,$.,?,?
-XD,UNK,EMOASC,XD,XD
+XD,UNK,EMOASC,XD,xd
 ),PUNCT,$(,),)
 ach,INTJ,ITJ,ach,ach
 ",",PUNCT,"$,",",",","

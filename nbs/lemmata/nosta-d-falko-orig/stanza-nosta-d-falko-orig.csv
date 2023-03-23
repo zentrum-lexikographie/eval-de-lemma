@@ -234,7 +234,7 @@ sein,AUX,VAINF,sein,sein
 könnten,VERB,VMFIN,können,können
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Verlangt,VERB,VVFIN,verlangen,verlangt
+Verlangt,VERB,VVFIN,verlangen,Verlangt
 -,PUNCT,$(,-,-
 oder,CONJ,KON,oder,oder
 verfolgt,VERB,VVFIN,verfolgen,verfolgen
@@ -405,7 +405,7 @@ _,UNK,--,--,_
 _,UNK,--,--,_
 _,UNK,--,--,_
 _,UNK,--,--,_
-Schönes,ADJ,ADJA,schön,schön
+Schönes,ADJ,ADJA,schön,Schönes
 Wochenende,NOUN,NN,Wochenende,Wochenende
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -414,7 +414,7 @@ Behauptung,NOUN,NN,Behauptung,Behauptung
 ",",PUNCT,"$,",",",","
 dass,SCONJ,KOUS,dass,dass
 Universitätsabschlüsse,NOUN,NN,Universitätsabschluss,Universitätsabschlusse
-wening,ADV,ADV,wenig,wening
+wening,ADV,ADV,wenig,weningen
 Praxisorientiert,ADJ,ADJD,praxisorientiert,Praxisorientiert
 sind,AUX,VAFIN,sein,sein
 ",",PUNCT,"$,",",",","
@@ -555,11 +555,11 @@ Diziplin,NOUN,NN,Disziplin,Diziplin
 ab,PART,PTKVZ,ab,ab
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Z.,ADP,APPRART,zum,z.
+Z.,ADP,APPRART,zum,Z.
 b.,NOUN,NN,Beispiel,b.
 wird,AUX,VAFIN,werden,werden
 oft,ADV,ADV,oft,oft
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 naturwissenschaftlichen,ADJ,ADJA,naturwissenschaftlich,naturwissenschaftlich
 Untersuchungsfeld,NOUN,NN,Untersuchungsfeld,Untersuchungsfeld
 eine,DET,ART,ein,ein
@@ -599,7 +599,7 @@ führende,ADJ,ADJA,führend,führend
 Relativismus,NOUN,NN,Relativismus,Relativismus
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Ausdem,ADV,ADV,außerdem,ausdem
+Ausdem,ADV,ADV,außerdem,Ausde
 werden,AUX,VAFIN,werden,werden
 innerhalb,ADP,APPR,innerhalb,innerhalb
 der,DET,ART,d,der
@@ -756,7 +756,7 @@ besondere,ADJ,ADJA,besonder,besonder
 Form,NOUN,NN,Form,Form
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Z.,ADP,APPRART,zum,z.
+Z.,ADP,APPRART,zum,Z.
 b.,NOUN,NN,Beispiel,b.
 werden,AUX,VAFIN,werden,werden
 Verschiedene,ADJ,ADJA,verschieden,verschieden
@@ -825,7 +825,7 @@ Wissen,NOUN,NN,Wissen,Wissen
 tun,VERB,VVINF,tun,tun
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Z.,ADP,APPRART,zum,z.
+Z.,ADP,APPRART,zum,Z.
 B.,NOUN,NN,Beispiel,B.
 hat,AUX,VAFIN,haben,haben
 Albert,PROPN,NE,Albert,Albert
@@ -834,7 +834,7 @@ Relativitätstheorie,NOUN,NN,Relativitätstheorie,Relativitätstheorie
 keinen,DET,PIAT,kein,kein
 unmittelbaren,ADJ,ADJA,unmittelbar,unmittelbar
 Wert,NOUN,NN,Wert,Wert
-im,ADP,APPR,im,im
+im,ADP,APPR,im,em
 _,UNK,--,--,_
 Praksis,NOUN,NN,Praxis,Praksis
 .,PUNCT,$.,.,.
@@ -888,7 +888,7 @@ Naturwissenschaftler,NOUN,NN,Naturwissenschaftler,Naturwissenschaftler
 z.,ADP,APPRART,zum,z.
 B.,NOUN,NN,Beispiel,B.
 Berechnungen,NOUN,NN,Berechnung,Berechnung
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 industriellen,ADJ,ADJA,industriell,industriell
 Bereich,NOUN,NN,Bereich,Bereich
 vornehmen,VERB,VVFIN,vornehmen,vornehm
@@ -905,7 +905,7 @@ praktisch,ADJ,ADJD,praktisch,praktisch
 umgesetzt,VERB,VVPP,umsetzen,umsetzen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Z.,ADP,APPRART,zum,z.
+Z.,ADP,APPRART,zum,Z.
 B.,NOUN,NN,Beispiel,B.
 ist,AUX,VAFIN,sein,sein
 es,PRON,PPER,es,es
@@ -937,7 +937,7 @@ Universitätsabschlüsse,NOUN,NN,Universitätsabschluss,Universitätsabschlusse
 (,PUNCT,$(,(,(
 die,DET,ART,d,der
 Unis,NOUN,NN,Uni,Unis
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 allgemeinen,NOUN,NN,Allgemeine,allgemein
 ),PUNCT,$(,),)
 können,VERB,VMFIN,können,können

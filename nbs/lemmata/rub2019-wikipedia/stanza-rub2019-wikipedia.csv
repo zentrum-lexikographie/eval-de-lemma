@@ -24,7 +24,7 @@ wurde,AUX,VAFIN,werden,werden
 Verbandsmeister,NOUN,NN,Verbandsmeister,Verbandsmeister
 des,DET,ART,der,der
 Baltischen,ADJ,ADJA,baltisch,baltisch
-Rasensport-Verbandes,NOUN,NN,Rasensport-Verband,Rasensport-Verbandes
+Rasensport-Verbandes,NOUN,NN,Rasensport-Verband,Rasensport-Verband
 (,PUNCT,$(,(,(
 BRV,PROPN,NE,BRV,BRV
 ),PUNCT,$(,),)
@@ -63,7 +63,7 @@ TuFC,PROPN,NE,TuFC,TuFC
 Viktoria,PROPN,NE,Viktoria,Viktoria
 89,NUM,CARD,89,89
 kampflos,ADJ,ADJD,kampflos,kampflos
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Halbfinale,NOUN,NN,Halbfinale,Halbfinale
 einrückte,VERB,VVFIN,einrücken,einrücken
 .,PUNCT,$.,.,.
@@ -96,7 +96,7 @@ Jahren,NOUN,NN,Jahr,Jahr
 ohne,ADP,APPR,ohne,ohne
 größeren,ADJ,ADJA,groß,groß
 Erfolg,NOUN,NN,Erfolg,Erfolg
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Bezirk,NOUN,NN,Bezirk,Bezirk
 Ostpreußen,PROPN,NE,Ostpreußen,Ostpreußen
 gespielt,VERB,VVPP,spielen,spielen
@@ -124,7 +124,7 @@ eine,DET,ART,ein,ein
 brasilianische,ADJ,ADJA,brasilianisch,brasilianisch
 politische,ADJ,ADJA,politisch,politisch
 Gemeinde,NOUN,NN,Gemeinde,Gemeinde
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Bundesstaat,NOUN,NN,Bundesstaat,Bundesstaat
 Goiás,PROPN,NE,Goiás,Goiás
 in,ADP,APPR,in,in
@@ -151,7 +151,7 @@ Goiânia,PROPN,NE,Goiânia,Goiânia
 .,PUNCT,$.,.,.
 Das,DET,ART,der,der
 6.,ADJ,ADJA,6.,6.
-Kanadische,ADJ,ADJA,kanadisch,Kanadische
+Kanadische,ADJ,ADJA,kanadisch,kanadisch
 Kabinett,NOUN,NN,Kabinett,Kabinett
 (,PUNCT,$(,(,(
 engl.,ADJ,ADJD,engl.,englisch
@@ -162,7 +162,7 @@ Ministry,X,FM,Ministry,Ministry
 franz.,ADJ,ADJD,franz.,französisch
 6e,X,FM,6e,6e
 conseil,X,FM,conseil,conseil
-des,X,FM,des,der
+des,X,FM,des,des
 ministres,X,FM,ministres,ministres
 du,X,FM,du,du
 Canada,X,FM,Canada,Canada
@@ -357,7 +357,7 @@ Blumen,NOUN,NN,Blume,Blume
 wo,ADV,PWAV,wo,wo
 Sommer,NOUN,NN,Sommer,Sommer
 ?,PUNCT,$.,?,?
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Spiegel,PROPN,NE,Spiegel,Spiegel
 wurde,AUX,VAFIN,werden,werden
 er,PRON,PPER,er,er
@@ -434,21 +434,21 @@ Mariahilf,PROPN,NE,Mariahilf,Mariahilf
 ist,AUX,VAFIN,sein,sein
 ein,DET,ART,ein,ein
 Museum,NOUN,NN,Museum,Museum
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 6.,ADJ,ADJA,6.,6.
 Wiener,ADJ,ADJA,Wiener,Wiener
 Gemeindebezirk,NOUN,NN,Gemeindebezirk,Gemeindebezirk
 Mariahilf,PROPN,NE,Mariahilf,Mariahilf
 .,PUNCT,$.,.,.
 Das,DET,ART,der,der
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Oktober,NOUN,NN,Oktober,Oktober
 2008,NUM,CARD,2008,2008
 eröffnete,ADJ,ADJA,eröffnet,eröffnet
 Museum,NOUN,NN,Museum,Museum
 befindet,VERB,VVFIN,befinden,befinden
 sich,PRON,PRF,sich,er|es|sie
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Bezirksmuseum,NOUN,NN,Bezirksmuseum,Bezirksmuseum
 Mariahilf,PROPN,NE,Mariahilf,Mariahilf
 .,PUNCT,$.,.,.
@@ -488,7 +488,7 @@ bilden,VERB,VVFIN,bilden,bilden
 die,DET,ART,der,der
 ehemaligen,ADJ,ADJA,ehemalig,ehemalig
 Werkstätten,NOUN,NN,Werkstatt,Werkstätte
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 6.,ADJ,ADJA,6.,6.
 Bezirk,NOUN,NN,Bezirk,Bezirk
 ",",PUNCT,"$,",",",","
@@ -659,7 +659,7 @@ in,ADP,APPR,in,in
 Palermo,PROPN,NE,Palermo,Palermo
 ",",PUNCT,"$,",",",","
 Sekretär,NOUN,NN,Sekretär,Sekretär
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Nebenamt,NOUN,NN,Nebenamt,Nebenamt
 der,DET,ART,der,der
 Sizilianischen,ADJ,ADJA,Sizilianisch,sizilianisch
@@ -669,7 +669,7 @@ Bischofsvikar,NOUN,NN,Bischofsvikar,Bischofsvikar
 für,ADP,APPR,für,für
 die,DET,ART,der,der
 Pastoral,NOUN,NN,Pastoral,Pastoral
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Erzbistum,NOUN,NN,Erzbistum,Erzbistum
 Palermo,PROPN,NE,Palermo,Palermo
 .,PUNCT,$.,.,.
@@ -686,7 +686,7 @@ Vissalsa,PROPN,NE,Vissalsa,Vissalsa
 und,CONJ,KON,und,und
 zum,ADP,APPRART,zu,zum
 Weihbischof,NOUN,NN,Weihbischof,Weihbischof
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Erzbistum,NOUN,NN,Erzbistum,Erzbistum
 Palermo,PROPN,NE,Palermo,Palermo
 ernannt,VERB,VVPP,ernennen,ernennen
@@ -938,7 +938,7 @@ hier,ADV,ADV,hier,hier
 ein,DET,ART,ein,ein
 zentralörtliches,ADJ,ADJA,zentralörtlich,zentralörtlich
 Herrschaftszentrum,NOUN,NN,Herrschaftszentrum,Herrschaftszentrum
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Gau,PROPN,NE,Gau,Gau
 Daleminze,PROPN,NE,Daleminze,Daleminze
 .,PUNCT,$.,.,.
@@ -1002,7 +1002,7 @@ Rechten,NOUN,NN,Recht,Recht|Rechte
 .,PUNCT,$.,.,.
 So,ADV,ADV,so,so
 wird,AUX,VAFIN,werden,werden
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Jahr,NOUN,NN,Jahr,Jahr
 1350,NUM,CARD,1350,1350
 ein,DET,ART,ein,ein
@@ -1032,7 +1032,7 @@ sind,AUX,VAFIN,sein,sein
 nicht,PART,PTKNEG,nicht,nicht
 bekannt,ADJ,ADJD,bekannt,bekennen
 ",",PUNCT,"$,",",",","
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Jahr,NOUN,NN,Jahr,Jahr
 1588,NUM,CARD,1588,1588
 wurde,AUX,VAFIN,werden,werden
@@ -1239,7 +1239,7 @@ Als,SCONJ,KOUS,als,als
 der,DET,ART,der,der
 König,NOUN,NN,König,König
 Jungfrauen,NOUN,NN,Jungfrau,Jungfrau
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Feuer,NOUN,NN,Feuer,Feuer
 wirft,VERB,VVFIN,werfen,werfen
 ",",PUNCT,"$,",",",","

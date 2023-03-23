@@ -96,7 +96,7 @@ interessierte,ADJ,ADJA,interessiert,interessieren
 Personen,NOUN,NN,Person,Person
 sind,AUX,VAFIN,sein,sein
 herzlich,ADV,ADJD,herzlich,herzlich
-eingelanden,VERB,VVPP,eingelanden,einlenden
+eingelanden,VERB,VVPP,eingelanden,eingeland
 ",",PUNCT,"$,",",",","
 Gottesdienst,NOUN,NN,Gottesdienst,Gottesdienst
 mit,ADP,APPR,mit,mit
@@ -126,7 +126,7 @@ Frau,NOUN,NN,Frau,Frau
 und,CCONJ,KON,und,und
 meiner,DET,PPOSAT,mein,mein
 Tante,NOUN,NN,Tante,Tante
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Oktober,PROPN,NN,Oktober,Oktober
@@ -442,7 +442,7 @@ Elberadweg,PROPN,NN,Elberadweg,Elberadweg
 Tour,NOUN,NN,Tour,Tour
 haben,AUX,VAFIN,haben,haben
 wir,PRON,PPER,wir,wir
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 """",PUNCT,$(,"""",""""
@@ -536,7 +536,7 @@ hier,ADV,ADV,hier,hier
 essen,VERB,VVINF,essen,essen
 gehen,VERB,VVINF,gehen,gehen
 !,PUNCT,$.,!,!
-Beim,_,,_,Beim
+Beim,_,,_,beim
 Bei,ADP,APPR,bei,bei
 dem,DET,ART,der,der
 Kickboxen,NOUN,NN,Kickboxen,Kickboxen
@@ -559,7 +559,7 @@ Veedel,PROPN,NN,Veedel,Veedel
 sowieso,ADV,ADV,sowieso,sowieso
 .,PUNCT,$.,.,.
 biene,NOUN,VVFIN,biene,bienen
-maja,NOUN,ADV,Maja,majanisch
+maja,NOUN,ADV,Maja,maja
 tanzt,VERB,VVFIN,tanzen,tanzen
 .,PUNCT,$.,.,.
 Bilder,NOUN,NN,Bild,Bild
@@ -601,7 +601,7 @@ Ergebnis,NOUN,NN,Ergebnis,Ergebnis
 Bin,AUX,VAFIN,sein,sein
 via,ADP,APPR,via,via
 Zeitungsannonce,NOUN,NN,Zeitungsannonce,Zeitungsannonce
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Stadtanzeiger,PROPN,NN,Stadtanzeiger,Stadtanzeiger
@@ -684,7 +684,7 @@ ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 Da,SCONJ,KOUS,da,da
 wir,PRON,PPER,wir,wir
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Winter,NOUN,NN,Winter,Winter
@@ -715,7 +715,7 @@ sich,PRON,PRF,er|es|sie,er|es|sie
 kein,PRON,PIAT,kein,kein
 Wasser,NOUN,NN,Wasser,Wasser
 mehr,ADV,ADV,mehr,mehr
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Kühlkreislauf,NOUN,NN,Kühlkreislauf,Kühlkreislauf
@@ -876,7 +876,7 @@ immer,ADV,ADV,immer,immer
 eine,DET,ART,ein,ein
 schöne,ADJ,ADJA,schön,schön
 Einleitung,NOUN,NN,Einleitung,Einleitung
-ins,_,,_,er
+ins,_,,_,ins
 in,ADP,APPR,in,in
 das,DET,ART,der,der
 Wochenende,NOUN,NN,Wochenende,Wochenende
@@ -1028,7 +1028,7 @@ das,PRON,PDS,der,der
 sind,AUX,VAFIN,sein,sein
 aber,ADV,ADV,aber,aber
 seeeeeehr,ADV,ADV,sehr,seeeeeehr
-lange,ADJ,ADV,lang,lang
+lange,ADJ,ADV,lang,lange
 15,NUM,CARD,15,15
 Minuten,NOUN,NN,Minute,Minute
 .,PUNCT,$.,.,.
@@ -1055,7 +1055,7 @@ Ihrem,DET,PPOSAT,Ihr|ihr,Ihr|ihr
 Handwerk,NOUN,NN,Handwerk,Handwerk
 verstehen,VERB,VVFIN,verstehen,verstehen
 .,PUNCT,$.,.,.
-DasFahren,X,VVFIN,DasFahren,DasFahren
+DasFahren,X,VVFIN,DasFahren,dasfahren
 wir,PRON,PPER,wir,wir
 jetzt,ADV,ADV,jetzt,jetzt
 seit,ADP,APPR,seit,seit
@@ -1073,7 +1073,7 @@ ServiceMA,NOUN,NN,ServiceMA,ServiceMA
 gerade,ADV,ADV,gerade,gerade
 alle,PRON,PIAT,alle,alle
 Stühle,NOUN,NN,Stuhl,Stuhl
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 geschlossenen,ADJ,ADJA,geschlossen,geschlossen
@@ -1480,7 +1480,7 @@ gesuchte,ADJ,ADJA,gesucht,gesucht
 Gericht,NOUN,NN,Gericht,Gericht
 genießen,VERB,VVINF,genießen,genießen
 .,PUNCT,$.,.,.
-Duchsen,NOUN,NE,Duchsen,Duch
+Duchsen,NOUN,NE,Duchsen,Duchsen
 war,AUX,VAFIN,sein,sein
 nur,ADV,ADV,nur,nur
 in,ADP,APPR,in,in
@@ -1638,7 +1638,7 @@ unerhört,ADJ,VVFIN,unerhört,unerhört
 !,PUNCT,$.,!,!
 !,PUNCT,$.,!,!
 !,PUNCT,$.,!,!
-Empfele,VERB,VVFIN,Empfele,empfelen
+Empfele,VERB,VVFIN,Empfele,Empfele
 besonders,ADV,ADV,besonders,besonders
 die,DET,ART,der,der
 Familienpizza,NOUN,NN,Familienpizza,Familienpizza
@@ -1721,7 +1721,7 @@ Preise,NOUN,NN,Preis,Preis
 .,PUNCT,$.,.,.
 Er,PRON,PPER,er,er
 ist,VERB,VAFIN,sein,sein
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 höchstem,ADJ,ADJA,hoch,hoch
@@ -1875,7 +1875,7 @@ darauf,ADV,PAV,darauf,darauf
 schließen,VERB,VVINF,schließen,schließen
 .,PUNCT,$.,.,.
 Fettabsaugung,NOUN,NN,Fettabsaugung,Fettabsaugung
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Prevention,NOUN,NN,Prevention,Prevention
@@ -1932,7 +1932,7 @@ ab,ADP,APPR,ab,ab
 8:00,NUM,CARD,8:00,8:00
 Uhr,NOUN,NN,Uhr,Uhr
 .,PUNCT,$.,.,.
-Fuer,ADP,ADV,Fuer,fuer
+Fuer,ADP,ADV,Fuer,Fuer
 ein,DET,ART,ein,ein
 3,NUM,ADJA,3,3
 -,PUNCT,$(,-,-
@@ -2041,7 +2041,7 @@ Riesenauswahl,NOUN,NN,Riesenauswahl,Riesenauswahl
 super,ADV,ADJD,super,super
 präsentiert,VERB,ADJD,präsentieren,präsentieren
 .,PUNCT,$.,.,.
-Gottlob,ADV,NE,gottlob,gottlob
+Gottlob,ADV,NE,gottlob,Gottlob
 ist,AUX,VAFIN,sein,sein
 unsere,DET,PPOSAT,unser,unser
 Werkstatt,NOUN,NN,Werkstatt,Werkstatt
@@ -2136,7 +2136,7 @@ Hallo,INTJ,ITJ,hallo,hallo
 ",",PUNCT,"$,",",",","
 lorenz,PROPN,NE,Lorenz,lorenz
 -,PUNCT,$(,-,-
-meier,PROPN,NE,meiern,meier
+meier,PROPN,NE,meiern,Teier
 hat,AUX,VAFIN,haben,haben
 ein,DET,ART,ein,ein
 mit,ADP,APPR,mit,mit
@@ -2499,7 +2499,7 @@ Dienste,NOUN,NN,Dienst,Dienst
 ihres,DET,PPOSAT,ihr,ihr
 Arbeitgebers,NOUN,NN,Arbeitgeber,Arbeitgeber
 nicht,PART,PTKNEG,nicht,nicht
-im,_,,_,im
+im,_,,_,er
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Internet,NOUN,NN,Internet,Internet
@@ -2743,7 +2743,7 @@ kann,AUX,VMFIN,können,können
 man,PRON,PIS,man,man
 die,DET,ART,der,der
 Termine,NOUN,NN,Termin,Termin
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Internet,NOUN,NN,Internet,Internet
@@ -2760,7 +2760,7 @@ machen,VERB,VVINF,machen,machen
 Leider,ADV,ADV,leider,leider
 wenig,PRON,PIAT,wenig,wenig
 Erfahrung,NOUN,NN,Erfahrung,Erfahrung
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 kosmetischen,ADJ,ADJA,kosmetisch,kosmetisch
@@ -2796,7 +2796,7 @@ war,AUX,VAFIN,sein,sein
 alles,PRON,PIS,alle,alle
 klar,ADJ,ADJD,klar,klar
 .,PUNCT,$.,.,.
-MAcht,VERB,ADV,machen,machen
+MAcht,VERB,ADV,machen,MAcht
 weiter,ADV,ADV,weiter,weiter
 so,ADV,ADV,so,so
 !,PUNCT,$.,!,!
@@ -2901,8 +2901,8 @@ und,CCONJ,KON,und,und
 unterstützend,ADJ,ADJD,unterstützend,unterstützend
 ist,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
-Mitten,NOUN,ADV,mitten,Mitte
-im,_,,_,im
+Mitten,NOUN,ADV,mitten,mitten
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Wald,NOUN,NN,Wald,Wald
@@ -2912,7 +2912,7 @@ sehr,ADV,ADV,sehr,sehr
 gutes,ADJ,ADJA,gut,gut
 Essen,NOUN,NN,Essen,Essen
 und,CCONJ,KON,und,und
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Sommer,NOUN,NN,Sommer,Sommer
@@ -2988,7 +2988,7 @@ möglich,ADJ,ADJD,möglich,möglich
 ist,AUX,VAFIN,sein,sein
 ",",PUNCT,"$,",",",","
 auch,ADV,ADV,auch,auch
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Kontext,NOUN,NN,Kontext,Kontext
@@ -3416,7 +3416,7 @@ ich,PRON,PPER,ich,ich
 positiv,ADV,ADJD,positiv,positiv
 überrascht,ADJ,ADJD,überraschen,überraschen
 .,PUNCT,$.,.,.
-Unkompliziert,ADV,ADJD,unkompliziert,unkompliziert
+Unkompliziert,ADV,ADJD,unkompliziert,Unkompliziert
 ",",PUNCT,"$,",",",","
 schnell,ADV,ADJD,schnell,schnell
 (,PUNCT,$(,(,(
@@ -3437,7 +3437,7 @@ drauf,ADV,PTKVZ,drauf,drauf
 die,PRON,PDS,der,der
 waren,VERB,VAFIN,sein,sein
 sowieso,ADV,ADV,sowieso,sowieso
-runter,ADV,ADJD,runter,runter
+runter,ADV,ADJD,runter,runt
 ),PUNCT,$(,),)
 .,PUNCT,$.,.,.
 Unser,DET,PPOSAT,unser,unser
@@ -3617,7 +3617,7 @@ ein,ADV,PTKVZ,ein,ein
 Wir,PRON,PPER,wir,wir
 fühlen,VERB,VVFIN,fühlen,fühlen
 uns,PRON,PRF,wir,wir
-Wohl,ADJ,ADV,wohl,wohl
+Wohl,ADJ,ADV,wohl,Wohl
 .,PUNCT,$.,.,.
 Wir,PRON,PPER,wir,wir
 haben,AUX,VAFIN,haben,haben
@@ -3698,7 +3698,7 @@ sie,PRON,PPER,sie,sie
 nicht,PART,PTKNEG,nicht,nicht
 so,ADV,ADV,so,so
 viel,ADV,PIS,viel,viel
-im,_,,_,im
+im,_,,_,er
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Internet,NOUN,NN,Internet,Internet
@@ -3711,7 +3711,7 @@ der,DET,ART,der,der
 Arbeitszeit,NOUN,NN,Arbeitszeit,Arbeitszeit
 ?,PUNCT,$.,?,?
 !,PUNCT,$.,!,!
-Zum,_,,_,Zum
+Zum,_,,_,zum
 Zu,ADP,APPR,zu,zu
 dem,DET,ART,der,der
 einen,PRON,PIS,ein,ein
@@ -3732,7 +3732,7 @@ auf,ADP,APPR,auf,auf
 die,DET,ART,der,der
 Elbe,PROPN,NE,Elbe,Elbe
 .,PUNCT,$.,.,.
-Zum,_,,_,Zum
+Zum,_,,_,zum
 Zu,ADP,APPR,zu,zu
 dem,DET,ART,der,der
 zusammensitzen,NOUN,NN,zusammensitzen,zusammensitzen
@@ -4190,7 +4190,7 @@ mit,ADP,APPR,mit,mit
 ungeschliffener,ADJ,ADJA,ungeschliffen,ungeschliffen
 Sprache,NOUN,NN,Sprache,Sprache
 Polen,PROPN,NE,Polen,Polen
-ins,_,,_,er
+ins,_,,_,ins
 in,ADP,APPR,in,in
 das,DET,ART,der,der
 Jahr,NOUN,NN,Jahr,Jahr
@@ -4373,7 +4373,7 @@ Wetten,PROPN,VVINF,wetten,Wette|Wetten
 ",",PUNCT,"$,",",",","
 daß,PROPN,KOUS,daß,daß
 '',PUNCT,$(,'',''
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 ZDF,PROPN,NE,ZDF,ZDF
@@ -4508,7 +4508,7 @@ fest,ADV,PTKVZ,fest,fest
 weil,SCONJ,KOUS,weil,weil
 er,PRON,PPER,er,er
 ITER,PROPN,NE,ITER,ITER
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 ostdeutschen,ADJ,ADJA,ostdeutsch,ostdeutsch
@@ -4663,7 +4663,7 @@ vor,ADP,PTKVZ,vor,vor
 mit,ADP,APPR,mit,mit
 seiner,DET,PPOSAT,sein,sein
 Finanzpolitik,NOUN,NN,Finanzpolitik,Finanzpolitik
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Lande,NOUN,NN,Land,Land
@@ -5048,12 +5048,12 @@ wollen,VERB,VMFIN,wollen,wollen
 ",",PUNCT,"$,",",",","
 daß,SCONJ,KOUS,daß,daß
 ich,PRON,PPER,ich,ich
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Westjordanland,PROPN,NE,Westjordanland,Westjordanland
 oder,CCONJ,KON,oder,oder
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Gaza,PROPN,NE,Gaza,Gaza
@@ -5583,7 +5583,7 @@ der,DET,ART,der,der
 Hochburg,NOUN,NN,Hochburg,Hochburg
 der,DET,ART,der,der
 aufständischen,ADJ,ADJA,aufständisch,aufständisch
-Tamilen,PROPN,NN,Tamile,Tamilen
+Tamilen,PROPN,NN,Tamile,Tamil
 .,PUNCT,$.,.,.
 Diese,DET,PDAT,dies,dies
 Formulierung,NOUN,NN,Formulierung,Formulierung
@@ -6003,7 +6003,7 @@ Dividende,NOUN,NN,Dividende,Dividende
 herausspringen,VERB,VVINF,herausspringen,herausspringen
 .,PUNCT,$.,.,.
 Schon,ADV,ADV,schon,schon
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 vergangenen,ADJ,ADJA,vergangen,vergangen
@@ -6045,7 +6045,7 @@ dem,DET,ART,der,der
 Regierungswechsel,NOUN,NN,Regierungswechsel,Regierungswechsel
 ist,AUX,VAFIN,sein,sein
 ",",PUNCT,"$,",",",","
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Gegensatz,NOUN,NN,Gegensatz,Gegensatz
@@ -6291,7 +6291,7 @@ sich,PRON,PRF,er|es|sie,er|es|sie
 eine,DET,ART,ein,ein
 definitive,ADJ,ADJA,definitiv,definitiv
 Zusage,NOUN,NN,Zusage,Zusage
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Moment,NOUN,NN,Moment,Moment
@@ -6412,7 +6412,7 @@ Gebäude,NOUN,NN,Gebäude,Gebäude
 angelegt,VERB,VVPP,anlegen,anlegen
 ",",PUNCT,"$,",",",","
 das,PRON,PRELS,der,der
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Norden,NOUN,NN,Norden,Norden
@@ -6426,7 +6426,7 @@ bietet,VERB,VVFIN,bieten,bieten
 während,SCONJ,KOUS,während,während
 es,PRON,PPER,es,es
 sich,PRON,PRF,er|es|sie,er|es|sie
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Südosten,NOUN,NN,Südosten,Südosten
@@ -6635,7 +6635,7 @@ Bezüge,NOUN,NN,Bezug,Bezug
 in,ADP,APPR,in,in
 Max,PROPN,NE,Max,Max
 Webers,PROPN,NE,Weber,Weber
-Protestantischer,ADJ,ADJA,protestantisch,Protestantisch
+Protestantischer,ADJ,ADJA,protestantisch,protestantisch
 Ethik,NOUN,NN,Ethik,Ethik
 ;,PUNCT,$.,;,;
 Die,DET,ART,der,der
@@ -7011,7 +7011,7 @@ von,ADP,APPR,von,von
 der,DET,ART,der,der
 Osteuropa,NOUN,NN,Osteuropa,Osteuropa
 -,PUNCT,$(,-,-
-Initiative,NOUN,NN,initiativ,Initiative
+Initiative,NOUN,NN,initiativ,initiativ
 Eurocom,PROPN,NE,Eurocom,Eurocom
 prangerte,VERB,VVFIN,prangern,prangern
 die,DET,ART,der,der
@@ -7373,7 +7373,7 @@ gehe,VERB,VVFIN,gehen,gehen
 ",",PUNCT,"$,",",",","
 der,DET,ART,der,der
 Spieler,NOUN,NN,Spieler,Spieler
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Ballbesitz,NOUN,NN,Ballbesitz,Ballbesitz
@@ -7519,7 +7519,7 @@ Anhalt,PROPN,NE,Anhalt,Anhalt
 ),PUNCT,$(,),)
 und,CCONJ,KON,und,und
 Mitglied,NOUN,NN,Mitglied,Mitglied
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Rat,NOUN,NN,Rat,Rat
@@ -7547,13 +7547,13 @@ Stimmen,NOUN,NN,Stimme,Stimme|Stimmen
 für,ADP,APPR,für,für
 die,DET,ART,der,der
 von,ADP,APPR,von,von
-Christdemokraten,PROPN,NN,Christdemokrat,Christdemokraten
+Christdemokraten,PROPN,NN,Christdemokrat,Christdemokrat
 ",",PUNCT,"$,",",",","
 Sozialisten,PROPN,NN,Sozialist,Sozialist
 ",",PUNCT,"$,",",",","
 Sozialdemokraten,PROPN,NN,Sozialdemokrat,Sozialdemokrat
 und,CCONJ,KON,und,und
-Liberalen,PROPN,NN,liberale,liberal
+Liberalen,PROPN,NN,liberale,Liberale
 gebildete,ADJ,ADJA,gebildet,gebildet
 Regierung,NOUN,NN,Regierung,Regierung
 votiert,VERB,VVPP,votieren,votieren
@@ -8092,7 +8092,7 @@ die,DET,ART,der,der
 in,ADP,APPR,in,in
 Gaza,PROPN,NE,Gaza,Gaza
 und,CCONJ,KON,und,und
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Westjordanland,PROPN,NE,Westjordanland,Westjordanland
@@ -8192,7 +8192,7 @@ von,ADP,APPR,von,von
 80,NUM,CARD,80,80
 000,NUM,CARD,000,000
 Arbeitsplätzen,NOUN,NN,Arbeitsplatz,Arbeitsplatz
-ins,_,,_,er
+ins,_,,_,ins
 in,ADP,APPR,in,in
 das,DET,ART,der,der
 Ausland,NOUN,NN,Ausland,Ausland
@@ -8311,7 +8311,7 @@ in,ADP,APPR,in,in
 einfachen,ADJ,ADJA,einfach,einfach
 Unerkünften,NOUN,NN,Unterkünften,Unerkunft
 .,PUNCT,$.,.,.
-Starr,ADJ,ADJD,starr,starr
+Starr,ADJ,ADJD,starr,Starr
 vor,ADP,APPR,vor,vor
 Entsetzen,NOUN,NN,Entsetzen,Entsetzen
 habe,AUX,VAFIN,haben,haben
@@ -8347,7 +8347,7 @@ mehr,DET,PIAT,mehr,mehr
 Quartiere,NOUN,NN,Quartier,Quartiere
 herausspringen,VERB,VVFIN,herausspringen,herausspringen
 als,ADP,KOKOM,als,als
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 herkömmlichen,ADJ,ADJA,herkömmlich,herkömmlich
@@ -8402,7 +8402,7 @@ oder,CCONJ,KON,oder,oder
 bei,ADP,APPR,bei,bei
 einem,DET,ART,ein,ein
 Wechsel,NOUN,NN,Wechsel,Wechsel
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 gleichen,ADJ,ADJA,gleich,gleich
@@ -8542,7 +8542,7 @@ Individualisierung,NOUN,NN,Individualisierung,Individualisierung
 und,CCONJ,KON,und,und
 Gewalt,NOUN,NN,Gewalt,Gewalt
 '',PUNCT,$(,'',''
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Sonderforschungsbereich,NOUN,NN,Sonderforschungsbereich,Sonderforschungsbereich
@@ -8550,7 +8550,7 @@ Sonderforschungsbereich,NOUN,NN,Sonderforschungsbereich,Sonderforschungsbereich
 Prävention,NOUN,NN,Prävention,Prävention
 und,CCONJ,KON,und,und
 Intervention,NOUN,NN,Intervention,Intervention
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Kindes,NOUN,TRUNC,Kind,Kind
@@ -8662,7 +8662,7 @@ die,PRON,PRELS,der,der
 zu,ADP,APPR,zu,zu
 einem,DET,ART,ein,ein
 Nachteil,NOUN,NN,Nachteil,Nachteil
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Standortwettbewerb,NOUN,NN,Standortwettbewerb,Standortwettbewerb
@@ -8796,7 +8796,7 @@ weiter,ADV,ADV,weiter,weiter
 offen,ADJ,ADJD,offen,offen
 .,PUNCT,$.,.,.
 ``,PUNCT,$(,``,``
-Zum,_,,_,Zum
+Zum,_,,_,zum
 Zu,ADP,APPR,zu,zu
 dem,DET,ART,der,der
 ersten,ADJ,ADJA,erst,erst
@@ -8889,7 +8889,7 @@ Ministerpräsident,NOUN,NN,Ministerpräsident,Ministerpräsident
 Fuad,PROPN,NE,Fuad,Fuad
 Maassum,PROPN,NE,Maassum,Maassum
 ist,AUX,VAFIN,sein,sein
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 nordirakischen,ADJ,ADJA,nordirakisch,nordirakisch
@@ -8954,7 +8954,7 @@ Stadt,NOUN,NN,Stadt,Stadt
 Dschunije,PROPN,NE,Dschunije,Dschunije
 zwei,NUM,CARD,zwei,zwei
 Menschen,NOUN,NN,Mensch,Mensch
-ums,_,,_,wir
+ums,_,,_,ums
 um,ADP,APPR,um,um
 das,DET,ART,der,der
 Leben,NOUN,NN,Leben,Leben
@@ -9076,7 +9076,7 @@ Rennen,NOUN,NN,Rennen,Rennen
 um,ADP,APPR,um,um
 den,DET,ART,der,der
 Chefsessel,NOUN,NN,Chefsessel,Chefsessel
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Weißen,PROPN,ADJA,weiß,weiß
@@ -9323,7 +9323,7 @@ daß,SCONJ,KOUS,daß,daß
 einer,PRON,PIS,ein,ein
 der,DET,ART,der,der
 drei,NUM,CARD,drei,drei
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Gaza,PROPN,NE,Gaza,Gaza
@@ -9679,7 +9679,7 @@ Chance,NOUN,NN,Chance,Chance
 um,ADP,KOUI,um,um
 einen,DET,ART,ein,ein
 Konsens,NOUN,NN,Konsens,Konsen
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Umgang,NOUN,NN,Umgang,Umgang
@@ -9737,7 +9737,7 @@ beharrlich,ADV,ADJD,beharrlich,beharrlich
 weigerte,VERB,VVFIN,weigern,weigern
 ",",PUNCT,"$,",",",","
 dem,DET,ART,der,der
-Gerempelten,NOUN,NN,Gerempelten,Gerempelte
+Gerempelten,NOUN,NN,Gerempelten,gerempelt
 Schmerzensgeld,NOUN,NN,Schmerzensgeld,Schmerzensgeld
 und,CCONJ,KON,und,und
 einen,DET,ART,ein,ein
@@ -9776,7 +9776,7 @@ geschieht,VERB,VVFIN,geschehen,geschehen
 dies,PRON,PDS,dies,dies
 alles,PRON,PIS,alle,alle
 ``,PUNCT,$(,``,``
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 öffentlichen,ADJ,ADJA,öffentlich,öffentlich
@@ -9849,7 +9849,7 @@ flexible,ADJ,ADJA,flexibel,flexibel
 Preise,NOUN,NN,Preis,Preis
 kassieren,VERB,VVINF,kassieren,kassieren
 .,PUNCT,$.,.,.
-Zehntausende,NOUN,NN,Zehntausend,Zehntausend
+Zehntausende,NOUN,NN,Zehntausend,zehntausend
 Demonstranten,NOUN,NN,Demonstrant,Demonstrant
 trugen,VERB,VVFIN,tragen,tragen
 die,DET,ART,der,der
@@ -10032,7 +10032,7 @@ gestrichen,VERB,VVPP,streichen,gestreichen
 .,PUNCT,$.,.,.
 Würden,AUX,VAFIN,werden,Würde
 die,DET,ART,der,der
-Deutschen,PROPN,NN,deutsche,deutsch
+Deutschen,PROPN,NN,deutsche,Deutsche
 den,DET,ART,der,der
 8.,ADJ,ADJA,8.,8.
 Mai,PROPN,NN,Mai,Mai
@@ -10095,7 +10095,7 @@ die,DET,ART,der,der
 endgültige,ADJ,ADJA,endgültig,endgültig
 Verwertung,NOUN,NN,Verwertung,Verwertung
 ``,PUNCT,$(,``,``
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Einvernehmen,NOUN,NN,Einvernehmen,Einvernehmen
@@ -10397,7 +10397,7 @@ Gaswerk,NOUN,NN,Gaswerk,Gaswerk
 angestellt,VERB,VVPP,anstellen,anstellen
 wurde,AUX,VAFIN,werden,werden
 .,PUNCT,$.,.,.
-Verschärft,ADV,ADJD,verschärft,verschärft
+Verschärft,ADV,ADJD,verschärft,verschärfen
 stellen,VERB,VVFIN,stellen,stellen
 sich,PRON,PRF,er|es|sie,er|es|sie
 die,DET,ART,der,der
@@ -10439,7 +10439,7 @@ britischen,ADJ,ADJA,britisch,britisch
 ``,PUNCT,$(,``,``
 Tories,NOUN,NE,Tory,Tories
 '',PUNCT,$(,'',''
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 April,NOUN,NN,April,April
@@ -10548,7 +10548,7 @@ Für,ADP,APPR,für,für
 nach,ADP,APPR,nach,nach
 1986,NUM,CARD,1986,1986
 gebaute,ADJ,ADJA,gebaut,gebaut
-respektive,CCONJ,KON,respektiv,respektive
+respektive,CCONJ,KON,respektiv,respektiv
 gekaufte,ADJ,ADJA,gekauft,gekauft
 Häuser,NOUN,NN,Haus,Haus
 entfällt,VERB,VVFIN,entfallen,entfallen
@@ -10793,7 +10793,7 @@ von,ADP,APPR,von,von
 288,NUM,CARD,288,288
 Millionen,NOUN,NN,Million,Million
 Kronen,PROPN,NN,Krone,Krone
-bekannt,VERB,ADJD,bekannt,bekannt
+bekannt,VERB,ADJD,bekannt,bekennen
 geworden,AUX,VAPP,werden,werden
 war,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
@@ -10875,7 +10875,7 @@ Samstag,PROPN,NN,Samstag,Samstag
 hinter,ADP,APPR,hinter,hinter
 verschlossenen,ADJ,ADJA,verschlossen,verschlossen
 Türen,NOUN,NN,Tür,Tür
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Beisein,NOUN,NN,Beisein,Beisein
@@ -10946,7 +10946,7 @@ Spannungen,NOUN,NN,Spannung,Spannung
 innerhalb,ADP,APPR,innerhalb,innerhalb
 des,DET,ART,der,der
 Europäischen,ADJ,ADJA,europäisch,europäisch
-Währungssystems,NOUN,NN,Währungssystem,Währungssystem
+Währungssystems,NOUN,NN,Währungssystem,Währungssystems
 (,PUNCT,$(,(,(
 EWS,PROPN,NE,EWS,EWS
 ),PUNCT,$(,),)
@@ -10974,7 +10974,7 @@ Polen,PROPN,NE,Polen,Polen
 ähnliche,ADJ,ADJA,ähnlich,ähnlich
 Joint,NOUN,NN,Joint,Joint
 -,PUNCT,$(,-,-
-ventures,NOUN,NN,ventures,ventur
+ventures,NOUN,NN,ventures,ventures
 gegründet,VERB,VVPP,gründen,gründen
 .,PUNCT,$.,.,.
 Wie,SCONJ,KOUS,wie,wie
@@ -11071,7 +11071,7 @@ jetzt,ADV,ADV,jetzt,jetzt
 teils,ADV,ADV,teils,teils
 von,ADP,APPR,von,von
 türkischen,ADJ,ADJA,türkisch,türkisch
-Zyprioten,PROPN,NN,Zypriot,Zyprioten
+Zyprioten,PROPN,NN,Zypriot,Zypriot
 ",",PUNCT,"$,",",",","
 teils,ADV,ADV,teils,teils
 von,ADP,APPR,von,von
@@ -11142,7 +11142,7 @@ Altländer,NOUN,NN,Altland,Altländer
 So,ADV,ADV,so,so
 steht,VERB,VVFIN,stehen,stehen
 es,PRON,PPER,es,es
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Einigungsvertrag,NOUN,NN,Einigungsvertrag,Einigungsvertrag
@@ -11318,7 +11318,7 @@ sein,AUX,VAINF,sein,sein
 sollten,AUX,VMFIN,sollen,sollen
 .,PUNCT,$.,.,.
 Auch,ADV,ADV,auch,auch
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Westen,NOUN,NN,Westen,Weste|Westen
@@ -11710,7 +11710,7 @@ werden,AUX,VAINF,werden,werden
 um,ADP,KOUI,um,um
 die,DET,ART,der,der
 Ordnung,NOUN,NN,Ordnung,Ordnung
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Lande,NOUN,NN,Land,Land
@@ -12018,7 +12018,7 @@ und,CCONJ,KON,und,und
 das,DET,ART,der,der
 Schadensniveau,NOUN,NN,Schadensniveau,Schadensniveau
 .,PUNCT,$.,.,.
-Fürwahr,ADV,ADV,fürwahr,fürwahr
+Fürwahr,ADV,ADV,fürwahr,Fürwahr
 ein,DET,ART,ein,ein
 stolzes,ADJ,ADJA,stolz,stolz
 Sortiment,NOUN,NN,Sortiment,Sortiment
@@ -12354,7 +12354,7 @@ Disposition,NOUN,NN,Disposition,Disposition
 stehen,VERB,VVFIN,stehen,stehen
 .,PUNCT,$.,.,.
 Der,DET,ART,der,der
-ums,_,,_,wir
+ums,_,,_,ums
 um,ADP,APPR,um,um
 das,DET,ART,der,der
 Überleben,NOUN,NN,Überleben,Überleben
@@ -12672,7 +12672,7 @@ Kroatenführer,NOUN,NN,Kroatenführer,Kroatenführer
 Mate,PROPN,NE,Mate,Mate
 Boban,PROPN,NE,Boban,Boban
 hat,AUX,VAFIN,haben,haben
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 vorwiegend,ADV,ADJD,vorwiegend,vorwiegend
@@ -12693,7 +12693,7 @@ UN,PROPN,NN,UN,UN
 -,PUNCT,$(,-,-
 Team,NOUN,NN,Team,Team
 vermutet,VERB,VVFIN,vermuten,vermuten
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Landwirtschaftsministerium,NOUN,NN,Landwirtschaftsministerium,Landwirtschaftsministerium
@@ -12763,7 +12763,7 @@ zum,_,,_,zum
 zu,ADP,APPR,zu,zu
 dem,DET,ART,der,der
 Sonntag,PROPN,NN,Sonntag,Sonntag
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 ostsächsischen,ADJ,ADJA,ostsächsisch,ostsächsisch
@@ -12822,7 +12822,7 @@ Lernenden,NOUN,NN,Lernend,Lernenden
 '',PUNCT,$(,'',''
 könne,AUX,VMFIN,können,können
 dann,ADV,ADV,dann,dann
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Aufbaustudium,NOUN,NN,Aufbaustudium,Aufbaustudium
@@ -12918,7 +12918,7 @@ Geißler,PROPN,NE,Geißler,Geißler
 CDU,PROPN,NN,CDU,CDU
 -,PUNCT,$(,-,-
 Obmann,NOUN,NN,Obmann,Obmann
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Schubladen,NOUN,NN,Schubladen,Schubladen
@@ -13231,7 +13231,7 @@ in,ADP,APPR,in,in
 der,DET,ART,der,der
 Brust,NOUN,NN,Brust,Brust
 ",",PUNCT,"$,",",",","
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Bauch,NOUN,NN,Bauch,Bauch
@@ -13476,7 +13476,7 @@ es,PRON,PPER,es,es
 liegt,VERB,VVFIN,liegen,liegen
 noch,ADV,ADV,noch,noch
 vieles,PRON,PIS,viel,viel
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 argen,NOUN,ADJA,Arg,argen
@@ -13645,7 +13645,7 @@ Friedensprozeß,NOUN,NN,Friedensprozeß,Friedensprozeß
 weiterzutreiben,VERB,VVIZU,weitertreiben,weiterzutreiben
 .,PUNCT,$.,.,.
 Die,DET,ART,der,der
-Unions,NOUN,NN,Unions,Union
+Unions,NOUN,NN,Unions,Unions
 -,PUNCT,$(,-,-
 Frauen,NOUN,NN,Frau,Frau
 haben,VERB,VAFIN,haben,haben
@@ -13805,9 +13805,9 @@ bisher,ADV,ADV,bisher,bisher
 gegen,ADP,APPR,gegen,gegen
 die,DET,ART,der,der
 ``,PUNCT,$(,``,``
-Schwarzen,NOUN,NN,Schwarze,Schwarze
+Schwarzen,NOUN,NN,Schwarze,schwarz
 '',PUNCT,$(,'',''
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 ANC,PROPN,NE,ANC,ANC
@@ -13832,7 +13832,7 @@ Minister,NOUN,NN,Minister,Minister
 als,ADP,APPR,als,als
 eine,DET,ART,ein,ein
 ``,PUNCT,$(,``,``
-milliarden,ADJ,ADJA,milliarden,milliarde
+milliarden,ADJ,ADJA,milliarden,milliarden
 -,PUNCT,$(,-,-
 schwere,ADJ,ADJA,schwer,schwer
 Infrastruktur,NOUN,NN,Infrastruktur,Infrastruktur
@@ -13861,7 +13861,7 @@ Symbole,NOUN,NN,Symbol,Symbol
 Werte,NOUN,NN,Wert,Wert
 ",",PUNCT,"$,",",",","
 die,PRON,PRELS,der,der
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Leben,NOUN,NN,Leben,Leben
@@ -13978,7 +13978,7 @@ war,AUX,VAFIN,sein,sein
 von,ADP,APPR,von,von
 der,DET,ART,der,der
 Bürgerinitiative,NOUN,NN,Bürgerinitiative,Bürgerinitiative
-Pro,ADP,APPR,pro,Pro
+Pro,ADP,APPR,pro,pro
 Autobahn,PROPN,NN,Autobahn,Autobahn
 initiiert,VERB,VVPP,initiieren,initiieren
 worden,AUX,VAPP,werden,werden
@@ -14215,7 +14215,7 @@ an,ADP,APPR,an,an
 dem,DET,ART,der,der
 Samstag,PROPN,NN,Samstag,Samstag
 .,PUNCT,$.,.,.
-Der,PRON,PDS,der,d
+Der,PRON,PDS,der,der
 aber,ADV,ADV,aber,aber
 war,VERB,VAFIN,sein,sein
 gar,ADV,ADV,gar,gar
@@ -14342,7 +14342,7 @@ dieser,PRON,PDAT,dies,dies
 Fallen,NOUN,NN,Falle,Falle
 werde,AUX,VAFIN,werden,werden
 sich,PRON,PRF,er|es|sie,er|es|sie
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Zuge,NOUN,NN,Zug,Zug
@@ -14436,7 +14436,7 @@ Algen,NOUN,NN,Alge,Alge
 Düngung,NOUN,NN,Düngung,Düngung
 und,CCONJ,KON,und,und
 Sauerstoffzehrung,NOUN,NN,Sauerstoffzehrung,Sauerstoffzehrung
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Watt,NOUN,NN,Watt,Watt
@@ -14492,7 +14492,7 @@ Taschenbuch,NOUN,NN,Taschenbuch,Taschenbuch
 erhältlich,ADJ,ADJD,erhältlich,erhältlich
 .,PUNCT,$.,.,.
 Miteinander,ADV,ADV,miteinander,miteinander
-verschränkt,ADV,ADJD,verschränken,verschränkt
+verschränkt,ADV,ADJD,verschränken,verschränken
 existieren,VERB,VVFIN,existieren,existieren
 Ethik,NOUN,NN,Ethik,Ethik
 und,CCONJ,KON,und,und
@@ -14531,7 +14531,7 @@ klebt,VERB,VVFIN,kleben,kleben
 .,PUNCT,$.,.,.
 Die,DET,ART,der,der
 Anlagen,NOUN,NN,Anlage,Anlage
-pusteten,ADJ,VVFIN,pusten,pustet
+pusteten,ADJ,VVFIN,pusten,pusten
 tonnenweise,ADV,ADV,tonnenweise,tonnenweise
 Staub,NOUN,NN,Staub,Staub
 ",",PUNCT,"$,",",",","
@@ -14838,7 +14838,7 @@ Jörg,PROPN,NE,Jörg,Jörg
 Schönbohm,PROPN,NE,Schönbohm,Schönbohm
 ",",PUNCT,"$,",",",","
 Staatssekretär,NOUN,NN,Staatssekretär,Staatssekretär
-im,_,,_,im
+im,_,,_,em
 in,ADP,APPR,in,in
 dem,DET,ART,der,der
 Verteidigungsministerium,NOUN,NN,Verteidigungsministerium,Verteidigungsministerium

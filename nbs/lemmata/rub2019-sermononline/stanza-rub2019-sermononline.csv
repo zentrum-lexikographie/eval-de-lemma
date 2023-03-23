@@ -53,7 +53,7 @@ in,ADP,APPR,in,in
 der,DET,ART,der,der
 neuen,ADJ,ADJA,neu,neu
 Welt,NOUN,NN,Welt,Welt
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 neuen,ADJ,ADJA,neu,neu
 Zeitalter,NOUN,NN,Zeitalter,Zeitalter
 ",",PUNCT,"$,",",",","
@@ -100,12 +100,12 @@ mit,ADP,APPR,mit,mit
 Erkenntnissen,NOUN,NN,Erkenntnis,Erkenntnis
 ",",PUNCT,"$,",",",","
 voll,ADJ,ADJD,voll,voll
-gepumpt,ADJ,ADJD,gepumpt,gepumpt
+gepumpt,ADJ,ADJD,gepumpt,pumpen
 mit,ADP,APPR,mit,mit
 theoretischem,ADJ,ADJA,theoretisch,theoretisch
 Wissen,NOUN,NN,Wissen,Wissen
 .,PUNCT,$.,.,.
-Zuhause,ADV,ADV,zuhause,zuhause
+Zuhause,ADV,ADV,zuhause,Zuhause
 lag,VERB,VVFIN,liegen,liegen
 nach,ADP,APPR,nach,nach
 langem,ADJ,ADJA,lang,lang
@@ -772,7 +772,7 @@ lesen,VERB,VVINF,lesen,lesen
 können,VERB,VMFIN,können,können
 .,PUNCT,$.,.,.
 Jetzt,ADV,ADV,jetzt,jetzt
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 vierzehnten,ADJ,ADJA,vierzehn,vierzehnt
 Jahr,NOUN,NN,Jahr,Jahr
 rückten,VERB,VVFIN,rücken,rücken
@@ -902,7 +902,7 @@ seine,DET,PPOSAT,sein,sein
 Gäste,NOUN,NN,Gast,Gast
 und,CONJ,KON,und,und
 sie,PRON,PPER,sie,sie
-bedrängten,VERB,VVFIN,bedrängen,bedrängen
+bedrängten,VERB,VVFIN,bedrängen,bedrängt
 Lot,PROPN,NE,Lot,Lot
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
@@ -944,7 +944,7 @@ sind,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 Darum,ADV,PAV,darum,darum
 :,PUNCT,$.,:,:
-Bitte,PART,PTKANT,bitte,Bitte
+Bitte,PART,PTKANT,bitte,bitten
 halte,VERB,VVIMP,halten,halten
 das,DET,ART,der,der
 Böse,NOUN,NN,Böse,Böse
@@ -970,7 +970,7 @@ mit,ADP,APPR,mit,mit
 sich,PRON,PRF,sich,er|es|sie
 bringt,VERB,VVFIN,bringen,bringen
 .,PUNCT,$.,.,.
-Bitte,PART,PTKANT,bitte,Bitte
+Bitte,PART,PTKANT,bitte,bitten
 umgib,VERB,VVIMP,umgeben,umgeben
 mich,PRON,PPER,ich,ich
 mit,ADP,APPR,mit,mit
@@ -1181,7 +1181,7 @@ lebte,VERB,VVFIN,leben,leben
 ",",PUNCT,"$,",",",","
 dass,SCONJ,KOUS,dass,dass
 es,PRON,PPER,es,es
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Himmel,NOUN,NN,Himmel,Himmel
 keine,DET,PIAT,kein,kein
 Armen,NOUN,NN,Arme,Arm|Arme

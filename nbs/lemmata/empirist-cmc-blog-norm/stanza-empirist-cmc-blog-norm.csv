@@ -23,11 +23,11 @@ Seite,NOUN,NN,Seite,Seite
 “,PUNCT,$(,“,""""
 fettehenne.info,UNK,URL,fettehenne.info,fettehenne.info
 ”,PUNCT,$(,”,""""
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Netz,NOUN,NN,Netz,Netz
 gibt,VERB,VVFIN,geben,geben
 ?,PUNCT,$.,?,?
-danke,PART,PTKANT,danke,danke
+danke,PART,PTKANT,danke,danker
 für,ADP,APPR,für,für
 deinen,DET,PPOSAT,dein,dein
 Kommentar,NOUN,NN,Kommentar,Kommentar
@@ -40,7 +40,7 @@ kenne,VERB,VVFIN,kennen,kennen
 ich,PRON,PPER,ich,ich
 …,PUNCT,$.,…,...
 ;-),UNK,EMOASC,;-),;-)
-hallo,INTJ,ITJ,hallo,halli
+hallo,INTJ,ITJ,hallo,hallo
 lieber,ADJ,ADJA,lieb,lieb
 Yannik,PROPN,NE,Yannik,Yannik
 ",",PUNCT,"$,",",",","
@@ -112,7 +112,7 @@ schreibt,VERB,VVFIN,schreiben,schreiben
 ihr,PRON,PPER,ihr,ihr
 euch,PRON,PRF,sich,ihr
 mal,ADV,ADV,mal,mal
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 SchülerVZ,PROPN,NE,SchülerVZ,SchülerVZ
 .,PUNCT,$.,.,.
 ich,PRON,PPER,ich,ich
@@ -120,7 +120,7 @@ habe,AUX,VAFIN,haben,haben
 deinen,DET,PPOSAT,dein,dein
 Papa,NOUN,NN,Papa,Papa
 auch,ADV,ADV,auch,auch
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Chat,NOUN,NN,Chat,Chat
 kennengelernt,VERB,VVPP,kennenlernen,kennenlernen
 vor,ADP,APPR,vor,vor
@@ -276,7 +276,7 @@ abgelehnt,VERB,VVPP,ablehnen,ablehnen
 werden,AUX,VAFIN,werden,werden
 .,PUNCT,$.,.,.
 dabei,ADV,PAV,dabei,dabei
-gehts,UNK,VVPPER,gehen,gehts
+gehts,UNK,VVPPER,gehen,gehen
 ja,UNK,PTKMA,ja,ja
 weniger,ADJ,ADJD,wenig,weniger
 um,ADP,APPR,um,um

@@ -242,7 +242,7 @@ sehr,ADV,ADV,sehr,sehr
 jene,DET,PDAT,jener,jen
 Leute,NOUN,NN,Leute,Leute
 dem,PRON,PDS,der,der
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Weg,NOUN,NN,Weg,Weg
 stehen,VERB,VVINF,stehen,stehen
 könnten,VERB,VMFIN,können,können
@@ -351,7 +351,7 @@ formen,VERB,VVFIN,formen,formen
 .,PUNCT,$.,.,.
 Der,DET,ART,der,der
 Bildungsminister,NOUN,NN,Bildungsminister,Bildungsminister
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Süden,NOUN,NN,Süden,Süden
 von,ADP,APPR,von,von
 London,PROPN,NE,London,London
@@ -418,7 +418,7 @@ grossen,ADJ,ADJA,groß,groß
 Firmen,NOUN,NN,Firma,Firma
 sondern,CONJ,KON,sondern,sondern
 Kleinunternehmen,NOUN,NN,Kleinunternehmen,Kleinunternehmen
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 ganzen,ADJ,ADJA,ganz,ganz
 Land,NOUN,NN,Land,Land
 .,PUNCT,$.,.,.
@@ -972,7 +972,7 @@ Fähigkeiten,NOUN,NN,Fähigkeit,Fähigkeit
 zweifeln,VERB,VVINF,zweifeln,zweifeln
 ",",PUNCT,"$,",",",","
 wieder,ADV,ADV,wieder,wieder
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Berufsleben,NOUN,NN,Berufsleben,Berufsleben
 einzusteigen,VERB,VVIZU,einsteigen,einsteigen
 ",",PUNCT,"$,",",",","
@@ -1142,7 +1142,7 @@ die,DET,ART,der,der
 Idee,NOUN,NN,Idee,Idee
 des,DET,ART,der,der
 Multiversums,NOUN,NN,Multiversum,Multiversum
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Spiel,NOUN,NN,Spiel,Spiel
 kommt,VERB,VVFIN,kommen,kommen
 .,PUNCT,$.,.,.
@@ -1276,7 +1276,7 @@ ist,AUX,VAFIN,sein,sein
 ist,AUX,VAFIN,sein,sein
 besonders,ADV,ADV,besonders,besonders
 stark,ADJ,ADJD,stark,stark
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Schmelzen,NOUN,NN,Schmelzen,Schmelze|Schmelzen
 .,PUNCT,$.,.,.
 Dies,PRON,PDS,dieser,dies

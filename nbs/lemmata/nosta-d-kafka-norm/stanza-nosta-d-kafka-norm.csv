@@ -207,7 +207,7 @@ saß,VERB,VVFIN,sitzen,sitzen
 gleich,ADV,ADV,gleich,gleich
 halb,ADJ,ADJD,halb,halb
 aufrecht,ADJ,ADJD,aufrecht,aufrecht
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Bett,NOUN,NN,Bett,Bett
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -277,7 +277,7 @@ setzte,VERB,VVFIN,setzen,setzen
 sich,PRON,PRF,sich,er|es|sie
 nicht,PART,PTKNEG,nicht,nicht
 allzu,ADV,ADV,allzu,allzu
-lange,ADJ,ADJD,lange,lang
+lange,ADJ,ADJD,lange,lange
 seinen,DET,PPOSAT,sein,sein
 Blicken,NOUN,NN,Blick,Blick|Blicken
 aus,PART,PTKVZ,aus,aus
@@ -325,7 +325,7 @@ _,UNK,--,--,_
 Ein,DET,ART,ein,ein
 kleines,ADJ,ADJA,klein,klein
 Gelächter,NOUN,NN,Gelächter,Gelächter
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Nebenzimmer,NOUN,NN,Nebenzimmer,Nebenzimmer
 folgte,VERB,VVFIN,folgen,folgen
 ",",PUNCT,"$,",",",","
@@ -370,7 +370,7 @@ nun,ADV,ADV,nun,nun
 doch,ADV,ADV,doch,doch
 zu,ADP,APPR,zu,zu
 K.,PROPN,NE,K.,K.
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Tone,NOUN,NN,Ton,Ton
 einer,DET,ART,ein,ein
 Meldung,NOUN,NN,Meldung,Meldung
@@ -412,7 +412,7 @@ sehen,VERB,VVINF,sehen,sehen
 was,PRON,PWS,was,was
 für,ADP,APPR,für,für
 Leute,NOUN,NN,Leute,Leute
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Nebenzimmer,NOUN,NN,Nebenzimmer,Nebenzimmer
 sind,AUX,VAFIN,sein,sein
 und,CONJ,KON,und,und
@@ -593,7 +593,7 @@ gleich,ADV,ADV,gleich,gleich
 ",",PUNCT,"$,",",",","
 um,ADP,APPR,um,um
 so,ADV,ADV,so,so
-weniger,PRON,PIS,weniger,wenig
+weniger,PRON,PIS,weniger,weniger
 ",",PUNCT,"$,",",",","
 als,SCONJ,KOUS,als,als
 die,DET,ART,d,der
@@ -663,7 +663,7 @@ zu,ADP,APPR,zu,zu
 dem,DET,ART,d,der
 mit,ADP,APPR,mit,mit
 Franz,PROPN,NE,Franz,Franz
-Benannten,NOUN,NN,Benannte,Benannt
+Benannten,NOUN,NN,Benannte,Benannten
 ",",PUNCT,"$,",",",","
 der,PRON,PRELS,d,der
 in,ADP,APPR,in,in
@@ -923,7 +923,7 @@ sah,VERB,VVFIN,sehen,sehen
 er,PRON,PPER,er,er
 ",",PUNCT,"$,",",",","
 dass,SCONJ,KOUS,dass,dass
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 ganzen,ADJ,ADJA,ganz,ganz
 Zimmer,NOUN,NN,Zimmer,Zimmer
 keine,DET,PIAT,kein,kein
@@ -1039,7 +1039,7 @@ die,DET,ART,d,der
 Sachen,NOUN,NN,Sache,Sache
 uns,PRON,PPER,uns,wir
 als,CONJ,KON,als,als
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Depot,NOUN,NN,Depot,Depot
 """",PUNCT,$(,"""",""""
 ",",PUNCT,"$,",",",","
@@ -1048,7 +1048,7 @@ sie,PRON,PPER,sie,sie
 ",",PUNCT,"$,",",",","
 """",PUNCT,$(,"""",""""
 denn,CONJ,KON,denn,denn
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Depot,NOUN,NN,Depot,Depot
 kommen,VERB,VVFIN,kommen,kommen
 öfters,ADV,ADV,öfters,öfters
@@ -1276,7 +1276,7 @@ sprachen,VERB,VVFIN,sprechen,sprechen
 sie,PRON,PPER,sie,sie
 ?,PUNCT,$.,?,?
 _,UNK,--,--,_
-Welcher,DET,PWAT,welch,welcher
+Welcher,DET,PWAT,welch,Welcher
 Behörde,NOUN,NN,Behörde,Behörde
 gehörten,VERB,VVFIN,gehören,gehören
 sie,PRON,PPER,sie,sie
@@ -1403,7 +1403,7 @@ irgendeine,DET,PIAT,irgendein,irgendein
 Weise,NOUN,NN,Weise,Weise
 den,DET,ART,d,der
 Wächtern,NOUN,NN,Wächtern,Wachter
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Gesicht,NOUN,NN,Gesicht,Gesicht
 zu,PART,PTKZU,zu,zu
 lachen,VERB,VVINF,lachen,lachen
@@ -2259,7 +2259,7 @@ wird,AUX,VAFIN,werden,werden
 ",",PUNCT,"$,",",",","
 wie,SCONJ,KOUS,wie,wie
 es,PRON,PPER,es,es
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Gesetz,NOUN,NN,Gesetz,Gesetz
 heißt,VERB,VVFIN,heißen,heißen
 ",",PUNCT,"$,",",",","
@@ -2540,7 +2540,7 @@ hatte,AUX,VAFIN,haben,haben
 ",",PUNCT,"$,",",",","
 den,PRON,PRELS,d,der
 sie,PRON,PPER,sie,sie
-umschlungen,ADJ,ADJD,umschlingen,umschlungen
+umschlungen,ADJ,ADJD,umschlingen,umschlingen
 hielt,VERB,VVFIN,halten,halten
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -2790,7 +2790,7 @@ und,CONJ,KON,und,und
 war,AUX,VAFIN,sein,sein
 er,PRON,PPER,er,er
 einmal,ADV,ADV,einmal,einmal
-niedergeworfen,ADJ,ADJD,niederwerfen,niederworfen
+niedergeworfen,ADJ,ADJD,niederwerfen,niederwerfen
 ",",PUNCT,"$,",",",","
 so,ADV,ADV,so,so
 war,AUX,VAFIN,sein,sein
@@ -3118,7 +3118,7 @@ der,DET,ART,d,der
 Sinnlosigkeit,NOUN,NN,Sinnlosigkeit,Sinnlosigkeit
 dazu,ADV,PAV,dazu,dazu
 nicht,PART,PTKNEG,nicht,nicht
-im,ADP,APPR,im,im
+im,ADP,APPR,im,em
 Stande,NOUN,NN,Stand,Stand
 gewesen,AUX,VAPP,sein,sein
 wäre,AUX,VAFIN,sein,sein
@@ -3312,7 +3312,7 @@ und,CONJ,KON,und,und
 er,PRON,PPER,er,er
 eilte,VERB,VVFIN,eilen,eilen
 sofort,ADV,ADV,sofort,sofort
-ins,ADP,APPRART,ins,ins
+ins,ADP,APPRART,ins,er
 Nebenzimmer,NOUN,NN,Nebenzimmer,Nebenzimmer
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
@@ -3395,7 +3395,7 @@ war,AUX,VAFIN,sein,sein
 Wenn,SCONJ,KOUS,wenn,wenn
 man,PRON,PIS,man,man
 mich,PRON,PPER,ich,ich
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Bett,NOUN,NN,Bett,Bett
 überfällt,VERB,VVFIN,überfallen,überfallen
 ",",PUNCT,"$,",",",","
@@ -3405,7 +3405,7 @@ nicht,PART,PTKNEG,nicht,nicht
 erwarten,VERB,VVINF,erwarten,erwarten
 ",",PUNCT,"$,",",",","
 mich,PRON,PPER,ich,ich
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Festanzug,NOUN,NN,Festanzug,Festanzug
 zu,PART,PTKZU,zu,zu
 finden,VERB,VVINF,finden,finden
@@ -3517,7 +3517,7 @@ zu,ADP,APPR,zu,zu
 Boden,NOUN,NN,Boden,Boden
 und,CONJ,KON,und,und
 sagte,VERB,VVFIN,sagen,sagen
-–,NOUN,NN,–,–
+–,NOUN,NN,–,""""
 er,PRON,PPER,er,er
 wusste,VERB,VVFIN,wissen,wissen
 selbst,ADV,ADV,selbst,selbst
@@ -3543,7 +3543,7 @@ Hauptverhandlung,NOUN,NN,Hauptverhandlung,Hauptverhandlung
 """",PUNCT,$(,"""",""""
 _,UNK,--,--,_
 Die,DET,ART,d,der
-Wächter,NOUN,NN,Wächter,Wachter
+Wächter,NOUN,NN,Wächter,Wächter
 lächelten,VERB,VVFIN,lächeln,lächeln
 ",",PUNCT,"$,",",",","
 sie,PRON,PPER,sie,sie
@@ -4002,7 +4002,7 @@ benötige,VERB,VVFIN,benötigen,benötigen
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
-Gewiss,ADV,ADV,gewiss,gewiss
+Gewiss,ADV,ADV,gewiss,gewiß
 """",PUNCT,$(,"""",""""
 ",",PUNCT,"$,",",",","
 sagte,VERB,VVFIN,sagen,sagen
@@ -4032,7 +4032,7 @@ ihn,PRON,PPER,er,er
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
-Gewiss,PART,PTKANT,gewiss,gewiß
+Gewiss,PART,PTKANT,gewiss,gewiss
 ",",PUNCT,"$,",",",","
 ich,PRON,PPER,ich,ich
 bin,AUX,VAFIN,sein,sein
@@ -4199,7 +4199,7 @@ _,UNK,--,--,_
 Besonders,ADV,ADV,besonders,besonders
 die,DET,ART,d,der
 heutige,ADJ,ADJA,heutig,heutig
-VERBt,VERB,VVFIN,VERBen,vERBt
+VERBt,VERB,VVFIN,VERBen,VERBt
 man,PRON,PIS,man,man
 nicht,PART,PTKNEG,nicht,nicht
 .,PUNCT,$.,.,.
@@ -4649,7 +4649,7 @@ Eindruck,NOUN,NN,Eindruck,Eindruck
 ",",PUNCT,"$,",",",","
 den,PRON,PRELS,d,der
 Sie,PRON,PPER,sie,Sie|sie
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 übrigen,NOUN,NN,Übrige,Übrig
 machen,VERB,VVFIN,machen,machen
 .,PUNCT,$.,.,.
@@ -4658,7 +4658,7 @@ Auch,ADV,ADV,auch,auch
 sollten,VERB,VMFIN,sollen,sollen
 Sie,PRON,PPER,sie,Sie|sie
 überhaupt,ADV,ADV,überhaupt,überhaupt
-im,ADP,APPRART,im,im
+im,ADP,APPRART,im,em
 Reden,NOUN,NN,Reden,Rede|Reden
 zurückhaltender,ADJ,ADJD,zurückhaltend,zurückhaltend
 sein,AUX,VAINF,sein,sein
@@ -4848,7 +4848,7 @@ telefonieren,VERB,VVINF,telefonieren,telefonieren
 """",PUNCT,$(,"""",""""
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
-Gewiss,ADJ,ADJD,gewiss,gewiß
+Gewiss,ADJ,ADJD,gewiss,Gewiß
 """",PUNCT,$(,"""",""""
 ",",PUNCT,"$,",",",","
 sagte,VERB,VVFIN,sagen,sagen
@@ -4886,7 +4886,7 @@ haben,AUX,VAFIN,haben,haben
 """",PUNCT,$(,"""",""""
 _,UNK,--,--,_
 """",PUNCT,$(,"""",""""
-Welchen,DET,PWAT,welch,welchen
+Welchen,DET,PWAT,welch,welch
 Sinn,NOUN,NN,Sinn,Sinn
 das,PRON,PDS,d,der
 machte,VERB,VVFIN,machen,machen
@@ -4959,7 +4959,7 @@ Schule,NOUN,NN,Schule,Schule
 reiten,VERB,VVINF,reiten,reiten
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Welchen,DET,PWAT,welch,welchen
+Welchen,DET,PWAT,welch,welch
 Sinn,NOUN,NN,Sinn,Sinn
 es,PRON,PPER,es,es
 hätte,AUX,VAFIN,haben,haben
@@ -5035,7 +5035,7 @@ zum,ADP,APPRART,zum,zum
 Fenster,NOUN,NN,Fenster,Fenster
 .,PUNCT,$.,.,.
 _,UNK,--,--,_
-Drüben,ADV,ADV,drüben,drüben
+Drüben,ADV,ADV,drüben,Drube
 war,AUX,VAFIN,sein,sein
 noch,ADV,ADV,noch,noch
 die,DET,ART,d,der

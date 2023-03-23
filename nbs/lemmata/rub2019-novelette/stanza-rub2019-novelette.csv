@@ -215,7 +215,7 @@ welche,PRON,PRELS,welcher,welch
 Uriel,PROPN,NE,Uriel,Uriel
 eines,DET,ART,ein,ein
 Abends,NOUN,NN,Abend,Abend
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Mondschein,NOUN,NN,Mondschein,Mondschein
 mit,ADP,APPR,mit,mit
 Judith,PROPN,NE,Judith,Judith
@@ -318,7 +318,7 @@ unter,ADP,APPR,unter,unter
 dem,DET,ART,der,der
 Arm,NOUN,NN,Arm,Arm
 gerade,ADV,ADV,gerade,gerade
-ins,ADP,APPRART,in,ins
+ins,ADP,APPRART,in,er
 Zimmer,NOUN,NN,Zimmer,Zimmer
 treten,VERB,VVINF,treten,treten
 ",",PUNCT,"$,",",",","
@@ -367,7 +367,7 @@ eben,ADV,ADV,eben,eben
 den,DET,ART,der,der
 tragischen,ADJ,ADJA,tragisch,tragisch
 Vorfall,NOUN,NN,Vorfall,Vorfall
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Konzert,NOUN,NN,Konzert,Konzert
 ",",PUNCT,"$,",",",","
 wie,SCONJ,KOUS,wie,wie
@@ -392,7 +392,7 @@ Tenor,NOUN,NN,Tenor,Tenor
 es,PRON,PPER,es,es
 war,AUX,VAFIN,sein,sein
 mir,PRON,PPER,ich,ich
-zumute,ADV,ADV,zumute,zumute
+zumute,ADV,ADV,zumute,zumen
 ",",PUNCT,"$,",",",","
 als,SCONJ,KOUS,als,als
 müßte,VERB,VMFIN,müssen,müssen
@@ -486,7 +486,7 @@ für,ADP,APPR,für,für
 den,DET,ART,der,der
 Alt,NOUN,NN,Alt,Alt
 .,PUNCT,$.,.,.
-Einiges,DET,PIAT,einiger,einige
+Einiges,DET,PIAT,einiger,einiges
 Talent,NOUN,NN,Talent,Talent
 ist,AUX,VAFIN,sein,sein
 in,ADP,APPR,in,in
@@ -584,7 +584,7 @@ lachte,VERB,VVFIN,lachen,lachen
 ",",PUNCT,"$,",",",","
 daß,SCONJ,KOUS,dass,daß
 es,PRON,PPER,es,es
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Zimmer,NOUN,NN,Zimmer,Zimmer
 schallte,VERB,VVFIN,schallen,schallen
 ",",PUNCT,"$,",",",","
@@ -668,7 +668,7 @@ großmütig,ADJ,ADJD,großmütig,großmütig
 die,DET,ART,der,der
 ganze,ADJ,ADJA,ganz,ganz
 Rechnung,NOUN,NN,Rechnung,Rechnung
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Gasthofe,NOUN,NN,Gasthof,Gasthofe
 und,CONJ,KON,und,und
 eilte,VERB,VVFIN,eilen,eilen
@@ -823,7 +823,7 @@ Sie,PRON,PPER,Sie,Sie|sie
 kommen,VERB,VVFIN,kommen,kommen
 ja,ADV,ADV,ja,ja
 so,ADV,ADV,so,so
-lange,ADJ,ADJD,lang,lang
+lange,ADJ,ADJD,lang,lange
 schon,ADV,ADV,schon,schon
 fast,ADV,ADV,fast,fast
 alljährlich,ADV,ADV,alljährlich,alljährlich
@@ -1032,7 +1032,7 @@ Soldatenzeit,NOUN,NN,Soldatenzeit,Soldatenzeit
 nur,ADV,ADV,nur,nur
 selten,ADJ,ADJD,selten,selten
 und,CONJ,KON,und,und
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Fluge,NOUN,NN,Flug,Fluge
 gesehen,VERB,VVPP,sehen,sehen
 ",",PUNCT,"$,",",",","
@@ -1064,11 +1064,11 @@ seine,DET,PPOSAT,sein,sein
 Zeugenschaft,NOUN,NN,Zeugenschaft,Zeugenschaft
 durchzustreiten,VERB,VVIZU,durchstreiten,durchstreiten
 .,PUNCT,$.,.,.
-Allezeit,ADV,ADV,allezeit,allezeit
+Allezeit,ADV,ADV,allezeit,Allezeit
 aber,ADV,ADV,aber,aber
 hat,AUX,VAFIN,haben,haben
 er,PRON,PPER,er,er
-im,ADP,APPRART,in,im
+im,ADP,APPRART,in,em
 Hintergrunde,NOUN,NN,Hintergrund,Hintergrunde
 meiner,DET,PPOSAT,mein,mein
 Gedanken,NOUN,NN,Gedanke,Gedanke
@@ -1160,7 +1160,7 @@ daß,SCONJ,KOUS,dass,daß
 seine,DET,PPOSAT,sein,sein
 Aufgabe,NOUN,NN,Aufgabe,Aufgabe
 die,DET,ART,der,der
-schwerere,NOUN,NN,Schwerere,schwerer
+schwerere,NOUN,NN,Schwerere,schwer
 war,AUX,VAFIN,sein,sein
 .,PUNCT,$.,.,.
 Ich,PRON,PPER,ich,ich
