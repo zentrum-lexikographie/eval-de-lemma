@@ -54,9 +54,9 @@ def run_algorithm(predict, x_test, y_test, z_test, z_test_xpos, dname, aname) \
     # flatten sequences
     y_test = list(itertools.chain(*y_test))
     z_test_xpos = list(itertools.chain(*z_test_xpos))
-    if not aname == 'germalemma':  # germalemma flattened tokens, tags, lemmata
+    if not aname == 'germalemma':  # flattened tokens, tags, lemmata
         # treetagger & rnntagger flattened lemmata
-        if not (aname == 'treetagger' or aname == 'rnntagger'):
+        if not (aname == 'treetagger' or aname == 'rnntagger' or aname == 'smorlemma'):
             y_pred = list(itertools.chain(*y_pred))
         x_test = list(itertools.chain(*x_test))
         z_test = list(itertools.chain(*z_test))

@@ -96,8 +96,8 @@ bewährt,VERB,VVFIN,bewähren,bewähren
 .,PUNCT,$.,.,.
 den,PRON,PDS,der,der
 ?,PUNCT,$.,?,?
-dange,PART,PTKANT,danke,hi
-lantonie,PROPN,NE,Lantonie,Lantonie
+dange,PART,PTKANT,danke,dangen
+lantonie,PROPN,NE,Lantonie,lantonien
 Ich,PRON,PPER,ich,Ich
 habe,AUX,VAFIN,haben,haben
 heute,ADV,ADV,heute,heute
@@ -173,7 +173,7 @@ ggg,UNK,AKW,ggg,ggg
 *,PUNCT,$(,*,*
 njamnjamnajm,UNK,ONO,njamnjamnajm,njamnjamnajm
 *,PUNCT,$(,*,*
-reee,INTJ,ITJ,re,ree
+reee,INTJ,ITJ,re,re
 stoeps,PROPN,NE,stoeps,stoep
 .,PUNCT,$.,.,.
 ohhhh,INTJ,ITJ,oh,oh
@@ -184,7 +184,7 @@ auch,ADV,ADV,auch,auch
 *,PUNCT,$(,*,*
 freu,UNK,AKW,freu,freuen
 *,PUNCT,$(,*,*
-re,INTJ,ITJ,re,ree
+re,INTJ,ITJ,re,re
 schdöbbs,PROPN,NE,stoeps,stoep
 :o),UNK,EMOASC,:o),.
 +,X,XY,+,+
@@ -759,7 +759,7 @@ ist,AUX,VAFIN,sein,sein
 hoch,UNK,PTKIFG,hoch,hoch
 kreativ,ADJ,ADJD,kreativ,kreativ
 !,PUNCT,$.,!,!
-re,INTJ,ITJ,re,ree
+re,INTJ,ITJ,re,re
 stoeps,PROPN,NE,stoeps,stoep
 ...,PUNCT,$.,...,.
 Was,PRON,PWS,was,Was
@@ -787,7 +787,7 @@ den,DET,ART,der,den
 nachmittag,NOUN,NN,Nachmittag,nachmittag
 überstehn,VERB,VVINF,überstehen,überstehn
 soll,VERB,VMFIN,sollen,sollen
-re,INTJ,ITJ,re,ree
+re,INTJ,ITJ,re,re
 stoeps,PROPN,NE,stoeps,stoep
 .,PUNCT,$.,.,.
 heyho,INTJ,ITJ,heyho,hello

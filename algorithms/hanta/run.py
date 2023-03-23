@@ -53,7 +53,7 @@ with open("../../nbs/results-hanta.json", "w") as fp:
 
 
 # 2. run with PoS tags in input
-def predict(x_test, y_test, z_test, z_test_xpos):
+def predict(x_test, y_test, z_test, z_test_xpos, dname):
     """Performs lemmatization on a PoS-tagged list of tokens using HanTa."""
     lemmata = []
     for j, sent in enumerate(x_test):  # lemmatize by sentence

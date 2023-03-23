@@ -34,7 +34,7 @@ hallo,INTJ,ITJ,hallo,hallo
 .,PUNCT,$.,.,.
 :),UNK,EMOASC,:),:)
 Lantonie,PROPN,NE,Lantonie,Lantonie
-:))),UNK,EMOASC,:))),:o)
+:))),UNK,EMOASC,:))),:)
 *,PUNCT,$(,*,*
 mal,UNK,PTKMA,mal,mal
 guck,UNK,AKW,guck,gucken
@@ -49,7 +49,7 @@ g,UNK,AKW,g,gehen
 freu,UNK,AKW,freu,re
 juhu,INTJ,ITJ,juhu,juhu
 Lantonie,PROPN,NE,Lantonie,Lantonie
-:o),UNK,EMOASC,:o),:o)
+:o),UNK,EMOASC,:o),:)
 hi,INTJ,ITJ,hi,Hi
 Lanto,PROPN,NE,Lanto,Lanto
 huhu,INTJ,ITJ,huhu,huhu
@@ -276,7 +276,7 @@ stoeps,PROPN,NE,stoeps,stoep
 :))),UNK,EMOASC,:))),:)))
 re,INTJ,ITJ,re,re
 *,PUNCT,$(,*,*
-lach,UNK,AKW,lach,hach
+lach,UNK,AKW,lach,lachen
 *,PUNCT,$(,*,*
 tach,INTJ,ITJ,tach,Tach
 Erdbeere$,PROPN,NE,Erdbeere$,Erdbeere$
@@ -301,8 +301,8 @@ Verdauliches,NOUN,NN,verdauliche,verdaulich
 gegessen,VERB,VVPP,essen,essen
 ...,PUNCT,$.,...,...
 :),UNK,EMOASC,:),:)
-hallo,INTJ,ITJ,hallo,Hi
-Lanto,PROPN,NE,Lanto,Lanto
+hallo,INTJ,ITJ,hallo,Hallo
+Lanto,PROPN,NE,Lanto,Lantus
 die,DET,ART,der,die
 Viecher,NOUN,NN,Viech,Viech
 reißen,VERB,VVFIN,reißen,reißen
@@ -323,7 +323,7 @@ meine,DET,PPOSAT,mein,mein
 Lieblingsschülerin,NOUN,NN,Lieblingsschülerin,Lieblingsschülerin
 hier,ADV,ADV,hier,hier
 .,PUNCT,$.,.,.
-:)),UNK,EMOASC,:)),:)))
+:)),UNK,EMOASC,:)),:))
 oh,INTJ,ITJ,oh,oh
 stoeps,PROPN,NE,stoeps,Stoep
 habe,AUX,VAFIN,haben,haben
@@ -501,7 +501,7 @@ sind,AUX,VAFIN,sein,sein
 nicht,PART,PTKNEG,nicht,nicht
 dumm,ADJ,ADJD,dumm,dumm
 *,PUNCT,$(,*,*
-lach,UNK,AKW,lach,hach
+lach,UNK,AKW,lach,lachen
 *,PUNCT,$(,*,*
 weil,SCONJ,KOUS,weil,weil
 ich,PRON,PPER,ich,ich
@@ -827,8 +827,8 @@ kreativ,ADJ,ADJD,kreativ,kreativ
 !,PUNCT,$.,!,!
 re,INTJ,ITJ,re,re
 stoeps,PROPN,NE,stoeps,stoep
-...,PUNCT,$.,...,.
-hi,INTJ,ITJ,hi,hi
+...,PUNCT,$.,...,...
+hi,INTJ,ITJ,hi,hello
 Asja,PROPN,NE,Asja,Asja
 quaki,PROPN,NE,quaki,quak
 fragt,VERB,VVFIN,fragen,fragen
@@ -844,9 +844,9 @@ soll,VERB,VMFIN,sollen,sollen
 re,INTJ,ITJ,re,re
 stoeps,PROPN,NE,stoeps,stoep
 .,PUNCT,$.,.,.
-heyho,INTJ,ITJ,heyho,hello
+heyho,INTJ,ITJ,heyho,heyho
 Asja,PROPN,NE,Asja,Asja
-hello,INTJ,ITJ,hello,hello
+hello,INTJ,ITJ,hello,heyho
 Asja,PROPN,NE,Asja,Asja
 ich,PRON,PPER,ich,ich
 wollte,VERB,VMFIN,wollen,wollen
