@@ -54,7 +54,7 @@ The study has been conducted on a Debian GNU/Linux 10 machine with 72 CPUs and 1
 		* [formats.json](./nbs/gpt3_outputs/formats.json) - overview of different output formats of gpt-3 experiments
     * [emissions](./nbs/emissions) - energy consumption of experiments
 	* [lemmata](./nbs/lemmata) - lemmatizer outputs for qualitative evaluation
-		* [all.csv](./nbs/lemmata/all.csv) - outputs of all lemmatizers on all corpora
+		* [all.csv](./nbs/lemmata/all_lemmata.csv) - outputs of all lemmatizers on all corpora
 	* [evaluation.ipynb](./nbs/evaluation.ipynb) - quantitative evaluation of results
 	* [evaluation-gpt3.ipynb](./nbs/evaluation-gpt3.ipynb) - evaluation of outputs of GPT-3 queries
 	* [evaluation-grauzonen.csv](./nbs/evaluation-grauzonen.csv) - extracts of [all.csv](./nbs/lemmata/all.csv) to analyze compund words, nominalized participles and adjective comparation
