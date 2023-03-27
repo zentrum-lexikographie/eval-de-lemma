@@ -32,6 +32,17 @@ bash run.sh
 
 The study has been conducted on a Debian GNU/Linux 10 machine with 72 CPUs and 188 GB RAM using Python3.7.3.
 
+(4.) To run the evaluation scripts in Jupyter Notebook, execute the following commands:
+
+```sh
+cd nbs
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+jupyter lab
+```
+
 ## Repository Structure
  * [algorithms](./algorithms) - seperate directory for each algorithm, each containing an install script (`install.sh`), overview of installed third party libraries (`requirements.txt`), and a run script (`run.py`)
 	* [baseline](./algorithms/baseline) - baseline algorithm, lemma = surface form
