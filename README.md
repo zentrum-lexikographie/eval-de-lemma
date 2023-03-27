@@ -18,7 +18,7 @@ for dir in algorithms/*; do
 done
 ```
 
-3. If you wish to track the CO2 emissions during the compute, execute [as described here](https://github.com/mlco2/codecarbon/issues/244):
+3. If you wish to track the CO2 emissions during the computation, execute [as described here](https://github.com/mlco2/codecarbon/issues/244):
 
 ```sh
 sudo chmod -R a+r /sys/class/powercap/intel-rapl
@@ -64,11 +64,11 @@ jupyter lab
 	* [gpt3_outputs](./nbs/gpt3_outputs) - outputs of OpenAI API queries 20.-22.02.2023 with [text-davinci-003](https://platform.openai.com/docs/models/gpt-3)
 		* [formats.json](./nbs/gpt3_outputs/formats.json) - overview of different output formats of gpt-3 experiments
     * [emissions](./nbs/emissions) - energy consumption of experiments
-	* [lemmata](./nbs/lemmata) - lemmatizer outputs for qualitative evaluation
-		* [all.csv](./nbs/lemmata/all_lemmata.csv) - outputs of all lemmatizers on all corpora
+	* [lemmata](./nbs/lemmata) - lemmatizer outputs for each corpus for qualitative evaluation
+		* [all_lemmata.csv](./nbs/lemmata/all_lemmata.csv) - outputs of all lemmatizers on all corpora
 	* [evaluation.ipynb](./nbs/evaluation.ipynb) - quantitative evaluation of results
 	* [evaluation-gpt3.ipynb](./nbs/evaluation-gpt3.ipynb) - evaluation of outputs of GPT-3 queries
-	* [evaluation-grauzonen.csv](./nbs/evaluation-grauzonen.csv) - extracts of [all.csv](./nbs/lemmata/all.csv) to analyze compund words, nominalized participles and adjective comparation
+	* [evaluation-grauzonen.csv](./nbs/evaluation-grauzonen.csv) - extracts of [all_lemmata.csv](./nbs/lemmata/all_lemmata.csv) to analyze compund words, nominalized participles and adjective comparation
 	* [evaluation-qualitative.ipynb](./nbs/evaluation-qualitative.ipynb) - preparing qualitative evaluation of results
 	* `results-*.json` - results of an algorithm, metrics calculated overall and by PoS tag
  * [src](./src) - source code scripts
