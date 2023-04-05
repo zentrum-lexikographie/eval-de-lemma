@@ -1,0 +1,21 @@
+{
+  "creators": [{
+    "name": "Lydia Körber",
+    "orcid": "0000-0002-8937-3799"
+  }],
+  "title": "Grauzonen der Lemmatisierung im Deutschen: Eine Evaluationsstudie aus (computer-)linguistischer Perspektive.",
+  "description": "Evaluation mehrerer aktueller Lemmatisierungsalgorithmen auf verschiedenen deutschsprachigen Datensätzen. Qualitative Analyse bestimmter sprachlicher Phänomene.",
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "keywords": [
+    "german", 
+    "lemmatization", 
+    "lemmatizer", 
+    "lemmatisation", 
+    "lemmatiser", 
+    "natural language processing",
+	  "nlp",
+	  "evaluation",
+	  "benchmark study"
+  ]
+}
