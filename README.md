@@ -1,5 +1,6 @@
 # eval-de-lemmatise
 An evaluation study of lemmatizers on different German language corpora.
+This branch contains the code for the Bachelor's thesis of Lydia Körber.
 
 ## Usage
 
@@ -17,7 +18,7 @@ for dir in algorithms/*; do
 done
 ```
 
-3. If you wish to track the CO2 emissions during the compute, execute [as described here](https://github.com/mlco2/codecarbon/issues/244):
+3. If you wish to track the CO2 emissions during the computation, execute [as described here](https://github.com/mlco2/codecarbon/issues/244):
 
 ```sh
 sudo chmod -R a+r /sys/class/powercap/intel-rapl
@@ -29,12 +30,23 @@ Then start the computations with the following command.
 bash run.sh
 ```
 
-The study has been conducted on TODO Ubuntu/linux version of LAL using Python3.7.3.
+The study has been conducted on a Debian GNU/Linux 10 machine with 72 CPUs and 188 GB RAM using Python3.7.3.
+
+(4.) To run the evaluation scripts in Jupyter Notebook, execute the following commands:
+
+```sh
+cd nbs
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+jupyter lab
+```
 
 ## Repository Structure
  * [algorithms](./algorithms) - seperate directory for each algorithm, each containing an install script (`install.sh`), overview of installed third party libraries (`requirements.txt`), and a run script (`run.py`)
 	* [baseline](./algorithms/baseline) - baseline algorithm, lemma = surface form
-	* [gpt3](./algorithms/gpt3): no need to run [run_api_queries.py](./algorithms/gpt3/run_api_queries.py) yourself, you can also just execute [run.py](./algorithms/gpt3/run.py) to evaluate the outputs of OpenAI queries from 20.-22.02.2023 (see [here](./nbs/gpt3_outputs))
+	* [gpt3](./algorithms/gpt3): no need to run [run_api_queries.py](./algorithms/gpt3/run_api_queries.py) yourself, you can also just execute [run.py](./algorithms/gpt3/run.py) to evaluate the outputs of OpenAI queries from 20.-22.02.2023 (outputs listed [here](./nbs/gpt3_outputs))
 		* [run_api_queries.py](./algorithms/gpt3/run_api_queries.py) - GPT-3 queries via the [OpenAI API](https://platform.openai.com/), to run this script, an OpenAI account and API key is needed, run `export OPEN_AI_KEY=INSERT_KEY_HERE` before executing the run script
 	* [germalemma](./algorithms/germalemma)
 	* [hanta](./algorithms/hanta)
@@ -52,9 +64,12 @@ The study has been conducted on TODO Ubuntu/linux version of LAL using Python3.7
 	* [gpt3_outputs](./nbs/gpt3_outputs) - outputs of OpenAI API queries 20.-22.02.2023 with [text-davinci-003](https://platform.openai.com/docs/models/gpt-3)
 		* [formats.json](./nbs/gpt3_outputs/formats.json) - overview of different output formats of gpt-3 experiments
     * [emissions](./nbs/emissions) - energy consumption of experiments
-	* [lemmata](./nbs/lemmata) - lemmatizer outputs for qualitative evaluation
+	* [lemmata](./nbs/lemmata) - lemmatizer outputs for each corpus for qualitative evaluation
+		* [all_lemmata.csv](./nbs/lemmata/all_lemmata.csv) - outputs of all lemmatizers on all corpora
 	* [evaluation.ipynb](./nbs/evaluation.ipynb) - quantitative evaluation of results
-	* [evaluation-qualitative.ipynb](./nbs/evaluation-qualitative.ipynb) - qualitative evaluation of results
+	* [evaluation-gpt3.ipynb](./nbs/evaluation-gpt3.ipynb) - evaluation of outputs of GPT-3 queries
+	* [evaluation-grauzonen.csv](./nbs/evaluation-grauzonen.csv) - extracts of [all_lemmata.csv](./nbs/lemmata/all_lemmata.csv) to analyze compund words, nominalized participles and adjective comparation
+	* [evaluation-qualitative.ipynb](./nbs/evaluation-qualitative.ipynb) - preparing qualitative evaluation of results
 	* `results-*.json` - results of an algorithm, metrics calculated overall and by PoS tag
  * [src](./src) - source code scripts
    * [loader.py](./src/loader.py) - load the datasets
@@ -66,6 +81,4 @@ The study has been conducted on TODO Ubuntu/linux version of LAL using Python3.7
  * [README.md](./README.md)
  * [run.sh](./run.sh) - run all algorithms
 
-## Datasets
-TODO table with name, size, register
 

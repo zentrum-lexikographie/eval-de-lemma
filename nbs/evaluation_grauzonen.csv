@@ -1,0 +1,16 @@
+,corpus,token,tag,tag_STTS,lemma,germalemma,hanta-pretagged,hanta,rnntagger,simplemma,smorlemma,spacy2,spacy3,spacy33+,stanza-pretagged,stanza,trankit,treetagger
+297950,ud-hdt,Plattenläden,NOUN,NN,Laden,Plattenladen,Plattenladen,Plattenladen,,Plattenladen,,Plattenläden,Plattenläden,Plattenladen,Plattenladen,Plattenladen,Plattenläden,Plattenladen
+1623,nosta-d-tuebadz-orig,Fraktionsvorsitzende,NOUN,NN,Fraktionsvorsitzende,Fraktionsvorsitzende,Fraktionsvorsitzender,Fraktionsvorsitzender,Fraktionsvorsitzender,Fraktionsvorsitzender,Fraktionsvorsitzende,Fraktionsvorsitzende,Fraktionsvorsitzende,Fraktionsvorsitzender,Fraktionsvorsitzende,Fraktionsvorsitzende,Fraktionsvorsitzende,Fraktionsvorsitzende
+755,ud-gsd,Rechtsstreitigkeiten,NOUN,NN,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeiten,Rechtsstreitigkeiten,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit,Rechtsstreitigkeit
+431,ud-gsd,Telefonanrufe,NOUN,NN,Telefonanruf,Telefonanruf,Telefonanruf,Telefonanruf,Telefonanruf,Telefonanruf,Telefonanruf,Telefonanrufe,Telefonanrufe,Telefonanruf,Telefonanrufe,Telefonanrufe,Telefonanrufe,Telefonanruf
+213259,ud-hdt,Telefonanrufe,NOUN,NN,Anruf,Telefonanruf,Telefonanruf,Telefonanruf,,Telefonanruf,,Telefonanrufe,Telefonanrufe,Telefonanruf,Telefonanrufe,Telefonanrufe,Telefonanrufe,Telefonanruf
+279,ud-gsd,Cardiogeräten,NOUN,NN,Cardiogeräten,Cardiogerät,Cardiogeräte,Cardiogeräte,Cardiogerat,Cardiogeräten,Cardiogeräten,Cardiogeräten,Cardiogeräten,Cardiogerät,Cardiogeräten,Cardiogeräten,Cardiogeräten,<unknown>
+6649,ud-pud,Studierenden,NOUN,NN,Studierende,Studierend,Studierender,Studierender,studierend,Studierender,Studierende,Studierende,Studierende,studierend,Studierende,Studierende,Studierenden,Studierende
+5142,ud-pud,Abgeordneten,NOUN,NNA,Abgeordnete,Abgeordneter,Abgeordnete,Abgeordneter,abgeordneter,Abgeordneter,Abgeordnete,Abgeordnete,Abgeordnete,Abgeordneter,Abgeordnete,Abgeordnete,Abgeordnete,Abgeordnete
+5118,ud-pud,Abgeordnete,NOUN,NNA,Abgeordnete,Abgeordneter,Abgeordnete,Abgeordneter,abgeordneter,Abgeordneter,Abgeordnete,Abgeordnete,Abgeordnete,abgeordneter,Abgeordnete,Abgeordnete,Abgeordnete,Abgeordnete
+254780,ud-hdt,besseren,ADJ,ADJA,gut,gut,gut,gut,,gut,gut,gut,gut,gut,gut,gut,gut,gut
+249566,ud-hdt,bessere,ADJ,ADJA,gut,gut,gut,gut,,bessern,gut,gut,gut,gut,gut,gut,gut,gut
+2900,nosta-d-kafka-norm,besser,ADJ,ADJD,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut
+6934,nosta-d-bematac-orig,besten,ADJ,ADJD,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut
+3313,empirist-web,beste,ADJ,ADJA,gut,gut,gut,gut,gut,gut,gut,gut,gut,gut,,,gut,gut
+18333,ud-pud,Beste,NOUN,NNA,gut,Gute,Beste,Gute,gute,gut,gut,Beste,Beste,gute,Beste,Beste,Beste,Beste
