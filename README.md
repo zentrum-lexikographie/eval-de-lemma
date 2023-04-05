@@ -1,6 +1,6 @@
 # eval-de-lemmatise
 An evaluation study of lemmatizers on different German language corpora.
-This branch contains the code for the Bachelor's thesis of Lydia Körber.
+Branch [ba-lk](https://github.com/zentrum-lexikographie/eval-de-lemma/tree/ba-lk) contains the code for the Bachelor's thesis of Lydia Körber.
 
 ## Usage
 
