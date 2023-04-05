@@ -43,6 +43,19 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
+## Data sets
+
+| Data set (paper) | Format | Era | Genre | Language area | Guidelines | Annotation | Pre-processing |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Empirist 2019](https://aclanthology.org/2020.lrec-1.754/) | tab-separated | 21st c | a) dialogue (CMC): chat (social, professional), tweets, WhatsApp chats, blog comments, Wikipedia threads; b) web articles (Web) | DE | [link](https://github.com/fau-klue/empirist-lemmatization/blob/master/doc/lemmatisierungsrichtlinien.pdf), based on [TIGER](https://www.ims.uni-stuttgart.de/documents/ressourcen/korpora/tiger-corpus/annotation/tiger_scheme-morph.pdf) | manual | Normalized and original tokens used as input. |
+| [GerManC-GS](https://aclanthology.org/W11-0415/) | XML | 1650 - 1800 (Early Modern German) | drama, humanities, legal texts, letters, narrative prose, newspapers, scientific texts, sermons | DE, AT, CH | [link](https://www.ids-mannheim.de/fileadmin/lexik/uwv/dateien/GerManC_Documentation.pdf) | manual | Normalized and original tokens used as input. Captions and stage directions ignored. |
+| [NoSta-D](https://linguistics.rub.de/~dipper/pub/nosdac13.pdf) | TCF, XML | 14th - 21st c | historical (anselm), chat (unicum), spoken (bematac), learner (falko), literary prose (kafka), newspaper (tueba-dz) | DE | | semi-automatic (TreeTagger) | Normalized and original tokens used as input. |
+| [RUB 2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/papers/KONVENS2019_paper_55.pdf), balanced | Conll-U | 20th - 21st c | Novelette, movie subtitles, sermon, TED talks, Wikipedia | DE | [TIGER](https://www.ims.uni-stuttgart.de/documents/ressourcen/korpora/tiger-corpus/annotation/tiger_scheme-morph.pdf) with some modifications | manual | UPOS tags are not available and need to be converted from XPOS tags (STTS). |
+| [TGermaCorp](https://aclanthology.org/L16-1677) | Conll-U | 16th - 21st c | literature, Wikipedia | DE | | semi-automatic (TreeTagger) | |
+| UD GSD, v2.10 (TIGER Korpus) | Conll-U | 21st c | daily newspaper (Frankfurter Rundschau) | DE | [link](https://www.ims.uni-stuttgart.de/documents/ressourcen/korpora/tiger-corpus/annotation/tiger_scheme-morph.pdf) | manual | |
+| UD HDT, v2.10 (Hamburg Treebank) | Conll-U | 20th c | IT magazine (Heise) | DE | [link](https://edoc.sub.uni-hamburg.de/informatik/volltexte/2014/204/) | manual |  |
+| UD PUD, v2.10 | Conll-U | 21st c | Wikipedia articles | DE | | manual |  |
+
 ## Repository Structure
  * [algorithms](./algorithms) - seperate directory for each algorithm, each containing an install script (`install.sh`), overview of installed third party libraries (`requirements.txt`), and a run script (`run.py`)
 	* [baseline](./algorithms/baseline) - baseline algorithm, lemma = surface form
