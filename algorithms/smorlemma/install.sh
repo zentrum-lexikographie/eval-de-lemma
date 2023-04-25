@@ -13,7 +13,7 @@ unzip -q zmorge-20150315.xml.zip
 rm zmorge-20150315.xml.zip
 
 # install venv
-python2.6 -m venv "${SRCDIR}/.venv"
+python2 -m venv "${SRCDIR}/.venv"
 source "${SRCDIR}/.venv/bin/activate"
 pip install --upgrade pip
 pip install -r "${SRCDIR}/requirements.txt"
@@ -26,4 +26,3 @@ cd SMORLemma
 git checkout lemmatiser
 cp ../zmorge-20150315.xml lexicon/wiki-lexicon.xml
 make
-
