@@ -148,3 +148,7 @@ algorithms/rnntagger/RNNTagger
 # GermanC outputs
 nbs/lemmata/germanc
 nbs/lemmata/germanc-norm
+
+# Backup files
+*~
+\#*
